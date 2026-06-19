@@ -1,14 +1,6 @@
-from crawlers.mock import fetch_jobs
+from crawlers.real_fetcher import fetch_greenhouse
 
-companies = ["Siemens", "Bosch", "DHL"]
+jobs = fetch_greenhouse("stripe")
 
-all_jobs = []
-
-for c in companies:
-    jobs = fetch_jobs(c)
-    all_jobs.extend(jobs)
-
-print("=== DAILY JOB REPORT ===")
-
-for job in all_jobs:
-    print(job["company"], "-", job["title"])
+for job in jobs[:5]:
+    print(job)
