@@ -1,0 +1,54 @@
+- name: McKinsey
+  country: USA
+  category: Consulting
+  priority: A
+
+- name: BCG
+  country: USA
+  category: Consulting
+  priority: A
+
+- name: Bain
+  country: USA
+  category: Consulting
+  priority: A
+
+- name: Novartis
+  country: Switzerland
+  category: Pharma
+  priority: A
+
+- name: Roche
+  country: Switzerland
+  category: Pharma
+  priority: A
+
+- name: Siemens
+  country: Germany
+  category: Industrial
+  priority: A
+
+- name: Bosch
+  country: Germany
+  category: Automotive
+  priority: A
+
+- name: Texas Instruments
+  country: USA
+  category: Tech
+  priority: A
+
+- name: P&G
+  country: USA
+  category: FMCG
+  priority: A
+
+- name: Unilever
+  country: UK
+  category: FMCG
+  priority: A
+
+- name: DHL
+  country: Germany
+  category: Logistics
+  priority: A
