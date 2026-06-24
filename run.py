@@ -12,7 +12,11 @@ def save_jobs(jobs):
 
 
 def main():
-    companies = ["stripe"]
+    companies = [
+    "stripe",
+    "datadog",
+    "cloudflare",
+]
 
     all_jobs = []
 
