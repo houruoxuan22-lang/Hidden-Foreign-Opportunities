@@ -7,7 +7,7 @@
 
 ## Jobs
 
-### stripe
+### Stripe
 
 - [Account Executive, Cross Border China](https://stripe.com/jobs/search?gh_jid=7893199)
   - Location: Singapore
@@ -501,7 +501,7 @@
   - Location: Remote US
   - Source: greenhouse
 
-### datadog
+### Datadog
 
 - [Associate Field Marketing Manager (West/Central)](https://careers.datadoghq.com/detail/7954584/?gh_jid=7954584)
   - Location: San Francisco, California, USA
@@ -763,7 +763,7 @@
   - Location: South Africa, Remote
   - Source: greenhouse
 
-### cloudflare
+### Cloudflare
 
 - [Business Analyst Intern, Marketing (July to December 2026)](https://boards.greenhouse.io/cloudflare/jobs/7729700?gh_jid=7729700)
   - Location: In-Office

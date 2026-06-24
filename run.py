@@ -1,9 +1,19 @@
 import json
+import yaml
+
 from crawlers.real_fetcher import fetch_greenhouse, filter_relevant_jobs
 from scripts.generate_report import generate_markdown_report, save_report
 
 
+COMPANIES_FILE = "companies/companies.yaml"
 JOBS_FILE = "data/jobs.json"
+
+
+def load_companies():
+    with open(COMPANIES_FILE, "r", encoding="utf-8") as f:
+        companies = yaml.safe_load(f)
+
+    return companies or []
 
 
 def save_jobs(jobs):
@@ -12,19 +22,30 @@ def save_jobs(jobs):
 
 
 def main():
-    companies = [
-    "stripe",
-    "datadog",
-    "cloudflare",
-]
+    companies = load_companies()
 
     all_jobs = []
 
     for company in companies:
-        print(f"Fetching jobs from {company}...")
-        jobs = fetch_greenhouse(company)
+        name = company.get("name")
+        slug = company.get("slug")
+        ats = company.get("ats")
+
+        if ats != "greenhouse" or not slug:
+            print(f"Skipping {name}: unsupported or missing ATS config")
+            continue
+
+        print(f"Fetching jobs from {name} ({slug})...")
+
+        jobs = fetch_greenhouse(slug)
         relevant_jobs = filter_relevant_jobs(jobs)
+
+        for job in relevant_jobs:
+            job["company"] = name
+
         all_jobs.extend(relevant_jobs)
+
+        print(f"{name}: {len(relevant_jobs)} relevant jobs")
 
     save_jobs(all_jobs)
 

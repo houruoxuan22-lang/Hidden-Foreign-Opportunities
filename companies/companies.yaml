@@ -1,3 +1,24 @@
+- name: Stripe
+  slug: stripe
+  country: USA
+  category: Tech
+  ats: greenhouse
+  priority: A
+
+- name: Datadog
+  slug: datadog
+  country: USA
+  category: Tech
+  ats: greenhouse
+  priority: A
+
+- name: Cloudflare
+  slug: cloudflare
+  country: USA
+  category: Tech
+  ats: greenhouse
+  priority: A
+
 - name: McKinsey
   country: USA
   category: Consulting
