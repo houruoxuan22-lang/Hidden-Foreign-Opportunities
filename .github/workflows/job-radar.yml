@@ -1,0 +1,40 @@
+name: Daily Job Radar
+
+on:
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run-job-radar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          pip install requests pyyaml
+
+      - name: Run job radar
+        run: |
+          python3 run.py
+
+      - name: Commit updated reports
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add data/jobs.json reports/daily/latest.md
+
+          git commit -m "chore: update daily job report" || echo "No changes to commit"
+          git push
