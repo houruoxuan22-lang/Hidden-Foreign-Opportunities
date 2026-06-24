@@ -86,10 +86,10 @@ Example:
 - [x] Save results to JSON
 - [x] Generate Markdown daily report
 - [x] Load companies from YAML config
+- [x]  Add GitHub Actions for scheduled daily updates
 - [ ] Add more ATS sources such as Lever, Workday, and Ashby
 - [ ] Add skill extraction from job descriptions
 - [ ] Add weekly skill trend analysis
-- [ ] Add GitHub Actions for scheduled daily updates
 - [ ] Add job seeker profile matching
 
 ## Example report
