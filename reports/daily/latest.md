@@ -2,7 +2,7 @@
 
 ## Summary
 
-- Total relevant jobs: 211
+- Total relevant jobs: 212
 - Companies tracked in this report: 3
 
 ## Jobs
@@ -127,6 +127,10 @@
 
 - [Finance & Strategy Partner, Central Engineering](https://stripe.com/jobs/search?gh_jid=7979885)
   - Location: Remote US, SF, SEA, NYC, CHI
+  - Source: greenhouse
+
+- [Fraud Operations Associate SDC](https://stripe.com/jobs/search?gh_jid=7462358)
+  - Location: Bengaluru
   - Source: greenhouse
 
 - [Fraud Operations Associate SDC](https://stripe.com/jobs/search?gh_jid=7651078)
@@ -349,12 +353,12 @@
   - Location: US-Remote
   - Source: greenhouse
 
-- [Program Manager, Security Business Enablement](https://stripe.com/jobs/search?gh_jid=7917252)
-  - Location: US - Remote
-  - Source: greenhouse
-
 - [Program Manager, Security Business Enablement](https://stripe.com/jobs/search?gh_jid=7966641)
   - Location: US-REMOTE
+  - Source: greenhouse
+
+- [Program Manager, Security Business Enablement](https://stripe.com/jobs/search?gh_jid=7917252)
+  - Location: US - Remote
   - Source: greenhouse
 
 - [Program Manager, Solutions Architecture (GTM Transformation)](https://stripe.com/jobs/search?gh_jid=7470827)
@@ -523,7 +527,7 @@
   - Location: Singapore, Singapore
   - Source: greenhouse
 
-- [Customer Success Associate](https://careers.datadoghq.com/detail/6009779/?gh_jid=6009779)
+- [Customer Success Associate](https://careers.datadoghq.com/detail/5486716/?gh_jid=5486716)
   - Location: Tokyo, Japan
   - Source: greenhouse
 
@@ -531,7 +535,7 @@
   - Location: Seoul, South Korea
   - Source: greenhouse
 
-- [Customer Success Associate](https://careers.datadoghq.com/detail/5486716/?gh_jid=5486716)
+- [Customer Success Associate](https://careers.datadoghq.com/detail/6009779/?gh_jid=6009779)
   - Location: Tokyo, Japan
   - Source: greenhouse
 
@@ -567,10 +571,6 @@
   - Location: United Kingdom, Remote
   - Source: greenhouse
 
-- [Enterprise Sales Executive](https://careers.datadoghq.com/detail/7405822/?gh_jid=7405822)
-  - Location: Georgia, USA, Remote
-  - Source: greenhouse
-
 - [Enterprise Sales Executive](https://careers.datadoghq.com/detail/4828332/?gh_jid=4828332)
   - Location: Canada, Remote
   - Source: greenhouse
@@ -579,12 +579,16 @@
   - Location: North Carolina, USA, Remote
   - Source: greenhouse
 
-- [Enterprise Sales Executive](https://careers.datadoghq.com/detail/7465857/?gh_jid=7465857)
-  - Location: North Carolina, USA, Remote; Tennessee, USA, Remote
+- [Enterprise Sales Executive](https://careers.datadoghq.com/detail/7405822/?gh_jid=7405822)
+  - Location: Georgia, USA, Remote
   - Source: greenhouse
 
 - [Enterprise Sales Executive](https://careers.datadoghq.com/detail/7466155/?gh_jid=7466155)
   - Location: Florida, USA, Remote
+  - Source: greenhouse
+
+- [Enterprise Sales Executive](https://careers.datadoghq.com/detail/7465857/?gh_jid=7465857)
+  - Location: North Carolina, USA, Remote; Tennessee, USA, Remote
   - Source: greenhouse
 
 - [Enterprise Sales Executive (FED)](https://careers.datadoghq.com/detail/7421284/?gh_jid=7421284)
@@ -603,12 +607,12 @@
   - Location: Dublin, Ireland
   - Source: greenhouse
 
-- [Major Account Manager](https://careers.datadoghq.com/detail/7492312/?gh_jid=7492312)
-  - Location: Florida, USA, Remote; North Carolina, USA, Remote
-  - Source: greenhouse
-
 - [Major Account Manager](https://careers.datadoghq.com/detail/7630041/?gh_jid=7630041)
   - Location: California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote
+  - Source: greenhouse
+
+- [Major Account Manager](https://careers.datadoghq.com/detail/7492312/?gh_jid=7492312)
+  - Location: Florida, USA, Remote; North Carolina, USA, Remote
   - Source: greenhouse
 
 - [Manager II, Engineering - Site Reliability Engineering](https://careers.datadoghq.com/detail/7947006/?gh_jid=7947006)
@@ -683,12 +687,12 @@
   - Location: France, Remote
   - Source: greenhouse
 
-- [Senior Software Engineer - Linux/eBPF](https://careers.datadoghq.com/detail/7957461/?gh_jid=7957461)
-  - Location: Portugal, Remote
-  - Source: greenhouse
-
 - [Senior Software Engineer - Linux/eBPF](https://careers.datadoghq.com/detail/7957460/?gh_jid=7957460)
   - Location: Denmark, Remote; France, Remote; Germany, Remote; Ireland, Remote; Italy, Remote; Poland, Remote; Spain, Remote; Sweden, Remote; Switzerland, Remote; United Kingdom, Remote
+  - Source: greenhouse
+
+- [Senior Software Engineer - Linux/eBPF](https://careers.datadoghq.com/detail/7957461/?gh_jid=7957461)
+  - Location: Portugal, Remote
   - Source: greenhouse
 
 - [Senior Software Engineer - Linux Kernel/eBPF](https://careers.datadoghq.com/detail/7983548/?gh_jid=7983548)
@@ -703,12 +707,40 @@
   - Location: Paris, France
   - Source: greenhouse
 
+- [Staff Software Engineer - Security Agent](https://careers.datadoghq.com/detail/8007598/?gh_jid=8007598)
+  - Location: France, Remote; Germany, Remote; Ireland, Remote; Italy, Remote; Spain, Remote
+  - Source: greenhouse
+
 - [Staff Software Engineer - Security Agent](https://careers.datadoghq.com/detail/8007606/?gh_jid=8007606)
   - Location: Portugal, Remote
   - Source: greenhouse
 
-- [Staff Software Engineer - Security Agent](https://careers.datadoghq.com/detail/8007598/?gh_jid=8007598)
-  - Location: France, Remote; Germany, Remote; Ireland, Remote; Italy, Remote; Spain, Remote
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/6522865/?gh_jid=6522865)
+  - Location: Canada, Remote
+  - Source: greenhouse
+
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/7131404/?gh_jid=7131404)
+  - Location: Chile, Remote
+  - Source: greenhouse
+
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/7134079/?gh_jid=7134079)
+  - Location: Texas, USA, Remote
+  - Source: greenhouse
+
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/6522736/?gh_jid=6522736)
+  - Location: Michigan, USA, Remote; Ohio, USA, Remote; Pennsylvania, USA, Remote
+  - Source: greenhouse
+
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/6242929/?gh_jid=6242929)
+  - Location: Florida, USA, Remote
+  - Source: greenhouse
+
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/7057036/?gh_jid=7057036)
+  - Location: District of Columbia, USA, Remote; Maryland, USA, Remote; Virginia, USA, Remote
+  - Source: greenhouse
+
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/6522720/?gh_jid=6522720)
+  - Location: Georgia, USA, Remote; Tennessee, USA, Remote
   - Source: greenhouse
 
 - [Strategic Account Executive](https://careers.datadoghq.com/detail/7131363/?gh_jid=7131363)
@@ -717,34 +749,6 @@
 
 - [Strategic Account Executive](https://careers.datadoghq.com/detail/7155024/?gh_jid=7155024)
   - Location: California, USA, Remote
-  - Source: greenhouse
-
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/7131404/?gh_jid=7131404)
-  - Location: Chile, Remote
-  - Source: greenhouse
-
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/6242929/?gh_jid=6242929)
-  - Location: Florida, USA, Remote
-  - Source: greenhouse
-
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/7134079/?gh_jid=7134079)
-  - Location: Texas, USA, Remote
-  - Source: greenhouse
-
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/6522720/?gh_jid=6522720)
-  - Location: Georgia, USA, Remote; Tennessee, USA, Remote
-  - Source: greenhouse
-
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/7057036/?gh_jid=7057036)
-  - Location: District of Columbia, USA, Remote; Maryland, USA, Remote; Virginia, USA, Remote
-  - Source: greenhouse
-
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/6522865/?gh_jid=6522865)
-  - Location: Canada, Remote
-  - Source: greenhouse
-
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/6522736/?gh_jid=6522736)
-  - Location: Michigan, USA, Remote; Ohio, USA, Remote; Pennsylvania, USA, Remote
   - Source: greenhouse
 
 - [Strategic Account Executive (DACH)](https://careers.datadoghq.com/detail/5511968/?gh_jid=5511968)

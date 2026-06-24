@@ -690,18 +690,18 @@
   {
     "company": "Stripe",
     "title": "Program Manager, Security Business Enablement",
-    "location": "US - Remote",
-    "posted_date": "2026-06-19T12:11:02-04:00",
-    "source": "greenhouse",
-    "url": "https://stripe.com/jobs/search?gh_jid=7917252"
-  },
-  {
-    "company": "Stripe",
-    "title": "Program Manager, Security Business Enablement",
     "location": "US-REMOTE",
     "posted_date": "2026-06-19T12:11:02-04:00",
     "source": "greenhouse",
     "url": "https://stripe.com/jobs/search?gh_jid=7966641"
+  },
+  {
+    "company": "Stripe",
+    "title": "Program Manager, Security Business Enablement",
+    "location": "US - Remote",
+    "posted_date": "2026-06-19T12:11:02-04:00",
+    "source": "greenhouse",
+    "url": "https://stripe.com/jobs/search?gh_jid=7917252"
   },
   {
     "company": "Stripe",
@@ -1035,9 +1035,9 @@
     "company": "Datadog",
     "title": "Customer Success Associate",
     "location": "Tokyo, Japan",
-    "posted_date": "2026-06-23T01:10:52-04:00",
+    "posted_date": "2026-06-23T01:10:51-04:00",
     "source": "greenhouse",
-    "url": "https://careers.datadoghq.com/detail/6009779/?gh_jid=6009779"
+    "url": "https://careers.datadoghq.com/detail/5486716/?gh_jid=5486716"
   },
   {
     "company": "Datadog",
@@ -1051,9 +1051,9 @@
     "company": "Datadog",
     "title": "Customer Success Associate",
     "location": "Tokyo, Japan",
-    "posted_date": "2026-06-23T01:10:51-04:00",
+    "posted_date": "2026-06-23T01:10:52-04:00",
     "source": "greenhouse",
-    "url": "https://careers.datadoghq.com/detail/5486716/?gh_jid=5486716"
+    "url": "https://careers.datadoghq.com/detail/6009779/?gh_jid=6009779"
   },
   {
     "company": "Datadog",
@@ -1122,14 +1122,6 @@
   {
     "company": "Datadog",
     "title": "Enterprise Sales Executive",
-    "location": "Georgia, USA, Remote",
-    "posted_date": "2026-05-15T08:44:57-04:00",
-    "source": "greenhouse",
-    "url": "https://careers.datadoghq.com/detail/7405822/?gh_jid=7405822"
-  },
-  {
-    "company": "Datadog",
-    "title": "Enterprise Sales Executive",
     "location": "Canada, Remote",
     "posted_date": "2026-06-11T03:24:38-04:00",
     "source": "greenhouse",
@@ -1146,10 +1138,10 @@
   {
     "company": "Datadog",
     "title": "Enterprise Sales Executive",
-    "location": "North Carolina, USA, Remote; Tennessee, USA, Remote",
+    "location": "Georgia, USA, Remote",
     "posted_date": "2026-05-15T08:44:57-04:00",
     "source": "greenhouse",
-    "url": "https://careers.datadoghq.com/detail/7465857/?gh_jid=7465857"
+    "url": "https://careers.datadoghq.com/detail/7405822/?gh_jid=7405822"
   },
   {
     "company": "Datadog",
@@ -1158,6 +1150,14 @@
     "posted_date": "2026-05-15T08:44:57-04:00",
     "source": "greenhouse",
     "url": "https://careers.datadoghq.com/detail/7466155/?gh_jid=7466155"
+  },
+  {
+    "company": "Datadog",
+    "title": "Enterprise Sales Executive",
+    "location": "North Carolina, USA, Remote; Tennessee, USA, Remote",
+    "posted_date": "2026-05-15T08:44:57-04:00",
+    "source": "greenhouse",
+    "url": "https://careers.datadoghq.com/detail/7465857/?gh_jid=7465857"
   },
   {
     "company": "Datadog",
@@ -1194,18 +1194,18 @@
   {
     "company": "Datadog",
     "title": "Major Account Manager",
-    "location": "Florida, USA, Remote; North Carolina, USA, Remote",
-    "posted_date": "2026-05-15T08:44:57-04:00",
-    "source": "greenhouse",
-    "url": "https://careers.datadoghq.com/detail/7492312/?gh_jid=7492312"
-  },
-  {
-    "company": "Datadog",
-    "title": "Major Account Manager",
     "location": "California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote",
     "posted_date": "2026-05-19T14:37:57-04:00",
     "source": "greenhouse",
     "url": "https://careers.datadoghq.com/detail/7630041/?gh_jid=7630041"
+  },
+  {
+    "company": "Datadog",
+    "title": "Major Account Manager",
+    "location": "Florida, USA, Remote; North Carolina, USA, Remote",
+    "posted_date": "2026-05-15T08:44:57-04:00",
+    "source": "greenhouse",
+    "url": "https://careers.datadoghq.com/detail/7492312/?gh_jid=7492312"
   },
   {
     "company": "Datadog",
@@ -1267,7 +1267,7 @@
     "company": "Datadog",
     "title": "Security Sales Engineer",
     "location": "Florida, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote",
-    "posted_date": "2026-06-18T12:33:40-04:00",
+    "posted_date": "2026-06-24T11:28:10-04:00",
     "source": "greenhouse",
     "url": "https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877"
   },
@@ -1354,18 +1354,18 @@
   {
     "company": "Datadog",
     "title": "Senior Software Engineer - Linux/eBPF",
-    "location": "Portugal, Remote",
-    "posted_date": "2026-06-11T03:24:38-04:00",
-    "source": "greenhouse",
-    "url": "https://careers.datadoghq.com/detail/7957461/?gh_jid=7957461"
-  },
-  {
-    "company": "Datadog",
-    "title": "Senior Software Engineer - Linux/eBPF",
     "location": "Denmark, Remote; France, Remote; Germany, Remote; Ireland, Remote; Italy, Remote; Poland, Remote; Spain, Remote; Sweden, Remote; Switzerland, Remote; United Kingdom, Remote",
     "posted_date": "2026-06-11T03:24:38-04:00",
     "source": "greenhouse",
     "url": "https://careers.datadoghq.com/detail/7957460/?gh_jid=7957460"
+  },
+  {
+    "company": "Datadog",
+    "title": "Senior Software Engineer - Linux/eBPF",
+    "location": "Portugal, Remote",
+    "posted_date": "2026-06-11T03:24:38-04:00",
+    "source": "greenhouse",
+    "url": "https://careers.datadoghq.com/detail/7957461/?gh_jid=7957461"
   },
   {
     "company": "Datadog",
@@ -1394,6 +1394,14 @@
   {
     "company": "Datadog",
     "title": "Staff Software Engineer - Security Agent",
+    "location": "France, Remote; Germany, Remote; Ireland, Remote; Italy, Remote; Spain, Remote",
+    "posted_date": "2026-06-23T04:42:02-04:00",
+    "source": "greenhouse",
+    "url": "https://careers.datadoghq.com/detail/8007598/?gh_jid=8007598"
+  },
+  {
+    "company": "Datadog",
+    "title": "Staff Software Engineer - Security Agent",
     "location": "Portugal, Remote",
     "posted_date": "2026-06-23T04:42:52-04:00",
     "source": "greenhouse",
@@ -1401,11 +1409,59 @@
   },
   {
     "company": "Datadog",
-    "title": "Staff Software Engineer - Security Agent",
-    "location": "France, Remote; Germany, Remote; Ireland, Remote; Italy, Remote; Spain, Remote",
-    "posted_date": "2026-06-23T04:42:02-04:00",
+    "title": "Strategic Account Executive",
+    "location": "Canada, Remote",
+    "posted_date": "2026-06-11T03:24:38-04:00",
     "source": "greenhouse",
-    "url": "https://careers.datadoghq.com/detail/8007598/?gh_jid=8007598"
+    "url": "https://careers.datadoghq.com/detail/6522865/?gh_jid=6522865"
+  },
+  {
+    "company": "Datadog",
+    "title": "Strategic Account Executive",
+    "location": "Chile, Remote",
+    "posted_date": "2026-06-11T03:24:38-04:00",
+    "source": "greenhouse",
+    "url": "https://careers.datadoghq.com/detail/7131404/?gh_jid=7131404"
+  },
+  {
+    "company": "Datadog",
+    "title": "Strategic Account Executive",
+    "location": "Texas, USA, Remote",
+    "posted_date": "2026-05-15T08:44:57-04:00",
+    "source": "greenhouse",
+    "url": "https://careers.datadoghq.com/detail/7134079/?gh_jid=7134079"
+  },
+  {
+    "company": "Datadog",
+    "title": "Strategic Account Executive",
+    "location": "Michigan, USA, Remote; Ohio, USA, Remote; Pennsylvania, USA, Remote",
+    "posted_date": "2026-05-15T08:44:57-04:00",
+    "source": "greenhouse",
+    "url": "https://careers.datadoghq.com/detail/6522736/?gh_jid=6522736"
+  },
+  {
+    "company": "Datadog",
+    "title": "Strategic Account Executive",
+    "location": "Florida, USA, Remote",
+    "posted_date": "2026-05-15T08:44:57-04:00",
+    "source": "greenhouse",
+    "url": "https://careers.datadoghq.com/detail/6242929/?gh_jid=6242929"
+  },
+  {
+    "company": "Datadog",
+    "title": "Strategic Account Executive",
+    "location": "District of Columbia, USA, Remote; Maryland, USA, Remote; Virginia, USA, Remote",
+    "posted_date": "2026-05-15T08:44:57-04:00",
+    "source": "greenhouse",
+    "url": "https://careers.datadoghq.com/detail/7057036/?gh_jid=7057036"
+  },
+  {
+    "company": "Datadog",
+    "title": "Strategic Account Executive",
+    "location": "Georgia, USA, Remote; Tennessee, USA, Remote",
+    "posted_date": "2026-05-15T08:44:57-04:00",
+    "source": "greenhouse",
+    "url": "https://careers.datadoghq.com/detail/6522720/?gh_jid=6522720"
   },
   {
     "company": "Datadog",
@@ -1422,62 +1478,6 @@
     "posted_date": "2026-05-15T08:44:57-04:00",
     "source": "greenhouse",
     "url": "https://careers.datadoghq.com/detail/7155024/?gh_jid=7155024"
-  },
-  {
-    "company": "Datadog",
-    "title": "Strategic Account Executive",
-    "location": "Chile, Remote",
-    "posted_date": "2026-06-11T03:24:38-04:00",
-    "source": "greenhouse",
-    "url": "https://careers.datadoghq.com/detail/7131404/?gh_jid=7131404"
-  },
-  {
-    "company": "Datadog",
-    "title": "Strategic Account Executive",
-    "location": "Florida, USA, Remote",
-    "posted_date": "2026-05-15T08:44:57-04:00",
-    "source": "greenhouse",
-    "url": "https://careers.datadoghq.com/detail/6242929/?gh_jid=6242929"
-  },
-  {
-    "company": "Datadog",
-    "title": "Strategic Account Executive",
-    "location": "Texas, USA, Remote",
-    "posted_date": "2026-05-15T08:44:57-04:00",
-    "source": "greenhouse",
-    "url": "https://careers.datadoghq.com/detail/7134079/?gh_jid=7134079"
-  },
-  {
-    "company": "Datadog",
-    "title": "Strategic Account Executive",
-    "location": "Georgia, USA, Remote; Tennessee, USA, Remote",
-    "posted_date": "2026-05-15T08:44:57-04:00",
-    "source": "greenhouse",
-    "url": "https://careers.datadoghq.com/detail/6522720/?gh_jid=6522720"
-  },
-  {
-    "company": "Datadog",
-    "title": "Strategic Account Executive",
-    "location": "District of Columbia, USA, Remote; Maryland, USA, Remote; Virginia, USA, Remote",
-    "posted_date": "2026-05-15T08:44:57-04:00",
-    "source": "greenhouse",
-    "url": "https://careers.datadoghq.com/detail/7057036/?gh_jid=7057036"
-  },
-  {
-    "company": "Datadog",
-    "title": "Strategic Account Executive",
-    "location": "Canada, Remote",
-    "posted_date": "2026-06-11T03:24:38-04:00",
-    "source": "greenhouse",
-    "url": "https://careers.datadoghq.com/detail/6522865/?gh_jid=6522865"
-  },
-  {
-    "company": "Datadog",
-    "title": "Strategic Account Executive",
-    "location": "Michigan, USA, Remote; Ohio, USA, Remote; Pennsylvania, USA, Remote",
-    "posted_date": "2026-05-15T08:44:57-04:00",
-    "source": "greenhouse",
-    "url": "https://careers.datadoghq.com/detail/6522736/?gh_jid=6522736"
   },
   {
     "company": "Datadog",
