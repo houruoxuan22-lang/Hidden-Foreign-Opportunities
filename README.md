@@ -80,12 +80,12 @@ Example:
 | Ashby      | Planned   |
 
 ## Roadmap
-- [x] 已完成（带对勾方框）Create company whitelist
-- [x] 已完成（带对勾方框）Fetch real jobs from Greenhouse
-- [x] 已完成（带对勾方框）Filter relevant jobs
-- [x] 已完成（带对勾方框）Save results to JSON
-- [x] 已完成（带对勾方框）Generate Markdown daily report
-- [x] 已完成（带对勾方框）Load companies from YAML config
+- [x] Create company whitelist
+- [x] Fetch real jobs from Greenhouse
+- [x] Filter relevant jobs
+- [x] Save results to JSON
+- [x] Generate Markdown daily report
+- [x] Load companies from YAML config
 - [ ] 未完成（空白方框）Add more ATS sources such as Lever, Workday, and Ashby
 - [ ] 未完成（空白方框）Add skill extraction from job descriptions
 - [ ] 未完成（空白方框）Add weekly skill trend analysis
