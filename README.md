@@ -89,7 +89,8 @@ Example:
 - [x] Add GitHub Actions for scheduled daily updates
 - [x] Add Lever support
 - [ ] Add Workday and Ashby support
-- [ ] Add skill extraction from job descriptions
+- [x] Add basic skill extraction from job titles
+- [ ] Add AI-powered skill extraction from job descriptions
 - [ ] Add weekly skill trend analysis
 - [ ] Add job seeker profile matching
 

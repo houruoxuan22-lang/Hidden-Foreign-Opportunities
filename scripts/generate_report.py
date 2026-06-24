@@ -35,6 +35,22 @@ def generate_markdown_report(jobs):
     lines.append(f"- Total relevant jobs: {len(jobs)}")
     lines.append(f"- Companies tracked in this report: {len(grouped_jobs)}")
     lines.append("")
+    skill_counts = {}
+
+    for job in jobs:
+        for skill in job.get("skills", []):
+            skill_counts[skill] = skill_counts.get(skill, 0) + 1
+
+    lines.append("## Skill Signals")
+    lines.append("")
+
+    if skill_counts:
+        for skill, count in sorted(skill_counts.items(), key=lambda x: x[1], reverse=True):
+            lines.append(f"- {skill}: {count}")
+    else:
+        lines.append("- No skill signals detected.")
+
+    lines.append("")
     lines.append("## Jobs")
     lines.append("")
 

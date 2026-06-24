@@ -3,6 +3,7 @@ import yaml
 
 from crawlers.real_fetcher import fetch_greenhouse, fetch_lever, filter_relevant_jobs
 from scripts.generate_report import generate_markdown_report, save_report
+from scripts.skill_extractor import enrich_jobs_with_skills
 
 
 COMPANIES_FILE = "companies/companies.yaml"
@@ -53,6 +54,8 @@ def main():
         all_jobs.extend(relevant_jobs)
 
         print(f"{name}: {len(relevant_jobs)} relevant jobs")
+
+    all_jobs = enrich_jobs_with_skills(all_jobs)
 
     save_jobs(all_jobs)
 
