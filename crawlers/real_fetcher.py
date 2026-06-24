@@ -21,13 +21,14 @@ def fetch_greenhouse(company_slug):
 
     for job in data.get("jobs", []):
         jobs.append({
-            "company": company_slug,
-            "title": job.get("title", ""),
-            "location": job.get("location", {}).get("name", ""),
-            "posted_date": job.get("updated_at", ""),
-            "source": "greenhouse",
-            "url": job.get("absolute_url", "")
-        })
+    "company": company_slug,
+    "title": job.get("title", ""),
+    "location": job.get("location", {}).get("name", ""),
+    "posted_date": job.get("updated_at", ""),
+    "source": "greenhouse",
+    "url": job.get("absolute_url", ""),
+    "description": job.get("content", "")
+})
 
     return jobs
 
@@ -53,13 +54,14 @@ def fetch_lever(company_slug):
         categories = job.get("categories", {}) or {}
 
         jobs.append({
-            "company": company_slug,
-            "title": job.get("text", ""),
-            "location": categories.get("location", ""),
-            "posted_date": job.get("createdAt", ""),
-            "source": "lever",
-            "url": job.get("hostedUrl", "")
-        })
+    "company": company_slug,
+    "title": job.get("text", ""),
+    "location": categories.get("location", ""),
+    "posted_date": job.get("createdAt", ""),
+    "source": "lever",
+    "url": job.get("hostedUrl", ""),
+    "description": job.get("descriptionPlain", "") or job.get("description", "")
+})
 
     return jobs
 def filter_relevant_jobs(jobs):

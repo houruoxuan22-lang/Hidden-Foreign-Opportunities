@@ -90,7 +90,8 @@ Example:
 - [x] Add Lever support
 - [ ] Add Workday and Ashby support
 - [x] Add basic skill extraction from job titles
-- [ ] Add AI-powered skill extraction from job descriptions
+- [x] Add description-based skill extraction
+- [ ] Add AI-powered semantic skill extraction
 - [ ] Add weekly skill trend analysis
 - [ ] Add job seeker profile matching
 

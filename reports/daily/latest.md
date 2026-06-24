@@ -7,17 +7,27 @@
 
 ## Skill Signals
 
-- Sales: 50
-- Engineering: 39
-- Operations: 31
-- Product: 28
-- AI: 20
-- Data: 19
-- Marketing: 14
-- Consulting: 10
-- Finance: 9
-- Customer Success: 9
-- Cross-border: 7
+- Data: 211
+- Cross-border: 209
+- Product: 207
+- AI: 203
+- Marketing: 161
+- Finance: 139
+- Engineering: 132
+- Operations: 125
+- Communication: 123
+- Sales: 116
+- Consulting: 111
+- Excel: 91
+- SQL: 43
+- Project Management: 39
+- CRM: 30
+- Python: 30
+- LLM: 24
+- English: 22
+- Customer Success: 21
+- Tableau: 13
+- Power BI: 1
 
 ## Jobs
 
@@ -363,12 +373,12 @@
   - Location: US-Remote
   - Source: greenhouse
 
-- [Program Manager, Security Business Enablement](https://stripe.com/jobs/search?gh_jid=7917252)
-  - Location: US - Remote
-  - Source: greenhouse
-
 - [Program Manager, Security Business Enablement](https://stripe.com/jobs/search?gh_jid=7966641)
   - Location: US-REMOTE
+  - Source: greenhouse
+
+- [Program Manager, Security Business Enablement](https://stripe.com/jobs/search?gh_jid=7917252)
+  - Location: US - Remote
   - Source: greenhouse
 
 - [Program Manager, Solutions Architecture (GTM Transformation)](https://stripe.com/jobs/search?gh_jid=7470827)

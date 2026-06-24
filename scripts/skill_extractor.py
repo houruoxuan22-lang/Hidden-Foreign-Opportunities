@@ -2,8 +2,8 @@ SKILL_KEYWORDS = {
     "AI": ["ai", "artificial intelligence", "machine learning", "ml"],
     "LLM": ["llm", "large language model", "generative ai", "genai"],
     "Data": ["data", "analytics", "analyst", "dashboard", "bi"],
-    "SQL": ["sql"],
-    "Python": ["python"],
+    "SQL": ["sql", "mysql", "postgresql", "database"],
+    "Python": ["python", "pandas", "numpy"],
     "Sales": ["sales", "account executive", "business development"],
     "Marketing": ["marketing", "growth", "campaign", "brand"],
     "Product": ["product manager", "product", "platform"],
@@ -14,6 +14,12 @@ SKILL_KEYWORDS = {
     "English": ["english", "bilingual", "japanese", "mandarin"],
     "Customer Success": ["customer success", "customer support", "client success"],
     "Engineering": ["engineer", "backend", "frontend", "software"],
+    "Excel": ["excel", "spreadsheet", "vlookup", "pivot table"],
+    "Tableau": ["tableau"],
+    "Power BI": ["power bi", "powerbi"],
+    "CRM": ["crm", "salesforce", "hubspot"],
+    "Project Management": ["project management", "program management", "stakeholder management"],
+    "Communication": ["communication", "presentation", "written communication"],
 }
 
 
@@ -37,8 +43,9 @@ def enrich_jobs_with_skills(jobs):
         title = job.get("title", "")
         location = job.get("location", "")
         source = job.get("source", "")
+        description = job.get("description", "")
 
-        text = f"{title} {location} {source}"
+        text = f"{title} {location} {source} {description}"
 
         job["skills"] = extract_skills_from_text(text)
         enriched_jobs.append(job)
