@@ -530,14 +530,6 @@
   {
     "company": "Stripe",
     "title": "PhD Data Scientist, Intern",
-    "location": "San Francisco, New York City, Seattle, Chicago",
-    "posted_date": "2026-06-19T12:11:02-04:00",
-    "source": "greenhouse",
-    "url": "https://stripe.com/jobs/search?gh_jid=7874965"
-  },
-  {
-    "company": "Stripe",
-    "title": "PhD Data Scientist, Intern",
     "location": "Toronto, Ontario, Canada",
     "posted_date": "2026-06-19T12:11:02-04:00",
     "source": "greenhouse",
@@ -1122,6 +1114,14 @@
   {
     "company": "Datadog",
     "title": "Enterprise Sales Executive",
+    "location": "North Carolina, USA, Remote; Tennessee, USA, Remote",
+    "posted_date": "2026-05-15T08:44:57-04:00",
+    "source": "greenhouse",
+    "url": "https://careers.datadoghq.com/detail/7465857/?gh_jid=7465857"
+  },
+  {
+    "company": "Datadog",
+    "title": "Enterprise Sales Executive",
     "location": "Canada, Remote",
     "posted_date": "2026-06-11T03:24:38-04:00",
     "source": "greenhouse",
@@ -1150,14 +1150,6 @@
     "posted_date": "2026-05-15T08:44:57-04:00",
     "source": "greenhouse",
     "url": "https://careers.datadoghq.com/detail/7466155/?gh_jid=7466155"
-  },
-  {
-    "company": "Datadog",
-    "title": "Enterprise Sales Executive",
-    "location": "North Carolina, USA, Remote; Tennessee, USA, Remote",
-    "posted_date": "2026-05-15T08:44:57-04:00",
-    "source": "greenhouse",
-    "url": "https://careers.datadoghq.com/detail/7465857/?gh_jid=7465857"
   },
   {
     "company": "Datadog",
@@ -1410,6 +1402,54 @@
   {
     "company": "Datadog",
     "title": "Strategic Account Executive",
+    "location": "Michigan, USA, Remote; Ohio, USA, Remote; Pennsylvania, USA, Remote",
+    "posted_date": "2026-05-15T08:44:57-04:00",
+    "source": "greenhouse",
+    "url": "https://careers.datadoghq.com/detail/6522736/?gh_jid=6522736"
+  },
+  {
+    "company": "Datadog",
+    "title": "Strategic Account Executive",
+    "location": "Georgia, USA, Remote; Tennessee, USA, Remote",
+    "posted_date": "2026-05-15T08:44:57-04:00",
+    "source": "greenhouse",
+    "url": "https://careers.datadoghq.com/detail/6522720/?gh_jid=6522720"
+  },
+  {
+    "company": "Datadog",
+    "title": "Strategic Account Executive",
+    "location": "Florida, USA, Remote",
+    "posted_date": "2026-05-15T08:44:57-04:00",
+    "source": "greenhouse",
+    "url": "https://careers.datadoghq.com/detail/6242929/?gh_jid=6242929"
+  },
+  {
+    "company": "Datadog",
+    "title": "Strategic Account Executive",
+    "location": "District of Columbia, USA, Remote; Maryland, USA, Remote; Virginia, USA, Remote",
+    "posted_date": "2026-05-15T08:44:57-04:00",
+    "source": "greenhouse",
+    "url": "https://careers.datadoghq.com/detail/7057036/?gh_jid=7057036"
+  },
+  {
+    "company": "Datadog",
+    "title": "Strategic Account Executive",
+    "location": "North Carolina, USA, Remote; South Carolina, USA, Remote",
+    "posted_date": "2026-05-15T08:44:57-04:00",
+    "source": "greenhouse",
+    "url": "https://careers.datadoghq.com/detail/7131363/?gh_jid=7131363"
+  },
+  {
+    "company": "Datadog",
+    "title": "Strategic Account Executive",
+    "location": "California, USA, Remote",
+    "posted_date": "2026-05-15T08:44:57-04:00",
+    "source": "greenhouse",
+    "url": "https://careers.datadoghq.com/detail/7155024/?gh_jid=7155024"
+  },
+  {
+    "company": "Datadog",
+    "title": "Strategic Account Executive",
     "location": "Canada, Remote",
     "posted_date": "2026-06-11T03:24:38-04:00",
     "source": "greenhouse",
@@ -1433,54 +1473,6 @@
   },
   {
     "company": "Datadog",
-    "title": "Strategic Account Executive",
-    "location": "Michigan, USA, Remote; Ohio, USA, Remote; Pennsylvania, USA, Remote",
-    "posted_date": "2026-05-15T08:44:57-04:00",
-    "source": "greenhouse",
-    "url": "https://careers.datadoghq.com/detail/6522736/?gh_jid=6522736"
-  },
-  {
-    "company": "Datadog",
-    "title": "Strategic Account Executive",
-    "location": "Florida, USA, Remote",
-    "posted_date": "2026-05-15T08:44:57-04:00",
-    "source": "greenhouse",
-    "url": "https://careers.datadoghq.com/detail/6242929/?gh_jid=6242929"
-  },
-  {
-    "company": "Datadog",
-    "title": "Strategic Account Executive",
-    "location": "District of Columbia, USA, Remote; Maryland, USA, Remote; Virginia, USA, Remote",
-    "posted_date": "2026-05-15T08:44:57-04:00",
-    "source": "greenhouse",
-    "url": "https://careers.datadoghq.com/detail/7057036/?gh_jid=7057036"
-  },
-  {
-    "company": "Datadog",
-    "title": "Strategic Account Executive",
-    "location": "Georgia, USA, Remote; Tennessee, USA, Remote",
-    "posted_date": "2026-05-15T08:44:57-04:00",
-    "source": "greenhouse",
-    "url": "https://careers.datadoghq.com/detail/6522720/?gh_jid=6522720"
-  },
-  {
-    "company": "Datadog",
-    "title": "Strategic Account Executive",
-    "location": "North Carolina, USA, Remote; South Carolina, USA, Remote",
-    "posted_date": "2026-05-15T08:44:57-04:00",
-    "source": "greenhouse",
-    "url": "https://careers.datadoghq.com/detail/7131363/?gh_jid=7131363"
-  },
-  {
-    "company": "Datadog",
-    "title": "Strategic Account Executive",
-    "location": "California, USA, Remote",
-    "posted_date": "2026-05-15T08:44:57-04:00",
-    "source": "greenhouse",
-    "url": "https://careers.datadoghq.com/detail/7155024/?gh_jid=7155024"
-  },
-  {
-    "company": "Datadog",
     "title": "Strategic Account Executive (DACH)",
     "location": "Germany, Remote",
     "posted_date": "2026-06-11T03:24:38-04:00",
@@ -1498,18 +1490,18 @@
   {
     "company": "Datadog",
     "title": "Strategic Account Executive (SLED)",
-    "location": "Texas, USA, Remote",
-    "posted_date": "2026-05-19T10:26:52-04:00",
-    "source": "greenhouse",
-    "url": "https://careers.datadoghq.com/detail/7453034/?gh_jid=7453034"
-  },
-  {
-    "company": "Datadog",
-    "title": "Strategic Account Executive (SLED)",
     "location": "Kansas, USA, Remote; Missouri, USA, Remote; Washington, USA, Remote",
     "posted_date": "2026-05-15T08:44:57-04:00",
     "source": "greenhouse",
     "url": "https://careers.datadoghq.com/detail/6430945/?gh_jid=6430945"
+  },
+  {
+    "company": "Datadog",
+    "title": "Strategic Account Executive (SLED)",
+    "location": "Texas, USA, Remote",
+    "posted_date": "2026-05-19T10:26:52-04:00",
+    "source": "greenhouse",
+    "url": "https://careers.datadoghq.com/detail/7453034/?gh_jid=7453034"
   },
   {
     "company": "Datadog",

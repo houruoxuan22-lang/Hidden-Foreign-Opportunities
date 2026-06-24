@@ -75,7 +75,7 @@ Example:
 | ATS        | Status    |
 | ---------- | --------- |
 | Greenhouse | Supported |
-| Lever      | Planned   |
+| Lever      | Supported |
 | Workday    | Planned   |
 | Ashby      | Planned   |
 
@@ -86,8 +86,9 @@ Example:
 - [x] Save results to JSON
 - [x] Generate Markdown daily report
 - [x] Load companies from YAML config
-- [x]  Add GitHub Actions for scheduled daily updates
-- [ ] Add more ATS sources such as Lever, Workday, and Ashby
+- [x] Add GitHub Actions for scheduled daily updates
+- [x] Add Lever support
+- [ ] Add Workday and Ashby support
 - [ ] Add skill extraction from job descriptions
 - [ ] Add weekly skill trend analysis
 - [ ] Add job seeker profile matching

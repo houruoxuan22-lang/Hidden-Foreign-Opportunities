@@ -1,7 +1,7 @@
 import json
 import yaml
 
-from crawlers.real_fetcher import fetch_greenhouse, filter_relevant_jobs
+from crawlers.real_fetcher import fetch_greenhouse, fetch_lever, filter_relevant_jobs
 from scripts.generate_report import generate_markdown_report, save_report
 
 
@@ -31,13 +31,20 @@ def main():
         slug = company.get("slug")
         ats = company.get("ats")
 
-        if ats != "greenhouse" or not slug:
+        if not slug or not ats:
             print(f"Skipping {name}: unsupported or missing ATS config")
             continue
 
-        print(f"Fetching jobs from {name} ({slug})...")
+        print(f"Fetching jobs from {name} ({slug}) via {ats}...")
 
-        jobs = fetch_greenhouse(slug)
+        if ats == "greenhouse":
+            jobs = fetch_greenhouse(slug)
+        elif ats == "lever":
+            jobs = fetch_lever(slug)
+        else:
+            print(f"Skipping {name}: unsupported ATS type: {ats}")
+            continue
+
         relevant_jobs = filter_relevant_jobs(jobs)
 
         for job in relevant_jobs:

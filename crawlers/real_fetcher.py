@@ -31,7 +31,37 @@ def fetch_greenhouse(company_slug):
 
     return jobs
 
+def fetch_lever(company_slug):
+    url = f"https://api.lever.co/v0/postings/{company_slug}?mode=json"
 
+    res = requests.get(url, timeout=20)
+
+    if res.status_code != 200:
+        print(f"Failed to fetch {company_slug}: HTTP {res.status_code}")
+        return []
+
+    try:
+        data = res.json()
+    except Exception:
+        print(f"Failed to parse JSON for {company_slug}")
+        print(res.text[:300])
+        return []
+
+    jobs = []
+
+    for job in data:
+        categories = job.get("categories", {}) or {}
+
+        jobs.append({
+            "company": company_slug,
+            "title": job.get("text", ""),
+            "location": categories.get("location", ""),
+            "posted_date": job.get("createdAt", ""),
+            "source": "lever",
+            "url": job.get("hostedUrl", "")
+        })
+
+    return jobs
 def filter_relevant_jobs(jobs):
     keywords = [
         "china",

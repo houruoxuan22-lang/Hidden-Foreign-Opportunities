@@ -2,7 +2,7 @@
 
 ## Summary
 
-- Total relevant jobs: 212
+- Total relevant jobs: 211
 - Companies tracked in this report: 3
 
 ## Jobs
@@ -271,10 +271,6 @@
 
 - [People Solutions Program Manager](https://stripe.com/jobs/search?gh_jid=7594208)
   - Location: US-Remote; US-Chicago; US-Atlanta; CA-Toronto
-  - Source: greenhouse
-
-- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7874965)
-  - Location: San Francisco, New York City, Seattle, Chicago
   - Source: greenhouse
 
 - [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=7285974)
@@ -571,6 +567,10 @@
   - Location: United Kingdom, Remote
   - Source: greenhouse
 
+- [Enterprise Sales Executive](https://careers.datadoghq.com/detail/7465857/?gh_jid=7465857)
+  - Location: North Carolina, USA, Remote; Tennessee, USA, Remote
+  - Source: greenhouse
+
 - [Enterprise Sales Executive](https://careers.datadoghq.com/detail/4828332/?gh_jid=4828332)
   - Location: Canada, Remote
   - Source: greenhouse
@@ -585,10 +585,6 @@
 
 - [Enterprise Sales Executive](https://careers.datadoghq.com/detail/7466155/?gh_jid=7466155)
   - Location: Florida, USA, Remote
-  - Source: greenhouse
-
-- [Enterprise Sales Executive](https://careers.datadoghq.com/detail/7465857/?gh_jid=7465857)
-  - Location: North Carolina, USA, Remote; Tennessee, USA, Remote
   - Source: greenhouse
 
 - [Enterprise Sales Executive (FED)](https://careers.datadoghq.com/detail/7421284/?gh_jid=7421284)
@@ -715,6 +711,30 @@
   - Location: Portugal, Remote
   - Source: greenhouse
 
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/6522736/?gh_jid=6522736)
+  - Location: Michigan, USA, Remote; Ohio, USA, Remote; Pennsylvania, USA, Remote
+  - Source: greenhouse
+
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/6522720/?gh_jid=6522720)
+  - Location: Georgia, USA, Remote; Tennessee, USA, Remote
+  - Source: greenhouse
+
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/6242929/?gh_jid=6242929)
+  - Location: Florida, USA, Remote
+  - Source: greenhouse
+
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/7057036/?gh_jid=7057036)
+  - Location: District of Columbia, USA, Remote; Maryland, USA, Remote; Virginia, USA, Remote
+  - Source: greenhouse
+
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/7131363/?gh_jid=7131363)
+  - Location: North Carolina, USA, Remote; South Carolina, USA, Remote
+  - Source: greenhouse
+
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/7155024/?gh_jid=7155024)
+  - Location: California, USA, Remote
+  - Source: greenhouse
+
 - [Strategic Account Executive](https://careers.datadoghq.com/detail/6522865/?gh_jid=6522865)
   - Location: Canada, Remote
   - Source: greenhouse
@@ -727,30 +747,6 @@
   - Location: Texas, USA, Remote
   - Source: greenhouse
 
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/6522736/?gh_jid=6522736)
-  - Location: Michigan, USA, Remote; Ohio, USA, Remote; Pennsylvania, USA, Remote
-  - Source: greenhouse
-
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/6242929/?gh_jid=6242929)
-  - Location: Florida, USA, Remote
-  - Source: greenhouse
-
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/7057036/?gh_jid=7057036)
-  - Location: District of Columbia, USA, Remote; Maryland, USA, Remote; Virginia, USA, Remote
-  - Source: greenhouse
-
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/6522720/?gh_jid=6522720)
-  - Location: Georgia, USA, Remote; Tennessee, USA, Remote
-  - Source: greenhouse
-
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/7131363/?gh_jid=7131363)
-  - Location: North Carolina, USA, Remote; South Carolina, USA, Remote
-  - Source: greenhouse
-
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/7155024/?gh_jid=7155024)
-  - Location: California, USA, Remote
-  - Source: greenhouse
-
 - [Strategic Account Executive (DACH)](https://careers.datadoghq.com/detail/5511968/?gh_jid=5511968)
   - Location: Germany, Remote
   - Source: greenhouse
@@ -759,12 +755,12 @@
   - Location: District of Columbia, USA, Remote; Maryland, USA, Remote; Virginia, USA, Remote
   - Source: greenhouse
 
-- [Strategic Account Executive (SLED)](https://careers.datadoghq.com/detail/7453034/?gh_jid=7453034)
-  - Location: Texas, USA, Remote
-  - Source: greenhouse
-
 - [Strategic Account Executive (SLED)](https://careers.datadoghq.com/detail/6430945/?gh_jid=6430945)
   - Location: Kansas, USA, Remote; Missouri, USA, Remote; Washington, USA, Remote
+  - Source: greenhouse
+
+- [Strategic Account Executive (SLED)](https://careers.datadoghq.com/detail/7453034/?gh_jid=7453034)
+  - Location: Texas, USA, Remote
   - Source: greenhouse
 
 - [Strategic Account Executive (Switzerland)](https://careers.datadoghq.com/detail/5416261/?gh_jid=5416261)

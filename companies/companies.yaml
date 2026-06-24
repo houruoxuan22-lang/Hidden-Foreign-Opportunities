@@ -1,3 +1,10 @@
+- name: Netflix
+  slug: netflix
+  country: USA
+  category: Tech
+  ats: lever
+  priority: A
+
 - name: Stripe
   slug: stripe
   country: USA
