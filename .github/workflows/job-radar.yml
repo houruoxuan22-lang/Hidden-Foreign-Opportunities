@@ -23,7 +23,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests pyyaml
+          pip install -r requirements.txt
 
       - name: Run job radar
         run: |
