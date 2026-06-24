@@ -25,7 +25,39 @@ def fetch_greenhouse(company_slug):
             "title": job.get("title", ""),
             "location": job.get("location", {}).get("name", ""),
             "posted_date": job.get("updated_at", ""),
-            "source": "greenhouse"
+            "source": "greenhouse",
+            "url": job.get("absolute_url", "")
         })
 
     return jobs
+
+
+def filter_relevant_jobs(jobs):
+    keywords = [
+        "china",
+        "shanghai",
+        "hangzhou",
+        "nanjing",
+        "wuxi",
+        "beijing",
+        "shenzhen",
+        "guangzhou",
+        "hong kong",
+        "remote",
+        "intern",
+        "internship",
+        "graduate",
+        "entry level",
+        "associate",
+        "junior"
+    ]
+
+    filtered_jobs = []
+
+    for job in jobs:
+        text = f"{job['title']} {job['location']}".lower()
+
+        if any(keyword in text for keyword in keywords):
+            filtered_jobs.append(job)
+
+    return filtered_jobs
