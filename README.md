@@ -100,18 +100,6 @@ reports/daily/latest.md
 This project is for educational and research purposes. It only uses publicly available job posting data. Please respect each website's terms of service and robots.txt rules when extending the crawler.
 
 
----
-
-# Step 4：运行一次确认项目没坏
-
-终端输入：
-
-```bash
-python3 run.py
-```
-看到
-=== JOB RADAR RUN COMPLETE ===
-就说明清理后项目仍然正常。
 
 
 
