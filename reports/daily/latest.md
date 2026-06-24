@@ -17,12 +17,12 @@
 - Excel: 20
 - Engineering: 16
 - Product: 15
-- LLM: 13
 - Tableau: 13
 - Customer Success: 9
 - Marketing: 8
 - Cross-border: 6
 - Mandarin: 5
+- LLM: 5
 - Consulting: 2
 - Finance: 1
 - Data: 1
