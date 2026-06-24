@@ -1,25 +1,151 @@
 SKILL_KEYWORDS = {
-    "AI": ["ai", "artificial intelligence", "machine learning", "ml"],
-    "LLM": ["llm", "large language model", "generative ai", "genai"],
-    "Data": ["data", "analytics", "analyst", "dashboard", "bi"],
-    "SQL": ["sql", "mysql", "postgresql", "database"],
-    "Python": ["python", "pandas", "numpy"],
-    "Sales": ["sales", "account executive", "business development"],
-    "Marketing": ["marketing", "growth", "campaign", "brand"],
-    "Product": ["product manager", "product", "platform"],
-    "Operations": ["operations", "ops", "supply chain", "logistics"],
-    "Finance": ["finance", "financial", "accounting"],
-    "Consulting": ["consulting", "consultant", "strategy"],
-    "Cross-border": ["cross border", "cross-border", "global", "international"],
-    "English": ["english", "bilingual", "japanese", "mandarin"],
-    "Customer Success": ["customer success", "customer support", "client success"],
-    "Engineering": ["engineer", "backend", "frontend", "software"],
-    "Excel": ["excel", "spreadsheet", "vlookup", "pivot table"],
-    "Tableau": ["tableau"],
-    "Power BI": ["power bi", "powerbi"],
-    "CRM": ["crm", "salesforce", "hubspot"],
-    "Project Management": ["project management", "program management", "stakeholder management"],
-    "Communication": ["communication", "presentation", "written communication"],
+    "AI": [
+        "artificial intelligence",
+        "machine learning",
+        "generative ai",
+        "genai",
+        "ai product",
+        "ai sales",
+        "ai security"
+    ],
+    "LLM": [
+        "llm",
+        "large language model",
+        "large language models",
+        "prompt engineering",
+        "rag"
+    ],
+    "Data": [
+        "data analyst",
+        "data analytics",
+        "business intelligence",
+        "dashboard",
+        "reporting",
+        "data-driven",
+        "data analysis"
+    ],
+    "SQL": [
+        "sql",
+        "mysql",
+        "postgresql",
+        "database query"
+    ],
+    "Python": [
+        "python",
+        "pandas",
+        "numpy"
+    ],
+    "Excel": [
+        "excel",
+        "spreadsheet",
+        "vlookup",
+        "pivot table"
+    ],
+    "Tableau": [
+        "tableau"
+    ],
+    "Power BI": [
+        "power bi",
+        "powerbi"
+    ],
+    "CRM": [
+        "crm",
+        "salesforce crm",
+        "hubspot"
+    ],
+    "Sales": [
+        "account executive",
+        "sales development",
+        "business development",
+        "enterprise sales",
+        "sales strategy",
+        "sales operations"
+    ],
+    "Marketing": [
+        "growth marketing",
+        "performance marketing",
+        "campaign management",
+        "brand marketing",
+        "content marketing"
+    ],
+    "Product": [
+        "product manager",
+        "product management",
+        "product strategy",
+        "product operations",
+        "product marketing"
+    ],
+    "Operations": [
+        "operations associate",
+        "business operations",
+        "sales operations",
+        "supply chain",
+        "logistics",
+        "procurement"
+    ],
+    "Finance": [
+        "financial analyst",
+        "financial planning",
+        "accounting",
+        "fp&a",
+        "finance operations"
+    ],
+    "Consulting": [
+        "consultant",
+        "consulting",
+        "strategy consultant",
+        "management consulting"
+    ],
+    "Cross-border": [
+        "cross-border",
+        "cross border",
+        "international expansion",
+        "global markets",
+        "regional market",
+        "apac market"
+    ],
+    "English": [
+        "english",
+        "bilingual",
+        "business english"
+    ],
+    "Japanese": [
+        "japanese",
+        "japan market",
+        "japanese fluency"
+    ],
+    "Mandarin": [
+        "mandarin",
+        "chinese fluency",
+        "china market"
+    ],
+    "Customer Success": [
+        "customer success",
+        "client success",
+        "customer support",
+        "customer experience",
+        "account management"
+    ],
+    "Engineering": [
+        "software engineer",
+        "backend engineer",
+        "frontend engineer",
+        "full stack engineer",
+        "security engineer",
+        "infrastructure engineer"
+    ],
+    "Project Management": [
+        "project management",
+        "program management",
+        "stakeholder management",
+        "cross-functional coordination"
+    ],
+    "Communication": [
+        "written communication",
+        "verbal communication",
+        "presentation skills",
+        "executive communication"
+    ],
 }
 
 

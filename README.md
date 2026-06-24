@@ -91,6 +91,7 @@ Example:
 - [ ] Add Workday and Ashby support
 - [x] Add basic skill extraction from job titles
 - [x] Add description-based skill extraction
+- [x] Improve skill extraction precision
 - [ ] Add AI-powered semantic skill extraction
 - [ ] Add weekly skill trend analysis
 - [ ] Add job seeker profile matching
