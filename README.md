@@ -86,11 +86,11 @@ Example:
 - [x] Save results to JSON
 - [x] Generate Markdown daily report
 - [x] Load companies from YAML config
-- [ ] 未完成（空白方框）Add more ATS sources such as Lever, Workday, and Ashby
-- [ ] 未完成（空白方框）Add skill extraction from job descriptions
-- [ ] 未完成（空白方框）Add weekly skill trend analysis
-- [ ] 未完成（空白方框）Add GitHub Actions for scheduled daily updates
-- [ ] 未完成（空白方框）Add job seeker profile matching
+- [ ] Add more ATS sources such as Lever, Workday, and Ashby
+- [ ] Add skill extraction from job descriptions
+- [ ] Add weekly skill trend analysis
+- [ ] Add GitHub Actions for scheduled daily updates
+- [ ] Add job seeker profile matching
 
 ## Example report
 The generated daily report is available here:
