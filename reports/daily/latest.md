@@ -7,26 +7,27 @@
 
 ## Skill Signals
 
-- Data: 212
-- Cross-border: 210
-- Product: 208
-- AI: 203
-- Marketing: 161
-- Finance: 140
-- Engineering: 133
-- Operations: 125
-- Communication: 124
-- Sales: 117
-- Consulting: 112
+- LLM: 201
 - Excel: 91
-- SQL: 43
+- Data: 72
+- Sales: 65
+- Operations: 54
+- Product: 48
+- Communication: 48
 - Project Management: 39
-- CRM: 30
+- SQL: 38
+- Customer Success: 36
 - Python: 30
-- LLM: 24
-- English: 22
-- Customer Success: 21
+- Engineering: 25
+- CRM: 22
+- Consulting: 22
+- English: 19
+- AI: 15
 - Tableau: 13
+- Finance: 12
+- Cross-border: 11
+- Marketing: 9
+- Mandarin: 5
 - Power BI: 1
 
 ## Jobs
