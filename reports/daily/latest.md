@@ -2,22 +2,22 @@
 
 ## Summary
 
-- Total relevant jobs: 211
+- Total relevant jobs: 212
 - Companies tracked in this report: 3
 
 ## Skill Signals
 
-- Data: 211
-- Cross-border: 209
-- Product: 207
+- Data: 212
+- Cross-border: 210
+- Product: 208
 - AI: 203
 - Marketing: 161
-- Finance: 139
-- Engineering: 132
+- Finance: 140
+- Engineering: 133
 - Operations: 125
-- Communication: 123
-- Sales: 116
-- Consulting: 111
+- Communication: 124
+- Sales: 117
+- Consulting: 112
 - Excel: 91
 - SQL: 43
 - Project Management: 39
@@ -153,12 +153,12 @@
   - Location: Remote US, SF, SEA, NYC, CHI
   - Source: greenhouse
 
-- [Fraud Operations Associate SDC](https://stripe.com/jobs/search?gh_jid=7462358)
-  - Location: Bengaluru
-  - Source: greenhouse
-
 - [Fraud Operations Associate SDC](https://stripe.com/jobs/search?gh_jid=7651078)
   - Location: Mexico City
+  - Source: greenhouse
+
+- [Fraud Operations Associate SDC](https://stripe.com/jobs/search?gh_jid=7462358)
+  - Location: Bengaluru
   - Source: greenhouse
 
 - [Fraud Patterns Analyst](https://stripe.com/jobs/search?gh_jid=7913410)
@@ -273,6 +273,10 @@
   - Location: Remote (US)
   - Source: greenhouse
 
+- [Partner Development Manager, Global Networks](https://stripe.com/jobs/search?gh_jid=7697675)
+  - Location: US-Remote; US-Chicago; US-Atlanta; Canada-Toronto; Canada-Remote; US-NYC; US-San Francisco; US-Seattle
+  - Source: greenhouse
+
 - [Partner Development Manager, Strategic Partnerships](https://stripe.com/jobs/search?gh_jid=7973002)
   - Location: US-San Francisco; US-New York City; US-Seattle; US-Remote; US-Chicago; CA-Toronto; CA-Remote
   - Source: greenhouse
@@ -373,12 +377,12 @@
   - Location: US-Remote
   - Source: greenhouse
 
-- [Program Manager, Security Business Enablement](https://stripe.com/jobs/search?gh_jid=7966641)
-  - Location: US-REMOTE
-  - Source: greenhouse
-
 - [Program Manager, Security Business Enablement](https://stripe.com/jobs/search?gh_jid=7917252)
   - Location: US - Remote
+  - Source: greenhouse
+
+- [Program Manager, Security Business Enablement](https://stripe.com/jobs/search?gh_jid=7966641)
+  - Location: US-REMOTE
   - Source: greenhouse
 
 - [Program Manager, Solutions Architecture (GTM Transformation)](https://stripe.com/jobs/search?gh_jid=7470827)
