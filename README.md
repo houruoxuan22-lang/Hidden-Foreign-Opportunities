@@ -18,14 +18,6 @@ The current V1 system can:
 - Generate a readable daily Markdown report
 - Support multiple companies through a YAML configuration file
 
-- Support multiple companies through a YAML configuration file
-
-## Data notes
-
-Job availability is based on whether a posting is listed on the public career page at the time of report generation. This project cannot guarantee whether a role is still actively hiring, already filled, or in late-stage recruitment.
-
-Some roles may be located outside China. The current report may include China/APAC-relevant roles, global remote roles, and other international opportunities.
-
 ## Quick Preview
 
 View the latest generated job report:
@@ -113,6 +105,12 @@ Example:
 ## Example report
 The generated daily report is available here:
 reports/daily/latest.md
+
+## Data notes
+
+Job availability is based on whether a posting is listed on the public career page at the time of report generation. This project cannot guarantee whether a role is still actively hiring, already filled, or in late-stage recruitment.
+
+Some roles may be located outside China. The current report may include China/APAC-relevant roles, global remote roles, and other international opportunities.
 
 ## Disclaimer
 This project is for educational and research purposes. It only uses publicly available job posting data. Please respect each website's terms of service and robots.txt rules when extending the crawler.
