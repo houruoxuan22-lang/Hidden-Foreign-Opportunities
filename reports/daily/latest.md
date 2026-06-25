@@ -10,8 +10,8 @@
 - Communication: 48
 - Project Management: 39
 - Sales: 37
-- SQL: 37
-- Python: 29
+- SQL: 36
+- Python: 28
 - CRM: 22
 - Operations: 22
 - Excel: 19
