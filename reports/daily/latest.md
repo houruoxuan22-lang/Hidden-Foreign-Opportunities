@@ -1,4 +1,4 @@
-# Daily Foreign Job Radar - 2026-07-04
+# Daily Foreign Job Radar - 2026-07-05
 
 ## Summary
 
