@@ -1,14 +1,14 @@
-# Daily Foreign Job Radar - 2026-07-05
+# Daily Foreign Job Radar - 2026-07-06
 
 ## Summary
 
-- Total relevant jobs: 213
+- Total relevant jobs: 214
 - Companies tracked in this report: 3
 - China / APAC relevant jobs: 28
 - Global remote jobs: 138
 - Other international jobs: 22
 - US / Canada jobs: 12
-- Other relevant jobs: 13
+- Other relevant jobs: 14
 
 ## Skill Signals
 
@@ -23,8 +23,8 @@
 - Excel: 17
 - Product: 15
 - Tableau: 14
+- Customer Success: 10
 - Mandarin: 9
-- Customer Success: 9
 - Marketing: 8
 - Cross-border: 7
 - LLM: 4
@@ -793,20 +793,8 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Enterprise Sales Executive](https://careers.datadoghq.com/detail/4828332/?gh_jid=4828332)
-  - Location: Canada, Remote
-  - Updated: 2026-06-25
-  - Source: greenhouse
-  - Status: Listed on official career page at report generation
-
 - [Enterprise Sales Executive](https://careers.datadoghq.com/detail/7421331/?gh_jid=7421331)
   - Location: North Carolina, USA, Remote
-  - Updated: 2026-05-15
-  - Source: greenhouse
-  - Status: Listed on official career page at report generation
-
-- [Enterprise Sales Executive](https://careers.datadoghq.com/detail/7405822/?gh_jid=7405822)
-  - Location: Georgia, USA, Remote
   - Updated: 2026-05-15
   - Source: greenhouse
   - Status: Listed on official career page at report generation
@@ -817,9 +805,21 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
+- [Enterprise Sales Executive](https://careers.datadoghq.com/detail/7405822/?gh_jid=7405822)
+  - Location: Georgia, USA, Remote
+  - Updated: 2026-05-15
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
 - [Enterprise Sales Executive](https://careers.datadoghq.com/detail/7465857/?gh_jid=7465857)
   - Location: North Carolina, USA, Remote; Tennessee, USA, Remote
   - Updated: 2026-05-15
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
+- [Enterprise Sales Executive](https://careers.datadoghq.com/detail/4828332/?gh_jid=4828332)
+  - Location: Canada, Remote
+  - Updated: 2026-06-25
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
@@ -865,13 +865,13 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Principal Partner Manager - Channels (GSI)](https://careers.datadoghq.com/detail/7582679/?gh_jid=7582679)
+- [Principal Partner Manager - Channels (GSI)](https://careers.datadoghq.com/detail/7584250/?gh_jid=7584250)
   - Location: Boston, Massachusetts, USA; Denver, Colorado, USA; Florida, USA, Remote; Illinois, USA, Remote; New Jersey, USA, Remote; New York, New York, USA; San Francisco, California, USA; Texas, USA, Remote; Washington, USA, Remote
   - Updated: 2026-06-25
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Principal Partner Manager - Channels (GSI)](https://careers.datadoghq.com/detail/7584250/?gh_jid=7584250)
+- [Principal Partner Manager - Channels (GSI)](https://careers.datadoghq.com/detail/7582679/?gh_jid=7582679)
   - Location: Boston, Massachusetts, USA; Denver, Colorado, USA; Florida, USA, Remote; Illinois, USA, Remote; New Jersey, USA, Remote; New York, New York, USA; San Francisco, California, USA; Texas, USA, Remote; Washington, USA, Remote
   - Updated: 2026-06-25
   - Source: greenhouse
@@ -973,26 +973,20 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/6242929/?gh_jid=6242929)
-  - Location: Florida, USA, Remote
-  - Updated: 2026-05-15
-  - Source: greenhouse
-  - Status: Listed on official career page at report generation
-
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/7131404/?gh_jid=7131404)
-  - Location: Chile, Remote
-  - Updated: 2026-06-11
-  - Source: greenhouse
-  - Status: Listed on official career page at report generation
-
 - [Strategic Account Executive](https://careers.datadoghq.com/detail/6522720/?gh_jid=6522720)
   - Location: Georgia, USA, Remote; Tennessee, USA, Remote
   - Updated: 2026-05-15
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/7057036/?gh_jid=7057036)
-  - Location: District of Columbia, USA, Remote; Maryland, USA, Remote; Virginia, USA, Remote
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/7131363/?gh_jid=7131363)
+  - Location: North Carolina, USA, Remote; South Carolina, USA, Remote
+  - Updated: 2026-05-15
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/6242929/?gh_jid=6242929)
+  - Location: Florida, USA, Remote
   - Updated: 2026-05-15
   - Source: greenhouse
   - Status: Listed on official career page at report generation
@@ -1009,9 +1003,15 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/7131363/?gh_jid=7131363)
-  - Location: North Carolina, USA, Remote; South Carolina, USA, Remote
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/7057036/?gh_jid=7057036)
+  - Location: District of Columbia, USA, Remote; Maryland, USA, Remote; Virginia, USA, Remote
   - Updated: 2026-05-15
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/7131404/?gh_jid=7131404)
+  - Location: Chile, Remote
+  - Updated: 2026-06-11
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
@@ -1265,6 +1265,14 @@
 
 
 ### Other Relevant Jobs
+
+#### Datadog
+
+- [Customer Success Associate LATAM (Portuguese-speaking)](https://careers.datadoghq.com/detail/8043830/?gh_jid=8043830)
+  - Location: Sao Paulo, Brazil
+  - Updated: 2026-07-05
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
 
 #### Cloudflare
 
