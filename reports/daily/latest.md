@@ -1,4 +1,4 @@
-# Daily Foreign Job Radar - 2026-07-12
+# Daily Foreign Job Radar - 2026-07-13
 
 ## Summary
 
@@ -379,7 +379,7 @@
 
 - [Fraud Strategy Manager ](https://stripe.com/jobs/search?gh_jid=8039729)
   - Location: Remote 
-  - Updated: 2026-07-08
+  - Updated: 2026-07-12
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
@@ -455,14 +455,14 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Partner Development Manager, Financial Connections](https://stripe.com/jobs/search?gh_jid=8027573)
-  - Location: New York, San Francisco, Seattle, Chicago, US-Remote 
+- [Partner Development Manager, Financial Connections](https://stripe.com/jobs/search?gh_jid=8027577)
+  - Location: New York, San Francisco, Seattle, Chicago, US-Remote
   - Updated: 2026-07-06
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Partner Development Manager, Financial Connections](https://stripe.com/jobs/search?gh_jid=8027577)
-  - Location: New York, San Francisco, Seattle, Chicago, US-Remote
+- [Partner Development Manager, Financial Connections](https://stripe.com/jobs/search?gh_jid=8027573)
+  - Location: New York, San Francisco, Seattle, Chicago, US-Remote 
   - Updated: 2026-07-06
   - Source: greenhouse
   - Status: Listed on official career page at report generation
@@ -605,14 +605,14 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Program Manager, Security Business Enablement](https://stripe.com/jobs/search?gh_jid=7966641)
-  - Location: US-REMOTE
+- [Program Manager, Security Business Enablement](https://stripe.com/jobs/search?gh_jid=7917252)
+  - Location: US - Remote
   - Updated: 2026-06-26
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Program Manager, Security Business Enablement](https://stripe.com/jobs/search?gh_jid=7917252)
-  - Location: US - Remote
+- [Program Manager, Security Business Enablement](https://stripe.com/jobs/search?gh_jid=7966641)
+  - Location: US-REMOTE
   - Updated: 2026-06-26
   - Source: greenhouse
   - Status: Listed on official career page at report generation
