@@ -151,5 +151,5 @@ def save_weekly_report(markdown):
 
         f.write(markdown)
 
-        f.write(markdown)
+        
 
