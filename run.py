@@ -61,6 +61,10 @@ def main():
 
     report = generate_markdown_report(all_jobs)
     save_report(report)
+    save_daily_snapshot(all_jobs)
+
+    weekly_report = generate_weekly_trend_report()
+    save_weekly_report(weekly_report)
 
     save_daily_snapshot(all_jobs)
 

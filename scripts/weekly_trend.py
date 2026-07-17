@@ -148,4 +148,8 @@ def save_weekly_report(markdown):
     os.makedirs(os.path.dirname(WEEKLY_REPORT_FILE), exist_ok=True)
 
     with open(WEEKLY_REPORT_FILE, "w", encoding="utf-8") as f:
+
         f.write(markdown)
+
+        f.write(markdown)
+
