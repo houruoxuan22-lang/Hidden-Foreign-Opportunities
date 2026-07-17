@@ -100,7 +100,7 @@ Example:
 - [x] Add description-based skill extraction
 - [x] Improve skill extraction precision
 - [ ] Add AI-powered semantic skill extraction
-- [x] Add weekly skill trend analysis
+- [x] Add weekly skill trend analysis with saved daily snapshots
 - [ ] Add job seeker profile matching
 
 ## Example report
