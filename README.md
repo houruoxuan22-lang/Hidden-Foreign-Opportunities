@@ -20,9 +20,10 @@ The current V1 system can:
 
 ## Quick Preview
 
-View the latest generated job report:
+View the latest generated reports:
 
-reports/daily/latest.md
+- Daily report: `reports/daily/latest.md`
+- Weekly trend report: `reports/weekly/latest.md`
 
 ## Current workflow
 
