@@ -1,11 +1,11 @@
-# Daily Foreign Job Radar - 2026-07-24
+# Daily Foreign Job Radar - 2026-07-25
 
 ## Summary
 
-- Total relevant jobs: 224
+- Total relevant jobs: 225
 - Companies tracked in this report: 3
 - China / APAC relevant jobs: 31
-- Global remote jobs: 149
+- Global remote jobs: 150
 - Other international jobs: 19
 - US / Canada jobs: 12
 - Other relevant jobs: 13
@@ -16,12 +16,12 @@
 - Project Management: 46
 - SQL: 41
 - Python: 36
-- Sales: 30
+- Sales: 29
 - CRM: 26
-- Excel: 21
+- Excel: 20
 - Operations: 19
-- Engineering: 16
-- Product: 16
+- Product: 15
+- Engineering: 14
 - Tableau: 12
 - Marketing: 10
 - Customer Success: 10
@@ -142,8 +142,8 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Customer Success Associate](https://careers.datadoghq.com/detail/8012339/?gh_jid=8012339)
-  - Location: Seoul, South Korea
+- [Customer Success Associate](https://careers.datadoghq.com/detail/6009779/?gh_jid=6009779)
+  - Location: Tokyo, Japan
   - Updated: 2026-07-07
   - Source: greenhouse
   - Status: Listed on official career page at report generation
@@ -154,8 +154,8 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Customer Success Associate](https://careers.datadoghq.com/detail/6009779/?gh_jid=6009779)
-  - Location: Tokyo, Japan
+- [Customer Success Associate](https://careers.datadoghq.com/detail/8012339/?gh_jid=8012339)
+  - Location: Seoul, South Korea
   - Updated: 2026-07-07
   - Source: greenhouse
   - Status: Listed on official career page at report generation
@@ -239,12 +239,6 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Account Executive, Enterprise Platforms, Hunter](https://stripe.com/jobs/search?gh_jid=7961609)
-  - Location: New York, NY; San Francisco, CA; Seattle, WA; Los Angeles, CA; Denver, CO; Austin, TX; US-West Remote
-  - Updated: 2026-07-22
-  - Source: greenhouse
-  - Status: Listed on official career page at report generation
-
 - [Account Executive, Platforms (New Business) ](https://stripe.com/jobs/search?gh_jid=7298935)
   - Location: US-Remote 
   - Updated: 2026-07-22
@@ -266,6 +260,12 @@
 - [Analyst Relations Senior Manager](https://stripe.com/jobs/search?gh_jid=8012497)
   - Location: Remote in the US
   - Updated: 2026-07-22
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
+- [AutoFile Specialist, Tax](https://stripe.com/jobs/search?gh_jid=8076623)
+  - Location: US-Remote 
+  - Updated: 2026-07-24
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
@@ -383,6 +383,12 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
+- [Growth Marketing Manager, Lifecycle](https://stripe.com/jobs/search?gh_jid=8082149)
+  - Location: Remote, US
+  - Updated: 2026-07-24
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
 - [GTM Operations Process Architect](https://stripe.com/jobs/search?gh_jid=7993610)
   - Location: US Remote National
   - Updated: 2026-07-22
@@ -461,6 +467,12 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
+- [Partner Development Manager, Link — Payments Partnerships](https://stripe.com/jobs/search?gh_jid=8084277)
+  - Location: SF, NYC, Seattle, Chicago, US-Remote
+  - Updated: 2026-07-24
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
 - [Partner Development Manager, Strategic Partnerships](https://stripe.com/jobs/search?gh_jid=7973002)
   - Location: US-San Francisco; US-New York City; US-Seattle; US-Remote; US-Chicago; CA-Toronto; CA-Remote
   - Updated: 2026-07-22
@@ -499,12 +511,6 @@
 
 - [Privacy Operations Program Manager](https://stripe.com/jobs/search?gh_jid=8053517)
   - Location: US Remote
-  - Updated: 2026-07-22
-  - Source: greenhouse
-  - Status: Listed on official career page at report generation
-
-- [Product Counsel (Crypto/Bridge) ](https://stripe.com/jobs/search?gh_jid=8066956)
-  - Location: SF, NYC, US-Remote
   - Updated: 2026-07-22
   - Source: greenhouse
   - Status: Listed on official career page at report generation
@@ -557,12 +563,6 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Product Marketing Manager, Growth](https://stripe.com/jobs/search?gh_jid=7914005)
-  - Location: Remote in the US
-  - Updated: 2026-07-22
-  - Source: greenhouse
-  - Status: Listed on official career page at report generation
-
 - [Product Marketing Manager, Market Intelligence](https://stripe.com/jobs/search?gh_jid=8014761)
   - Location: SF, Seattle, NYC, Chicago, Toronto, Remote in the US
   - Updated: 2026-07-22
@@ -572,6 +572,12 @@
 - [Product Marketing Manager, Radar](https://stripe.com/jobs/search?gh_jid=7961101)
   - Location: SF, NYC, Seattle, Remote
   - Updated: 2026-07-22
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
+- [Program Manager, Alliances & Channels](https://stripe.com/jobs/search?gh_jid=7577223)
+  - Location: Chicago, ATL, US-Remote
+  - Updated: 2026-07-24
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
@@ -587,14 +593,14 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Program Manager, Security Business Enablement](https://stripe.com/jobs/search?gh_jid=7966641)
-  - Location: US-REMOTE
+- [Program Manager, Security Business Enablement](https://stripe.com/jobs/search?gh_jid=7917252)
+  - Location: US - Remote
   - Updated: 2026-07-22
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Program Manager, Security Business Enablement](https://stripe.com/jobs/search?gh_jid=7917252)
-  - Location: US - Remote
+- [Program Manager, Security Business Enablement](https://stripe.com/jobs/search?gh_jid=7966641)
+  - Location: US-REMOTE
   - Updated: 2026-07-22
   - Source: greenhouse
   - Status: Listed on official career page at report generation
@@ -686,6 +692,12 @@
 - [Solutions Architect, Enterprise (Pre-sales)](https://stripe.com/jobs/search?gh_jid=7827184)
   - Location: Chicago, IL or San Francisco, CA OR US Remote
   - Updated: 2026-07-22
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
+- [Solutions Architect, Metronome (Startups)](https://stripe.com/jobs/search?gh_jid=8072257)
+  - Location: SF, NYC, Chicago, US-Remote
+  - Updated: 2026-07-24
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
@@ -787,7 +799,7 @@
 
 - [Technical Program Manager, Risk](https://stripe.com/jobs/search?gh_jid=7685855)
   - Location: US Remote
-  - Updated: 2026-07-22
+  - Updated: 2026-07-24
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
@@ -847,8 +859,8 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Enterprise Sales Executive](https://careers.datadoghq.com/detail/7465857/?gh_jid=7465857)
-  - Location: North Carolina, USA, Remote; Tennessee, USA, Remote
+- [Enterprise Sales Executive](https://careers.datadoghq.com/detail/7421331/?gh_jid=7421331)
+  - Location: North Carolina, USA, Remote
   - Updated: 2026-05-15
   - Source: greenhouse
   - Status: Listed on official career page at report generation
@@ -865,8 +877,8 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Enterprise Sales Executive](https://careers.datadoghq.com/detail/7421331/?gh_jid=7421331)
-  - Location: North Carolina, USA, Remote
+- [Enterprise Sales Executive](https://careers.datadoghq.com/detail/7465857/?gh_jid=7465857)
+  - Location: North Carolina, USA, Remote; Tennessee, USA, Remote
   - Updated: 2026-05-15
   - Source: greenhouse
   - Status: Listed on official career page at report generation
@@ -967,6 +979,12 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
+- [Regional Manager, Sales Engineering - Security (NORAM)](https://careers.datadoghq.com/detail/8016279/?gh_jid=8016279)
+  - Location: Maryland, USA, Remote; Massachusetts, USA, Remote; New Jersey, USA, Remote; New York, New York, USA; Virginia, USA, Remote
+  - Updated: 2026-07-24
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
 - [Security Sales Engineer](https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877)
   - Location: Florida, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote
   - Updated: 2026-07-21
@@ -1027,27 +1045,9 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Senior Software Engineer - Linux/eBPF](https://careers.datadoghq.com/detail/7957460/?gh_jid=7957460)
-  - Location: Denmark, Remote; France, Remote; Germany, Remote; Ireland, Remote; Italy, Remote; Poland, Remote; Spain, Remote; Sweden, Remote; Switzerland, Remote; United Kingdom, Remote
-  - Updated: 2026-06-11
-  - Source: greenhouse
-  - Status: Listed on official career page at report generation
-
-- [Senior Software Engineer - Linux/eBPF](https://careers.datadoghq.com/detail/7957461/?gh_jid=7957461)
-  - Location: Portugal, Remote
-  - Updated: 2026-06-11
-  - Source: greenhouse
-  - Status: Listed on official career page at report generation
-
 - [Senior Software Engineer - REDAPL Graph Engine](https://careers.datadoghq.com/detail/7959966/?gh_jid=7959966)
   - Location: France, Remote; Germany, Remote; Italy, Remote; Spain, Remote; Switzerland, Remote; United Kingdom, Remote
   - Updated: 2026-07-14
-  - Source: greenhouse
-  - Status: Listed on official career page at report generation
-
-- [Staff Software Engineer - Security Agent](https://careers.datadoghq.com/detail/8007598/?gh_jid=8007598)
-  - Location: France, Remote; Germany, Remote; Ireland, Remote; Italy, Remote; Spain, Remote
-  - Updated: 2026-07-07
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
@@ -1057,8 +1057,14 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/7131363/?gh_jid=7131363)
-  - Location: North Carolina, USA, Remote; South Carolina, USA, Remote
+- [Staff Software Engineer - Security Agent](https://careers.datadoghq.com/detail/8007598/?gh_jid=8007598)
+  - Location: France, Remote; Germany, Remote; Ireland, Remote; Italy, Remote; Spain, Remote
+  - Updated: 2026-07-07
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/7057036/?gh_jid=7057036)
+  - Location: District of Columbia, USA, Remote; Maryland, USA, Remote; Virginia, USA, Remote
   - Updated: 2026-05-15
   - Source: greenhouse
   - Status: Listed on official career page at report generation
@@ -1069,8 +1075,8 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/7057036/?gh_jid=7057036)
-  - Location: District of Columbia, USA, Remote; Maryland, USA, Remote; Virginia, USA, Remote
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/7131363/?gh_jid=7131363)
+  - Location: North Carolina, USA, Remote; South Carolina, USA, Remote
   - Updated: 2026-05-15
   - Source: greenhouse
   - Status: Listed on official career page at report generation
@@ -1154,9 +1160,9 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Internal Audit Lead - Treasury, Finance & Operations](https://stripe.com/jobs/search?gh_jid=7678541)
+- [Internal Audit - Treasury](https://stripe.com/jobs/search?gh_jid=7678541)
   - Location: Dublin OR London
-  - Updated: 2026-07-22
+  - Updated: 2026-07-24
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
@@ -1414,7 +1420,7 @@
 
 - [Vice President, Internal Audit](https://boards.greenhouse.io/cloudflare/jobs/8080851?gh_jid=8080851)
   - Location: Hybrid
-  - Updated: 2026-07-23
+  - Updated: 2026-07-24
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
