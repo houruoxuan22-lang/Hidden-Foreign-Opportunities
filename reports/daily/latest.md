@@ -1,11 +1,11 @@
-# Daily Foreign Job Radar - 2026-07-25
+# Daily Foreign Job Radar - 2026-07-26
 
 ## Summary
 
-- Total relevant jobs: 225
+- Total relevant jobs: 226
 - Companies tracked in this report: 3
 - China / APAC relevant jobs: 31
-- Global remote jobs: 150
+- Global remote jobs: 151
 - Other international jobs: 19
 - US / Canada jobs: 12
 - Other relevant jobs: 13
@@ -13,11 +13,11 @@
 ## Skill Signals
 
 - Communication: 64
-- Project Management: 46
+- Project Management: 47
 - SQL: 41
 - Python: 36
 - Sales: 29
-- CRM: 26
+- CRM: 27
 - Excel: 20
 - Operations: 19
 - Product: 15
@@ -437,6 +437,12 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
+- [Investment Lead](https://stripe.com/jobs/search?gh_jid=8083464)
+  - Location: New York City, San Francisco, US-Remote
+  - Updated: 2026-07-25
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
 - [Operations Insights, Tax](https://stripe.com/jobs/search?gh_jid=7997542)
   - Location: US Remote
   - Updated: 2026-07-22
@@ -449,14 +455,14 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Partner Development Manager, Financial Connections](https://stripe.com/jobs/search?gh_jid=8027573)
-  - Location: New York, San Francisco, Seattle, Chicago, US-Remote 
+- [Partner Development Manager, Financial Connections](https://stripe.com/jobs/search?gh_jid=8027577)
+  - Location: New York, San Francisco, Seattle, Chicago, US-Remote
   - Updated: 2026-07-22
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Partner Development Manager, Financial Connections](https://stripe.com/jobs/search?gh_jid=8027577)
-  - Location: New York, San Francisco, Seattle, Chicago, US-Remote
+- [Partner Development Manager, Financial Connections](https://stripe.com/jobs/search?gh_jid=8027573)
+  - Location: New York, San Francisco, Seattle, Chicago, US-Remote 
   - Updated: 2026-07-22
   - Source: greenhouse
   - Status: Listed on official career page at report generation
@@ -593,14 +599,14 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Program Manager, Security Business Enablement](https://stripe.com/jobs/search?gh_jid=7917252)
-  - Location: US - Remote
+- [Program Manager, Security Business Enablement](https://stripe.com/jobs/search?gh_jid=7966641)
+  - Location: US-REMOTE
   - Updated: 2026-07-22
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Program Manager, Security Business Enablement](https://stripe.com/jobs/search?gh_jid=7966641)
-  - Location: US-REMOTE
+- [Program Manager, Security Business Enablement](https://stripe.com/jobs/search?gh_jid=7917252)
+  - Location: US - Remote
   - Updated: 2026-07-22
   - Source: greenhouse
   - Status: Listed on official career page at report generation
@@ -655,7 +661,7 @@
 
 - [Science Lead, Intercept ](https://stripe.com/jobs/search?gh_jid=8060152)
   - Location: New York City, San Francisco, US-Remote
-  - Updated: 2026-07-22
+  - Updated: 2026-07-25
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
