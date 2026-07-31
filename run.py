@@ -38,20 +38,20 @@ def main():
         source_label = company.get("source_label", source_type or ats or "unknown")
         audience = company.get("audience", "global_job_seekers")
 
-        if source_type == "static_job_board":
-            if not url:
-                print(f"Skipping {name}: missing static job board url")
-                continue
-
+        if source_type in ["static_job_board", "company_career_page"]:
             jobs = fetch_static_job_board(
                 name=name,
                 url=url,
                 default_location=default_location,
                 source_label=source_label,
+                output_source_type=(
+        "china_company_career"
+        if source_type == "company_career_page"
+        else "china_local_static"
+                ),
             )
 
-            # China-local sources are already targeted, so do not apply the old global ATS filter.
-            relevant_jobs = jobs
+            
 
         elif ats == "greenhouse":
             if not slug:
@@ -79,51 +79,20 @@ def main():
             job["company"] = name
             job["audience"] = audience
 
-            if source_type == "static_job_board":
-                job["source_type"] = "china_local_static"
+            if source_type in ["static_job_board", "company_career_page"]:
+                job["source_type"] = (
+                    "china_company_career"
+                    if source_type == "company_career_page"
+                    else "china_local_static"
+                )
                 job["source"] = source_label
                 job["location"] = job.get("location") or default_location
 
         all_jobs.extend(relevant_jobs)
 
-        print(f"{name}: {len(relevant_jobs)} relevant jobs")
-
-        if ats == "greenhouse":
-            jobs = fetch_greenhouse(slug)
-        elif ats == "lever":
-            jobs = fetch_lever(slug)
+        print(f"{name}: {len(relevant_jobs)} relevant jobs")        
         
-
-        if source_type == "static_job_board":
-                    if not url:
-                        print(f"Skipping {name}: missing static job board url")
-                        continue
-                    
-        elif ats == "greenhouse":
-                    if not slug:
-                        print(f"Skipping {name}: missing Greenhouse slug")
-                        continue 
-                    print(f"Fetching jobs from {name} ({slug}) via greenhouse...")
-                    jobs = fetch_greenhouse(slug)
-        elif ats == "lever":
-                     if not slug:
-                         print(f"Skipping {name}: missing Lever slug")
-                         continue
-                     print(f"Fetching jobs from {name} ({slug}) via lever...")
-                     jobs = fetch_lever(slug)
-        else:
-                    print(f"Skipping {name}: unsupported or missing source config")
-                    continue
-
-        relevant_jobs = filter_relevant_jobs(jobs)
-
-        for job in relevant_jobs:
-            job["company"] = name
-
-        all_jobs.extend(relevant_jobs)
-
-        
-
+ 
     all_jobs = enrich_jobs_with_skills(all_jobs)
 
     save_jobs(all_jobs)

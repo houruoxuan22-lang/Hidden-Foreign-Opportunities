@@ -112,3 +112,11 @@
   default_location: "China"
   source_label: "swisscham_china"
   audience: "china_based_job_seekers"
+
+- name: SAP China
+  slug: sap-china
+  source_type: company_career_page
+  url: "https://jobs.sap.com/go/China/8807101/"
+  default_location: "China"
+  source_label: "sap_careers"
+  audience: "china_based_job_seekers"  

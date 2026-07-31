@@ -22,7 +22,10 @@ def format_date(date_text):
 
 
 def categorize_job(job):
-    if job.get("audience") == "china_based_job_seekers" or job.get("source_type") == "china_local_static":
+    if (
+        job.get("audience") == "china_based_job_seekers"
+        or job.get("source_type") in ["china_local_static", "china_company_career"]
+    ):
         return "Mainland China Foreign Employer Jobs"
 
     location = job.get("location", "").lower()

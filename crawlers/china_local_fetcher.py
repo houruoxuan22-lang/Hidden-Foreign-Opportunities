@@ -147,7 +147,13 @@ def looks_like_job_link(title, url):
     return any(keyword in text for keyword in JOB_KEYWORDS)
 
 
-def fetch_static_job_board(name, url, default_location="China", source_label="static_job_board"):
+def fetch_static_job_board(
+    name,
+    url,
+    default_location="China",
+    source_label="static_job_board",
+    output_source_type="china_local_static",
+):
     print(f"Fetching China-local jobs from {name}...")
 
     headers = {
@@ -201,7 +207,7 @@ def fetch_static_job_board(name, url, default_location="China", source_label="st
             "location": location,
             "posted_date": date.today().isoformat(),
             "source": source_label,
-            "source_type": "china_local_static",
+            "source_type": output_source_type,
             "audience": "china_based_job_seekers",
             "url": job_url,
             "description": detail_text[:1000],
