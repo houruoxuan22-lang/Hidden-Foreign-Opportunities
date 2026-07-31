@@ -37,6 +37,7 @@ def main():
         default_location = company.get("default_location", "China")
         source_label = company.get("source_label", source_type or ats or "unknown")
         audience = company.get("audience", "global_job_seekers")
+        allowed_domains = company.get("allowed_domains", [])
 
         if source_type in ["static_job_board", "company_career_page"]:
             jobs = fetch_static_job_board(
@@ -44,12 +45,14 @@ def main():
                 url=url,
                 default_location=default_location,
                 source_label=source_label,
+                allowed_domains=allowed_domains,
                 output_source_type=(
-        "china_company_career"
-        if source_type == "company_career_page"
-        else "china_local_static"
+                    "china_company_career"
+                    if source_type == "company_career_page"
+                    else "china_local_static"
                 ),
             )
+            relevant_jobs = jobs
 
             
 

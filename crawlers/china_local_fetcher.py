@@ -2,8 +2,7 @@ import re
 import requests
 from bs4 import BeautifulSoup
 from datetime import date
-from urllib.parse import urljoin
-
+from urllib.parse import urljoin, urlparse
 
 JOB_KEYWORDS = [
     "manager",
@@ -153,6 +152,7 @@ def fetch_static_job_board(
     default_location="China",
     source_label="static_job_board",
     output_source_type="china_local_static",
+    allowed_domains=None,
 ):
     print(f"Fetching China-local jobs from {name}...")
 
@@ -178,6 +178,12 @@ def fetch_static_job_board(
     for link in soup.find_all("a", href=True):
         title = " ".join(link.get_text(" ", strip=True).split())
         job_url = urljoin(url, link.get("href", ""))
+        allowed_domains = allowed_domains or []
+
+        if allowed_domains:
+            job_domain = urlparse(job_url).netloc.lower()
+            if not any(domain in job_domain for domain in allowed_domains):
+                continue
 
         if "europeanchamber.com.cn" in job_url and "/job-vacancies/" not in job_url:
             continue

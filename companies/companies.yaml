@@ -119,4 +119,7 @@
   url: "https://jobs.sap.com/go/China/8807101/"
   default_location: "China"
   source_label: "sap_careers"
-  audience: "china_based_job_seekers"  
+  audience: "china_based_job_seekers"
+  allowed_domains:
+    - jobs.sap.com
+    - sap.com
