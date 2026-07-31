@@ -74,6 +74,9 @@ CITY_PATTERNS = [
     (r"\bxi'?an\b|西安", "Xi'an, China"),
     (r"\bhong kong\b|香港", "Hong Kong"),
     (r"\btaipei\b|\btaiwan\b|台湾|台北", "Taiwan"),
+    
+]
+REGION_PATTERNS = [
     (r"\bsouthwest china\b", "Southwest China"),
     (r"\bgreater china\b", "Greater China"),
 ]
@@ -84,11 +87,8 @@ def normalize_text(text):
 
 
 def extract_location(title, url, default_location="China", detail_text=""):
+    
     title_url_text = normalize_text(f"{title} {url}")
-
-    for pattern, location in CITY_PATTERNS:
-        if re.search(pattern, title_url_text):
-            return location
 
     detail_text = detail_text or ""
     lower_detail = detail_text.lower()
@@ -101,12 +101,22 @@ def extract_location(title, url, default_location="China", detail_text=""):
 
     focused_text = normalize_text(" ".join(focused_parts))
 
+    # 1. Prefer specific city names from the job detail page.
     for pattern, location in CITY_PATTERNS:
         if re.search(pattern, focused_text):
             return location
 
-    return default_location
+    # 2. Then check specific city names from title and URL.
+    for pattern, location in CITY_PATTERNS:
+        if re.search(pattern, title_url_text):
+            return location
 
+    # 3. Only use broader region labels if no specific city is found.
+    for pattern, location in REGION_PATTERNS:
+        if re.search(pattern, focused_text) or re.search(pattern, title_url_text):
+            return location
+
+    return default_location
 
 def fetch_detail_text(url, headers):
     try:

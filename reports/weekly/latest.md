@@ -4,7 +4,7 @@
 
 - Snapshot window: 2026-07-31 to 2026-07-31
 - Snapshot days available: 1
-- Latest total relevant jobs: 496
+- Latest total relevant jobs: 494
 - Change vs first available snapshot: 0
 
 ## Skill Trend Signals
@@ -27,7 +27,7 @@
 
 ## Job Distribution by Section
 
-- Global Remote Jobs: 310
+- Global Remote Jobs: 308
 - China / APAC Relevant Jobs: 64
 - Other International Jobs: 38
 - Mainland China Foreign Employer Jobs: 36
@@ -36,7 +36,7 @@
 
 ## Top Companies in Latest Snapshot
 
-- Stripe: 284
+- Stripe: 282
 - Datadog: 130
 - Cloudflare: 46
 - European Chamber China: 18
