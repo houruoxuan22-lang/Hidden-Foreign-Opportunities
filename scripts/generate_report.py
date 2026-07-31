@@ -2,9 +2,7 @@ import os
 from collections import defaultdict
 from datetime import date
 
-
 REPORT_FILE = "reports/daily/latest.md"
-
 
 def group_jobs_by_company(jobs):
     grouped = defaultdict(list)
@@ -24,6 +22,9 @@ def format_date(date_text):
 
 
 def categorize_job(job):
+    if job.get("audience") == "china_based_job_seekers" or job.get("source_type") == "china_local_static":
+        return "Mainland China Foreign Employer Jobs"
+
     location = job.get("location", "").lower()
     title = job.get("title", "").lower()
     text = f"{title} {location}"
@@ -70,9 +71,26 @@ def categorize_job(job):
         "worldwide",
     ]
 
+    other_international_keywords = [
+        "mexico",
+        "mexico city",
+        "london",
+        "uk",
+        "united kingdom",
+        "germany",
+        "berlin",
+        "france",
+        "paris",
+        "netherlands",
+        "amsterdam",
+        "ireland",
+        "dublin",
+    ]
+
     us_canada_keywords = [
         "us-remote",
         "u.s.",
+        "usa",
         "united states",
         "new york",
         "san francisco",
@@ -84,21 +102,6 @@ def categorize_job(job):
         "canada",
         "toronto",
         "vancouver",
-    ]
-
-    other_international_keywords = [
-        "mexico",
-        "mexico city",
-        "london",
-        "uk",
-        "germany",
-        "berlin",
-        "france",
-        "paris",
-        "netherlands",
-        "amsterdam",
-        "ireland",
-        "dublin",
     ]
 
     if any(keyword in text for keyword in china_apac_keywords):
@@ -121,6 +124,7 @@ def generate_markdown_report(jobs):
     grouped_jobs = group_jobs_by_company(jobs)
 
     sections = {
+        "Mainland China Foreign Employer Jobs": [],
         "China / APAC Relevant Jobs": [],
         "Global Remote Jobs": [],
         "Other International Jobs": [],

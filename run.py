@@ -1,5 +1,6 @@
 import json
 import yaml
+from crawlers.china_local_fetcher import fetch_static_job_board
 from scripts.weekly_trend import save_daily_snapshot, generate_weekly_trend_report, save_weekly_report
 from crawlers.real_fetcher import fetch_greenhouse, fetch_lever, filter_relevant_jobs
 from scripts.generate_report import generate_markdown_report, save_report
@@ -27,24 +28,92 @@ def main():
 
     all_jobs = []
 
-    for company in companies:
+    for company in companies:             
         name = company.get("name")
         slug = company.get("slug")
         ats = company.get("ats")
+        source_type = company.get("source_type")
+        url = company.get("url")
+        default_location = company.get("default_location", "China")
+        source_label = company.get("source_label", source_type or ats or "unknown")
+        audience = company.get("audience", "global_job_seekers")
 
-        if not slug or not ats:
-            print(f"Skipping {name}: unsupported or missing ATS config")
+        if source_type == "static_job_board":
+            if not url:
+                print(f"Skipping {name}: missing static job board url")
+                continue
+
+            jobs = fetch_static_job_board(
+                name=name,
+                url=url,
+                default_location=default_location,
+                source_label=source_label,
+            )
+
+            # China-local sources are already targeted, so do not apply the old global ATS filter.
+            relevant_jobs = jobs
+
+        elif ats == "greenhouse":
+            if not slug:
+                print(f"Skipping {name}: missing Greenhouse slug")
+                continue
+
+            print(f"Fetching jobs from {name} ({slug}) via greenhouse...")
+            jobs = fetch_greenhouse(slug)
+            relevant_jobs = filter_relevant_jobs(jobs)
+
+        elif ats == "lever":
+            if not slug:
+                print(f"Skipping jobs from {name} ({slug}) via lever...")
+                continue
+
+            print(f"Fetching jobs from {name} ({slug}) via lever...")
+            jobs = fetch_lever(slug)
+            relevant_jobs = filter_relevant_jobs(jobs)
+
+        else:
+            print(f"Skipping {name}: unsupported or missing source config")
             continue
 
-        print(f"Fetching jobs from {name} ({slug}) via {ats}...")
+        for job in relevant_jobs:
+            job["company"] = name
+            job["audience"] = audience
+
+            if source_type == "static_job_board":
+                job["source_type"] = "china_local_static"
+                job["source"] = source_label
+                job["location"] = job.get("location") or default_location
+
+        all_jobs.extend(relevant_jobs)
+
+        print(f"{name}: {len(relevant_jobs)} relevant jobs")
 
         if ats == "greenhouse":
             jobs = fetch_greenhouse(slug)
         elif ats == "lever":
             jobs = fetch_lever(slug)
+        
+
+        if source_type == "static_job_board":
+                    if not url:
+                        print(f"Skipping {name}: missing static job board url")
+                        continue
+                    
+        elif ats == "greenhouse":
+                    if not slug:
+                        print(f"Skipping {name}: missing Greenhouse slug")
+                        continue 
+                    print(f"Fetching jobs from {name} ({slug}) via greenhouse...")
+                    jobs = fetch_greenhouse(slug)
+        elif ats == "lever":
+                     if not slug:
+                         print(f"Skipping {name}: missing Lever slug")
+                         continue
+                     print(f"Fetching jobs from {name} ({slug}) via lever...")
+                     jobs = fetch_lever(slug)
         else:
-            print(f"Skipping {name}: unsupported ATS type: {ats}")
-            continue
+                    print(f"Skipping {name}: unsupported or missing source config")
+                    continue
 
         relevant_jobs = filter_relevant_jobs(jobs)
 
@@ -53,7 +122,7 @@ def main():
 
         all_jobs.extend(relevant_jobs)
 
-        print(f"{name}: {len(relevant_jobs)} relevant jobs")
+        
 
     all_jobs = enrich_jobs_with_skills(all_jobs)
 

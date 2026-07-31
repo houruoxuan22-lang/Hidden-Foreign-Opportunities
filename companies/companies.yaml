@@ -80,3 +80,35 @@
   country: Germany
   category: Logistics
   priority: A
+
+- name: European Chamber China
+  slug: european-chamber-china
+  source_type: static_job_board
+  url: "https://www.europeanchamber.com.cn/en/job-vacancies"
+  default_location: "China"
+  source_label: "european_chamber"
+  audience: "china_based_job_seekers"
+
+- name: AmCham China
+  slug: amcham-china
+  source_type: static_job_board
+  url: "https://www.amchamchina.org/jobs-board/"
+  default_location: "China"
+  source_label: "amcham_china"
+  audience: "china_based_job_seekers"
+
+- name: AmCham Shanghai
+  slug: amcham-shanghai
+  source_type: static_job_board
+  url: "https://35678yt54r.amcham-shanghai.org/en/job-board"
+  default_location: "Shanghai, China"
+  source_label: "amcham_shanghai"
+  audience: "china_based_job_seekers"
+
+- name: SwissCham China
+  slug: swisscham-china
+  source_type: static_job_board
+  url: "https://swisscham.com.cn/jobs"
+  default_location: "China"
+  source_label: "swisscham_china"
+  audience: "china_based_job_seekers"
