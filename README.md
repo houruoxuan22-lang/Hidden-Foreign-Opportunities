@@ -24,6 +24,11 @@ View the latest generated reports:
 
 - Daily report: `reports/daily/latest.md`
 - Weekly trend report: `reports/weekly/latest.md`
+- Searchable reports index: `reports/search/index.md`
+- Mainland China jobs: `reports/search/mainland-china.md`
+- Shanghai jobs: `reports/search/shanghai.md`
+- Beijing jobs: `reports/search/beijing.md`
+- Internship and early-career jobs: `reports/search/internships.md`
 
 ## Current workflow
 

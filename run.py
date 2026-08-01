@@ -5,7 +5,7 @@ from scripts.weekly_trend import save_daily_snapshot, generate_weekly_trend_repo
 from crawlers.real_fetcher import fetch_greenhouse, fetch_lever, filter_relevant_jobs
 from scripts.generate_report import generate_markdown_report, save_report
 from scripts.skill_extractor import enrich_jobs_with_skills
-
+from scripts.generate_search_reports import generate_search_reports
 
 COMPANIES_FILE = "companies/companies.yaml"
 JOBS_FILE = "data/jobs.json"
@@ -73,8 +73,8 @@ def main():
             print(f"Fetching jobs from {name} ({slug}) via lever...")
             jobs = fetch_lever(slug)
             relevant_jobs = filter_relevant_jobs(jobs)
-
-        else:
+ 
+        else: 
             print(f"Skipping {name}: unsupported or missing source config")
             continue
 
@@ -102,6 +102,7 @@ def main():
 
     report = generate_markdown_report(all_jobs)
     save_report(report)
+    generate_search_reports(all_jobs)
     save_daily_snapshot(all_jobs)
 
     weekly_report = generate_weekly_trend_report()
@@ -111,6 +112,7 @@ def main():
 
     weekly_report = generate_weekly_trend_report()
     save_weekly_report(weekly_report)
+
 
     print("=== JOB RADAR RUN COMPLETE ===")
     print(f"Total relevant jobs: {len(all_jobs)}")
@@ -118,6 +120,7 @@ def main():
     print("Generated report at reports/daily/latest.md")
     print("Saved daily snapshot to data/history/")
     print("Generated weekly trend report at reports/weekly/latest.md")
+    print("Generated searchable reports at reports/search/")
 
 
 if __name__ == "__main__":
