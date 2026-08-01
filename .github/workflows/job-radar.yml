@@ -34,7 +34,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add data/jobs.json reports/daily/latest.md
+          git add data/jobs.json reports/daily/latest.md reports/weekly/latest.md reports/search docs/index.html data/history
 
           git commit -m "chore: update daily job report" || echo "No changes to commit"
           git push
