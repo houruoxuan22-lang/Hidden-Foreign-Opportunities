@@ -2,7 +2,7 @@
 
 ## Summary
 
-- Total matching jobs: 36
+- Total matching jobs: 35
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -172,12 +172,6 @@ Jobs with Chicago-related location signals.
 - [Risk Strategist, Platform Risk Strategy](https://stripe.com/jobs/search?gh_jid=7811937)
   - Location: Chicago, US-Remote, Toronto 
   - Updated: 2026-07-29
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Sales Compensation Analytics & Systems Specialist](https://stripe.com/jobs/search?gh_jid=7739207)
-  - Location: CHI, SF, NYC, SEA, US Remote
-  - Updated: 2026-07-27
   - Source: greenhouse
   - Source type: Unknown source type
 

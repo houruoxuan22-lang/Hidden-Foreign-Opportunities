@@ -2,7 +2,7 @@
 
 ## Summary
 
-- Total matching jobs: 16
+- Total matching jobs: 9
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -11,39 +11,7 @@ Jobs with Beijing-related location signals.
 
 ## Jobs
 
-### Cloudflare
-
-- [Senior Territory Account Executive - North China ](https://boards.greenhouse.io/cloudflare/jobs/8012884?gh_jid=8012884)
-  - Location: Hybrid
-  - Updated: 2026-07-02
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Senior Territory Account Executive - South China ](https://boards.greenhouse.io/cloudflare/jobs/8012942?gh_jid=8012942)
-  - Location: Hybrid
-  - Updated: 2026-07-02
-  - Source: greenhouse
-  - Source type: Unknown source type
-
 ### European Chamber China
-
-- [Client Service Manager, China](https://www.europeanchamber.com.cn/en/job-vacancies/5194/Client_Service_Manager_China)
-  - Location: Shanghai, China
-  - Updated: 2026-08-01
-  - Source: european_chamber
-  - Source type: china_local_static
-
-- [Corporate Bank - RMS Sales, China - Associate/Vice President](https://www.europeanchamber.com.cn/en/job-vacancies/5379/Corporate_Bank_RMS_Sales_China_Associate_Vice_President_)
-  - Location: Shanghai, China
-  - Updated: 2026-08-01
-  - Source: european_chamber
-  - Source type: china_local_static
-
-- [General Manager in Southwest China Chapter](https://www.europeanchamber.com.cn/en/job-vacancies/5374/General_Manager_in_Southwest_China_Chapter)
-  - Location: Chengdu, China
-  - Updated: 2026-08-01
-  - Source: european_chamber
-  - Source type: china_local_static
 
 - [Government Affairs Assistant -Internship](https://www.europeanchamber.com.cn/en/job-vacancies/5381/Government_Affairs_Assistant_Internship)
   - Location: Beijing, China
@@ -59,18 +27,6 @@ Jobs with Beijing-related location signals.
 
 - [HR and Operations Internship](https://www.europeanchamber.com.cn/en/job-vacancies/3732/HR_and_Operations_Internship)
   - Location: Beijing, China
-  - Updated: 2026-08-01
-  - Source: european_chamber
-  - Source type: china_local_static
-
-- [IB - Fixed Income Trading, Credit Trader - Analyst/Associate](https://www.europeanchamber.com.cn/en/job-vacancies/5380/_IB_Fixed_Income_Trading_Credit_Trader_Analyst_Associate_)
-  - Location: Shanghai, China
-  - Updated: 2026-08-01
-  - Source: european_chamber
-  - Source type: china_local_static
-
-- [Marketing Assistant - Internship (2026 Sept/Oct - Dec; Based in SH)](https://www.europeanchamber.com.cn/en/job-vacancies/5348/Marketing_Assistant_Internship_2026_Sept_Oct_Dec_Based_in_SH_)
-  - Location: Shanghai, China
   - Updated: 2026-08-01
   - Source: european_chamber
   - Source type: china_local_static

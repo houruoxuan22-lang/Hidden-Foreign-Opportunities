@@ -1,5 +1,6 @@
 import json
 import os
+import re
 from collections import defaultdict
 from datetime import date
 
@@ -35,9 +36,42 @@ def job_text(job):
     return " ".join(safe_text(field) for field in fields).lower()
 
 
+def normalize_for_search(value):
+    text = safe_text(value).lower()
+    return re.sub(r"[^a-z0-9\u4e00-\u9fff+#.'-]+", " ", text)
+
+
+def contains_keyword(text, keyword):
+    keyword = keyword.lower().strip()
+
+    if not keyword:
+        return False
+
+    # Chinese keywords do not need word boundaries.
+    if any("\u4e00" <= char <= "\u9fff" for char in keyword):
+        return keyword in text
+
+    # Multi-word phrases should match as phrases.
+    if " " in keyword:
+        return keyword in text
+
+    # Short English tokens like "ai" and "bi" must be exact words.
+    return re.search(rf"(?<![a-z0-9]){re.escape(keyword)}(?![a-z0-9])", text) is not None
+
+
 def has_any(job, keywords):
-    text = job_text(job)
-    return any(keyword.lower() in text for keyword in keywords)
+    text = normalize_for_search(job_text(job))
+    return any(contains_keyword(text, keyword) for keyword in keywords)
+
+
+def title_has_any(job, keywords):
+    text = normalize_for_search(job.get("title", ""))
+    return any(contains_keyword(text, keyword) for keyword in keywords)
+
+
+def location_has_any(job, keywords):
+    text = normalize_for_search(job.get("location", ""))
+    return any(contains_keyword(text, keyword) for keyword in keywords)
 
 
 def format_date(value):
@@ -218,31 +252,31 @@ def generate_search_reports(jobs=None):
             "filename": "shanghai.md",
             "title": "Shanghai Jobs",
             "description": "Jobs with Shanghai-related location signals.",
-            "filter": lambda job: has_any(job, ["shanghai", "上海"]),
+            "filter": lambda job: location_has_any(job, ["shanghai", "上海"]),
         },
         {
             "filename": "beijing.md",
             "title": "Beijing Jobs",
             "description": "Jobs with Beijing-related location signals.",
-            "filter": lambda job: has_any(job, ["beijing", "北京"]),
+            "filter": lambda job: location_has_any(job, ["beijing", "北京"]),
         },
         {
             "filename": "shenzhen.md",
             "title": "Shenzhen Jobs",
             "description": "Jobs with Shenzhen-related location signals.",
-            "filter": lambda job: has_any(job, ["shenzhen", "深圳"]),
+            "filter": lambda job: location_has_any(job, ["shenzhen", "深圳"]),
         },
         {
             "filename": "chengdu.md",
             "title": "Chengdu Jobs",
             "description": "Jobs with Chengdu-related location signals.",
-            "filter": lambda job: has_any(job, ["chengdu", "成都"]),
+            "filter": lambda job: location_has_any(job, ["chengdu", "成都"]),
         },
         {
             "filename": "chicago.md",
             "title": "Chicago Jobs",
             "description": "Jobs with Chicago-related location signals.",
-            "filter": lambda job: has_any(job, ["chicago"]),
+            "filter": lambda job: location_has_any(job, ["chicago"]),
         },
         {
             "filename": "internships.md",
@@ -254,14 +288,13 @@ def generate_search_reports(jobs=None):
             "filename": "sales-business.md",
             "title": "Sales and Business Development Jobs",
             "description": "Jobs related to sales, account management, business development, partnerships, and client-facing growth roles.",
-            "filter": lambda job: has_any(
+            "filter": lambda job: title_has_any(
                 job,
                 [
                     "sales",
                     "account executive",
                     "account manager",
-                    "business development",
-                    "bd",
+                    "business development",                    
                     "partnership",
                     "customer success",
                     "client",
@@ -273,7 +306,7 @@ def generate_search_reports(jobs=None):
             "filename": "marketing.md",
             "title": "Marketing and Communications Jobs",
             "description": "Jobs related to marketing, communications, brand, content, events, PR, and growth.",
-            "filter": lambda job: has_any(
+            "filter": lambda job: title_has_any(
                 job,
                 [
                     "marketing",
@@ -293,7 +326,7 @@ def generate_search_reports(jobs=None):
             "filename": "ai-data.md",
             "title": "AI and Data Jobs",
             "description": "Jobs related to AI, data, analytics, machine learning, business intelligence, and technical data work.",
-            "filter": lambda job: has_any(
+            "filter": lambda job: title_has_any(
                 job,
                 [
                     "ai",
@@ -302,8 +335,7 @@ def generate_search_reports(jobs=None):
                     "data",
                     "analytics",
                     "analyst",
-                    "business intelligence",
-                    "bi",
+                    "business intelligence",            
                     "sql",
                     "python",
                     "llm",
