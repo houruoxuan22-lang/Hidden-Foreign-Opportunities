@@ -6,6 +6,8 @@ from crawlers.real_fetcher import fetch_greenhouse, fetch_lever, filter_relevant
 from scripts.generate_report import generate_markdown_report, save_report
 from scripts.skill_extractor import enrich_jobs_with_skills
 from scripts.generate_search_reports import generate_search_reports
+from scripts.generate_web_dashboard import generate_web_dashboard
+
 
 COMPANIES_FILE = "companies/companies.yaml"
 JOBS_FILE = "data/jobs.json"
@@ -103,6 +105,7 @@ def main():
     report = generate_markdown_report(all_jobs)
     save_report(report)
     generate_search_reports(all_jobs)
+    generate_web_dashboard(all_jobs)
     save_daily_snapshot(all_jobs)
 
     weekly_report = generate_weekly_trend_report()
@@ -121,6 +124,7 @@ def main():
     print("Saved daily snapshot to data/history/")
     print("Generated weekly trend report at reports/weekly/latest.md")
     print("Generated searchable reports at reports/search/")
+    print("Generated web dashboard at docs/index.html")
 
 
 if __name__ == "__main__":
