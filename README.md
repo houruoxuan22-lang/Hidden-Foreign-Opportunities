@@ -2,6 +2,14 @@
 
 A daily AI-powered job radar that discovers hidden career opportunities from global companies and transforms them into structured job intelligence for job seekers.
 
+## Live Dashboard
+
+Use the web dashboard here:
+
+https://houruoxuan22-lang.github.io/Hidden-Foreign-Opportunities/
+
+The dashboard supports keyword search, location filtering, company filtering, source filtering, and category filtering for foreign-company job opportunities.
+
 ## Why this project exists
 
 Many foreign companies do not publish all of their job openings on domestic job platforms. For students and early-career job seekers, especially those interested in global companies, this creates a serious information gap.
@@ -22,6 +30,7 @@ The current V1 system can:
 
 View the latest generated reports:
 
+- Web dashboard: https://houruoxuan22-lang.github.io/Hidden-Foreign-Opportunities/
 - Daily report: `reports/daily/latest.md`
 - Weekly trend report: `reports/weekly/latest.md`
 - Searchable reports index: `reports/search/index.md`
