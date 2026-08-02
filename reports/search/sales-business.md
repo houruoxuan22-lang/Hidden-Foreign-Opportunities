@@ -1,4 +1,4 @@
-# Sales and Business Development Jobs - 2026-08-01
+# Sales and Business Development Jobs - 2026-08-02
 
 ## Summary
 
@@ -277,13 +277,13 @@ Jobs related to sales, account management, business development, partnerships, a
 
 - [Client Service Manager, China](https://www.europeanchamber.com.cn/en/job-vacancies/5194/Client_Service_Manager_China)
   - Location: Shanghai, China
-  - Updated: 2026-08-01
+  - Updated: 2026-08-02
   - Source: european_chamber
   - Source type: china_local_static
 
 - [Corporate Bank - RMS Sales, China - Associate/Vice President](https://www.europeanchamber.com.cn/en/job-vacancies/5379/Corporate_Bank_RMS_Sales_China_Associate_Vice_President_)
   - Location: Shanghai, China
-  - Updated: 2026-08-01
+  - Updated: 2026-08-02
   - Source: european_chamber
   - Source type: china_local_static
 
@@ -291,37 +291,37 @@ Jobs related to sales, account management, business development, partnerships, a
 
 - [Account Executive - BJ](https://jobs.sap.com/job/Beijing-Account-Executive-BJ-100016/1399591333/)
   - Location: Beijing, China
-  - Updated: 2026-08-01
+  - Updated: 2026-08-02
   - Source: sap_careers
   - Source type: china_company_career
 
 - [Senior Account Executive](https://jobs.sap.com/job/Shenzhen-Senior-Account-Executive-518048/1404942333/)
   - Location: Shenzhen, China
-  - Updated: 2026-08-01
+  - Updated: 2026-08-02
   - Source: sap_careers
   - Source type: china_company_career
 
 - [Senior Account Executive - Auto](https://jobs.sap.com/job/Beijing-Senior-Account-Executive-Auto-100016/1394371033/)
   - Location: Beijing, China
-  - Updated: 2026-08-01
+  - Updated: 2026-08-02
   - Source: sap_careers
   - Source type: china_company_career
 
 - [Senior Account Executive - LS - SH](https://jobs.sap.com/job/Shanghai-Senior-Account-Executive-LS-SH-200040/1378768633/)
   - Location: Shanghai, China
-  - Updated: 2026-08-01
+  - Updated: 2026-08-02
   - Source: sap_careers
   - Source type: china_company_career
 
 - [Solution Sales Expert - F&S](https://jobs.sap.com/job/Shanghai-Solution-Sales-Expert-F&S-200040/1287055001/)
   - Location: Shanghai, China
-  - Updated: 2026-08-01
+  - Updated: 2026-08-02
   - Source: sap_careers
   - Source type: china_company_career
 
 - [Solution Sales Expert - F&S](https://jobs.sap.com/job/Beijing-Solution-Sales-Expert-F&S-100016/1287050901/)
   - Location: Beijing, China
-  - Updated: 2026-08-01
+  - Updated: 2026-08-02
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -385,12 +385,12 @@ Jobs related to sales, account management, business development, partnerships, a
 
 - [Business Development Executive/Manager 业务拓展主任/经理](https://swisscham.com.cn/jobs/business-development-executivemanager-yewutazhanzhurenjingli)
   - Location: Shanghai, China
-  - Updated: 2026-08-01
+  - Updated: 2026-08-02
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Business Development Manager](https://swisscham.com.cn/jobs/business-development-manager-0)
   - Location: China
-  - Updated: 2026-08-01
+  - Updated: 2026-08-02
   - Source: swisscham_china
   - Source type: china_local_static

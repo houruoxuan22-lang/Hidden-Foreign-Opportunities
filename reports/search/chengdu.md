@@ -1,4 +1,4 @@
-# Chengdu Jobs - 2026-08-01
+# Chengdu Jobs - 2026-08-02
 
 ## Summary
 
@@ -15,6 +15,6 @@ Jobs with Chengdu-related location signals.
 
 - [General Manager in Southwest China Chapter](https://www.europeanchamber.com.cn/en/job-vacancies/5374/General_Manager_in_Southwest_China_Chapter)
   - Location: Chengdu, China
-  - Updated: 2026-08-01
+  - Updated: 2026-08-02
   - Source: european_chamber
   - Source type: china_local_static

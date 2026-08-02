@@ -1,4 +1,4 @@
-# AI and Data Jobs - 2026-08-01
+# AI and Data Jobs - 2026-08-02
 
 ## Summary
 
@@ -31,7 +31,7 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [IB - Fixed Income Trading, Credit Trader - Analyst/Associate](https://www.europeanchamber.com.cn/en/job-vacancies/5380/_IB_Fixed_Income_Trading_Credit_Trader_Analyst_Associate_)
   - Location: Shanghai, China
-  - Updated: 2026-08-01
+  - Updated: 2026-08-02
   - Source: european_chamber
   - Source type: china_local_static
 
@@ -39,13 +39,13 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [Data Engineer](https://jobs.sap.com/job/Shanghai-Data-Engineer-201203/1406689133/)
   - Location: Shanghai, China
-  - Updated: 2026-08-01
+  - Updated: 2026-08-02
   - Source: sap_careers
   - Source type: china_company_career
 
 - [SAP China iXp Intern - Data Management Intern for GTLC Team - Shanghai](https://jobs.sap.com/job/Shanghai-SAP-China-iXp-Intern-Data-Management-Intern-for-GTLC-Team-Shanghai-201203/1409649533/)
   - Location: Shanghai, China
-  - Updated: 2026-08-01
+  - Updated: 2026-08-02
   - Source: sap_careers
   - Source type: china_company_career
 
