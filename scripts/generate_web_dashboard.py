@@ -174,7 +174,7 @@ def build_dashboard_html(jobs):
 
     .filter-grid {
       display: grid;
-      grid-template-columns: 2fr 1fr 1fr 1fr 1fr;
+      grid-template-columns:minmax(260px, 2fr) repeat(6, minmax(150px, 1fr));
       gap: 12px;
     }
 
@@ -343,6 +343,20 @@ def build_dashboard_html(jobs):
           <option value="marketing">Marketing / Communications</option>
           <option value="ai_data">AI / Data</option>
         </select>
+
+        <select id="freshnessSelect">
+          <option value="">All dates</option>
+          <option value="7">Updated in last 7 days</option>
+          <option value="14">Updated in last 14 days</option>
+          <option value="30">Updated in last 30 days</option>
+        </select>
+
+        <select id="sortSelect">
+          <option value="updated_desc">Newest first</option>
+          <option value="updated_asc">Oldest first</option>
+          <option value="company">Company A-Z</option>
+          <option value="title">Title A-Z</option>
+        </select>
       </div>
 
       <div class="quick-buttons">
@@ -352,6 +366,7 @@ def build_dashboard_html(jobs):
         <button data-location="Chicago">Chicago</button>
         <button data-category="internship">Internships</button>
         <button data-category="remote">Remote</button>
+        <button data-freshness="7">Last 7 days</button>
         <button id="clearFilters">Clear filters</button>
       </div>
     </section>
@@ -377,6 +392,8 @@ def build_dashboard_html(jobs):
     const companySelect = document.getElementById("companySelect");
     const sourceSelect = document.getElementById("sourceSelect");
     const categorySelect = document.getElementById("categorySelect");
+    const freshnessSelect = document.getElementById("freshnessSelect");
+    const sortSelect = document.getElementById("sortSelect");
     const jobsList = document.getElementById("jobsList");
     const resultSummary = document.getElementById("resultSummary");
     const activeFilters = document.getElementById("activeFilters");
@@ -449,7 +466,54 @@ def build_dashboard_html(jobs):
       if (category === "marketing") return isMarketing(job);
       if (category === "ai_data") return isAiData(job);
       return true;
+      }
+
+    function dateValue(value) {
+      if (!value || value === "Unknown") return 0;
+
+      const parsed = Date.parse(`${value}T00:00:00`);
+      if (Number.isNaN(parsed)) return 0;
+
+      return parsed;
     }
+
+    function daysSinceUpdated(value) {
+      const updated = dateValue(value);
+      if (!updated) return Infinity;
+
+      const generated = Date.parse("__GENERATED_DATE__T00:00:00");
+      if (Number.isNaN(generated)) return Infinity;
+
+      const diff = generated - updated;
+      return diff / (1000 * 60 * 60 * 24);
+    }
+
+    function matchesFreshness(job, freshnessDays) {
+      if (!freshnessDays) return true;
+      return daysSinceUpdated(job.posted_date) <= Number(freshnessDays);
+    }
+
+    function compareJobs(a, b, sortMode) {
+     if (sortMode === "updated_asc") {
+        return dateValue(a.posted_date) - dateValue(b.posted_date)
+          || a.company.localeCompare(b.company)
+          || a.title.localeCompare(b.title);
+      }
+
+    if (sortMode === "company") {
+        return a.company.localeCompare(b.company)
+          || a.title.localeCompare(b.title);
+    }
+
+    if (sortMode === "title") {
+      return a.title.localeCompare(b.title)
+       || a.company.localeCompare(b.company);
+    }
+
+    return dateValue(b.posted_date) - dateValue(a.posted_date)
+      || a.company.localeCompare(b.company)
+      || a.title.localeCompare(b.title);
+  }  
 
     function escapeHtml(text) {
       return String(text || "")
@@ -508,6 +572,8 @@ def build_dashboard_html(jobs):
       const company = companySelect.value;
       const source = sourceSelect.value;
       const category = categorySelect.value;
+      const freshness = freshnessSelect.value;
+      const sortMode = sortSelect.value;
 
       const filteredJobs = jobs.filter(job => {
         if (query && !job.search_text.includes(query)) return false;
@@ -515,8 +581,11 @@ def build_dashboard_html(jobs):
         if (company && job.company !== company) return false;
         if (source && job.source !== source) return false;
         if (!matchesCategory(job, category)) return false;
+        if (!matchesFreshness(job, freshness)) return false;
         return true;
       });
+
+      filteredJobs.sort((a, b) => compareJobs(a, b, sortMode));
 
       const labels = [];
       if (query) labels.push(`Search: ${query}`);
@@ -524,12 +593,14 @@ def build_dashboard_html(jobs):
       if (company) labels.push(`Company: ${company}`);
       if (source) labels.push(`Source: ${source}`);
       if (category) labels.push(`Category: ${category}`);
+      if (freshness) labels.push(`Updated in last ${freshness} days`);
+      if (sortMode && sortMode !== "updated_desc") labels.push(`Sort: ${sortMode}`);
 
       activeFilters.textContent = labels.length ? labels.join(" · ") : "No active filters";
       renderJobs(filteredJobs);
     }
 
-    [searchInput, locationSelect, companySelect, sourceSelect, categorySelect].forEach(element => {
+    [searchInput, locationSelect, companySelect, sourceSelect, categorySelect, freshnessSelect, sortSelect].forEach(element => {
       element.addEventListener("input", applyFilters);
       element.addEventListener("change", applyFilters);
     });
@@ -556,12 +627,21 @@ def build_dashboard_html(jobs):
       });
     });
 
+    document.querySelectorAll("button[data-freshness]").forEach(button => {
+      button.addEventListener("click", () => {
+        freshnessSelect.value = button.dataset.freshness;
+        applyFilters();
+      });
+    });
+
     clearFilters.addEventListener("click", () => {
       searchInput.value = "";
       locationSelect.value = "";
       companySelect.value = "";
       sourceSelect.value = "";
       categorySelect.value = "";
+      freshnessSelect.value = "";
+      sortSelect.value = "updated_desc";
       applyFilters();
     });
 
