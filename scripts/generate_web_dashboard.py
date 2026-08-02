@@ -233,7 +233,7 @@ def build_dashboard_html(jobs):
     }
 
     .container {
-      max-width: 1180px;
+      width: min(1180px, 100%);
       margin: 0 auto;
       padding: 24px;
     }
@@ -274,17 +274,23 @@ def build_dashboard_html(jobs):
       border-radius: 14px;
       padding: 18px;
       margin-bottom: 18px;
+      overflow: hidden;
     }
 
     .filter-grid {
       display: grid;
-      grid-template-columns:minmax(260px, 2fr) repeat(6, minmax(150px, 1fr));
+      grid-template-columns:repeat(auto-fit, minmax(170px, 1fr));
       gap: 12px;
     }
 
+    .filter-grid input[type="search"] {
+      grid-column: span 2;
+    }
+    
     input,
     select {
       width: 100%;
+      min-width: 0;
       border: 1px solid var(--border);
       border-radius: 10px;
       padding: 11px 12px;
@@ -341,6 +347,7 @@ def build_dashboard_html(jobs):
       font-size: 18px;
       font-weight: 650;
       margin: 0 0 10px;
+      overflow-wrap: anywhere;
     }
 
     .job-title a {
@@ -366,12 +373,15 @@ def build_dashboard_html(jobs):
       padding: 4px 8px;
       color: var(--muted);
       font-size: 12px;
+      max-width: 100%;
+      overflow-wrap: anywhere;
     }
 
     .description {
       color: var(--muted);
       margin: 10px 0 0;
       font-size: 14px;
+      overflow-wrap: anywhere;
     }
 
     .empty {
@@ -391,18 +401,77 @@ def build_dashboard_html(jobs):
     }
 
     @media (max-width: 900px) {
-      .filter-grid {
-        grid-template-columns: 1fr;
+      header {
+        padding: 22px 0;
+      }
+
+      .container {
+        padding: 16px;
       }
 
       h1 {
         font-size: 26px;
       }
 
-      .container {
+      .subtitle {
+        font-size: 14px;
+      }
+
+      .filter-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .filter-grid input[type="search"] {
+        grid-column: span 1;
+      }
+
+      .result-bar {
+        align-items: flex-start;
+        flex-direction: column;
+        gap: 8px;
+      }
+
+      .job-card {
         padding: 16px;
       }
-    }
+
+      .job-title {
+        font-size: 17px;
+      }
+}
+
+@media (max-width: 560px) {
+  .stats {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+
+  .stat {
+    width: 100%;
+  }
+
+  .quick-buttons {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  button {
+    width: 100%;
+    padding: 10px 12px;
+  }
+
+  .meta {
+    gap: 6px;
+  }
+
+  .badge {
+    border-radius: 10px;
+  }
+
+  .description {
+    font-size: 13px;
+  }
+}
   </style>
 </head>
 <body>
