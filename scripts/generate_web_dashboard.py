@@ -367,6 +367,12 @@ def build_dashboard_html(jobs):
       cursor: pointer;
       font-size: 13px;
     }
+    .share-status {
+      color: var(--muted);
+      font-size: 13px;
+      align-self: center;
+      padding: 8px 0;
+    }
 
     button:hover,
     button.active {
@@ -594,6 +600,8 @@ def build_dashboard_html(jobs):
         <button data-category="remote">Remote</button>
         <button data-freshness="7">Last 7 days</button>
         <button id="clearFilters">Clear filters</button>
+        <button id="copyLinkButton">Copy current link</button>
+        <span id="shareStatus" class="share-status" aria-live="polite"></span>
       </div>
     </section>
 
@@ -626,6 +634,8 @@ def build_dashboard_html(jobs):
     const totalJobs = document.getElementById("totalJobs");
     const visibleJobs = document.getElementById("visibleJobs");
     const clearFilters = document.getElementById("clearFilters");
+    const copyLinkButton = document.getElementById("copyLinkButton");
+    const shareStatus = document.getElementById("shareStatus");
 
     totalJobs.textContent = jobs.length;
 
@@ -645,6 +655,68 @@ def build_dashboard_html(jobs):
     addOptions(locationSelect, uniqueSorted(jobs.map(job => job.location)));
     addOptions(companySelect, uniqueSorted(jobs.map(job => job.company)));
     addOptions(sourceSelect, uniqueSorted(jobs.map(job => job.source)));
+
+    function setSelectIfOptionExists(select, value) {
+  if (!value) return;
+
+  const option = [...select.options].find(item => item.value === value);
+
+  if (option) {
+    select.value = value;
+  }
+}
+
+function readFiltersFromUrl() {
+  const params = new URLSearchParams(window.location.search);
+
+  searchInput.value = params.get("q") || "";
+
+  setSelectIfOptionExists(locationSelect, params.get("location"));
+  setSelectIfOptionExists(companySelect, params.get("company"));
+  setSelectIfOptionExists(sourceSelect, params.get("source"));
+  setSelectIfOptionExists(categorySelect, params.get("category"));
+  setSelectIfOptionExists(freshnessSelect, params.get("freshness"));
+  setSelectIfOptionExists(sortSelect, params.get("sort"));
+}
+
+function updateUrlFromFilters() {
+  const params = new URLSearchParams();
+
+  if (searchInput.value.trim()) {
+    params.set("q", searchInput.value.trim());
+  }
+
+  if (locationSelect.value) {
+    params.set("location", locationSelect.value);
+  }
+
+  if (companySelect.value) {
+    params.set("company", companySelect.value);
+  }
+
+  if (sourceSelect.value) {
+    params.set("source", sourceSelect.value);
+  }
+
+  if (categorySelect.value) {
+    params.set("category", categorySelect.value);
+  }
+
+  if (freshnessSelect.value) {
+    params.set("freshness", freshnessSelect.value);
+  }
+
+  if (sortSelect.value && sortSelect.value !== "updated_desc") {
+    params.set("sort", sortSelect.value);
+  }
+
+  const query = params.toString();
+  const newUrl = query
+    ? `${window.location.pathname}?${query}`
+    : window.location.pathname;
+
+  window.history.replaceState({}, "", newUrl);
+}
 
     function includesAny(text, keywords) {
       return keywords.some(keyword => text.includes(keyword));
@@ -823,6 +895,7 @@ def build_dashboard_html(jobs):
       if (sortMode && sortMode !== "updated_desc") labels.push(`Sort: ${sortMode}`);
 
       activeFilters.textContent = labels.length ? labels.join(" · ") : "No active filters";
+      updateUrlFromFilters();
       renderJobs(filteredJobs);
     }
 
@@ -871,6 +944,21 @@ def build_dashboard_html(jobs):
       applyFilters();
     });
 
+    copyLinkButton.addEventListener("click", async () => {
+      applyFilters();
+
+      try {
+        await navigator.clipboard.writeText(window.location.href);
+        shareStatus.textContent = "Link copied";
+      } catch (error) {
+        shareStatus.textContent = "Copy failed. Use the browser address bar.";
+      }
+
+      window.setTimeout(() => {
+        shareStatus.textContent = "";
+      }, 2500);
+    });
+    readFiltersFromUrl();
     applyFilters();
   </script>
 </body>
