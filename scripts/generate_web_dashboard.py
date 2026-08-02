@@ -41,6 +41,7 @@ def clean_description(value):
     return text
 
 NAVIGATION_NOISE_KEYWORDS = [
+    # Chamber / association navigation noise
     "member directory",
     "about us",
     "chamber services",
@@ -55,6 +56,26 @@ NAVIGATION_NOISE_KEYWORDS = [
     "advisory council",
     "membership",
     "job vacancies join us",
+
+    # SAP / company career page navigation noise
+    "skip to main content",
+    "view profile",
+    "search by keyword",
+    "search by location",
+    "show more options",
+    "loading...",
+    "work area all",
+    "career status all",
+    "country all",
+    "select how often",
+    "to receive",
+    "job alert",
+    "create alert",
+    "language deutsch",
+    "english global",
+    "français france",
+    "日本語",
+    "简体中文",
 ]
 
 JOB_DETAIL_SIGNALS = [
@@ -91,7 +112,38 @@ def looks_like_navigation_text(text):
         for signal in JOB_DETAIL_SIGNALS
     )
 
-    return noise_hits >= 3 and not has_job_detail_signal
+    if has_job_detail_signal:
+        return False
+
+    # General rule: many navigation signals and no JD signal.
+    if noise_hits >= 3:
+        return True
+
+    # SAP career pages often expose navigation text instead of JD body.
+    sap_navigation_patterns = [
+        "skip to main content",
+        "view profile",
+        "search by keyword",
+        "search by location",
+        "show more options",
+        "work area all",
+        "career status all",
+        "select how often",
+    ]
+
+    sap_hits = sum(
+        1 for pattern in sap_navigation_patterns
+        if pattern in normalized
+    )
+
+    if sap_hits >= 2:
+        return True
+
+    # Repeated language selector text is usually page chrome, not job description.
+    if normalized.count("language") >= 2 and "view profile" in normalized:
+        return True
+
+    return False
 
 
 def clean_dashboard_description(value):
