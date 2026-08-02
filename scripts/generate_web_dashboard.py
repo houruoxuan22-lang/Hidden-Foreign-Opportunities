@@ -40,6 +40,83 @@ def clean_description(value):
     text = re.sub(r"\s+", " ", text).strip()
     return text
 
+NAVIGATION_NOISE_KEYWORDS = [
+    "member directory",
+    "about us",
+    "chamber services",
+    "useful links",
+    "governance",
+    "executive committee",
+    "chapter board",
+    "advertise with us",
+    "articles of association",
+    "former presidents",
+    "supervisory board",
+    "advisory council",
+    "membership",
+    "job vacancies join us",
+]
+
+JOB_DETAIL_SIGNALS = [
+    "responsibilities",
+    "requirements",
+    "qualifications",
+    "what you will do",
+    "what you'll do",
+    "you will",
+    "job description",
+    "skills",
+    "experience",
+    "role",
+    "职位描述",
+    "岗位职责",
+    "任职要求",
+    "工作职责",
+]
+
+
+def looks_like_navigation_text(text):
+    normalized = safe_text(text).lower()
+
+    if not normalized:
+        return False
+
+    noise_hits = sum(
+        1 for keyword in NAVIGATION_NOISE_KEYWORDS
+        if keyword in normalized
+    )
+
+    has_job_detail_signal = any(
+        signal in normalized
+        for signal in JOB_DETAIL_SIGNALS
+    )
+
+    return noise_hits >= 3 and not has_job_detail_signal
+
+
+def clean_dashboard_description(value):
+    text = clean_description(value)
+
+    if looks_like_navigation_text(text):
+        return ""
+
+    return text
+
+
+def human_source_type(value):
+    mapping = {
+        "ats_api": "Official ATS",
+        "greenhouse": "Official ATS",
+        "lever": "Official ATS",
+        "china_local_static": "China-local job board",
+        "china_company_career": "Company career page",
+        "static_job_board": "Public job board",
+    }
+
+    raw_value = safe_text(value).strip()
+    key = raw_value.lower()
+
+    return mapping.get(key, raw_value or "Unknown source type")
 
 def normalize_job(job):
     ...
@@ -57,7 +134,7 @@ def normalize_job(job):
     audience = safe_text(job.get("audience")) or "unknown"
     url = safe_text(job.get("url"))
     posted_date = format_date(job.get("posted_date"))
-    description = clean_description(job.get("description"))
+    description = clean_dashboard_description(job.get("description"))
 
     search_text = " ".join(
         [
@@ -77,6 +154,7 @@ def normalize_job(job):
         "location": location,
         "source": source,
         "source_type": source_type,
+        "source_type_label": human_source_type(source_type),
         "audience": audience,
         "url": url,
         "posted_date": posted_date,
@@ -84,10 +162,36 @@ def normalize_job(job):
         "search_text": search_text,
     }
 
+def deduplicate_normalized_jobs(jobs):
+    seen = set()
+    deduped_jobs = []
+
+    for job in jobs:
+        url = safe_text(job.get("url")).strip().lower().rstrip("/")
+
+        if url:
+            key = ("url", url)
+        else:
+            key = (
+                "fallback",
+                safe_text(job.get("company")).strip().lower(),
+                safe_text(job.get("title")).strip().lower(),
+                safe_text(job.get("location")).strip().lower(),
+            )
+
+        if key in seen:
+            continue
+
+        seen.add(key)
+        deduped_jobs.append(job)
+
+    return deduped_jobs
 
 def build_dashboard_html(jobs):
     today = date.today().isoformat()
-    normalized_jobs = [normalize_job(job) for job in jobs]
+    normalized_jobs = deduplicate_normalized_jobs(
+        [normalize_job(job) for job in jobs]
+    )
 
     jobs_json = json.dumps(normalized_jobs, ensure_ascii=False)
     jobs_json = jobs_json.replace("</", "<\\/")
@@ -306,8 +410,9 @@ def build_dashboard_html(jobs):
     <div class="container">
       <h1>Hidden Foreign Opportunities</h1>
       <p class="subtitle">
-        Search and filter foreign-company job opportunities from official career pages,
-        public ATS sources, and China-local job boards.
+       Search and filter foreign-company job opportunities from official career pages,
+       public ATS sources, and China-local job boards.
+       Always verify job details on the official posting page before applying.
       </p>
       <div class="stats">
         <div class="stat"><strong id="totalJobs">0</strong> total jobs</div>
@@ -550,7 +655,7 @@ def build_dashboard_html(jobs):
             <span class="badge">${escapeHtml(job.location)}</span>
             <span class="badge">Updated: ${escapeHtml(job.posted_date)}</span>
             <span class="badge">Source: ${escapeHtml(job.source)}</span>
-            <span class="badge">${escapeHtml(job.source_type)}</span>
+            <span class="badge">${escapeHtml(job.source_type_label || job.source_type)}</span>
           </div>
           ${job.description ? `<p class="description">${escapeHtml(job.description)}</p>` : ""}
         `;
