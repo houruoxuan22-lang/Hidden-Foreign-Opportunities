@@ -1,12 +1,12 @@
-# Searchable Job Reports - 2026-08-02
+# Searchable Job Reports - 2026-08-03
 
 This folder contains filtered job reports generated from `data/jobs.json`.
 
 ## Quick Filters
 
 - [Mainland China Foreign Employer Jobs](mainland-china.md) - 39 jobs
-- [Shanghai Jobs](shanghai.md) - 19 jobs
-- [Beijing Jobs](beijing.md) - 9 jobs
+- [Shanghai Jobs](shanghai.md) - 20 jobs
+- [Beijing Jobs](beijing.md) - 8 jobs
 - [Shenzhen Jobs](shenzhen.md) - 1 jobs
 - [Chengdu Jobs](chengdu.md) - 1 jobs
 - [Chicago Jobs](chicago.md) - 35 jobs

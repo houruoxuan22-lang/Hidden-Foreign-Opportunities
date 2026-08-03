@@ -1,4 +1,4 @@
-# Shenzhen Jobs - 2026-08-02
+# Shenzhen Jobs - 2026-08-03
 
 ## Summary
 
@@ -15,6 +15,6 @@ Jobs with Shenzhen-related location signals.
 
 - [Senior Account Executive](https://jobs.sap.com/job/Shenzhen-Senior-Account-Executive-518048/1404942333/)
   - Location: Shenzhen, China
-  - Updated: 2026-08-02
+  - Updated: 2026-08-03
   - Source: sap_careers
   - Source type: china_company_career
