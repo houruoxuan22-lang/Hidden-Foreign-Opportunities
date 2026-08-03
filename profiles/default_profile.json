@@ -1,0 +1,146 @@
+{
+  "profile_id": "china_early_career_foreign_company",
+  "profile_name": "China-based early-career foreign-company job seeker",
+  "description": "A default profile for early-career job seekers in mainland China who are interested in foreign companies, cross-border roles, business roles, marketing, customer success, operations, and remote-friendly opportunities.",
+
+  "target_locations": [
+    "Shanghai",
+    "Beijing",
+    "Shenzhen",
+    "Suzhou",
+    "Hangzhou",
+    "Nanjing",
+    "Chengdu",
+    "China",
+    "Remote"
+  ],
+
+  "location_keywords": [
+    "shanghai",
+    "beijing",
+    "shenzhen",
+    "suzhou",
+    "hangzhou",
+    "nanjing",
+    "chengdu",
+    "china",
+    "mainland china",
+    "remote"
+  ],
+
+  "target_role_areas": [
+    "Marketing",
+    "Business Development",
+    "Customer Success",
+    "Operations",
+    "Sales",
+    "Project Coordination",
+    "Cross-border Business"
+  ],
+
+  "role_keywords": [
+    "marketing",
+    "communications",
+    "communication",
+    "brand",
+    "content",
+    "social media",
+    "business development",
+    "sales",
+    "account executive",
+    "account manager",
+    "customer success",
+    "client service",
+    "operations",
+    "project coordinator",
+    "project management",
+    "cross border",
+    "cross-border",
+    "partnership",
+    "growth"
+  ],
+
+  "early_career_keywords": [
+    "intern",
+    "internship",
+    "graduate",
+    "new grad",
+    "entry level",
+    "entry-level",
+    "junior",
+    "associate",
+    "assistant",
+    "coordinator",
+    "specialist",
+    "trainee",
+    "campus",
+    "实习",
+    "校招",
+    "应届",
+    "助理",
+    "专员",
+    "管培"
+  ],
+
+  "skill_keywords": [
+    "english",
+    "mandarin",
+    "communication",
+    "communications",
+    "marketing",
+    "sales",
+    "crm",
+    "excel",
+    "project management",
+    "operations",
+    "customer success",
+    "cross-border",
+    "content",
+    "social media"
+  ],
+
+  "remote_keywords": [
+    "remote",
+    "hybrid",
+    "work from home",
+    "distributed",
+    "global remote"
+  ],
+
+  "risk_keywords": [
+    "senior",
+    "lead",
+    "principal",
+    "director",
+    "head of",
+    "manager, manager",
+    "5+ years",
+    "7+ years",
+    "10+ years",
+    "minimum 5 years",
+    "minimum 7 years",
+    "enterprise sales experience",
+    "people management"
+  ],
+
+  "strong_exclude_keywords": [
+    "phd",
+    "doctorate",
+    "licensed attorney",
+    "medical license",
+    "security clearance"
+  ],
+
+  "scoring": {
+    "location_match": 25,
+    "role_match": 25,
+    "early_career_match": 20,
+    "skill_match_max": 20,
+    "remote_match": 10,
+    "risk_keyword_penalty": -15,
+    "strong_exclude_penalty": -30,
+    "location_mismatch_penalty": -20,
+    "max_score": 100,
+    "min_score": 0
+  }
+}
