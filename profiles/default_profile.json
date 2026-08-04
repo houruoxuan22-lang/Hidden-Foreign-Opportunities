@@ -24,8 +24,7 @@
     "nanjing",
     "chengdu",
     "china",
-    "mainland china",
-    "remote"
+    "mainland china"    
   ],
 
   "target_role_areas": [
@@ -107,13 +106,31 @@
     "global remote"
   ],
 
-  "risk_keywords": [
+  "restricted_remote_keywords": [
+    "us remote",
+    "us-remote",
+    "u.s. remote",
+    "canada remote",
+    "ca-remote",
+    "uk remote",
+    "emea remote",
+    "eu remote"
+  ],
+
+  "title_risk_keywords": [
     "senior",
     "lead",
     "principal",
     "director",
-    "head of",
-    "manager, manager",
+    "head",
+    "manager",
+    "architect",
+    "vice president",
+    "vp",
+    "expert"
+  ],
+
+  "risk_keywords": [
     "5+ years",
     "7+ years",
     "10+ years",
@@ -138,6 +155,8 @@
     "skill_match_max": 20,
     "remote_match": 10,
     "risk_keyword_penalty": -15,
+    "title_risk_penalty": -15,
+"restricted_remote_penalty": -20,
     "strong_exclude_penalty": -30,
     "location_mismatch_penalty": -20,
     "max_score": 100,
