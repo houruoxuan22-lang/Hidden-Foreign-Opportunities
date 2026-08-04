@@ -1,8 +1,8 @@
-# Chicago Jobs - 2026-08-03
+# Chicago Jobs - 2026-08-04
 
 ## Summary
 
-- Total matching jobs: 35
+- Total matching jobs: 36
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -16,6 +16,12 @@ Jobs with Chicago-related location signals.
 - [Account Executive - Enterprise, Grower](https://stripe.com/jobs/search?gh_jid=7993151)
   - Location: US-Remote, US-San Francisco, US-Chicago, US-New York, US-Seattle, US-Texas
   - Updated: 2026-07-27
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Administrative Business Partner](https://stripe.com/jobs/search?gh_jid=8081670)
+  - Location: Chicago, US-Remote
+  - Updated: 2026-08-03
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -46,6 +52,12 @@ Jobs with Chicago-related location signals.
 - [Credit Risk Analyst Commercial Underwriter, West Coast](https://stripe.com/jobs/search?gh_jid=7540441)
   - Location: Chicago, US-Remote, Canada-Remote
   - Updated: 2026-07-27
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Executive Compensation Business Partner](https://stripe.com/jobs/search?gh_jid=8036761)
+  - Location: Chicago, Atlanta, US-Remote
+  - Updated: 2026-08-03
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -99,7 +111,7 @@ Jobs with Chicago-related location signals.
 
 - [Partnerships Development Manager, Link - Payments Partnerships](https://stripe.com/jobs/search?gh_jid=8090126)
   - Location: US-NYC; US-San Francisco; US-Seattle; US-Remote; US- Chicago; US-Atlanta; Canada-Toronto; Canada-Remote
-  - Updated: 2026-07-30
+  - Updated: 2026-08-03
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -177,12 +189,6 @@ Jobs with Chicago-related location signals.
 
 - [Solutions Architect, Enterprise (Pre-sales)](https://stripe.com/jobs/search?gh_jid=7827184)
   - Location: Chicago, IL or San Francisco, CA OR US Remote
-  - Updated: 2026-07-27
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Solutions Architect, Metronome (Startups)](https://stripe.com/jobs/search?gh_jid=8072257)
-  - Location: SF, NYC, Chicago, US-Remote
   - Updated: 2026-07-27
   - Source: greenhouse
   - Source type: Unknown source type
