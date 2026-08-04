@@ -2,7 +2,7 @@
 
 ## Summary
 
-- Total matching jobs: 20
+- Total matching jobs: 21
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -22,6 +22,12 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 - [Marketing Programs and Analytics Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8104138?gh_jid=8104138)
   - Location: In-Office
   - Updated: 2026-08-03
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [U.S. Public Policy and AI Innovation Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8105728?gh_jid=8105728)
+  - Location: In-Office
+  - Updated: 2026-08-04
   - Source: greenhouse
   - Source type: Unknown source type
 

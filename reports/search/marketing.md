@@ -2,7 +2,7 @@
 
 ## Summary
 
-- Total matching jobs: 29
+- Total matching jobs: 28
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -33,7 +33,7 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Technical Marketing Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8104024?gh_jid=8104024)
   - Location: In-Office
-  - Updated: 2026-08-03
+  - Updated: 2026-08-04
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -58,12 +58,6 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
   - Source type: Unknown source type
 
 ### European Chamber China
-
-- [Marketing Assistant - Internship (2026 Sept/Oct - Dec; Based in SH)](https://www.europeanchamber.com.cn/en/job-vacancies/5348/Marketing_Assistant_Internship_2026_Sept_Oct_Dec_Based_in_SH_)
-  - Location: Shanghai, China
-  - Updated: 2026-08-04
-  - Source: european_chamber
-  - Source type: china_local_static
 
 - [Policy and Communications Coordinator/Manager (based on experience)](https://www.europeanchamber.com.cn/en/job-vacancies/1959/Policy_and_Communications_Coordinator_Manager_based_on_experience_)
   - Location: Beijing, China

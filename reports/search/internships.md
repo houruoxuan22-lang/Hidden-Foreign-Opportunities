@@ -2,7 +2,7 @@
 
 ## Summary
 
-- Total matching jobs: 35
+- Total matching jobs: 37
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -37,6 +37,12 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [GRC Team Intern (Fall 2026) ](https://boards.greenhouse.io/cloudflare/jobs/8095533?gh_jid=8095533)
+  - Location: In-Office
+  - Updated: 2026-08-04
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [Marketing Events and Campaigns Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8053546?gh_jid=8053546)
   - Location: In-Office
   - Updated: 2026-07-10
@@ -49,15 +55,15 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027)
-  - Location: In-Office
-  - Updated: 2026-07-01
-  - Source: greenhouse
-  - Source type: Unknown source type
-
 - [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562)
   - Location: In-Office
   - Updated: 2026-07-02
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027)
+  - Location: In-Office
+  - Updated: 2026-07-01
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -67,9 +73,9 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379)
+- [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407)
   - Location: In-Office
-  - Updated: 2026-07-28
+  - Updated: 2026-07-29
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -79,9 +85,9 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407)
+- [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379)
   - Location: In-Office
-  - Updated: 2026-07-29
+  - Updated: 2026-07-28
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -93,7 +99,13 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 
 - [Technical Marketing Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8104024?gh_jid=8104024)
   - Location: In-Office
-  - Updated: 2026-08-03
+  - Updated: 2026-08-04
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [U.S. Public Policy and AI Innovation Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8105728?gh_jid=8105728)
+  - Location: In-Office
+  - Updated: 2026-08-04
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -117,13 +129,13 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: european_chamber
   - Source type: china_local_static
 
-- [Government Affairs Internship (Agriculture, Food and Beverage Working Group)](https://www.europeanchamber.com.cn/en/job-vacancies/5098/Government_Affairs_Internship_Agriculture_Food_and_Beverage_Working_Group_)
-  - Location: Beijing, China
+- [Legal Intern](https://www.europeanchamber.com.cn/en/job-vacancies/4729/Legal_Intern)
+  - Location: Shanghai, China
   - Updated: 2026-08-04
   - Source: european_chamber
   - Source type: china_local_static
 
-- [Marketing Assistant - Internship (2026 Sept/Oct - Dec; Based in SH)](https://www.europeanchamber.com.cn/en/job-vacancies/5348/Marketing_Assistant_Internship_2026_Sept_Oct_Dec_Based_in_SH_)
+- [Tax & Financial Intern](https://www.europeanchamber.com.cn/en/job-vacancies/4217/Tax_Financial_Intern)
   - Location: Shanghai, China
   - Updated: 2026-08-04
   - Source: european_chamber

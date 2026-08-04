@@ -2,7 +2,7 @@
 
 ## Summary
 
-- Total matching jobs: 20
+- Total matching jobs: 21
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -37,7 +37,13 @@ Jobs with Shanghai-related location signals.
   - Source: european_chamber
   - Source type: china_local_static
 
-- [Marketing Assistant - Internship (2026 Sept/Oct - Dec; Based in SH)](https://www.europeanchamber.com.cn/en/job-vacancies/5348/Marketing_Assistant_Internship_2026_Sept_Oct_Dec_Based_in_SH_)
+- [Legal Intern](https://www.europeanchamber.com.cn/en/job-vacancies/4729/Legal_Intern)
+  - Location: Shanghai, China
+  - Updated: 2026-08-04
+  - Source: european_chamber
+  - Source type: china_local_static
+
+- [Tax & Financial Intern](https://www.europeanchamber.com.cn/en/job-vacancies/4217/Tax_Financial_Intern)
   - Location: Shanghai, China
   - Updated: 2026-08-04
   - Source: european_chamber

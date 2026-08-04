@@ -2,7 +2,7 @@
 
 ## Summary
 
-- Total matching jobs: 8
+- Total matching jobs: 7
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -14,12 +14,6 @@ Jobs with Beijing-related location signals.
 ### European Chamber China
 
 - [Government Affairs Assistant -Internship](https://www.europeanchamber.com.cn/en/job-vacancies/5381/Government_Affairs_Assistant_Internship)
-  - Location: Beijing, China
-  - Updated: 2026-08-04
-  - Source: european_chamber
-  - Source type: china_local_static
-
-- [Government Affairs Internship (Agriculture, Food and Beverage Working Group)](https://www.europeanchamber.com.cn/en/job-vacancies/5098/Government_Affairs_Internship_Agriculture_Food_and_Beverage_Working_Group_)
   - Location: Beijing, China
   - Updated: 2026-08-04
   - Source: european_chamber

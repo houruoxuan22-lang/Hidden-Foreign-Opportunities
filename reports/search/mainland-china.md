@@ -43,19 +43,13 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
   - Source: european_chamber
   - Source type: china_local_static
 
-- [Government Affairs Internship (Agriculture, Food and Beverage Working Group)](https://www.europeanchamber.com.cn/en/job-vacancies/5098/Government_Affairs_Internship_Agriculture_Food_and_Beverage_Working_Group_)
-  - Location: Beijing, China
-  - Updated: 2026-08-04
-  - Source: european_chamber
-  - Source type: china_local_static
-
 - [IB - Fixed Income Trading, Credit Trader - Analyst/Associate](https://www.europeanchamber.com.cn/en/job-vacancies/5380/_IB_Fixed_Income_Trading_Credit_Trader_Analyst_Associate_)
   - Location: Shanghai, China
   - Updated: 2026-08-04
   - Source: european_chamber
   - Source type: china_local_static
 
-- [Marketing Assistant - Internship (2026 Sept/Oct - Dec; Based in SH)](https://www.europeanchamber.com.cn/en/job-vacancies/5348/Marketing_Assistant_Internship_2026_Sept_Oct_Dec_Based_in_SH_)
+- [Legal Intern](https://www.europeanchamber.com.cn/en/job-vacancies/4729/Legal_Intern)
   - Location: Shanghai, China
   - Updated: 2026-08-04
   - Source: european_chamber
@@ -63,6 +57,12 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
 
 - [Policy and Communications Coordinator/Manager (based on experience)](https://www.europeanchamber.com.cn/en/job-vacancies/1959/Policy_and_Communications_Coordinator_Manager_based_on_experience_)
   - Location: Beijing, China
+  - Updated: 2026-08-04
+  - Source: european_chamber
+  - Source type: china_local_static
+
+- [Tax & Financial Intern](https://www.europeanchamber.com.cn/en/job-vacancies/4217/Tax_Financial_Intern)
+  - Location: Shanghai, China
   - Updated: 2026-08-04
   - Source: european_chamber
   - Source type: china_local_static
