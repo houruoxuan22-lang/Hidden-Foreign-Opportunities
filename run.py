@@ -7,6 +7,7 @@ from scripts.generate_report import generate_markdown_report, save_report
 from scripts.skill_extractor import enrich_jobs_with_skills
 from scripts.generate_search_reports import generate_search_reports
 from scripts.generate_web_dashboard import generate_web_dashboard
+from scripts.match_jobs import PROFILE_FILE, load_json, score_jobs
 
 
 COMPANIES_FILE = "companies/companies.yaml"
@@ -101,11 +102,13 @@ def main():
     all_jobs = enrich_jobs_with_skills(all_jobs)
 
     save_jobs(all_jobs)
+    profile = load_json(PROFILE_FILE)
+    matched_jobs = score_jobs(all_jobs, profile)
 
     report = generate_markdown_report(all_jobs)
     save_report(report)
     generate_search_reports(all_jobs)
-    generate_web_dashboard(all_jobs)
+    generate_web_dashboard(matched_jobs)
     save_daily_snapshot(all_jobs)
 
     weekly_report = generate_weekly_trend_report()

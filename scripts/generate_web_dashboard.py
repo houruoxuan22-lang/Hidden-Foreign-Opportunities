@@ -188,6 +188,35 @@ def normalize_job(job):
     posted_date = format_date(job.get("posted_date"))
     description = clean_dashboard_description(job.get("description"))
 
+    raw_match_score = job.get("match_score")
+
+    if isinstance(raw_match_score, (int, float)):
+        match_score = int(raw_match_score)
+    else:
+        match_score = None
+
+    match_label = safe_text(job.get("match_label")).strip()
+
+    good_fit = job.get("good_fit", [])
+    if not isinstance(good_fit, list):
+        good_fit = []
+
+    good_fit = [
+        safe_text(reason).strip()
+        for reason in good_fit
+        if safe_text(reason).strip()
+    ]
+
+    watch_out = job.get("watch_out", [])
+    if not isinstance(watch_out, list):
+        watch_out = []
+
+    watch_out = [
+        safe_text(reason).strip()
+        for reason in watch_out
+        if safe_text(reason).strip()
+    ]
+
     search_text = " ".join(
         [
             title,
@@ -211,6 +240,10 @@ def normalize_job(job):
         "url": url,
         "posted_date": posted_date,
         "description": description[:500],
+        "match_score": match_score,
+        "match_label": match_label,
+        "good_fit": good_fit,
+        "watch_out": watch_out,
         "search_text": search_text,
     }
 
@@ -440,6 +473,54 @@ def build_dashboard_html(jobs):
       margin: 10px 0 0;
       font-size: 14px;
       overflow-wrap: anywhere;
+    }
+    .match-panel {
+      margin-top: 12px;
+      padding: 12px;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      background: var(--badge);
+    }
+
+    .match-header {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 6px;
+    }
+
+    .match-score {
+      display: inline-flex;
+      align-items: center;
+      border: 1px solid #1f883d;
+      border-radius: 999px;
+      background: #dafbe1;
+      color: #116329;
+      padding: 4px 9px;
+      font-size: 13px;
+      font-weight: 700;
+    }
+
+    .match-label {
+      color: var(--muted);
+      font-size: 13px;
+      font-weight: 600;
+    }
+
+    .match-reason {
+      margin: 6px 0 0;
+      color: var(--muted);
+      font-size: 13px;
+      overflow-wrap: anywhere;
+    }
+
+    .match-reason strong {
+      color: var(--text);
+    }
+
+    .match-reason.watch-out strong {
+      color: #9a6700;
     }
 
     .empty {
@@ -841,6 +922,63 @@ function updateUrlFromFilters() {
           ? `<a href="${escapeHtml(job.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(job.title)}</a>`
           : escapeHtml(job.title);
 
+                const hasMatchScore =
+          job.match_score !== null
+          && job.match_score !== undefined
+          && Number.isFinite(Number(job.match_score));
+
+        const matchScore = hasMatchScore
+          ? Number(job.match_score)
+          : null;
+
+        const goodFit = Array.isArray(job.good_fit)
+          ? job.good_fit.slice(0, 3)
+          : [];
+
+        const watchOut = Array.isArray(job.watch_out)
+          ? job.watch_out.slice(0, 2)
+          : [];
+
+        const matchHtml = hasMatchScore
+          ? `
+            <div class="match-panel">
+              <div class="match-header">
+                <span class="match-score">
+                  Match ${matchScore}/100
+                </span>
+                ${
+                  job.match_label
+                    ? `<span class="match-label">${escapeHtml(job.match_label)}</span>`
+                    : ""
+                }
+              </div>
+
+              ${
+                goodFit.length
+                  ? `
+                    <p class="match-reason">
+                      <strong>Good fit:</strong>
+                      ${goodFit.map(reason => escapeHtml(reason)).join(" · ")}
+                    </p>
+                  `
+                  : ""
+              }
+
+              ${
+                watchOut.length
+                  ? `
+                    <p class="match-reason watch-out">
+                      <strong>Watch out:</strong>
+                      ${watchOut.map(reason => escapeHtml(reason)).join(" · ")}
+                    </p>
+                  `
+                  : ""
+              }
+            </div>
+          `
+          : "";
+         
+
         card.innerHTML = `
           <h2 class="job-title">${titleHtml}</h2>
           <div class="meta">
@@ -850,6 +988,7 @@ function updateUrlFromFilters() {
             <span class="badge">Source: ${escapeHtml(job.source)}</span>
             <span class="badge">${escapeHtml(job.source_type_label || job.source_type)}</span>
           </div>
+          ${matchHtml}
           ${job.description ? `<p class="description">${escapeHtml(job.description)}</p>` : ""}
         `;
 
@@ -987,5 +1126,10 @@ def generate_web_dashboard(jobs=None):
 
 
 if __name__ == "__main__":
-    output_file = generate_web_dashboard()
-    print(f"Generated web dashboard at {output_file}")
+    from match_jobs import PROFILE_FILE, load_json, score_jobs
+
+    profile = load_json(PROFILE_FILE)
+    matched_jobs = score_jobs(load_jobs(), profile)
+
+    output_file = generate_web_dashboard(matched_jobs)
+    print(f"Generated matched web dashboard at {output_file}")
