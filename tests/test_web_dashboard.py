@@ -1,0 +1,138 @@
+from scripts.generate_web_dashboard import (
+    build_dashboard_html,
+    clean_dashboard_description,
+    deduplicate_normalized_jobs,
+    normalize_job,
+)
+from scripts.match_jobs import (
+    PROFILE_FILE,
+    load_json,
+)
+
+
+def sample_scored_job():
+    return {
+        "title": "Marketing & Communications Specialist",
+        "company": "Example Company",
+        "location": "Shanghai, China",
+        "source": "example_source",
+        "source_type": "greenhouse",
+        "audience": "china_based_job_seekers",
+        "url": "https://example.com/jobs/marketing-specialist",
+        "posted_date": "2026-08-05T12:30:00",
+        "description": "<p>Plan campaigns and create content.</p>",
+        "match_score": 80,
+        "match_label": "Strong match",
+        "good_fit": [
+            "Target location: Shanghai, China",
+            "Preferred role: Marketing, Communications",
+        ],
+        "watch_out": [],
+    }
+
+
+def test_normalize_job_cleans_and_preserves_dashboard_fields():
+    normalized = normalize_job(sample_scored_job())
+
+    assert normalized["title"] == "Marketing & Communications Specialist"
+    assert normalized["company"] == "Example Company"
+    assert normalized["posted_date"] == "2026-08-05"
+    assert normalized["description"] == "Plan campaigns and create content."
+    assert normalized["source_type"] == "greenhouse"
+    assert normalized["source_type_label"] == "Official ATS"
+    assert normalized["match_score"] == 80
+    assert normalized["match_label"] == "Strong match"
+    assert normalized["good_fit"] == [
+        "Target location: Shanghai, China",
+        "Preferred role: Marketing, Communications",
+    ]
+
+
+def test_dashboard_description_removes_navigation_noise():
+    description = (
+        "Skip to main content View Profile "
+        "Search by keyword Search by location "
+        "Show more options Work area all Career status all"
+    )
+
+    assert clean_dashboard_description(description) == ""
+
+
+def test_deduplicate_jobs_uses_normalized_url():
+    first_job = normalize_job(sample_scored_job())
+
+    duplicate_job = normalize_job(
+        {
+            **sample_scored_job(),
+            "title": "Duplicate title",
+            "url": "https://example.com/jobs/marketing-specialist/",
+        }
+    )
+
+    unique_jobs = deduplicate_normalized_jobs(
+        [first_job, duplicate_job]
+    )
+
+    assert len(unique_jobs) == 1
+    assert unique_jobs[0]["title"] == (
+        "Marketing & Communications Specialist"
+    )
+
+
+def test_dashboard_contains_profile_and_scoring_explanation():
+    profile = load_json(PROFILE_FILE)
+
+    dashboard_html = build_dashboard_html(
+        [sample_scored_job()],
+        profile,
+    )
+
+    assert profile["profile_name"] in dashboard_html
+    assert "Current matching profile" in dashboard_html
+    assert "How the match score is calculated" in dashboard_html
+    assert "Target location match" in dashboard_html
+    assert "Preferred role match" in dashboard_html
+    assert "Specialized qualification requirement" in dashboard_html
+    assert "+25" in dashboard_html
+    assert "-30" in dashboard_html
+
+    assert "Best Match first" in dashboard_html
+    assert "Strong matches (75+)" in dashboard_html
+    assert '"match_score": 80' in dashboard_html
+
+    assert "__PROFILE_NAME__" not in dashboard_html
+    assert "__PROFILE_DESCRIPTION__" not in dashboard_html
+    assert "__PROFILE_LOCATIONS__" not in dashboard_html
+    assert "__PROFILE_ROLES__" not in dashboard_html
+    assert "__POSITIVE_SCORE_RULES__" not in dashboard_html
+    assert "__RISK_SCORE_RULES__" not in dashboard_html
+    assert "__JOBS_JSON__" not in dashboard_html
+
+
+def test_dashboard_uses_safe_fallback_profile():
+    dashboard_html = build_dashboard_html(
+        [sample_scored_job()],
+        None,
+    )
+
+    assert "Default matching profile" in dashboard_html
+    assert (
+        "This dashboard currently uses a default matching profile."
+        in dashboard_html
+    )
+    assert "Not specified" in dashboard_html
+    assert "No scoring rules configured." in dashboard_html
+
+
+def test_embedded_job_json_escapes_script_closing_tags():
+    dangerous_job = {
+        **sample_scored_job(),
+        "title": "</script><script>alert('test')</script>",
+    }
+
+    dashboard_html = build_dashboard_html(
+        [dangerous_job],
+        load_json(PROFILE_FILE),
+    )
+
+    assert "<\\/script>" in dashboard_html
