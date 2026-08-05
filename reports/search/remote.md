@@ -1,8 +1,8 @@
-# Remote Jobs - 2026-08-04
+# Remote Jobs - 2026-08-05
 
 ## Summary
 
-- Total matching jobs: 178
+- Total matching jobs: 179
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -49,9 +49,9 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407)
+- [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379)
   - Location: In-Office
-  - Updated: 2026-07-29
+  - Updated: 2026-07-28
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -61,9 +61,9 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379)
+- [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407)
   - Location: In-Office
-  - Updated: 2026-07-28
+  - Updated: 2026-07-29
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -932,6 +932,12 @@ Jobs with remote or distributed work signals.
 - [Software Engineer, Optimized Checkout & Link](https://stripe.com/jobs/search?gh_jid=8075469)
   - Location: US Remote
   - Updated: 2026-07-27
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Software Engineer, Vulnerability Management](https://stripe.com/jobs/search?gh_jid=8089353)
+  - Location: US - Remote
+  - Updated: 2026-08-04
   - Source: greenhouse
   - Source type: Unknown source type
 
