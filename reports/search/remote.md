@@ -183,15 +183,15 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Partner Solutions Architect (EMEA)](https://careers.datadoghq.com/detail/8094179/?gh_jid=8094179)
-  - Location: Amsterdam, The Netherlands; Germany, Remote
-  - Updated: 2026-07-30
-  - Source: greenhouse
-  - Source type: Unknown source type
-
 - [Partner Solutions Architect (EMEA)](https://careers.datadoghq.com/detail/7683726/?gh_jid=7683726)
   - Location: Italy, Remote; Paris, France; Portugal, Remote; Spain, Remote
   - Updated: 2026-07-28
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Partner Solutions Architect (EMEA)](https://careers.datadoghq.com/detail/8094179/?gh_jid=8094179)
+  - Location: Amsterdam, The Netherlands; Germany, Remote
+  - Updated: 2026-07-30
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -207,13 +207,13 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Principal Partner Manager - Channels (GSI)](https://careers.datadoghq.com/detail/7582679/?gh_jid=7582679)
+- [Principal Partner Manager - Channels (GSI)](https://careers.datadoghq.com/detail/7584250/?gh_jid=7584250)
   - Location: Boston, Massachusetts, USA; Denver, Colorado, USA; Florida, USA, Remote; Illinois, USA, Remote; New Jersey, USA, Remote; New York, New York, USA; San Francisco, California, USA; Texas, USA, Remote; Washington, USA, Remote
   - Updated: 2026-07-28
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Principal Partner Manager - Channels (GSI)](https://careers.datadoghq.com/detail/7584250/?gh_jid=7584250)
+- [Principal Partner Manager - Channels (GSI)](https://careers.datadoghq.com/detail/7582679/?gh_jid=7582679)
   - Location: Boston, Massachusetts, USA; Denver, Colorado, USA; Florida, USA, Remote; Illinois, USA, Remote; New Jersey, USA, Remote; New York, New York, USA; San Francisco, California, USA; Texas, USA, Remote; Washington, USA, Remote
   - Updated: 2026-07-28
   - Source: greenhouse
@@ -701,6 +701,12 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [Operations Program Manager, Tax](https://stripe.com/jobs/search?gh_jid=8109426)
+  - Location: US Remote
+  - Updated: 2026-08-05
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [Partner Development Manager, Global Networks](https://stripe.com/jobs/search?gh_jid=7697675)
   - Location: US-Remote; US-Chicago; US-Atlanta; Canada-Toronto; Canada-Remote; US-NYC; US-San Francisco; US-Seattle
   - Updated: 2026-07-27
@@ -907,12 +913,6 @@ Jobs with remote or distributed work signals.
 
 - [Sales Compensation Analytics & Systems Specialist](https://stripe.com/jobs/search?gh_jid=7739207)
   - Location: CHI, SF, NYC, SEA, US Remote
-  - Updated: 2026-07-27
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Sales Excellence Manager, Global Sales Vendors](https://stripe.com/jobs/search?gh_jid=8011418)
-  - Location: Remote in the US
   - Updated: 2026-07-27
   - Source: greenhouse
   - Source type: Unknown source type

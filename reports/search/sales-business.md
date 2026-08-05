@@ -2,7 +2,7 @@
 
 ## Summary
 
-- Total matching jobs: 64
+- Total matching jobs: 63
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -377,12 +377,6 @@ Jobs related to sales, account management, business development, partnerships, a
 
 - [Sales Compensation Analytics & Systems Specialist](https://stripe.com/jobs/search?gh_jid=7739207)
   - Location: CHI, SF, NYC, SEA, US Remote
-  - Updated: 2026-07-27
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Sales Excellence Manager, Global Sales Vendors](https://stripe.com/jobs/search?gh_jid=8011418)
-  - Location: Remote in the US
   - Updated: 2026-07-27
   - Source: greenhouse
   - Source type: Unknown source type

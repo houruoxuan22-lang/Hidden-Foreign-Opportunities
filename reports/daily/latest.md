@@ -2,24 +2,24 @@
 
 ## Summary
 
-- Total relevant jobs: 281
+- Total relevant jobs: 280
 - Companies tracked in this report: 6
 - China / APAC relevant jobs: 37
 - Global remote jobs: 157
 - Other international jobs: 18
-- US / Canada jobs: 15
+- US / Canada jobs: 14
 - Other relevant jobs: 17
 
 ## Skill Signals
 
 - Communication: 71
-- Project Management: 54
+- Project Management: 55
 - Python: 41
 - SQL: 40
 - Sales: 33
-- CRM: 25
-- Excel: 23
-- Operations: 22
+- CRM: 24
+- Excel: 22
+- Operations: 21
 - Product: 17
 - Engineering: 15
 - Tableau: 14
@@ -728,6 +728,12 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
+- [Operations Program Manager, Tax](https://stripe.com/jobs/search?gh_jid=8109426)
+  - Location: US Remote
+  - Updated: 2026-08-05
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
 - [Partner Development Manager, Global Networks](https://stripe.com/jobs/search?gh_jid=7697675)
   - Location: US-Remote; US-Chicago; US-Atlanta; Canada-Toronto; Canada-Remote; US-NYC; US-San Francisco; US-Seattle
   - Updated: 2026-07-27
@@ -934,12 +940,6 @@
 
 - [Sales Compensation Analytics & Systems Specialist](https://stripe.com/jobs/search?gh_jid=7739207)
   - Location: CHI, SF, NYC, SEA, US Remote
-  - Updated: 2026-07-27
-  - Source: greenhouse
-  - Status: Listed on official career page at report generation
-
-- [Sales Excellence Manager, Global Sales Vendors](https://stripe.com/jobs/search?gh_jid=8011418)
-  - Location: Remote in the US
   - Updated: 2026-07-27
   - Source: greenhouse
   - Status: Listed on official career page at report generation
@@ -1216,15 +1216,15 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Partner Solutions Architect (EMEA)](https://careers.datadoghq.com/detail/8094179/?gh_jid=8094179)
-  - Location: Amsterdam, The Netherlands; Germany, Remote
-  - Updated: 2026-07-30
-  - Source: greenhouse
-  - Status: Listed on official career page at report generation
-
 - [Partner Solutions Architect (EMEA)](https://careers.datadoghq.com/detail/7683726/?gh_jid=7683726)
   - Location: Italy, Remote; Paris, France; Portugal, Remote; Spain, Remote
   - Updated: 2026-07-28
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
+- [Partner Solutions Architect (EMEA)](https://careers.datadoghq.com/detail/8094179/?gh_jid=8094179)
+  - Location: Amsterdam, The Netherlands; Germany, Remote
+  - Updated: 2026-07-30
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
@@ -1240,13 +1240,13 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Principal Partner Manager - Channels (GSI)](https://careers.datadoghq.com/detail/7582679/?gh_jid=7582679)
+- [Principal Partner Manager - Channels (GSI)](https://careers.datadoghq.com/detail/7584250/?gh_jid=7584250)
   - Location: Boston, Massachusetts, USA; Denver, Colorado, USA; Florida, USA, Remote; Illinois, USA, Remote; New Jersey, USA, Remote; New York, New York, USA; San Francisco, California, USA; Texas, USA, Remote; Washington, USA, Remote
   - Updated: 2026-07-28
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Principal Partner Manager - Channels (GSI)](https://careers.datadoghq.com/detail/7584250/?gh_jid=7584250)
+- [Principal Partner Manager - Channels (GSI)](https://careers.datadoghq.com/detail/7582679/?gh_jid=7582679)
   - Location: Boston, Massachusetts, USA; Denver, Colorado, USA; Florida, USA, Remote; Illinois, USA, Remote; New Jersey, USA, Remote; New York, New York, USA; San Francisco, California, USA; Texas, USA, Remote; Washington, USA, Remote
   - Updated: 2026-07-28
   - Source: greenhouse
@@ -1619,12 +1619,6 @@
 - [Customer Success Associate - Boston](https://careers.datadoghq.com/detail/7172466/?gh_jid=7172466)
   - Location: Boston, Massachusetts, USA
   - Updated: 2026-08-04
-  - Source: greenhouse
-  - Status: Listed on official career page at report generation
-
-- [GTM Operations Associate](https://careers.datadoghq.com/detail/8049521/?gh_jid=8049521)
-  - Location: New York, New York, USA
-  - Updated: 2026-07-28
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
