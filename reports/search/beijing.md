@@ -2,7 +2,7 @@
 
 ## Summary
 
-- Total matching jobs: 7
+- Total matching jobs: 6
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -26,12 +26,6 @@ Jobs with Beijing-related location signals.
   - Source type: china_local_static
 
 ### SAP China
-
-- [Account Executive - BJ](https://jobs.sap.com/job/Beijing-Account-Executive-BJ-100016/1399591333/)
-  - Location: Beijing, China
-  - Updated: 2026-08-05
-  - Source: sap_careers
-  - Source type: china_company_career
 
 - [Marketing Execution Expert- JingDigital--BJ/SH](https://jobs.sap.com/job/Beijing-Marketing-Execution-Expert-JingDigital-BJSH-100016/1418500233/)
   - Location: Beijing, China

@@ -2,7 +2,7 @@
 
 ## Summary
 
-- Total matching jobs: 21
+- Total matching jobs: 22
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -63,12 +63,6 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 ### Stripe
 
-- [Analyst Relations Senior Manager](https://stripe.com/jobs/search?gh_jid=8012497)
-  - Location: Remote in the US
-  - Updated: 2026-07-27
-  - Source: greenhouse
-  - Source type: Unknown source type
-
 - [Backend Engineer, AI Security](https://stripe.com/jobs/search?gh_jid=7826765)
   - Location: New York, San Francisco, Seattle, or Remote (US/Canada)
   - Updated: 2026-07-27
@@ -78,6 +72,12 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 - [Business Partner Analyst](https://stripe.com/jobs/search?gh_jid=8079783)
   - Location: US-SF, US-Seattle, US-NYC, US-Chicago, US-Georgia or US-Remote
   - Updated: 2026-07-30
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Business Value Scale Analyst](https://stripe.com/jobs/search?gh_jid=8097047)
+  - Location: US-Remote
+  - Updated: 2026-08-05
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -132,6 +132,12 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 - [Product Manager, Growth AI Outreach Motion ](https://stripe.com/jobs/search?gh_jid=7809139)
   - Location: Toronto, Remote- Canada
   - Updated: 2026-07-27
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921)
+  - Location: Remote
+  - Updated: 2026-08-05
   - Source: greenhouse
   - Source type: Unknown source type
 

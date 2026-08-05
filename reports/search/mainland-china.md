@@ -2,7 +2,7 @@
 
 ## Summary
 
-- Total matching jobs: 39
+- Total matching jobs: 37
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -69,12 +69,6 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
 
 ### SAP China
 
-- [Account Executive - BJ](https://jobs.sap.com/job/Beijing-Account-Executive-BJ-100016/1399591333/)
-  - Location: Beijing, China
-  - Updated: 2026-08-05
-  - Source: sap_careers
-  - Source type: china_company_career
-
 - [Data Engineer](https://jobs.sap.com/job/Shanghai-Data-Engineer-201203/1406689133/)
   - Location: Shanghai, China
   - Updated: 2026-08-05
@@ -95,12 +89,6 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
 
 - [Marketing Execution Expert- JingDigital--BJ/SH](https://jobs.sap.com/job/Beijing-Marketing-Execution-Expert-JingDigital-BJSH-100016/1418500233/)
   - Location: Beijing, China
-  - Updated: 2026-08-05
-  - Source: sap_careers
-  - Source type: china_company_career
-
-- [SAP China iXp Intern - APAC RFx Proposal Advisory (RPA) Bid Management Intern - Shanghai](https://jobs.sap.com/job/Shanghai-SAP-China-iXp-Intern-APAC-RFx-Proposal-Advisory-RPA-Bid-Management-Intern-Shanghai-201203/1404177633/)
-  - Location: Shanghai, China
   - Updated: 2026-08-05
   - Source: sap_careers
   - Source type: china_company_career
@@ -147,6 +135,12 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
   - Source: sap_careers
   - Source type: china_company_career
 
+- [SAP China iXp Intern - System Reliability Engineer Intern - Shanghai](https://jobs.sap.com/job/Shanghai-SAP-China-iXp-Intern-System-Reliability-Engineer-Intern-Shanghai-201203/1413714333/)
+  - Location: Shanghai, China
+  - Updated: 2026-08-05
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [SAP China iXp Intern -Testing Engineer - Xi'an](https://jobs.sap.com/job/XiAn-Shaanxi-SAP-China-iXp-Intern-Testing-Engineer-Xi&apos;an-710077/1418110833/)
   - Location: Xi'an, China
   - Updated: 2026-08-05
@@ -155,12 +149,6 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
 
 - [SAP China iXp Interns - Backend Software Development Intern](https://jobs.sap.com/job/Shanghai-SAP-China-iXp-Interns-Backend-Software-Development-Intern-201203/1392176533/)
   - Location: Shanghai, China
-  - Updated: 2026-08-05
-  - Source: sap_careers
-  - Source type: china_company_career
-
-- [Senior Account Executive](https://jobs.sap.com/job/Shenzhen-Senior-Account-Executive-518048/1404942333/)
-  - Location: Shenzhen, China
   - Updated: 2026-08-05
   - Source: sap_careers
   - Source type: china_company_career
@@ -177,13 +165,7 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
   - Source: sap_careers
   - Source type: china_company_career
 
-- [Senior Account Executive - SZ](https://jobs.sap.com/job/Shenzhen-Senior-Account-Executive-SZ-518048/1373989433/)
-  - Location: Shenzhen, China
-  - Updated: 2026-08-05
-  - Source: sap_careers
-  - Source type: china_company_career
-
-- [Solution Sales Expert - F&S](https://jobs.sap.com/job/Shanghai-Solution-Sales-Expert-F&S-200040/1287055001/)
+- [Senior Audit Specialist - Compliance Monitoring](https://jobs.sap.com/job/Shanghai-Senior-Audit-Specialist-Compliance-Monitoring-201203/1413655533/)
   - Location: Shanghai, China
   - Updated: 2026-08-05
   - Source: sap_careers
@@ -191,6 +173,12 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
 
 - [Solution Sales Expert - F&S](https://jobs.sap.com/job/Beijing-Solution-Sales-Expert-F&S-100016/1287050901/)
   - Location: Beijing, China
+  - Updated: 2026-08-05
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Solution Sales Expert - F&S](https://jobs.sap.com/job/Shanghai-Solution-Sales-Expert-F&S-200040/1287055001/)
+  - Location: Shanghai, China
   - Updated: 2026-08-05
   - Source: sap_careers
   - Source type: china_company_career

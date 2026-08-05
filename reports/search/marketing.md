@@ -2,7 +2,7 @@
 
 ## Summary
 
-- Total matching jobs: 28
+- Total matching jobs: 30
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -42,6 +42,12 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 - [Associate Field Marketing Manager](https://careers.datadoghq.com/detail/8003073/?gh_jid=8003073)
   - Location: Bangalore, India
   - Updated: 2026-07-28
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Associate Field Marketing Manager (US East and Canada)](https://careers.datadoghq.com/detail/8097690/?gh_jid=8097690)
+  - Location: New York, New York, USA
+  - Updated: 2026-08-05
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -168,6 +174,12 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 - [Social Media, Customer Support Associate ](https://stripe.com/jobs/search?gh_jid=7867328)
   - Location: Mexico
   - Updated: 2026-07-22
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Technical Writer, Docs Content](https://stripe.com/jobs/search?gh_jid=8036155)
+  - Location: US Remote
+  - Updated: 2026-08-05
   - Source: greenhouse
   - Source type: Unknown source type
 

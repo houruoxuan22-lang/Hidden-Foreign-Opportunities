@@ -55,27 +55,21 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027)
-  - Location: In-Office
-  - Updated: 2026-07-01
-  - Source: greenhouse
-  - Source type: Unknown source type
-
 - [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562)
   - Location: In-Office
   - Updated: 2026-07-02
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077)
+- [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027)
   - Location: In-Office
-  - Updated: 2026-07-02
+  - Updated: 2026-07-01
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379)
+- [Professional Services Intern – Global Customer Services (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7796077?gh_jid=7796077)
   - Location: In-Office
-  - Updated: 2026-07-28
+  - Updated: 2026-07-02
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -88,6 +82,12 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 - [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407)
   - Location: In-Office
   - Updated: 2026-07-29
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379)
+  - Location: In-Office
+  - Updated: 2026-07-28
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -143,12 +143,6 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 
 ### SAP China
 
-- [SAP China iXp Intern - APAC RFx Proposal Advisory (RPA) Bid Management Intern - Shanghai](https://jobs.sap.com/job/Shanghai-SAP-China-iXp-Intern-APAC-RFx-Proposal-Advisory-RPA-Bid-Management-Intern-Shanghai-201203/1404177633/)
-  - Location: Shanghai, China
-  - Updated: 2026-08-05
-  - Source: sap_careers
-  - Source type: china_company_career
-
 - [SAP China iXp Intern - Data Management Intern for GTLC Team - Shanghai](https://jobs.sap.com/job/Shanghai-SAP-China-iXp-Intern-Data-Management-Intern-for-GTLC-Team-Shanghai-201203/1409649533/)
   - Location: Shanghai, China
   - Updated: 2026-08-05
@@ -191,6 +185,12 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: sap_careers
   - Source type: china_company_career
 
+- [SAP China iXp Intern - System Reliability Engineer Intern - Shanghai](https://jobs.sap.com/job/Shanghai-SAP-China-iXp-Intern-System-Reliability-Engineer-Intern-Shanghai-201203/1413714333/)
+  - Location: Shanghai, China
+  - Updated: 2026-08-05
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [SAP China iXp Intern -Testing Engineer - Xi'an](https://jobs.sap.com/job/XiAn-Shaanxi-SAP-China-iXp-Intern-Testing-Engineer-Xi&apos;an-710077/1418110833/)
   - Location: Xi'an, China
   - Updated: 2026-08-05
@@ -213,7 +213,7 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 
 - [Program Manager, Risk Ops Enablement](https://stripe.com/jobs/search?gh_jid=7214197)
   - Location: US-Remote
-  - Updated: 2026-07-27
+  - Updated: 2026-08-05
   - Source: greenhouse
   - Source type: Unknown source type
 

@@ -2,7 +2,7 @@
 
 ## Summary
 
-- Total matching jobs: 22
+- Total matching jobs: 23
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -69,12 +69,6 @@ Jobs with Shanghai-related location signals.
   - Source: sap_careers
   - Source type: china_company_career
 
-- [SAP China iXp Intern - APAC RFx Proposal Advisory (RPA) Bid Management Intern - Shanghai](https://jobs.sap.com/job/Shanghai-SAP-China-iXp-Intern-APAC-RFx-Proposal-Advisory-RPA-Bid-Management-Intern-Shanghai-201203/1404177633/)
-  - Location: Shanghai, China
-  - Updated: 2026-08-05
-  - Source: sap_careers
-  - Source type: china_company_career
-
 - [SAP China iXp Intern - Data Management Intern for GTLC Team - Shanghai](https://jobs.sap.com/job/Shanghai-SAP-China-iXp-Intern-Data-Management-Intern-for-GTLC-Team-Shanghai-201203/1409649533/)
   - Location: Shanghai, China
   - Updated: 2026-08-05
@@ -99,6 +93,12 @@ Jobs with Shanghai-related location signals.
   - Source: sap_careers
   - Source type: china_company_career
 
+- [SAP China iXp Intern - System Reliability Engineer Intern - Shanghai](https://jobs.sap.com/job/Shanghai-SAP-China-iXp-Intern-System-Reliability-Engineer-Intern-Shanghai-201203/1413714333/)
+  - Location: Shanghai, China
+  - Updated: 2026-08-05
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [SAP China iXp Interns - Backend Software Development Intern](https://jobs.sap.com/job/Shanghai-SAP-China-iXp-Interns-Backend-Software-Development-Intern-201203/1392176533/)
   - Location: Shanghai, China
   - Updated: 2026-08-05
@@ -106,6 +106,12 @@ Jobs with Shanghai-related location signals.
   - Source type: china_company_career
 
 - [Senior Account Executive - LS - SH](https://jobs.sap.com/job/Shanghai-Senior-Account-Executive-LS-SH-200040/1378768633/)
+  - Location: Shanghai, China
+  - Updated: 2026-08-05
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Senior Audit Specialist - Compliance Monitoring](https://jobs.sap.com/job/Shanghai-Senior-Audit-Specialist-Compliance-Monitoring-201203/1413655533/)
   - Location: Shanghai, China
   - Updated: 2026-08-05
   - Source: sap_careers
