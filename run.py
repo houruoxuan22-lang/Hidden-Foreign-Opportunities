@@ -108,7 +108,7 @@ def main():
     report = generate_markdown_report(all_jobs)
     save_report(report)
     generate_search_reports(all_jobs)
-    generate_web_dashboard(matched_jobs)
+    generate_web_dashboard(matched_jobs, profile)
     save_daily_snapshot(all_jobs)
 
     weekly_report = generate_weekly_trend_report()

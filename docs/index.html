@@ -70,6 +70,183 @@
       color: var(--text);
     }
 
+    .profile-panel {
+      margin-bottom: 18px;
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      overflow: hidden;
+    }
+
+    .profile-panel summary {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+      padding: 16px 18px;
+      cursor: pointer;
+      font-weight: 650;
+    }
+
+    .profile-panel summary:hover {
+      background: var(--badge);
+    }
+
+    .profile-summary-name {
+      color: var(--muted);
+      font-size: 13px;
+      font-weight: 500;
+    }
+
+    .profile-content {
+      padding: 0 18px 18px;
+      border-top: 1px solid var(--border);
+    }
+
+    .profile-description {
+      margin: 14px 0;
+      color: var(--muted);
+      font-size: 14px;
+      max-width: 900px;
+    }
+
+    .profile-group {
+      margin-top: 14px;
+    }
+
+    .profile-group-title {
+      margin: 0 0 8px;
+      font-size: 13px;
+      font-weight: 650;
+    }
+
+    .profile-chips {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .profile-chip {
+      display: inline-flex;
+      align-items: center;
+      padding: 4px 9px;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      background: var(--badge);
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .profile-empty {
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .score-details {
+      margin-top: 18px;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      background: var(--badge);
+      overflow: hidden;
+    }
+
+    .score-details summary {
+      justify-content: flex-start;
+      padding: 13px 14px;
+      font-size: 14px;
+      font-weight: 650;
+    }
+
+    .score-details-content {
+      padding: 0 14px 14px;
+      border-top: 1px solid var(--border);
+      background: var(--card);
+    }
+
+    .score-intro {
+      margin: 13px 0;
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .score-columns {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 14px;
+    }
+
+    .score-column {
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 12px;
+    }
+
+    .score-column h3 {
+      margin: 0 0 10px;
+      font-size: 14px;
+    }
+
+    .score-rule {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 12px;
+      padding: 7px 0;
+      border-top: 1px solid var(--border);
+      font-size: 13px;
+    }
+
+    .score-rule:first-of-type {
+      border-top: 0;
+      padding-top: 0;
+    }
+
+    .score-rule-label {
+      color: var(--muted);
+    }
+
+    .score-rule-points {
+      flex: 0 0 auto;
+      font-size: 13px;
+    }
+
+    .score-rule-points.positive {
+      color: #116329;
+    }
+
+    .score-rule-points.negative {
+      color: #9a6700;
+    }
+
+    .score-levels {
+      margin-top: 14px;
+    }
+
+    .score-level-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .score-level {
+      display: inline-flex;
+      align-items: center;
+      padding: 5px 9px;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .score-disclaimer {
+      margin: 14px 0 0;
+      padding: 10px 12px;
+      border-left: 3px solid var(--accent);
+      background: var(--accent-soft);
+      color: var(--muted);
+      font-size: 13px;
+    }
     .filters {
       background: var(--card);
       border: 1px solid var(--border);
@@ -297,6 +474,13 @@
 }
 
 @media (max-width: 560px) {
+  .score-columns {
+    grid-template-columns: 1fr;
+  }
+
+  .score-rule {
+    gap: 8px;
+  }
   .stats {
     display: grid;
     grid-template-columns: 1fr;
@@ -348,7 +532,75 @@
   </header>
 
   <main class="container">
+      <details class="profile-panel">
+        <summary>
+          <span>Current matching profile</span>
+          <span class="profile-summary-name">China-based early-career foreign-company job seeker</span>
+        </summary>
+
+        <div class="profile-content">
+        <p class="profile-description">
+          A default profile for early-career job seekers in mainland China who are interested in foreign companies, cross-border roles, business roles, marketing, customer success, operations, and remote-friendly opportunities.
+        </p>
+
+        <div class="profile-group">
+          <p class="profile-group-title">Target locations</p>
+          <div class="profile-chips">
+            <span class="profile-chip">Shanghai</span><span class="profile-chip">Beijing</span><span class="profile-chip">Shenzhen</span><span class="profile-chip">Suzhou</span><span class="profile-chip">Hangzhou</span><span class="profile-chip">Nanjing</span><span class="profile-chip">Chengdu</span><span class="profile-chip">China</span><span class="profile-chip">Remote</span>
+          </div>
+        </div>
+
+        <div class="profile-group">
+          <p class="profile-group-title">Target role areas</p>
+          <div class="profile-chips">
+            <span class="profile-chip">Marketing</span><span class="profile-chip">Business Development</span><span class="profile-chip">Customer Success</span><span class="profile-chip">Operations</span><span class="profile-chip">Sales</span><span class="profile-chip">Project Coordination</span><span class="profile-chip">Cross-border Business</span>
+          </div>
+        </div>
+
+            <details class="score-details">
+      <summary>How the match score is calculated</summary>
+
+      <div class="score-details-content">
+        <p class="score-intro">
+          The score starts at 0 and combines matching signals with possible
+          risk deductions. Scores are limited to a range of 0–100.
+        </p>
+
+        <div class="score-columns">
+          <section class="score-column">
+            <h3>Fit signals</h3>
+            <div class="score-rule"><span class="score-rule-label">Target location match</span><strong class="score-rule-points positive">+25</strong></div><div class="score-rule"><span class="score-rule-label">Preferred role match</span><strong class="score-rule-points positive">+25</strong></div><div class="score-rule"><span class="score-rule-label">Early-career signal</span><strong class="score-rule-points positive">+20</strong></div><div class="score-rule"><span class="score-rule-label">Matched skills — maximum</span><strong class="score-rule-points positive">+20</strong></div><div class="score-rule"><span class="score-rule-label">Remote-friendly location</span><strong class="score-rule-points positive">+10</strong></div>
+          </section>
+
+          <section class="score-column">
+            <h3>Possible deductions</h3>
+            <div class="score-rule"><span class="score-rule-label">Region-restricted remote role</span><strong class="score-rule-points negative">-20</strong></div><div class="score-rule"><span class="score-rule-label">Location outside current targets</span><strong class="score-rule-points negative">-20</strong></div><div class="score-rule"><span class="score-rule-label">Seniority signal in job title — each</span><strong class="score-rule-points negative">-15</strong></div><div class="score-rule"><span class="score-rule-label">Experience-risk requirement — each</span><strong class="score-rule-points negative">-15</strong></div><div class="score-rule"><span class="score-rule-label">Specialized qualification requirement — each</span><strong class="score-rule-points negative">-30</strong></div>
+          </section>
+        </div>
+
+        <div class="score-levels">
+          <p class="profile-group-title">Score labels</p>
+
+          <div class="score-level-list">
+            <span class="score-level">75–100 · Strong match</span>
+            <span class="score-level">55–74 · Potential match</span>
+            <span class="score-level">35–54 · Worth exploring</span>
+            <span class="score-level">0–34 · Low match</span>
+          </div>
+        </div>
+
+        <p class="score-disclaimer">
+          Match scores estimate alignment with this default profile.
+          They are not hiring predictions or guarantees of interview or offer success.
+          Always review the full job description before applying.
+        </p>
+      </div>
+    </details>
+      </div>
+    </details>
+
     <section class="filters">
+    
       <div class="filter-grid">
         <input id="searchInput" type="search" placeholder="Search title, company, city, skill, source..." />
 

@@ -268,8 +268,115 @@ def deduplicate_normalized_jobs(jobs):
 
     return deduped_jobs
 
-def build_dashboard_html(jobs):
+def build_dashboard_html(jobs, profile=None):
     today = date.today().isoformat()
+    if not isinstance(profile, dict):
+        profile = {}
+    profile_name = (
+        safe_text(profile.get("profile_name")).strip()
+        or "Default matching profile"
+    )
+
+    profile_description = (
+        safe_text(profile.get("description")).strip()
+        or "This dashboard currently uses a default matching profile."
+    )
+
+    target_locations = profile.get("target_locations", [])
+    if not isinstance(target_locations, list):
+        target_locations = []
+
+    target_role_areas = profile.get("target_role_areas", [])
+    if not isinstance(target_role_areas, list):
+        target_role_areas = []
+
+    def build_profile_chips(values):
+        chips = []
+
+        for value in values:
+            clean_value = safe_text(value).strip()
+
+            if not clean_value:
+                continue
+
+            chips.append(
+                '<span class="profile-chip">'
+                f'{html.escape(clean_value)}'
+                '</span>'
+            )
+
+        if not chips:
+            return '<span class="profile-empty">Not specified</span>'
+
+        return "".join(chips)
+
+    profile_name_html = html.escape(profile_name)
+    profile_description_html = html.escape(profile_description)
+    profile_locations_html = build_profile_chips(target_locations)
+    profile_roles_html = build_profile_chips(target_role_areas)
+    scoring = profile.get("scoring", {})
+
+    if not isinstance(scoring, dict):
+        scoring = {}
+
+    def format_score_points(value):
+        if not isinstance(value, (int, float)):
+            return "Not configured"
+
+        if value > 0:
+            return f"+{value}"
+
+        return str(value)
+
+    def build_score_rules(rules, point_class):
+        rows = []
+
+        for label, scoring_key in rules:
+            value = scoring.get(scoring_key)
+
+            if not isinstance(value, (int, float)):
+                continue
+
+            rows.append(
+                '<div class="score-rule">'
+                f'<span class="score-rule-label">{html.escape(label)}</span>'
+                f'<strong class="score-rule-points {point_class}">'
+                f'{html.escape(format_score_points(value))}'
+                '</strong>'
+                '</div>'
+            )
+
+        if not rows:
+            return '<p class="profile-empty">No scoring rules configured.</p>'
+
+        return "".join(rows)
+
+    positive_score_rules = [
+        ("Target location match", "location_match"),
+        ("Preferred role match", "role_match"),
+        ("Early-career signal", "early_career_match"),
+        ("Matched skills — maximum", "skill_match_max"),
+        ("Remote-friendly location", "remote_match"),
+    ]
+
+    risk_score_rules = [
+        ("Region-restricted remote role", "restricted_remote_penalty"),
+        ("Location outside current targets", "location_mismatch_penalty"),
+        ("Seniority signal in job title — each", "title_risk_penalty"),
+        ("Experience-risk requirement — each", "risk_keyword_penalty"),
+        ("Specialized qualification requirement — each", "strong_exclude_penalty"),
+    ]
+
+    positive_score_rules_html = build_score_rules(
+        positive_score_rules,
+        "positive",
+    )
+
+    risk_score_rules_html = build_score_rules(
+        risk_score_rules,
+        "negative",
+    )
+      
     normalized_jobs = deduplicate_normalized_jobs(
         [normalize_job(job) for job in jobs]
     )
@@ -349,6 +456,183 @@ def build_dashboard_html(jobs):
       color: var(--text);
     }
 
+    .profile-panel {
+      margin-bottom: 18px;
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      overflow: hidden;
+    }
+
+    .profile-panel summary {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+      padding: 16px 18px;
+      cursor: pointer;
+      font-weight: 650;
+    }
+
+    .profile-panel summary:hover {
+      background: var(--badge);
+    }
+
+    .profile-summary-name {
+      color: var(--muted);
+      font-size: 13px;
+      font-weight: 500;
+    }
+
+    .profile-content {
+      padding: 0 18px 18px;
+      border-top: 1px solid var(--border);
+    }
+
+    .profile-description {
+      margin: 14px 0;
+      color: var(--muted);
+      font-size: 14px;
+      max-width: 900px;
+    }
+
+    .profile-group {
+      margin-top: 14px;
+    }
+
+    .profile-group-title {
+      margin: 0 0 8px;
+      font-size: 13px;
+      font-weight: 650;
+    }
+
+    .profile-chips {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .profile-chip {
+      display: inline-flex;
+      align-items: center;
+      padding: 4px 9px;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      background: var(--badge);
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .profile-empty {
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .score-details {
+      margin-top: 18px;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      background: var(--badge);
+      overflow: hidden;
+    }
+
+    .score-details summary {
+      justify-content: flex-start;
+      padding: 13px 14px;
+      font-size: 14px;
+      font-weight: 650;
+    }
+
+    .score-details-content {
+      padding: 0 14px 14px;
+      border-top: 1px solid var(--border);
+      background: var(--card);
+    }
+
+    .score-intro {
+      margin: 13px 0;
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .score-columns {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 14px;
+    }
+
+    .score-column {
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 12px;
+    }
+
+    .score-column h3 {
+      margin: 0 0 10px;
+      font-size: 14px;
+    }
+
+    .score-rule {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 12px;
+      padding: 7px 0;
+      border-top: 1px solid var(--border);
+      font-size: 13px;
+    }
+
+    .score-rule:first-of-type {
+      border-top: 0;
+      padding-top: 0;
+    }
+
+    .score-rule-label {
+      color: var(--muted);
+    }
+
+    .score-rule-points {
+      flex: 0 0 auto;
+      font-size: 13px;
+    }
+
+    .score-rule-points.positive {
+      color: #116329;
+    }
+
+    .score-rule-points.negative {
+      color: #9a6700;
+    }
+
+    .score-levels {
+      margin-top: 14px;
+    }
+
+    .score-level-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .score-level {
+      display: inline-flex;
+      align-items: center;
+      padding: 5px 9px;
+      border: 1px solid var(--border);
+      border-radius: 999px;
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .score-disclaimer {
+      margin: 14px 0 0;
+      padding: 10px 12px;
+      border-left: 3px solid var(--accent);
+      background: var(--accent-soft);
+      color: var(--muted);
+      font-size: 13px;
+    }
     .filters {
       background: var(--card);
       border: 1px solid var(--border);
@@ -576,6 +860,13 @@ def build_dashboard_html(jobs):
 }
 
 @media (max-width: 560px) {
+  .score-columns {
+    grid-template-columns: 1fr;
+  }
+
+  .score-rule {
+    gap: 8px;
+  }
   .stats {
     display: grid;
     grid-template-columns: 1fr;
@@ -627,7 +918,75 @@ def build_dashboard_html(jobs):
   </header>
 
   <main class="container">
+      <details class="profile-panel">
+        <summary>
+          <span>Current matching profile</span>
+          <span class="profile-summary-name">__PROFILE_NAME__</span>
+        </summary>
+
+        <div class="profile-content">
+        <p class="profile-description">
+          __PROFILE_DESCRIPTION__
+        </p>
+
+        <div class="profile-group">
+          <p class="profile-group-title">Target locations</p>
+          <div class="profile-chips">
+            __PROFILE_LOCATIONS__
+          </div>
+        </div>
+
+        <div class="profile-group">
+          <p class="profile-group-title">Target role areas</p>
+          <div class="profile-chips">
+            __PROFILE_ROLES__
+          </div>
+        </div>
+
+            <details class="score-details">
+      <summary>How the match score is calculated</summary>
+
+      <div class="score-details-content">
+        <p class="score-intro">
+          The score starts at 0 and combines matching signals with possible
+          risk deductions. Scores are limited to a range of 0–100.
+        </p>
+
+        <div class="score-columns">
+          <section class="score-column">
+            <h3>Fit signals</h3>
+            __POSITIVE_SCORE_RULES__
+          </section>
+
+          <section class="score-column">
+            <h3>Possible deductions</h3>
+            __RISK_SCORE_RULES__
+          </section>
+        </div>
+
+        <div class="score-levels">
+          <p class="profile-group-title">Score labels</p>
+
+          <div class="score-level-list">
+            <span class="score-level">75–100 · Strong match</span>
+            <span class="score-level">55–74 · Potential match</span>
+            <span class="score-level">35–54 · Worth exploring</span>
+            <span class="score-level">0–34 · Low match</span>
+          </div>
+        </div>
+
+        <p class="score-disclaimer">
+          Match scores estimate alignment with this default profile.
+          They are not hiring predictions or guarantees of interview or offer success.
+          Always review the full job description before applying.
+        </p>
+      </div>
+    </details>
+      </div>
+    </details>
+
     <section class="filters">
+    
       <div class="filter-grid">
         <input id="searchInput" type="search" placeholder="Search title, company, city, skill, source..." />
 
@@ -1185,16 +1544,28 @@ function updateUrlFromFilters() {
         html_template
         .replace("__GENERATED_DATE__", today)
         .replace("__JOBS_JSON__", jobs_json)
+        .replace("__PROFILE_NAME__", profile_name_html)
+        .replace("__PROFILE_DESCRIPTION__", profile_description_html)
+        .replace("__PROFILE_LOCATIONS__", profile_locations_html)
+        .replace("__PROFILE_ROLES__", profile_roles_html)
+        .replace(
+            "__POSITIVE_SCORE_RULES__",
+            positive_score_rules_html,
+        )
+        .replace(
+            "__RISK_SCORE_RULES__",
+            risk_score_rules_html,
+        )
     )
 
 
-def generate_web_dashboard(jobs=None):
+def generate_web_dashboard(jobs=None, profile=None):
     if jobs is None:
         jobs = load_jobs()
 
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-    html = build_dashboard_html(jobs)
+    html = build_dashboard_html(jobs, profile)
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write(html)
@@ -1208,5 +1579,5 @@ if __name__ == "__main__":
     profile = load_json(PROFILE_FILE)
     matched_jobs = score_jobs(load_jobs(), profile)
 
-    output_file = generate_web_dashboard(matched_jobs)
+    output_file = generate_web_dashboard(matched_jobs, profile)
     print(f"Generated matched web dashboard at {output_file}")
