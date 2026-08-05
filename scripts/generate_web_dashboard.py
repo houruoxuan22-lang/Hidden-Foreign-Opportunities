@@ -28,9 +28,6 @@ def format_date(value):
         return "Unknown"
     return str(value).split("T")[0]
 
-def format_date(value):
-    ...
-    return str(value).split("T")[0]
 
 
 def clean_description(value):
@@ -170,8 +167,7 @@ def human_source_type(value):
 
     return mapping.get(key, raw_value or "Unknown source type")
 
-def normalize_job(job):
-    ...
+
 
 def normalize_job(job):
     title = safe_text(job.get("title")) or "Untitled"
@@ -657,6 +653,13 @@ def build_dashboard_html(jobs):
           <option value="ai_data">AI / Data</option>
         </select>
 
+        <select id="matchSelect">
+          <option value="">All match scores</option>
+          <option value="75">Strong matches (75+)</option>
+          <option value="55">Potential or better (55+)</option>
+          <option value="35">Worth exploring or better (35+)</option>
+        </select>
+
         <select id="freshnessSelect">
           <option value="">All dates</option>
           <option value="7">Updated in last 7 days</option>
@@ -666,6 +669,7 @@ def build_dashboard_html(jobs):
 
         <select id="sortSelect">
           <option value="updated_desc">Newest first</option>
+          <option value="match_desc">Best Match first</option>
           <option value="updated_asc">Oldest first</option>
           <option value="company">Company A-Z</option>
           <option value="title">Title A-Z</option>
@@ -707,6 +711,7 @@ def build_dashboard_html(jobs):
     const companySelect = document.getElementById("companySelect");
     const sourceSelect = document.getElementById("sourceSelect");
     const categorySelect = document.getElementById("categorySelect");
+    const matchSelect = document.getElementById("matchSelect");
     const freshnessSelect = document.getElementById("freshnessSelect");
     const sortSelect = document.getElementById("sortSelect");
     const jobsList = document.getElementById("jobsList");
@@ -756,6 +761,14 @@ function readFiltersFromUrl() {
   setSelectIfOptionExists(companySelect, params.get("company"));
   setSelectIfOptionExists(sourceSelect, params.get("source"));
   setSelectIfOptionExists(categorySelect, params.get("category"));
+
+  const minimumMatch = params.get("min_match") || "";
+  const allowedMatchScores = new Set(["", "35", "55", "75"]);
+  const safeMinimumMatch = allowedMatchScores.has(minimumMatch)
+    ? minimumMatch
+    : "";
+
+  setSelectIfOptionExists(matchSelect, safeMinimumMatch);
   setSelectIfOptionExists(freshnessSelect, params.get("freshness"));
   setSelectIfOptionExists(sortSelect, params.get("sort"));
 }
@@ -781,6 +794,10 @@ function updateUrlFromFilters() {
 
   if (categorySelect.value) {
     params.set("category", categorySelect.value);
+  }
+
+  if (matchSelect.value) {
+    params.set("min_match", matchSelect.value);
   }
 
   if (freshnessSelect.value) {
@@ -872,7 +889,40 @@ function updateUrlFromFilters() {
       return daysSinceUpdated(job.posted_date) <= Number(freshnessDays);
     }
 
+    function matchScoreValue(job) {
+      if (
+        job.match_score === null
+        || job.match_score === undefined
+      ) {
+        return -1;
+      }
+
+      const score = Number(job.match_score);
+
+      return Number.isFinite(score) ? score : -1;
+    }
+
+    function matchesMinimumScore(job, minimumScore) {
+      if (!minimumScore) return true;
+
+      return matchScoreValue(job) >= Number(minimumScore);
+    }
+
     function compareJobs(a, b, sortMode) {
+      if (sortMode === "match_desc") {
+            const scoreA = Number.isFinite(Number(a.match_score))
+              ? Number(a.match_score)
+              : -1;
+
+        const scoreB = Number.isFinite(Number(b.match_score))
+          ? Number(b.match_score)
+          : -1;
+
+        return scoreB - scoreA
+          || dateValue(b.posted_date) - dateValue(a.posted_date)
+          || a.company.localeCompare(b.company)
+          || a.title.localeCompare(b.title);
+      }
      if (sortMode === "updated_asc") {
         return dateValue(a.posted_date) - dateValue(b.posted_date)
           || a.company.localeCompare(b.company)
@@ -1009,6 +1059,7 @@ function updateUrlFromFilters() {
       const company = companySelect.value;
       const source = sourceSelect.value;
       const category = categorySelect.value;
+      const minimumMatch = matchSelect.value;
       const freshness = freshnessSelect.value;
       const sortMode = sortSelect.value;
 
@@ -1018,6 +1069,7 @@ function updateUrlFromFilters() {
         if (company && job.company !== company) return false;
         if (source && job.source !== source) return false;
         if (!matchesCategory(job, category)) return false;
+        if (!matchesMinimumScore(job, minimumMatch)) return false;
         if (!matchesFreshness(job, freshness)) return false;
         return true;
       });
@@ -1030,15 +1082,39 @@ function updateUrlFromFilters() {
       if (company) labels.push(`Company: ${company}`);
       if (source) labels.push(`Source: ${source}`);
       if (category) labels.push(`Category: ${category}`);
-      if (freshness) labels.push(`Updated in last ${freshness} days`);
-      if (sortMode && sortMode !== "updated_desc") labels.push(`Sort: ${sortMode}`);
+
+    const matchLabels = {
+      "75": "Strong matches (75+)",
+      "55": "Potential or better (55+)",
+      "35": "Worth exploring or better (35+)",
+    };
+
+    if (minimumMatch) {
+      labels.push(
+        `Match: ${matchLabels[minimumMatch] || `${minimumMatch}+`}`
+      );
+    }
+
+    if (freshness) {
+      labels.push(`Updated in last ${freshness} days`);
+    }
+      const sortLabels = {
+        match_desc: "Best Match first",
+        updated_asc: "Oldest first",
+        company: "Company A-Z",
+        title: "Title A-Z",
+      };
+
+      if (sortMode && sortMode !== "updated_desc") {
+        labels.push(`Sort: ${sortLabels[sortMode] || sortMode}`);
+      }
 
       activeFilters.textContent = labels.length ? labels.join(" · ") : "No active filters";
       updateUrlFromFilters();
       renderJobs(filteredJobs);
     }
 
-    [searchInput, locationSelect, companySelect, sourceSelect, categorySelect, freshnessSelect, sortSelect].forEach(element => {
+    [searchInput, locationSelect, companySelect, sourceSelect, categorySelect, matchSelect, freshnessSelect, sortSelect].forEach(element => {
       element.addEventListener("input", applyFilters);
       element.addEventListener("change", applyFilters);
     });
@@ -1078,6 +1154,7 @@ function updateUrlFromFilters() {
       companySelect.value = "";
       sourceSelect.value = "";
       categorySelect.value = "";
+      matchSelect.value = "";
       freshnessSelect.value = "";
       sortSelect.value = "updated_desc";
       applyFilters();

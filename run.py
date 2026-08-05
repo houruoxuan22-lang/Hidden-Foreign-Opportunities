@@ -114,11 +114,7 @@ def main():
     weekly_report = generate_weekly_trend_report()
     save_weekly_report(weekly_report)
 
-    save_daily_snapshot(all_jobs)
-
-    weekly_report = generate_weekly_trend_report()
-    save_weekly_report(weekly_report)
-
+  
 
     print("=== JOB RADAR RUN COMPLETE ===")
     print(f"Total relevant jobs: {len(all_jobs)}")
