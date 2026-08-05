@@ -171,9 +171,9 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Social Media, Customer Support Associate ](https://stripe.com/jobs/search?gh_jid=7867328)
+- [Social Media, Customer Support Associate (Includes Weekend Rotations)](https://stripe.com/jobs/search?gh_jid=7867328)
   - Location: Mexico
-  - Updated: 2026-07-22
+  - Updated: 2026-08-05
   - Source: greenhouse
   - Source type: Unknown source type
 

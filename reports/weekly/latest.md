@@ -10,7 +10,7 @@
 ## Skill Trend Signals
 
 - Communication: 71 (+2)
-- Project Management: 55 (+4)
+- Project Management: 56 (+5)
 - Python: 41 (+2)
 - SQL: 40 (+1)
 - Sales: 33 (0)
@@ -36,8 +36,8 @@
 
 ## Top Companies in Latest Snapshot
 
-- Stripe: 144
-- Datadog: 67
+- Stripe: 145
+- Datadog: 66
 - Cloudflare: 32
 - SAP China: 19
 - European Chamber China: 9
