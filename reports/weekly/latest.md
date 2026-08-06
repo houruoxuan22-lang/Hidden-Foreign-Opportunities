@@ -1,9 +1,9 @@
-# Weekly Job Trend Report - 2026-08-05
+# Weekly Job Trend Report - 2026-08-06
 
 ## Summary
 
-- Snapshot window: 2026-07-31 to 2026-08-05
-- Snapshot days available: 6
+- Snapshot window: 2026-07-31 to 2026-08-06
+- Snapshot days available: 7
 - Latest total relevant jobs: 280
 - Change vs first available snapshot: 10
 
@@ -11,19 +11,19 @@
 
 - Communication: 71 (+2)
 - Project Management: 56 (+5)
-- Python: 41 (+2)
+- Python: 42 (+3)
 - SQL: 40 (+1)
 - Sales: 33 (0)
 - CRM: 24 (0)
 - Excel: 22 (+1)
 - Operations: 21 (+1)
 - Product: 17 (0)
-- Engineering: 15 (-2)
 - Tableau: 14 (+2)
+- Engineering: 14 (-3)
 - Marketing: 13 (+1)
-- Customer Success: 11 (+2)
-- Mandarin: 10 (0)
-- LLM: 8 (+2)
+- Mandarin: 11 (+1)
+- Customer Success: 10 (+1)
+- Cross-border: 8 (0)
 
 ## Job Distribution by Section
 

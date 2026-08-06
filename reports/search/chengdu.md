@@ -1,4 +1,4 @@
-# Chengdu Jobs - 2026-08-05
+# Chengdu Jobs - 2026-08-06
 
 ## Summary
 
