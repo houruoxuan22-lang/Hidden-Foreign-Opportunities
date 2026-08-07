@@ -108,6 +108,17 @@ def test_dashboard_contains_profile_and_scoring_explanation():
     assert "__RISK_SCORE_RULES__" not in dashboard_html
     assert "__JOBS_JSON__" not in dashboard_html
 
+    assert 'id="openProfileEditor"' in dashboard_html
+    assert 'id="profileEditorDialog"' in dashboard_html
+    assert 'id="profileLocationsInput"' in dashboard_html
+    assert 'id="profileRolesInput"' in dashboard_html
+    assert 'id="profileSkillsInput"' in dashboard_html
+    assert 'id="profileCareerStageSelect"' in dashboard_html
+    assert 'id="profileRemotePreferenceSelect"' in dashboard_html
+    assert "function populateProfileEditor(profile)" in dashboard_html
+    assert "function showProfileEditor()" in dashboard_html
+    assert "function hideProfileEditor()" in dashboard_html
+
 
 def test_dashboard_uses_safe_fallback_profile():
     dashboard_html = build_dashboard_html(

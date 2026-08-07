@@ -314,6 +314,25 @@ def build_dashboard_html(jobs, profile=None):
     profile_description_html = html.escape(profile_description)
     profile_locations_html = build_profile_chips(target_locations)
     profile_roles_html = build_profile_chips(target_role_areas)
+    skill_keywords = profile.get("skill_keywords", [])
+
+    if not isinstance(skill_keywords, list):
+        skill_keywords = []
+
+    profile_editor_data = {
+        "profile_name": profile_name,
+        "target_locations": target_locations,
+        "target_role_areas": target_role_areas,
+        "skill_keywords": skill_keywords,
+        "career_stage": "early_career",
+        "remote_preference": "preferred",
+    }
+
+    profile_editor_json = json.dumps(
+        profile_editor_data,
+        ensure_ascii=False,
+        separators=(",", ":"),
+    ).replace("</", "<\\/")
     scoring = profile.get("scoring", {})
 
     if not isinstance(scoring, dict):
@@ -376,7 +395,7 @@ def build_dashboard_html(jobs, profile=None):
         risk_score_rules,
         "negative",
     )
-      
+
     normalized_jobs = deduplicate_normalized_jobs(
         [normalize_job(job) for job in jobs]
     )
@@ -483,6 +502,149 @@ def build_dashboard_html(jobs, profile=None):
       color: var(--muted);
       font-size: 13px;
       font-weight: 500;
+    }
+
+    .profile-summary-actions {
+      display: inline-flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: flex-end;
+      gap: 10px;
+    }
+
+    .profile-edit-button {
+      padding: 6px 11px;
+      background: var(--accent-soft);
+      border-color: var(--accent);
+      color: var(--accent);
+      font-size: 12px;
+    }
+
+    .profile-editor-dialog {
+      width: min(720px, calc(100vw - 32px));
+      max-height: 88vh;
+      padding: 0;
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      background: var(--card);
+      color: var(--text);
+      box-shadow: 0 24px 70px rgba(15, 23, 42, 0.22);
+      overflow: auto;
+    }
+
+    .profile-editor-dialog::backdrop {
+      background: rgba(15, 23, 42, 0.55);
+    }
+
+    .profile-editor-header {
+      position: sticky;
+      top: 0;
+      z-index: 2;
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 16px;
+      padding: 20px;
+      border-bottom: 1px solid var(--border);
+      background: var(--card);
+    }
+
+    .profile-editor-header h2 {
+      margin: 0;
+      font-size: 20px;
+    }
+
+    .profile-editor-header p {
+      margin: 6px 0 0;
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .profile-editor-close {
+      flex: 0 0 auto;
+      width: 36px;
+      height: 36px;
+      padding: 0;
+      border-radius: 50%;
+      font-size: 24px;
+      line-height: 1;
+    }
+
+    .profile-editor-form {
+      padding: 20px;
+    }
+
+    .profile-editor-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 16px;
+    }
+
+    .profile-editor-field {
+      display: flex;
+      flex-direction: column;
+      gap: 7px;
+    }
+
+    .profile-editor-field > span {
+      font-size: 13px;
+      font-weight: 650;
+    }
+
+    .profile-editor-field small {
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .profile-editor-wide {
+      grid-column: 1 / -1;
+    }
+
+    .profile-editor-field textarea {
+      width: 100%;
+      min-width: 0;
+      resize: vertical;
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 11px 12px;
+      background: #fff;
+      color: var(--text);
+      font: inherit;
+      line-height: 1.5;
+    }
+
+    .profile-editor-field textarea:focus,
+    .profile-editor-field input:focus,
+    .profile-editor-field select:focus {
+      outline: 2px solid var(--accent-soft);
+      border-color: var(--accent);
+    }
+
+    .profile-editor-notice {
+      margin: 18px 0 0;
+      padding: 11px 13px;
+      border-left: 3px solid var(--accent);
+      background: var(--accent-soft);
+      color: var(--muted);
+      font-size: 13px;
+    }
+
+    .profile-editor-actions {
+      display: flex;
+      justify-content: flex-end;
+      gap: 10px;
+      margin-top: 20px;
+    }
+
+    .profile-editor-primary {
+      border-color: var(--accent);
+      background: var(--accent);
+      color: #fff;
+    }
+
+    .profile-editor-primary:disabled {
+      cursor: not-allowed;
+      opacity: 0.5;
     }
 
     .profile-content {
@@ -651,7 +813,7 @@ def build_dashboard_html(jobs, profile=None):
     .filter-grid input[type="search"] {
       grid-column: span 2;
     }
-    
+
     input,
     select {
       width: 100%;
@@ -860,6 +1022,37 @@ def build_dashboard_html(jobs, profile=None):
 }
 
 @media (max-width: 560px) {
+
+    .profile-summary-actions {
+    width: 100%;
+    justify-content: space-between;
+  }
+
+  .profile-editor-dialog {
+    width: calc(100vw - 20px);
+    max-height: 92vh;
+  }
+
+  .profile-editor-header,
+  .profile-editor-form {
+    padding: 16px;
+  }
+
+  .profile-editor-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .profile-editor-wide {
+    grid-column: auto;
+  }
+
+  .profile-editor-actions {
+    flex-direction: column-reverse;
+  }
+
+  .profile-editor-actions button {
+    width: 100%;
+  }
   .score-columns {
     grid-template-columns: 1fr;
   }
@@ -922,6 +1115,15 @@ def build_dashboard_html(jobs, profile=None):
         <summary>
           <span>Current matching profile</span>
           <span class="profile-summary-name">__PROFILE_NAME__</span>
+
+           <button
+              id="openProfileEditor"
+              class="profile-edit-button"
+              type="button"
+            >
+              Customize profile
+            </button>
+          </span>
         </summary>
 
         <div class="profile-content">
@@ -985,8 +1187,130 @@ def build_dashboard_html(jobs, profile=None):
       </div>
     </details>
 
+    <dialog
+      id="profileEditorDialog"
+      class="profile-editor-dialog"
+      aria-labelledby="profileEditorTitle"
+    >
+      <div class="profile-editor-header">
+        <div>
+          <h2 id="profileEditorTitle">Customize matching profile</h2>
+          <p>
+            Adjust the profile used to evaluate and prioritize job opportunities.
+          </p>
+        </div>
+
+        <button
+          id="closeProfileEditor"
+          class="profile-editor-close"
+          type="button"
+          aria-label="Close profile editor"
+        >
+          ×
+        </button>
+      </div>
+
+      <form id="profileEditorForm" class="profile-editor-form">
+        <div class="profile-editor-grid">
+          <label class="profile-editor-field profile-editor-wide">
+            <span>Profile name</span>
+
+            <input
+              id="profileNameInput"
+              type="text"
+              maxlength="100"
+            />
+          </label>
+
+          <label class="profile-editor-field">
+            <span>Career stage</span>
+
+            <select id="profileCareerStageSelect">
+              <option value="early_career">Early career</option>
+              <option value="mid_career">Mid career</option>
+              <option value="senior">Senior</option>
+              <option value="any">Any career stage</option>
+            </select>
+          </label>
+
+          <label class="profile-editor-field">
+            <span>Remote preference</span>
+
+            <select id="profileRemotePreferenceSelect">
+              <option value="preferred">Remote preferred</option>
+              <option value="accepted">Remote accepted</option>
+              <option value="not_preferred">On-site preferred</option>
+              <option value="any">No preference</option>
+            </select>
+          </label>
+
+          <label class="profile-editor-field profile-editor-wide">
+            <span>Target locations</span>
+
+            <textarea
+              id="profileLocationsInput"
+              rows="3"
+              placeholder="Shanghai, Beijing, Shenzhen, Remote"
+            ></textarea>
+
+            <small>Separate locations with commas.</small>
+          </label>
+
+          <label class="profile-editor-field profile-editor-wide">
+            <span>Target role areas</span>
+
+            <textarea
+              id="profileRolesInput"
+              rows="3"
+              placeholder="Marketing, Customer Success, Operations"
+            ></textarea>
+
+            <small>Separate role areas with commas.</small>
+          </label>
+
+          <label class="profile-editor-field profile-editor-wide">
+            <span>Skills and keywords</span>
+
+            <textarea
+              id="profileSkillsInput"
+              rows="4"
+              placeholder="English, Marketing, CRM, Excel"
+            ></textarea>
+
+            <small>
+              These keywords will be used by the browser-side scoring engine
+              in the next beta step.
+            </small>
+          </label>
+        </div>
+
+        <p class="profile-editor-notice">
+          Profile editing is currently a prototype. Applying changes to live
+          match scores will be connected in V2.0-beta.1.2.
+        </p>
+
+        <div class="profile-editor-actions">
+          <button
+            id="cancelProfileEditor"
+            type="button"
+          >
+            Cancel
+          </button>
+
+          <button
+            id="applyProfileEditor"
+            class="profile-editor-primary"
+            type="submit"
+            disabled
+          >
+            Apply profile
+          </button>
+        </div>
+      </form>
+    </dialog>
+
     <section class="filters">
-    
+
       <div class="filter-grid">
         <input id="searchInput" type="search" placeholder="Search title, company, city, skill, source..." />
 
@@ -1064,6 +1388,7 @@ def build_dashboard_html(jobs, profile=None):
 
   <script>
     const jobs = __JOBS_JSON__;
+    const defaultProfile = __PROFILE_EDITOR_JSON__;
 
     const searchInput = document.getElementById("searchInput");
     const locationSelect = document.getElementById("locationSelect");
@@ -1080,9 +1405,123 @@ def build_dashboard_html(jobs, profile=None):
     const visibleJobs = document.getElementById("visibleJobs");
     const clearFilters = document.getElementById("clearFilters");
     const copyLinkButton = document.getElementById("copyLinkButton");
-    const shareStatus = document.getElementById("shareStatus");
+    const openProfileEditor = document.getElementById(
+      "openProfileEditor"
+    );
+    const closeProfileEditor = document.getElementById(
+      "closeProfileEditor"
+    );
+    const cancelProfileEditor = document.getElementById(
+      "cancelProfileEditor"
+    );
+    const profileEditorDialog = document.getElementById(
+      "profileEditorDialog"
+    );
+    const profileEditorForm = document.getElementById(
+      "profileEditorForm"
+    );
+
+    const profileNameInput = document.getElementById(
+      "profileNameInput"
+    );
+    const profileCareerStageSelect = document.getElementById(
+      "profileCareerStageSelect"
+    );
+    const profileRemotePreferenceSelect = document.getElementById(
+      "profileRemotePreferenceSelect"
+    );
+    const profileLocationsInput = document.getElementById(
+      "profileLocationsInput"
+    );
+    const profileRolesInput = document.getElementById(
+      "profileRolesInput"
+    );
+    const profileSkillsInput = document.getElementById(
+      "profileSkillsInput"
+    );
 
     totalJobs.textContent = jobs.length;
+
+    function editorListValue(values) {
+      if (!Array.isArray(values)) {
+        return "";
+      }
+
+      return values
+        .map(value => String(value).trim())
+        .filter(Boolean)
+        .join(", ");
+    }
+
+    function populateProfileEditor(profile) {
+      const safeProfile = profile && typeof profile === "object"
+        ? profile
+        : {};
+
+      profileNameInput.value = safeProfile.profile_name || "";
+
+      profileCareerStageSelect.value =
+        safeProfile.career_stage || "early_career";
+
+      profileRemotePreferenceSelect.value =
+        safeProfile.remote_preference || "preferred";
+
+        profileLocationsInput.value = editorListValue(
+        safeProfile.target_locations
+      );
+
+      profileRolesInput.value = editorListValue(
+        safeProfile.target_role_areas
+      );
+
+      profileSkillsInput.value = editorListValue(
+        safeProfile.skill_keywords
+      );
+    }
+
+    function showProfileEditor() {
+      populateProfileEditor(defaultProfile);
+
+      if (typeof profileEditorDialog.showModal === "function") {
+        profileEditorDialog.showModal();
+      } else {
+        profileEditorDialog.setAttribute("open", "");
+      }
+    }
+
+    function hideProfileEditor() {
+      if (typeof profileEditorDialog.close === "function") {
+        profileEditorDialog.close();
+      } else {
+        profileEditorDialog.removeAttribute("open");
+      }
+    }
+
+    openProfileEditor.addEventListener("click", event => {
+      event.preventDefault();
+      event.stopPropagation();
+      showProfileEditor();
+    });
+
+    closeProfileEditor.addEventListener(
+      "click",
+      hideProfileEditor
+    );
+
+    cancelProfileEditor.addEventListener(
+      "click",
+      hideProfileEditor
+    );
+
+    profileEditorDialog.addEventListener("click", event => {
+      if (event.target === profileEditorDialog) {
+        hideProfileEditor();
+      }
+    });
+
+    profileEditorForm.addEventListener("submit", event => {
+      event.preventDefault();
+    });
 
     function uniqueSorted(values) {
       return [...new Set(values.filter(Boolean))].sort((a, b) => a.localeCompare(b));
@@ -1301,7 +1740,7 @@ function updateUrlFromFilters() {
     return dateValue(b.posted_date) - dateValue(a.posted_date)
       || a.company.localeCompare(b.company)
       || a.title.localeCompare(b.title);
-  }  
+  }
 
     function escapeHtml(text) {
       return String(text || "")
@@ -1386,7 +1825,7 @@ function updateUrlFromFilters() {
             </div>
           `
           : "";
-         
+
 
         card.innerHTML = `
           <h2 class="job-title">${titleHtml}</h2>
@@ -1548,6 +1987,10 @@ function updateUrlFromFilters() {
         .replace("__PROFILE_DESCRIPTION__", profile_description_html)
         .replace("__PROFILE_LOCATIONS__", profile_locations_html)
         .replace("__PROFILE_ROLES__", profile_roles_html)
+        .replace(
+            "__PROFILE_EDITOR_JSON__",
+            profile_editor_json,
+            )
         .replace(
             "__POSITIVE_SCORE_RULES__",
             positive_score_rules_html,
