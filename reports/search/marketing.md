@@ -1,8 +1,8 @@
-# Marketing and Communications Jobs - 2026-08-07
+# Marketing and Communications Jobs - 2026-08-08
 
 ## Summary
 
-- Total matching jobs: 30
+- Total matching jobs: 28
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -14,12 +14,6 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 ### Cloudflare
 
 - [Brand Social Media Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8054093?gh_jid=8054093)
-  - Location: In-Office
-  - Updated: 2026-08-06
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Marketing Events and Campaigns Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8053546?gh_jid=8053546)
   - Location: In-Office
   - Updated: 2026-08-06
   - Source: greenhouse
@@ -67,7 +61,7 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Policy and Communications Coordinator/Manager (based on experience)](https://www.europeanchamber.com.cn/en/job-vacancies/1959/Policy_and_Communications_Coordinator_Manager_based_on_experience_)
   - Location: Beijing, China
-  - Updated: 2026-08-07
+  - Updated: 2026-08-08
   - Source: european_chamber
   - Source type: china_local_static
 
@@ -75,7 +69,7 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Marketing Execution Expert- JingDigital--BJ/SH](https://jobs.sap.com/job/Beijing-Marketing-Execution-Expert-JingDigital-BJSH-100016/1418500233/)
   - Location: Beijing, China
-  - Updated: 2026-08-07
+  - Updated: 2026-08-08
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -177,12 +171,6 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Technical Writer, Docs Content](https://stripe.com/jobs/search?gh_jid=8036155)
-  - Location: US Remote
-  - Updated: 2026-08-06
-  - Source: greenhouse
-  - Source type: Unknown source type
-
 - [Writer, Content Marketing](https://stripe.com/jobs/search?gh_jid=7587814)
   - Location: Remote US
   - Updated: 2026-08-06
@@ -193,12 +181,12 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Marketing & Communications Specialist](https://swisscham.com.cn/jobs/marketing-communications-specialist-0)
   - Location: Shanghai, China
-  - Updated: 2026-08-07
+  - Updated: 2026-08-08
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-08-07
+  - Updated: 2026-08-08
   - Source: swisscham_china
   - Source type: china_local_static

@@ -1,8 +1,8 @@
-# AI and Data Jobs - 2026-08-07
+# AI and Data Jobs - 2026-08-08
 
 ## Summary
 
-- Total matching jobs: 22
+- Total matching jobs: 23
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -15,7 +15,7 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [AI Innovation Intern – Service Sales (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395)
   - Location: In-Office
-  - Updated: 2026-08-06
+  - Updated: 2026-08-07
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -49,13 +49,13 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [Data Engineer](https://jobs.sap.com/job/Shanghai-Data-Engineer-201203/1406689133/)
   - Location: Shanghai, China
-  - Updated: 2026-08-07
+  - Updated: 2026-08-08
   - Source: sap_careers
   - Source type: china_company_career
 
 - [SAP China iXp Intern - Data Management Intern for GTLC Team - Shanghai](https://jobs.sap.com/job/Shanghai-SAP-China-iXp-Intern-Data-Management-Intern-for-GTLC-Team-Shanghai-201203/1409649533/)
   - Location: Shanghai, China
-  - Updated: 2026-08-07
+  - Updated: 2026-08-08
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -148,5 +148,11 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 - [Security Analyst, Bug Bounty](https://stripe.com/jobs/search?gh_jid=7979393)
   - Location: Remote, North America
   - Updated: 2026-08-06
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Security Analyst, Bug Bounty](https://stripe.com/jobs/search?gh_jid=8070570)
+  - Location: Remote, North America
+  - Updated: 2026-08-07
   - Source: greenhouse
   - Source type: Unknown source type
