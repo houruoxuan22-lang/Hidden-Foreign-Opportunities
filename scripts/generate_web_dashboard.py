@@ -286,6 +286,7 @@ def build_dashboard_html(jobs, profile=None):
     if not isinstance(target_locations, list):
         target_locations = []
 
+
     target_role_areas = profile.get("target_role_areas", [])
     if not isinstance(target_role_areas, list):
         target_role_areas = []
@@ -314,27 +315,37 @@ def build_dashboard_html(jobs, profile=None):
     profile_description_html = html.escape(profile_description)
     profile_locations_html = build_profile_chips(target_locations)
     profile_roles_html = build_profile_chips(target_role_areas)
+
     skill_keywords = profile.get("skill_keywords", [])
 
     if not isinstance(skill_keywords, list):
         skill_keywords = []
 
-    profile_editor_data = {
-        "profile_name": profile_name,
-        "target_locations": target_locations,
-        "target_role_areas": target_role_areas,
-        "skill_keywords": skill_keywords,
-        "career_stage": "early_career",
-        "remote_preference": "preferred",
-    }
+    profile_editor_data = dict(profile)
+
+    profile_editor_data["profile_name"] = profile_name
+    profile_editor_data["target_locations"] = target_locations
+    profile_editor_data["target_role_areas"] = target_role_areas
+    profile_editor_data["skill_keywords"] = skill_keywords
+
+    profile_editor_data.setdefault(
+        "career_stage",
+        "early_career",
+    )
+
+    profile_editor_data.setdefault(
+        "remote_preference",
+        "preferred",
+    )
 
     profile_editor_json = json.dumps(
         profile_editor_data,
         ensure_ascii=False,
         separators=(",", ":"),
     ).replace("</", "<\\/")
-    scoring = profile.get("scoring", {})
 
+
+    scoring = profile.get("scoring", {})
     if not isinstance(scoring, dict):
         scoring = {}
 
@@ -1114,7 +1125,12 @@ def build_dashboard_html(jobs, profile=None):
       <details class="profile-panel">
         <summary>
           <span>Current matching profile</span>
-          <span class="profile-summary-name">__PROFILE_NAME__</span>
+          <span
+            id="currentProfileName"
+          class="profile-summary-name"
+          >
+          __PROFILE_NAME__
+         </span>
 
            <button
               id="openProfileEditor"
@@ -1132,17 +1148,20 @@ def build_dashboard_html(jobs, profile=None):
         </p>
 
         <div class="profile-group">
-          <p class="profile-group-title">Target locations</p>
-          <div class="profile-chips">
-            __PROFILE_LOCATIONS__
-          </div>
-        </div>
-
-        <div class="profile-group">
           <p class="profile-group-title">Target role areas</p>
-          <div class="profile-chips">
-            __PROFILE_ROLES__
+
+          <div
+           id="currentProfileLocations"
+           class="profile-chips"
+          >
+          __PROFILE_LOCATIONS__
           </div>
+        <div
+          id="currentProfileRoles"
+          class="profile-chips"
+        >
+          __PROFILE_ROLES__
+        </div>
         </div>
 
             <details class="score-details">
@@ -1301,7 +1320,6 @@ def build_dashboard_html(jobs, profile=None):
             id="applyProfileEditor"
             class="profile-editor-primary"
             type="submit"
-            disabled
           >
             Apply profile
           </button>
@@ -1389,6 +1407,9 @@ def build_dashboard_html(jobs, profile=None):
   <script>
     const jobs = __JOBS_JSON__;
     const defaultProfile = __PROFILE_EDITOR_JSON__;
+    let activeProfile = JSON.parse(
+      JSON.stringify(defaultProfile)
+    );
 
     const searchInput = document.getElementById("searchInput");
     const locationSelect = document.getElementById("locationSelect");
@@ -1439,6 +1460,17 @@ def build_dashboard_html(jobs, profile=None):
     const profileSkillsInput = document.getElementById(
       "profileSkillsInput"
     );
+    const currentProfileName = document.getElementById(
+      "currentProfileName"
+    );
+
+    const currentProfileLocations = document.getElementById(
+      "currentProfileLocations"
+    );
+
+    const currentProfileRoles = document.getElementById(
+      "currentProfileRoles"
+    );
 
     totalJobs.textContent = jobs.length;
 
@@ -1451,6 +1483,622 @@ def build_dashboard_html(jobs, profile=None):
         .map(value => String(value).trim())
         .filter(Boolean)
         .join(", ");
+    }
+
+    function parseEditorList(value) {
+      return String(value || "")
+        .split(",")
+        .map(item => item.trim())
+        .filter(Boolean);
+    }
+
+    function buildRoleKeywordsFromAreas(roleAreas) {
+      const keywordMap = {
+        "marketing": [
+          "marketing",
+          "communications",
+          "communication",
+          "brand",
+          "content",
+          "social media",
+        ],
+
+        "business development": [
+          "business development",
+          "partnership",
+          "growth",
+        ],
+
+        "customer success": [
+          "customer success",
+          "client service",
+        ],
+
+        "operations": [
+          "operations",
+        ],
+
+        "sales": [
+          "sales",
+          "account executive",
+          "account manager",
+        ],
+
+        "project coordination": [
+          "project coordinator",
+          "project management",
+        ],
+
+        "cross-border business": [
+          "cross border",
+          "cross-border",
+        ],
+      };
+
+      const keywords = [];
+
+      roleAreas.forEach(area => {
+        const normalizedArea = String(area || "")
+          .trim()
+          .toLowerCase();
+
+        if (!normalizedArea) {
+          return;
+        }
+
+        const mappedKeywords =
+          keywordMap[normalizedArea]
+          || [normalizedArea];
+
+        mappedKeywords.forEach(keyword => {
+          if (!keywords.includes(keyword)) {
+            keywords.push(keyword);
+          }
+        });
+      });
+
+      return keywords;
+    }
+
+    function buildProfileFromEditor() {
+      const targetLocations = parseEditorList(
+        profileLocationsInput.value
+      );
+
+      const targetRoleAreas = parseEditorList(
+        profileRolesInput.value
+      );
+
+      const skillKeywords = parseEditorList(
+        profileSkillsInput.value
+      );
+
+      return {
+        ...activeProfile,
+
+        profile_name:
+          profileNameInput.value.trim()
+          || "Custom matching profile",
+
+        career_stage:
+          profileCareerStageSelect.value,
+
+        remote_preference:
+          profileRemotePreferenceSelect.value,
+
+        target_locations:
+          targetLocations,
+
+        target_role_areas:
+          targetRoleAreas,
+
+        skill_keywords:
+          skillKeywords.map(value =>
+            value.toLowerCase()
+          ),
+
+        location_keywords:
+          targetLocations
+            .filter(value =>
+              value.toLowerCase() !== "remote"
+            )
+            .map(value =>
+              value.toLowerCase()
+            ),
+
+        role_keywords:
+           buildRoleKeywordsFromAreas(
+            targetRoleAreas
+          ),
+      };
+    }
+
+    function renderProfileChipList(container, values) {
+      container.innerHTML = "";
+
+      if (!Array.isArray(values) || !values.length) {
+        const empty = document.createElement("span");
+        empty.className = "profile-empty";
+        empty.textContent = "Not specified";
+        container.appendChild(empty);
+        return;
+      }
+
+      values.forEach(value => {
+        const chip = document.createElement("span");
+        chip.className = "profile-chip";
+        chip.textContent = value;
+        container.appendChild(chip);
+      });
+    }
+
+    function updateVisibleProfile(profile) {
+      currentProfileName.textContent =
+        profile.profile_name
+        || "Custom matching profile";
+
+      renderProfileChipList(
+        currentProfileLocations,
+        profile.target_locations
+      );
+
+      renderProfileChipList(
+        currentProfileRoles,
+        profile.target_role_areas
+      );
+    }
+
+    function safeMatchText(value) {
+      if (value === null || value === undefined) {
+        return "";
+      }
+
+      if (Array.isArray(value)) {
+        return value.map(safeMatchText).join(" ");
+      }
+
+      return String(value);
+    }
+
+    function normalizeMatchText(value) {
+      return safeMatchText(value)
+        .toLowerCase()
+        .replace(/\\s+/g, " ")
+        .trim();
+    }
+
+    function containsMatchKeyword(text, keyword) {
+      const normalizedKeyword = normalizeMatchText(keyword);
+
+      if (!normalizedKeyword) {
+        return false;
+      }
+
+      const simpleToken = /^[a-z0-9+#.-]+$/.test(
+        normalizedKeyword
+      );
+
+      if (!simpleToken) {
+        return text.includes(normalizedKeyword);
+      }
+
+      let start = text.indexOf(normalizedKeyword);
+
+      while (start !== -1) {
+        const before =
+          start > 0
+            ? text[start - 1]
+            : "";
+
+        const afterIndex =
+          start + normalizedKeyword.length;
+
+        const after =
+          afterIndex < text.length
+            ? text[afterIndex]
+            : "";
+
+        const beforeIsAlphaNumeric =
+          /[a-z0-9]/.test(before);
+
+        const afterIsAlphaNumeric =
+          /[a-z0-9]/.test(after);
+
+        if (
+          !beforeIsAlphaNumeric
+          && !afterIsAlphaNumeric
+        ) {
+          return true;
+        }
+
+        start = text.indexOf(
+          normalizedKeyword,
+          start + 1
+        );
+      }
+
+      return false;
+    }
+
+    function findMatchKeywords(text, keywords) {
+      if (!Array.isArray(keywords)) {
+        return [];
+      }
+
+      const matches = [];
+
+      keywords.forEach(keyword => {
+        if (
+          containsMatchKeyword(text, keyword)
+          && !matches.includes(keyword)
+        ) {
+          matches.push(keyword);
+        }
+      });
+
+      return matches;
+    }
+
+    function readableMatchKeyword(keyword) {
+      const value = String(keyword || "");
+
+      const containsChinese = Array
+        .from(value)
+        .some(character => {
+          const code = character.charCodeAt(0);
+
+          return code >= 0x4e00
+            && code <= 0x9fff;
+        });
+
+      if (containsChinese) {
+        return value;
+      }
+
+      return value
+        .replaceAll("-", " ")
+        .split(" ")
+        .map(word => {
+          if (!word) {
+            return word;
+          }
+
+          return (
+            word.charAt(0).toUpperCase()
+            + word.slice(1)
+          );
+        })
+        .join(" ");
+    }
+
+    function browserScoreLabel(score) {
+      if (score >= 75) {
+        return "Strong match";
+      }
+
+      if (score >= 55) {
+        return "Potential match";
+      }
+
+      if (score >= 35) {
+        return "Worth exploring";
+      }
+
+      return "Low match";
+    }
+
+    function scoreJobInBrowser(job, profile) {
+      const scoring =
+        profile
+        && typeof profile.scoring === "object"
+          ? profile.scoring
+          : {};
+
+      const careerStage =
+        profile.career_stage || "early_career";
+
+      const remotePreference =
+        profile.remote_preference || "preferred";
+
+      const useEarlyCareerRules =
+        careerStage === "early_career";
+
+      const scorePoints = key => {
+        const value = Number(scoring[key]);
+
+        return Number.isFinite(value)
+          ? value
+          : 0;
+      };
+
+      const title = normalizeMatchText(
+        job.title
+      );
+
+      const location = normalizeMatchText(
+        job.location
+      );
+
+      const description = normalizeMatchText(
+        job.description
+      );
+
+      const skills = normalizeMatchText(
+        job.skills
+      );
+
+      const sourceType = normalizeMatchText(
+        job.source_type
+      );
+
+      const roleText = title;
+
+      const skillText =
+        sourceType === "china_company_career"
+          ? title
+          : [title, skills]
+              .filter(Boolean)
+              .join(" ");
+
+      const fullText = [
+        title,
+        location,
+        description,
+        skills,
+      ]
+        .filter(Boolean)
+        .join(" ");
+
+      let score = 0;
+
+      const goodFit = [];
+      const watchOut = [];
+
+      const locationMatches =
+        findMatchKeywords(
+          location,
+          profile.location_keywords
+        );
+
+      const remoteMatches =
+        findMatchKeywords(
+          location,
+          profile.remote_keywords
+        );
+
+      const restrictedRemoteMatches =
+        findMatchKeywords(
+          location,
+          profile.restricted_remote_keywords
+        );
+
+      if (restrictedRemoteMatches.length) {
+        score += scorePoints(
+          "restricted_remote_penalty"
+        );
+
+        watchOut.push(
+          `Remote role appears region-restricted: ${
+            safeMatchText(job.location)
+          }`
+         );
+      } else if (locationMatches.length) {
+        score += scorePoints(
+          "location_match"
+        );
+
+        const displayedLocation =
+          safeMatchText(job.location)
+          || readableMatchKeyword(
+            locationMatches[0]
+          );
+
+        goodFit.push(
+          `Target location: ${displayedLocation}`
+        );
+      } else if (remoteMatches.length) {
+        if (remotePreference === "preferred") {
+         score += scorePoints(
+           "remote_match"
+          );
+
+          goodFit.push(
+            "Remote-friendly location"
+          );
+        }
+
+      } else if (
+        location
+        && location !== "unknown"
+        && location !== "unknown location"
+      ) {
+        score += scorePoints(
+          "location_mismatch_penalty"
+        );
+
+        watchOut.push(
+          `Location outside current targets: ${
+            safeMatchText(job.location)
+          }`
+        );
+      }
+
+      const roleMatches =
+        findMatchKeywords(
+          roleText,
+          profile.role_keywords
+        );
+
+      if (roleMatches.length) {
+        score += scorePoints(
+          "role_match"
+        );
+
+        const labels = roleMatches
+          .slice(0, 2)
+          .map(readableMatchKeyword);
+
+        goodFit.push(
+          `Preferred role: ${labels.join(", ")}`
+        );
+      }
+
+      const earlyCareerMatches =
+        findMatchKeywords(
+          title,
+          profile.early_career_keywords
+        );
+
+      if (
+        useEarlyCareerRules
+        && earlyCareerMatches.length
+      ) {
+        score += scorePoints(
+          "early_career_match"
+        );
+
+        const labels = earlyCareerMatches
+          .slice(0, 2)
+          .map(readableMatchKeyword);
+
+        goodFit.push(
+          `Early-career signal: ${
+            labels.join(", ")
+          }`
+        );
+      }
+
+      const skillMatches =
+        findMatchKeywords(
+          skillText,
+          profile.skill_keywords
+        );
+
+      if (skillMatches.length) {
+        const skillMatchMax =
+          scorePoints("skill_match_max");
+
+        const pointsPerSkill =
+          Math.max(
+            1,
+            Math.floor(skillMatchMax / 4)
+          );
+
+        const skillPoints =
+          Math.min(
+            skillMatchMax,
+            skillMatches.length
+              * pointsPerSkill
+          );
+
+        score += skillPoints;
+
+        const labels = skillMatches
+          .slice(0, 4)
+          .map(readableMatchKeyword);
+
+        goodFit.push(
+          `Matched skills: ${labels.join(", ")}`
+        );
+      }
+
+        const titleRiskMatches =
+          findMatchKeywords(
+            title,
+            profile.title_risk_keywords
+          );
+
+        if (useEarlyCareerRules) {
+          titleRiskMatches.forEach(keyword => {
+            score += scorePoints(
+              "title_risk_penalty"
+            );
+
+            watchOut.push(
+              `Seniority signal in title: ${
+                readableMatchKeyword(keyword)
+              }`
+            );
+          });
+        }
+
+        const riskMatches =
+          findMatchKeywords(
+            fullText,
+            profile.risk_keywords
+          );
+
+        if (useEarlyCareerRules) {
+          riskMatches.forEach(keyword => {
+            score += scorePoints(
+              "risk_keyword_penalty"
+            );
+
+            watchOut.push(
+              `Seniority or experience signal: ${
+                readableMatchKeyword(keyword)
+              }`
+            );
+          });
+        }
+
+      const strongExcludeMatches =
+        findMatchKeywords(
+          fullText,
+          profile.strong_exclude_keywords
+        );
+
+      strongExcludeMatches.forEach(keyword => {
+        score += scorePoints(
+          "strong_exclude_penalty"
+        );
+
+        watchOut.push(
+          `Specialized requirement: ${
+            readableMatchKeyword(keyword)
+          }`
+        );
+      });
+
+      const minimumScore =
+        Number.isFinite(
+          Number(scoring.min_score)
+        )
+          ? Number(scoring.min_score)
+          : 0;
+
+      const maximumScore =
+        Number.isFinite(
+          Number(scoring.max_score)
+        )
+          ? Number(scoring.max_score)
+          : 100;
+
+      score = Math.max(
+        minimumScore,
+        Math.min(maximumScore, score)
+      );
+
+      return {
+        ...job,
+        match_score: score,
+        match_label:
+          browserScoreLabel(score),
+        good_fit: goodFit,
+        watch_out: watchOut,
+      };
+    }
+
+    function rescoreJobs(profile) {
+      jobs.forEach(job => {
+        Object.assign(
+          job,
+          scoreJobInBrowser(
+            job,
+            profile
+          )
+        );
+      });
     }
 
     function populateProfileEditor(profile) {
@@ -1480,7 +2128,7 @@ def build_dashboard_html(jobs, profile=None):
     }
 
     function showProfileEditor() {
-      populateProfileEditor(defaultProfile);
+      populateProfileEditor(activeProfile);
 
       if (typeof profileEditorDialog.showModal === "function") {
         profileEditorDialog.showModal();
@@ -1521,6 +2169,22 @@ def build_dashboard_html(jobs, profile=None):
 
     profileEditorForm.addEventListener("submit", event => {
       event.preventDefault();
+
+      activeProfile = buildProfileFromEditor();
+
+      updateVisibleProfile(activeProfile);
+
+      rescoreJobs(activeProfile);
+
+      applyFilters();
+
+
+      console.log(
+        "Applied matching profile:",
+        activeProfile
+      );
+
+      hideProfileEditor();
     });
 
     function uniqueSorted(values) {

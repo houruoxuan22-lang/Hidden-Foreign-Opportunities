@@ -1,3 +1,7 @@
+import re
+import shutil
+import subprocess
+
 from scripts.generate_web_dashboard import (
     build_dashboard_html,
     clean_dashboard_description,
@@ -147,3 +151,52 @@ def test_embedded_job_json_escapes_script_closing_tags():
     )
 
     assert "<\\/script>" in dashboard_html
+
+def test_generated_dashboard_javascript_has_valid_syntax(tmp_path):
+    node = shutil.which("node")
+
+    assert node is not None, (
+        "Node.js is required to validate dashboard JavaScript."
+    )
+
+    dashboard_html = build_dashboard_html(
+        [sample_scored_job()],
+        load_json(PROFILE_FILE),
+    )
+
+    scripts = re.findall(
+        r"<script(?![^>]*\bsrc=)[^>]*>(.*?)</script>",
+        dashboard_html,
+        flags=re.S,
+    )
+
+    assert scripts, (
+        "Expected at least one inline JavaScript block."
+    )
+
+    for index, script in enumerate(scripts):
+        script_path = (
+            tmp_path
+            / f"dashboard-script-{index}.js"
+        )
+
+        script_path.write_text(
+            script,
+            encoding="utf-8",
+        )
+
+        result = subprocess.run(
+            [
+                node,
+                "--check",
+                str(script_path),
+            ],
+            capture_output=True,
+            text=True,
+        )
+
+        assert result.returncode == 0, (
+            "Generated dashboard contains "
+            "invalid JavaScript:\n"
+            f"{result.stderr}"
+        )
