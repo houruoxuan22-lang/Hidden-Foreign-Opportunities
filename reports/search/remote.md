@@ -2,7 +2,7 @@
 
 ## Summary
 
-- Total matching jobs: 183
+- Total matching jobs: 184
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -43,7 +43,7 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379)
+- [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400)
   - Location: In-Office
   - Updated: 2026-08-06
   - Source: greenhouse
@@ -55,9 +55,15 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400)
+- [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379)
   - Location: In-Office
   - Updated: 2026-08-06
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Senior Customer Engineer, Shenzhen](https://boards.greenhouse.io/cloudflare/jobs/8115936?gh_jid=8115936)
+  - Location: Distributed
+  - Updated: 2026-08-07
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -509,14 +515,14 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Deal Strategist](https://stripe.com/jobs/search?gh_jid=7958150)
-  - Location: US-Remote
+- [Deal Strategist](https://stripe.com/jobs/search?gh_jid=7958087)
+  - Location: US REMOTE
   - Updated: 2026-08-06
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Deal Strategist](https://stripe.com/jobs/search?gh_jid=7958087)
-  - Location: US REMOTE
+- [Deal Strategist](https://stripe.com/jobs/search?gh_jid=7958150)
+  - Location: US-Remote
   - Updated: 2026-08-06
   - Source: greenhouse
   - Source type: Unknown source type

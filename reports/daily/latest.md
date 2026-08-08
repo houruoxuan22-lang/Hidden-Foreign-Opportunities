@@ -2,9 +2,9 @@
 
 ## Summary
 
-- Total relevant jobs: 281
+- Total relevant jobs: 282
 - Companies tracked in this report: 6
-- China / APAC relevant jobs: 38
+- China / APAC relevant jobs: 39
 - Global remote jobs: 157
 - Other international jobs: 17
 - US / Canada jobs: 15
@@ -13,8 +13,8 @@
 ## Skill Signals
 
 - Communication: 67
-- Project Management: 54
-- Python: 43
+- Project Management: 55
+- Python: 44
 - SQL: 39
 - Sales: 33
 - Excel: 25
@@ -26,8 +26,8 @@
 - Marketing: 13
 - Mandarin: 11
 - Customer Success: 10
+- LLM: 9
 - Cross-border: 8
-- LLM: 8
 - Finance: 2
 - Consulting: 1
 - AI: 1
@@ -472,6 +472,12 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
+- [Senior Customer Engineer, Shenzhen](https://boards.greenhouse.io/cloudflare/jobs/8115936?gh_jid=8115936)
+  - Location: Distributed
+  - Updated: 2026-08-07
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
 - [Senior Manager, Customer Engineering, India](https://boards.greenhouse.io/cloudflare/jobs/8020043?gh_jid=8020043)
   - Location: Remote India
   - Updated: 2026-08-06
@@ -615,14 +621,14 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Deal Strategist](https://stripe.com/jobs/search?gh_jid=7958150)
-  - Location: US-Remote
+- [Deal Strategist](https://stripe.com/jobs/search?gh_jid=7958087)
+  - Location: US REMOTE
   - Updated: 2026-08-06
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Deal Strategist](https://stripe.com/jobs/search?gh_jid=7958087)
-  - Location: US REMOTE
+- [Deal Strategist](https://stripe.com/jobs/search?gh_jid=7958150)
+  - Location: US-Remote
   - Updated: 2026-08-06
   - Source: greenhouse
   - Status: Listed on official career page at report generation
@@ -1740,7 +1746,7 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379)
+- [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400)
   - Location: In-Office
   - Updated: 2026-08-06
   - Source: greenhouse
@@ -1752,7 +1758,7 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400)
+- [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379)
   - Location: In-Office
   - Updated: 2026-08-06
   - Source: greenhouse

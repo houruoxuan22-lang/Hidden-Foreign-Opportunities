@@ -14,7 +14,7 @@ This folder contains filtered job reports generated from `data/jobs.json`.
 - [Sales and Business Development Jobs](sales-business.md) - 61 jobs
 - [Marketing and Communications Jobs](marketing.md) - 28 jobs
 - [AI and Data Jobs](ai-data.md) - 23 jobs
-- [Remote Jobs](remote.md) - 183 jobs
+- [Remote Jobs](remote.md) - 184 jobs
 
 ## How to use
 
