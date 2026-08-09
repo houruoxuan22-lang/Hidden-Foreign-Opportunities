@@ -63,7 +63,7 @@ Jobs with remote or distributed work signals.
 
 - [Senior Customer Engineer, Shenzhen](https://boards.greenhouse.io/cloudflare/jobs/8115936?gh_jid=8115936)
   - Location: Distributed
-  - Updated: 2026-08-07
+  - Updated: 2026-08-09
   - Source: greenhouse
   - Source type: Unknown source type
 

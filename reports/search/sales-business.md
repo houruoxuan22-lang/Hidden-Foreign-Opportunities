@@ -27,7 +27,7 @@ Jobs related to sales, account management, business development, partnerships, a
 
 - [Senior Customer Engineer, Hong Kong (Pre-sales)](https://boards.greenhouse.io/cloudflare/jobs/8097947?gh_jid=8097947)
   - Location: Hybrid
-  - Updated: 2026-08-06
+  - Updated: 2026-08-09
   - Source: greenhouse
   - Source type: Unknown source type
 
