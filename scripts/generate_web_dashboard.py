@@ -1297,32 +1297,38 @@ def build_dashboard_html(jobs, profile=None):
             ></textarea>
 
             <small>
-              These keywords will be used by the browser-side scoring engine
-              in the next beta step.
+              These keywords are used by the browser-side scoring engine when calculating Match Scores.
             </small>
           </label>
         </div>
 
         <p class="profile-editor-notice">
-          Profile editing is currently a prototype. Applying changes to live
-          match scores will be connected in V2.0-beta.1.2.
+           Changes are applied to Match Scores immediately
+           and saved in this browser.
         </p>
 
         <div class="profile-editor-actions">
-          <button
-            id="cancelProfileEditor"
-            type="button"
-          >
-            Cancel
-          </button>
+        <button
+          id="resetProfileEditor"
+          type="button"
+        >
+          Reset to default
+        </button>
 
-          <button
-            id="applyProfileEditor"
-            class="profile-editor-primary"
-            type="submit"
-          >
-            Apply profile
-          </button>
+        <button
+          id="cancelProfileEditor"
+          type="button"
+        >
+          Cancel
+        </button>
+
+        <button
+          id="applyProfileEditor"
+          class="profile-editor-primary"
+          type="submit"
+        >
+          Apply profile
+         </button>
         </div>
       </form>
     </dialog>
@@ -1407,6 +1413,9 @@ def build_dashboard_html(jobs, profile=None):
   <script>
     const jobs = __JOBS_JSON__;
     const defaultProfile = __PROFILE_EDITOR_JSON__;
+    const PROFILE_STORAGE_KEY =
+      "hiddenForeignOpportunities.matchingProfile.v1";
+
     let activeProfile = JSON.parse(
       JSON.stringify(defaultProfile)
     );
@@ -1471,6 +1480,11 @@ def build_dashboard_html(jobs, profile=None):
     const currentProfileRoles = document.getElementById(
       "currentProfileRoles"
     );
+
+    const resetProfileEditor =
+      document.getElementById(
+        "resetProfileEditor"
+      );
 
     totalJobs.textContent = jobs.length;
 
@@ -1559,6 +1573,223 @@ def build_dashboard_html(jobs, profile=None):
 
       return keywords;
     }
+
+    function editableProfileSnapshot(profile) {
+  return {
+    profile_name:
+      profile.profile_name || "",
+
+    career_stage:
+      profile.career_stage || "early_career",
+
+    remote_preference:
+      profile.remote_preference || "preferred",
+
+    target_locations:
+      Array.isArray(profile.target_locations)
+        ? profile.target_locations
+        : [],
+
+    target_role_areas:
+      Array.isArray(profile.target_role_areas)
+        ? profile.target_role_areas
+        : [],
+
+    skill_keywords:
+      Array.isArray(profile.skill_keywords)
+        ? profile.skill_keywords
+        : [],
+  };
+}
+
+function saveActiveProfile(profile) {
+  try {
+    const profileSnapshot =
+      editableProfileSnapshot(profile);
+
+    const defaultSnapshot =
+      editableProfileSnapshot(defaultProfile);
+
+    if (
+      JSON.stringify(profileSnapshot)
+      === JSON.stringify(defaultSnapshot)
+    ) {
+      localStorage.removeItem(
+        PROFILE_STORAGE_KEY
+      );
+
+      return;
+    }
+
+    localStorage.setItem(
+      PROFILE_STORAGE_KEY,
+      JSON.stringify(profileSnapshot)
+    );
+  } catch (error) {
+    console.warn(
+      "Could not save matching profile:",
+      error
+    );
+  }
+}
+
+function profileFromStoredSnapshot(savedProfile) {
+  if (
+    !savedProfile
+    || typeof savedProfile !== "object"
+  ) {
+    return null;
+  }
+
+  const targetLocations =
+    Array.isArray(savedProfile.target_locations)
+      ? savedProfile.target_locations
+      : defaultProfile.target_locations;
+
+  const targetRoleAreas =
+    Array.isArray(savedProfile.target_role_areas)
+      ? savedProfile.target_role_areas
+      : defaultProfile.target_role_areas;
+
+  const skillKeywords =
+    Array.isArray(savedProfile.skill_keywords)
+      ? savedProfile.skill_keywords
+      : defaultProfile.skill_keywords;
+
+  const allowedCareerStages =
+    new Set([
+      "early_career",
+      "mid_career",
+      "senior",
+      "any",
+    ]);
+
+  const allowedRemotePreferences =
+    new Set([
+      "preferred",
+      "accepted",
+      "not_preferred",
+      "any",
+    ]);
+
+  const careerStage =
+    allowedCareerStages.has(
+      savedProfile.career_stage
+    )
+      ? savedProfile.career_stage
+      : defaultProfile.career_stage;
+
+  const remotePreference =
+    allowedRemotePreferences.has(
+      savedProfile.remote_preference
+    )
+      ? savedProfile.remote_preference
+      : defaultProfile.remote_preference;
+
+  return {
+    ...JSON.parse(
+      JSON.stringify(defaultProfile)
+    ),
+
+    profile_name:
+      typeof savedProfile.profile_name === "string"
+      && savedProfile.profile_name.trim()
+        ? savedProfile.profile_name.trim()
+        : defaultProfile.profile_name,
+
+    career_stage:
+      careerStage,
+
+    remote_preference:
+      remotePreference,
+
+    target_locations:
+      targetLocations,
+
+    target_role_areas:
+      targetRoleAreas,
+
+    skill_keywords:
+      skillKeywords
+        .map(value =>
+          String(value).trim().toLowerCase()
+        )
+        .filter(Boolean),
+
+    location_keywords:
+      targetLocations
+        .map(value =>
+          String(value).trim()
+        )
+        .filter(value =>
+          value
+          && value.toLowerCase() !== "remote"
+        )
+        .map(value =>
+          value.toLowerCase()
+        ),
+
+    role_keywords:
+      buildRoleKeywordsFromAreas(
+        targetRoleAreas
+      ),
+  };
+}
+
+function resetActiveProfile() {
+  try {
+    localStorage.removeItem(
+      PROFILE_STORAGE_KEY
+    );
+  } catch (error) {
+    console.warn(
+      "Could not clear saved matching profile:",
+      error
+    );
+  }
+
+  activeProfile = JSON.parse(
+    JSON.stringify(defaultProfile)
+  );
+
+  populateProfileEditor(
+    activeProfile
+  );
+
+  updateVisibleProfile(
+    activeProfile
+  );
+
+  rescoreJobs(
+    activeProfile
+  );
+
+  applyFilters();
+}
+
+function loadStoredProfile() {
+  try {
+    const rawProfile =
+      localStorage.getItem(
+        PROFILE_STORAGE_KEY
+      );
+
+    if (!rawProfile) {
+      return null;
+    }
+
+    return profileFromStoredSnapshot(
+      JSON.parse(rawProfile)
+    );
+  } catch (error) {
+    console.warn(
+      "Could not load saved matching profile:",
+      error
+    );
+
+    return null;
+  }
+}
 
     function buildProfileFromEditor() {
       const targetLocations = parseEditorList(
@@ -2161,6 +2392,13 @@ def build_dashboard_html(jobs, profile=None):
       hideProfileEditor
     );
 
+    resetProfileEditor.addEventListener(
+      "click",
+      () => {
+        resetActiveProfile();
+      }
+    );
+
     profileEditorDialog.addEventListener("click", event => {
       if (event.target === profileEditorDialog) {
         hideProfileEditor();
@@ -2171,6 +2409,8 @@ def build_dashboard_html(jobs, profile=None):
       event.preventDefault();
 
       activeProfile = buildProfileFromEditor();
+
+      saveActiveProfile(activeProfile);
 
       updateVisibleProfile(activeProfile);
 
@@ -2636,6 +2876,22 @@ function updateUrlFromFilters() {
         shareStatus.textContent = "";
       }, 2500);
     });
+
+    const storedProfile =
+      loadStoredProfile();
+
+    if (storedProfile) {
+      activeProfile = storedProfile;
+
+      updateVisibleProfile(
+        activeProfile
+      );
+
+      rescoreJobs(
+        activeProfile
+      );
+    }
+
     readFiltersFromUrl();
     applyFilters();
   </script>
