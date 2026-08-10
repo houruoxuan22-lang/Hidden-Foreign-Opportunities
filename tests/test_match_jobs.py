@@ -1,10 +1,196 @@
+import pytest
+@pytest.mark.parametrize(
+    "location",
+    [
+        "Remote US",
+        "Remote-US",
+        "Remote in the US",
+        "Remote in the U.S.",
+        "Remote Canada",
+        "Remote-Canada",
+        "Remote in Canada",
+        "Remote UK",
+        "Remote in the UK",
+        "Remote North America",
+    ],
+)
+def test_score_job_penalizes_restricted_remote_variants(location):
+    profile = load_default_profile()
+
+    job = {
+        "title": "Marketing Specialist",
+        "company": "Example Company",
+        "location": location,
+        "description": "",
+        "skills": ["Marketing"],
+        "source_type": "ats_api",
+    }
+
+    result = score_job(job, profile)
+
+    assert any(
+        reason.startswith(
+            "Remote role appears region-restricted:"
+        )
+        for reason in result["watch_out"]
+    )
+
+    assert (
+        "Remote-friendly location"
+        not in result["good_fit"]
+    )
+
+@pytest.mark.parametrize(
+    ("raw_location", "expected"),
+    [
+        ("US-Remote", "us remote"),
+        ("Remote-US", "remote us"),
+        ("Remote, US", "remote us"),
+        (
+            "Remote (US/Canada)",
+            "remote us canada",
+        ),
+        (
+            "Remote, North America",
+            "remote north america",
+        ),
+        (
+            "US-Remote; US-Chicago",
+            "us remote us chicago",
+        ),
+        (
+            "Toronto, Remote-Canada",
+            "toronto remote canada",
+        ),
+    ],
+)
+def test_normalize_location_text_handles_common_separators(
+    raw_location,
+    expected,
+):
+    assert (
+        normalize_location_text(raw_location)
+        == expected
+    )
+
+@pytest.mark.parametrize(
+    "location",
+    [
+        "Remote, North America",
+        "Remote (US/Canada)",
+    ],
+)
+def test_score_job_detects_restricted_remote_after_location_normalization(
+    location,
+):
+    profile = load_default_profile()
+
+    job = {
+        "title": "Marketing Specialist",
+        "company": "Example Company",
+        "location": location,
+        "description": "",
+        "skills": ["Marketing"],
+        "source_type": "ats_api",
+    }
+
+    result = score_job(job, profile)
+
+    assert any(
+        reason.startswith(
+            "Remote role appears region-restricted:"
+        )
+        for reason in result["watch_out"]
+    )
+
+
+@pytest.mark.parametrize(
+    "location",
+    [
+        "In-Office",
+        "In Office",
+        "On-Site",
+        "Onsite",
+        "Hybrid",
+        "Distributed",
+    ],
+)
+def test_is_work_mode_only_location(location):
+    assert is_work_mode_only_location(location)
+
+@pytest.mark.parametrize(
+    "location",
+    [
+        "In-Office",
+        "Hybrid",
+        "Distributed",
+    ],
+)
+def test_work_mode_only_location_is_not_location_mismatch(
+    location,
+):
+    profile = load_default_profile()
+
+    job = {
+        "title": "Marketing Specialist",
+        "company": "Example Company",
+        "location": location,
+        "description": "",
+        "skills": ["Marketing"],
+        "source_type": "ats_api",
+    }
+
+    result = score_job(job, profile)
+
+    assert not any(
+        reason.startswith(
+            "Location outside current targets:"
+        )
+        for reason in result["watch_out"]
+    )
+@pytest.mark.parametrize(
+    ("location", "should_be_remote"),
+    [
+        ("Hybrid", False),
+        ("Distributed", False),
+        ("Remote", True),
+        ("Hybrid or Remote", True),
+    ],
+)
+def test_work_mode_remote_classification(
+    location,
+    should_be_remote,
+):
+    profile = load_default_profile()
+
+    job = {
+        "title": "Marketing Specialist",
+        "company": "Example Company",
+        "location": location,
+        "description": "",
+        "skills": ["Marketing"],
+        "source_type": "ats_api",
+    }
+
+    result = score_job(job, profile)
+
+    is_remote = (
+        "Remote-friendly location"
+        in result["good_fit"]
+    )
+
+    assert is_remote is should_be_remote
+
 from scripts.match_jobs import (
     PROFILE_FILE,
     contains_keyword,
     load_json,
     normalize_text,
+    normalize_location_text,
     score_job,
     score_label,
+    is_unknown_location,
+    is_work_mode_only_location,
 )
 
 def load_default_profile():
@@ -15,6 +201,54 @@ def test_normalize_text_lowercases_and_collapses_spaces():
 
     assert result == "marketing communications"
 
+@pytest.mark.parametrize(
+    "location",
+    [
+        "",
+        "N/A",
+        "NA",
+        "Unknown",
+        "Unknown Location",
+        "Not specified",
+        "Not available",
+        "TBD",
+        "-",
+        "--",
+    ],
+)
+def test_is_unknown_location_recognizes_placeholder_values(location):
+    assert is_unknown_location(location)
+
+
+@pytest.mark.parametrize(
+    "location",
+    [
+        "",
+        "N/A",
+        "Unknown",
+        "Not specified",
+    ],
+)
+def test_score_job_does_not_penalize_unknown_location(location):
+    profile = load_default_profile()
+
+    job = {
+        "title": "Marketing Specialist",
+        "company": "Example Company",
+        "location": location,
+        "description": "",
+        "skills": ["Marketing"],
+        "source_type": "ats_api",
+    }
+
+    result = score_job(job, profile)
+
+    assert not any(
+        reason.startswith(
+            "Location outside current targets:"
+        )
+        for reason in result["watch_out"]
+    )
 
 def test_contains_keyword_matches_complete_word():
     assert contains_keyword(

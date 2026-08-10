@@ -1898,6 +1898,46 @@ function loadStoredProfile() {
         .trim();
     }
 
+    function normalizeLocationText(value) {
+      return normalizeMatchText(value)
+        .replace(/[,;/|()]+/g, " ")
+        .replace(/[-–—]+/g, " ")
+        .replace(/\\s+/g, " ")
+        .trim();
+    }
+
+    function isUnknownLocation(value) {
+      const normalized =
+        normalizeMatchText(value);
+
+      return new Set([
+        "",
+        "n/a",
+        "na",
+        "unknown",
+        "unknown location",
+        "not specified",
+        "not available",
+        "tbd",
+        "-",
+        "--",
+      ]).has(normalized);
+    }
+
+    const WORK_MODE_ONLY_VALUES = new Set([
+      "in office",
+      "onsite",
+      "on site",
+      "hybrid",
+      "distributed",
+    ]);
+
+    function isWorkModeOnlyLocation(value) {
+      return WORK_MODE_ONLY_VALUES.has(
+        normalizeLocationText(value)
+      );
+    }
+
     function containsMatchKeyword(text, keyword) {
       const normalizedKeyword = normalizeMatchText(keyword);
 
@@ -2046,9 +2086,9 @@ function loadStoredProfile() {
         job.title
       );
 
-      const location = normalizeMatchText(
-        job.location
-      );
+     const location = normalizeLocationText(
+       job.location
+     );
 
       const description = normalizeMatchText(
         job.description
@@ -2139,10 +2179,9 @@ function loadStoredProfile() {
         }
 
       } else if (
-        location
-        && location !== "unknown"
-        && location !== "unknown location"
-      ) {
+      !isUnknownLocation(job.location)
+      && !isWorkModeOnlyLocation(job.location)
+    ) {
         score += scorePoints(
           "location_mismatch_penalty"
         );

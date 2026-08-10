@@ -39,6 +39,58 @@ def normalize_text(value: Any) -> str:
     text = safe_text(value).lower()
     return re.sub(r"\s+", " ", text).strip()
 
+def normalize_location_text(value: Any) -> str:
+    text = normalize_text(value)
+
+    text = re.sub(
+        r"[,;/|()]+",
+        " ",
+        text,
+    )
+
+    text = re.sub(
+        r"[-–—]+",
+        " ",
+        text,
+    )
+
+    return re.sub(
+        r"\s+",
+        " ",
+        text,
+    ).strip()
+
+UNKNOWN_LOCATION_VALUES = {
+    "",
+    "n/a",
+    "na",
+    "unknown",
+    "unknown location",
+    "not specified",
+    "not available",
+    "tbd",
+    "-",
+    "--",
+}
+
+WORK_MODE_ONLY_VALUES = {
+    "in office",
+    "onsite",
+    "on site",
+    "hybrid",
+    "distributed",
+}
+
+
+def is_work_mode_only_location(value: Any) -> bool:
+    return (
+        normalize_location_text(value)
+        in WORK_MODE_ONLY_VALUES
+    )
+
+def is_unknown_location(value: Any) -> bool:
+    return normalize_text(value) in UNKNOWN_LOCATION_VALUES
+
 
 def contains_keyword(text: str, keyword: str) -> bool:
     normalized_keyword = normalize_text(keyword)
@@ -99,7 +151,9 @@ def score_job(
     scoring = profile["scoring"]
 
     title = normalize_text(job.get("title"))
-    location = normalize_text(job.get("location"))
+    location = normalize_location_text(
+        job.get("location")
+    )
     description = normalize_text(job.get("description"))
     skills = normalize_text(job.get("skills"))
     source_type = normalize_text(job.get("source_type"))
@@ -161,8 +215,10 @@ def score_job(
         good_fit.append("Remote-friendly location")
 
     elif (
-        location
-        and location not in {"unknown", "unknown location"}
+        not is_unknown_location(job.get("location"))
+        and not is_work_mode_only_location(
+            job.get("location")
+        )
     ):
         score += scoring["location_mismatch_penalty"]
 

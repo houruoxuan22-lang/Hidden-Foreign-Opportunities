@@ -24,7 +24,7 @@
     "nanjing",
     "chengdu",
     "china",
-    "mainland china"    
+    "mainland china"
   ],
 
   "target_role_areas": [
@@ -100,9 +100,9 @@
 
   "remote_keywords": [
     "remote",
-    "hybrid",
+
     "work from home",
-    "distributed",
+
     "global remote"
   ],
 
@@ -110,12 +110,30 @@
     "us remote",
     "us-remote",
     "u.s. remote",
+    "remote us",
+    "remote-us",
+    "remote in the us",
+    "remote in the u.s.",
+
     "canada remote",
     "ca-remote",
+    "remote canada",
+    "remote-canada",
+    "remote in canada",
+
     "uk remote",
+    "remote uk",
+    "remote-uk",
+    "remote in the uk",
+
     "emea remote",
-    "eu remote"
-  ],
+    "remote emea",
+    "eu remote",
+    "remote eu",
+
+    "north america remote",
+    "remote north america"
+ ],
 
   "title_risk_keywords": [
     "senior",
