@@ -1,4 +1,4 @@
-# Shenzhen Jobs - 2026-08-09
+# Shenzhen Jobs - 2026-08-10
 
 ## Summary
 

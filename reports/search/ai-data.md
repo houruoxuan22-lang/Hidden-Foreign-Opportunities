@@ -1,4 +1,4 @@
-# AI and Data Jobs - 2026-08-09
+# AI and Data Jobs - 2026-08-10
 
 ## Summary
 
@@ -49,13 +49,13 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [Data Engineer](https://jobs.sap.com/job/Shanghai-Data-Engineer-201203/1406689133/)
   - Location: Shanghai, China
-  - Updated: 2026-08-09
+  - Updated: 2026-08-10
   - Source: sap_careers
   - Source type: china_company_career
 
 - [SAP China iXp Intern - Data Management Intern for GTLC Team - Shanghai](https://jobs.sap.com/job/Shanghai-SAP-China-iXp-Intern-Data-Management-Intern-for-GTLC-Team-Shanghai-201203/1409649533/)
   - Location: Shanghai, China
-  - Updated: 2026-08-09
+  - Updated: 2026-08-10
   - Source: sap_careers
   - Source type: china_company_career
 
