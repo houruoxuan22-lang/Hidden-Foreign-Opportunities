@@ -10,11 +10,11 @@ This folder contains filtered job reports generated from `data/jobs.json`.
 - [Shenzhen Jobs](shenzhen.md) - 0 jobs
 - [Chengdu Jobs](chengdu.md) - 0 jobs
 - [Chicago Jobs](chicago.md) - 36 jobs
-- [Internships and Early-career Jobs](internships.md) - 31 jobs
-- [Sales and Business Development Jobs](sales-business.md) - 61 jobs
-- [Marketing and Communications Jobs](marketing.md) - 28 jobs
-- [AI and Data Jobs](ai-data.md) - 23 jobs
-- [Remote Jobs](remote.md) - 184 jobs
+- [Internships and Early-career Jobs](internships.md) - 32 jobs
+- [Sales and Business Development Jobs](sales-business.md) - 63 jobs
+- [Marketing and Communications Jobs](marketing.md) - 29 jobs
+- [AI and Data Jobs](ai-data.md) - 22 jobs
+- [Remote Jobs](remote.md) - 186 jobs
 
 ## How to use
 

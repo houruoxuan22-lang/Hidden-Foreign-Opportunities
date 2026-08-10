@@ -2,7 +2,7 @@
 
 ## Summary
 
-- Total matching jobs: 61
+- Total matching jobs: 63
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -75,12 +75,6 @@ Jobs related to sales, account management, business development, partnerships, a
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Customer Success Associate](https://careers.datadoghq.com/detail/6009779/?gh_jid=6009779)
-  - Location: Tokyo, Japan
-  - Updated: 2026-08-06
-  - Source: greenhouse
-  - Source type: Unknown source type
-
 - [Customer Success Associate](https://careers.datadoghq.com/detail/8012339/?gh_jid=8012339)
   - Location: Seoul, South Korea
   - Updated: 2026-08-07
@@ -88,6 +82,12 @@ Jobs related to sales, account management, business development, partnerships, a
   - Source type: Unknown source type
 
 - [Customer Success Associate](https://careers.datadoghq.com/detail/5486716/?gh_jid=5486716)
+  - Location: Tokyo, Japan
+  - Updated: 2026-08-06
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Customer Success Associate](https://careers.datadoghq.com/detail/6009779/?gh_jid=6009779)
   - Location: Tokyo, Japan
   - Updated: 2026-08-06
   - Source: greenhouse
@@ -231,8 +231,8 @@ Jobs related to sales, account management, business development, partnerships, a
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/7057036/?gh_jid=7057036)
-  - Location: District of Columbia, USA, Remote; Maryland, USA, Remote; Virginia, USA, Remote
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/6522865/?gh_jid=6522865)
+  - Location: Canada, Remote
   - Updated: 2026-07-28
   - Source: greenhouse
   - Source type: Unknown source type
@@ -255,8 +255,8 @@ Jobs related to sales, account management, business development, partnerships, a
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/6522865/?gh_jid=6522865)
-  - Location: Canada, Remote
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/7057036/?gh_jid=7057036)
+  - Location: District of Columbia, USA, Remote; Maryland, USA, Remote; Virginia, USA, Remote
   - Updated: 2026-07-28
   - Source: greenhouse
   - Source type: Unknown source type
@@ -273,20 +273,26 @@ Jobs related to sales, account management, business development, partnerships, a
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [Strategic Account Executive (DACH)](https://careers.datadoghq.com/detail/5511968/?gh_jid=5511968)
+  - Location: Germany, Remote
+  - Updated: 2026-08-10
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [Strategic Account Executive (Hong Kong Market)](https://careers.datadoghq.com/detail/7442122/?gh_jid=7442122)
   - Location: Singapore, Singapore
   - Updated: 2026-08-03
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Strategic Account Executive (SLED)](https://careers.datadoghq.com/detail/7453034/?gh_jid=7453034)
-  - Location: Texas, USA, Remote
+- [Strategic Account Executive (SLED)](https://careers.datadoghq.com/detail/6430945/?gh_jid=6430945)
+  - Location: Kansas, USA, Remote; Missouri, USA, Remote; Washington, USA, Remote
   - Updated: 2026-07-28
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Strategic Account Executive (SLED)](https://careers.datadoghq.com/detail/6430945/?gh_jid=6430945)
-  - Location: Kansas, USA, Remote; Missouri, USA, Remote; Washington, USA, Remote
+- [Strategic Account Executive (SLED)](https://careers.datadoghq.com/detail/7453034/?gh_jid=7453034)
+  - Location: Texas, USA, Remote
   - Updated: 2026-07-28
   - Source: greenhouse
   - Source type: Unknown source type
@@ -334,6 +340,12 @@ Jobs related to sales, account management, business development, partnerships, a
 - [Account Executive, Cross Border China](https://stripe.com/jobs/search?gh_jid=7893199)
   - Location: Singapore
   - Updated: 2026-08-06
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Account Executive, Enterprise (Grower) ](https://stripe.com/jobs/search?gh_jid=8107136)
+  - Location: US-San Francisco, US-Seattle, US-West Coast (Remote) 
+  - Updated: 2026-08-10
   - Source: greenhouse
   - Source type: Unknown source type
 

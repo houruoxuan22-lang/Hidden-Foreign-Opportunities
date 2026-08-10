@@ -2,7 +2,7 @@
 
 ## Summary
 
-- Total matching jobs: 23
+- Total matching jobs: 22
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -36,12 +36,6 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 - [Senior AI Engineer – Notebooks](https://careers.datadoghq.com/detail/8112183/?gh_jid=8112183)
   - Location: Bordeaux, France; Dublin, Ireland; France, Remote; Germany, Remote; Lyon, France; Madrid, Spain; Montpellier, France; Nantes, France; Paris, France; Portugal, Remote; Sophia Antipolis, France; Spain, Remote
   - Updated: 2026-08-06
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Senior Developer Advocate - Data Observability](https://careers.datadoghq.com/detail/7555520/?gh_jid=7555520)
-  - Location: California, USA, Remote; Colorado, USA, Remote; Illinois, USA, Remote; New York, USA, Remote; Washington, USA, Remote
-  - Updated: 2026-07-28
   - Source: greenhouse
   - Source type: Unknown source type
 

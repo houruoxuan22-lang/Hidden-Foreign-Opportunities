@@ -2,7 +2,7 @@
 
 ## Summary
 
-- Total matching jobs: 31
+- Total matching jobs: 32
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -43,13 +43,13 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027)
+- [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562)
   - Location: In-Office
   - Updated: 2026-08-06
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8013562?gh_jid=8013562)
+- [Network Strategy Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8031027?gh_jid=8031027)
   - Location: In-Office
   - Updated: 2026-08-06
   - Source: greenhouse
@@ -67,13 +67,13 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379)
+- [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400)
   - Location: In-Office
   - Updated: 2026-08-06
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400)
+- [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379)
   - Location: In-Office
   - Updated: 2026-08-06
   - Source: greenhouse
@@ -190,6 +190,12 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 - [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8031833)
   - Location: Bengaluru
   - Updated: 2026-08-06
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Startup and Venture Partnerships Associate](https://stripe.com/jobs/search?gh_jid=8049941)
+  - Location: San Francisco
+  - Updated: 2026-08-10
   - Source: greenhouse
   - Source type: Unknown source type
 

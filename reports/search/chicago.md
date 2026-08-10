@@ -145,6 +145,12 @@ Jobs with Chicago-related location signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [Risk Advisory Strategist, Card Network Compliance](https://stripe.com/jobs/search?gh_jid=7594866)
+  - Location: Chicago, SEA, SF, NYC, US-Remote
+  - Updated: 2026-08-10
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [Risk Partnerships Manager, Stablecoin](https://stripe.com/jobs/search?gh_jid=8078333)
   - Location: US-San Francisco; US-NYC; US-Seattle; US-Remote; US-Chicago; US-Atlanta
   - Updated: 2026-08-06
@@ -157,15 +163,9 @@ Jobs with Chicago-related location signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Risk Strategist, Card Network Compliance](https://stripe.com/jobs/search?gh_jid=7594866)
-  - Location: Chicago, SEA, SF, NYC, US-Remote
-  - Updated: 2026-08-06
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Risk Strategist, Onboarding and Compliance](https://stripe.com/jobs/search?gh_jid=7697973)
+- [Risk Strategist, Onboarding & Compliance](https://stripe.com/jobs/search?gh_jid=7697973)
   - Location: Chicago, US-Remote, Toronto
-  - Updated: 2026-08-06
+  - Updated: 2026-08-10
   - Source: greenhouse
   - Source type: Unknown source type
 

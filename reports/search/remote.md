@@ -2,7 +2,7 @@
 
 ## Summary
 
-- Total matching jobs: 184
+- Total matching jobs: 186
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -31,9 +31,9 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Manager, Customer Engineer, Associate Programs](https://boards.greenhouse.io/cloudflare/jobs/7826916?gh_jid=7826916)
-  - Location: Distributed
-  - Updated: 2026-08-06
+- [Full Stack Engineer - Internal Audit](https://boards.greenhouse.io/cloudflare/jobs/8014902?gh_jid=8014902)
+  - Location: Hybrid
+  - Updated: 2026-08-10
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -49,13 +49,13 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379)
+- [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400)
   - Location: In-Office
   - Updated: 2026-08-06
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400)
+- [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379)
   - Location: In-Office
   - Updated: 2026-08-06
   - Source: greenhouse
@@ -249,12 +249,6 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Senior Developer Advocate - Data Observability](https://careers.datadoghq.com/detail/7555520/?gh_jid=7555520)
-  - Location: California, USA, Remote; Colorado, USA, Remote; Illinois, USA, Remote; New York, USA, Remote; Washington, USA, Remote
-  - Updated: 2026-07-28
-  - Source: greenhouse
-  - Source type: Unknown source type
-
 - [Senior Developer Advocate - Modern App Development](https://careers.datadoghq.com/detail/7985840/?gh_jid=7985840)
   - Location: California, USA, Remote; Nevada, USA, Remote; Texas, USA, Remote; Washington, USA, Remote
   - Updated: 2026-07-28
@@ -339,8 +333,8 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/7057036/?gh_jid=7057036)
-  - Location: District of Columbia, USA, Remote; Maryland, USA, Remote; Virginia, USA, Remote
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/6522865/?gh_jid=6522865)
+  - Location: Canada, Remote
   - Updated: 2026-07-28
   - Source: greenhouse
   - Source type: Unknown source type
@@ -363,8 +357,8 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/6522865/?gh_jid=6522865)
-  - Location: Canada, Remote
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/7057036/?gh_jid=7057036)
+  - Location: District of Columbia, USA, Remote; Maryland, USA, Remote; Virginia, USA, Remote
   - Updated: 2026-07-28
   - Source: greenhouse
   - Source type: Unknown source type
@@ -381,14 +375,20 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Strategic Account Executive (SLED)](https://careers.datadoghq.com/detail/7453034/?gh_jid=7453034)
-  - Location: Texas, USA, Remote
-  - Updated: 2026-07-28
+- [Strategic Account Executive (DACH)](https://careers.datadoghq.com/detail/5511968/?gh_jid=5511968)
+  - Location: Germany, Remote
+  - Updated: 2026-08-10
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Strategic Account Executive (SLED)](https://careers.datadoghq.com/detail/6430945/?gh_jid=6430945)
   - Location: Kansas, USA, Remote; Missouri, USA, Remote; Washington, USA, Remote
+  - Updated: 2026-07-28
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Strategic Account Executive (SLED)](https://careers.datadoghq.com/detail/7453034/?gh_jid=7453034)
+  - Location: Texas, USA, Remote
   - Updated: 2026-07-28
   - Source: greenhouse
   - Source type: Unknown source type
@@ -404,6 +404,12 @@ Jobs with remote or distributed work signals.
 - [Account Executive - Enterprise, Grower](https://stripe.com/jobs/search?gh_jid=7993151)
   - Location: US-Remote, US-San Francisco, US-Chicago, US-New York, US-Seattle, US-Texas
   - Updated: 2026-08-06
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Account Executive, Enterprise (Grower) ](https://stripe.com/jobs/search?gh_jid=8107136)
+  - Location: US-San Francisco, US-Seattle, US-West Coast (Remote) 
+  - Updated: 2026-08-10
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -431,9 +437,15 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [ARG Engineering Manager](https://stripe.com/jobs/search?gh_jid=8113337)
+  - Location: US - Remote
+  - Updated: 2026-08-10
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [AutoFile Specialist, Tax](https://stripe.com/jobs/search?gh_jid=8076623)
   - Location: US-Remote 
-  - Updated: 2026-08-06
+  - Updated: 2026-08-10
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -515,14 +527,14 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Deal Strategist](https://stripe.com/jobs/search?gh_jid=7958087)
-  - Location: US REMOTE
+- [Deal Strategist](https://stripe.com/jobs/search?gh_jid=7958150)
+  - Location: US-Remote
   - Updated: 2026-08-06
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Deal Strategist](https://stripe.com/jobs/search?gh_jid=7958150)
-  - Location: US-Remote
+- [Deal Strategist](https://stripe.com/jobs/search?gh_jid=7958087)
+  - Location: US REMOTE
   - Updated: 2026-08-06
   - Source: greenhouse
   - Source type: Unknown source type
@@ -869,6 +881,12 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [Risk Advisory Strategist, Card Network Compliance](https://stripe.com/jobs/search?gh_jid=7594866)
+  - Location: Chicago, SEA, SF, NYC, US-Remote
+  - Updated: 2026-08-10
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921)
   - Location: Remote
   - Updated: 2026-08-06
@@ -887,15 +905,9 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Risk Strategist, Card Network Compliance](https://stripe.com/jobs/search?gh_jid=7594866)
-  - Location: Chicago, SEA, SF, NYC, US-Remote
-  - Updated: 2026-08-06
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Risk Strategist, Onboarding and Compliance](https://stripe.com/jobs/search?gh_jid=7697973)
+- [Risk Strategist, Onboarding & Compliance](https://stripe.com/jobs/search?gh_jid=7697973)
   - Location: Chicago, US-Remote, Toronto
-  - Updated: 2026-08-06
+  - Updated: 2026-08-10
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -971,6 +983,12 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [Solution Architect Enablement Business Partner](https://stripe.com/jobs/search?gh_jid=8115022)
+  - Location: US-Remote
+  - Updated: 2026-08-10
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [Solutions Architect, Enterprise (Pre-sales)](https://stripe.com/jobs/search?gh_jid=7827184)
   - Location: Chicago, IL or San Francisco, CA OR US Remote
   - Updated: 2026-08-07
@@ -991,12 +1009,6 @@ Jobs with remote or distributed work signals.
 
 - [Specialist Solutions Architect, Tax](https://stripe.com/jobs/search?gh_jid=8090244)
   - Location: Chicago, Atlanta, Remote
-  - Updated: 2026-08-06
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Staff Full Stack Engineer, Identity](https://stripe.com/jobs/search?gh_jid=7895467)
-  - Location: Remote
   - Updated: 2026-08-06
   - Source: greenhouse
   - Source type: Unknown source type
@@ -1033,7 +1045,7 @@ Jobs with remote or distributed work signals.
 
 - [Strategy & Ops, Intercept](https://stripe.com/jobs/search?gh_jid=8060391)
   - Location: New York, San Francisco, US-Remote
-  - Updated: 2026-08-06
+  - Updated: 2026-08-10
   - Source: greenhouse
   - Source type: Unknown source type
 

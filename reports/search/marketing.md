@@ -2,7 +2,7 @@
 
 ## Summary
 
-- Total matching jobs: 28
+- Total matching jobs: 29
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -126,6 +126,12 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 - [Lifecycle Marketing Manager, Capital](https://stripe.com/jobs/search?gh_jid=8082149)
   - Location: Remote, US
   - Updated: 2026-08-06
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Marketing Operations Associate (Automation)](https://stripe.com/jobs/search?gh_jid=8108391)
+  - Location: (Bengaluru, India)
+  - Updated: 2026-08-10
   - Source: greenhouse
   - Source type: Unknown source type
 
