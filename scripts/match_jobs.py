@@ -88,6 +88,64 @@ def is_work_mode_only_location(value: Any) -> bool:
         in WORK_MODE_ONLY_VALUES
     )
 
+UNRESTRICTED_REMOTE_VALUES = {
+    "remote",
+    "global remote",
+    "remote global",
+    "worldwide remote",
+    "remote worldwide",
+    "work from home",
+    "hybrid or remote",
+}
+
+
+def is_region_restricted_remote(
+    value: Any,
+    profile: dict[str, Any],
+) -> bool:
+    location = normalize_location_text(value)
+
+    if not contains_keyword(location, "remote"):
+        return False
+
+    if location in UNRESTRICTED_REMOTE_VALUES:
+        return False
+
+    # A target location such as Shanghai / China is acceptable.
+    if find_matching_keywords(
+        location,
+        profile.get("location_keywords", []),
+    ):
+        return False
+
+    removable_words = {
+        "remote",
+        "hybrid",
+        "distributed",
+        "in office",
+        "onsite",
+        "on site",
+        "or",
+        "and",
+    }
+
+    remainder = location
+
+    for word in removable_words:
+        remainder = re.sub(
+            rf"\b{re.escape(word)}\b",
+            " ",
+            remainder,
+        )
+
+    remainder = re.sub(
+        r"\s+",
+        " ",
+        remainder,
+    ).strip()
+
+    return bool(remainder)
+
 def is_unknown_location(value: Any) -> bool:
     return normalize_text(value) in UNKNOWN_LOCATION_VALUES
 
@@ -194,7 +252,18 @@ def score_job(
         profile.get("restricted_remote_keywords", []),
     )
 
-    if restricted_remote_matches:
+    region_restricted_remote = (
+        is_region_restricted_remote(
+            job.get("location"),
+            profile,
+        )
+    )
+
+    
+    if (
+        restricted_remote_matches
+        or region_restricted_remote
+    ):
         score += scoring["restricted_remote_penalty"]
 
         displayed_location = safe_text(job.get("location"))
@@ -226,7 +295,7 @@ def score_job(
         watch_out.append(
             f"Location outside current targets: {displayed_location}"
         )
-
+  
     # 2. Preferred role matching
     role_matches = find_matching_keywords(
         role_text,
