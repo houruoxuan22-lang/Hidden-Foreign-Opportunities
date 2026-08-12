@@ -1,4 +1,4 @@
-# Chicago Jobs - 2026-08-11
+# Chicago Jobs - 2026-08-12
 
 ## Summary
 
@@ -165,7 +165,7 @@ Jobs with Chicago-related location signals.
 
 - [Risk Strategist, Onboarding & Compliance](https://stripe.com/jobs/search?gh_jid=7697973)
   - Location: Chicago, US-Remote, Toronto
-  - Updated: 2026-08-10
+  - Updated: 2026-08-11
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -207,7 +207,7 @@ Jobs with Chicago-related location signals.
 
 - [Technical Partner Manager](https://stripe.com/jobs/search?gh_jid=7976987)
   - Location: US-Atlanta; US-Chicago; US-Remote; CA-Toronto; CA-Remote
-  - Updated: 2026-08-06
+  - Updated: 2026-08-11
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -219,7 +219,7 @@ Jobs with Chicago-related location signals.
 
 - [Technical Program Manager,  Extensibility Programs](https://stripe.com/jobs/search?gh_jid=7778643)
   - Location: Remote in the US, Chicago, Atlanta
-  - Updated: 2026-08-07
+  - Updated: 2026-08-11
   - Source: greenhouse
   - Source type: Unknown source type
 
