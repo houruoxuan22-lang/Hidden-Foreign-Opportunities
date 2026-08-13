@@ -1,8 +1,8 @@
-# AI and Data Jobs - 2026-08-12
+# AI and Data Jobs - 2026-08-13
 
 ## Summary
 
-- Total matching jobs: 22
+- Total matching jobs: 20
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -19,23 +19,11 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Marketing Programs and Analytics Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8104138?gh_jid=8104138)
-  - Location: In-Office
-  - Updated: 2026-08-06
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [U.S. Public Policy and AI Innovation Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8105728?gh_jid=8105728)
-  - Location: In-Office
-  - Updated: 2026-08-06
-  - Source: greenhouse
-  - Source type: Unknown source type
-
 ### Datadog
 
 - [Senior AI Engineer – Notebooks](https://careers.datadoghq.com/detail/8112183/?gh_jid=8112183)
   - Location: Bordeaux, France; Dublin, Ireland; France, Remote; Germany, Remote; Lyon, France; Madrid, Spain; Montpellier, France; Nantes, France; Paris, France; Portugal, Remote; Sophia Antipolis, France; Spain, Remote
-  - Updated: 2026-08-06
+  - Updated: 2026-08-12
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -43,13 +31,13 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [Data Engineer](https://jobs.sap.com/job/Shanghai-Data-Engineer-201203/1406689133/)
   - Location: Shanghai, China
-  - Updated: 2026-08-12
+  - Updated: 2026-08-13
   - Source: sap_careers
   - Source type: china_company_career
 
 - [SAP China iXp Intern - Data Management Intern for GTLC Team - Shanghai](https://jobs.sap.com/job/Shanghai-SAP-China-iXp-Intern-Data-Management-Intern-for-GTLC-Team-Shanghai-201203/1409649533/)
   - Location: Shanghai, China
-  - Updated: 2026-08-12
+  - Updated: 2026-08-13
   - Source: sap_careers
   - Source type: china_company_career
 

@@ -1,8 +1,8 @@
-# Marketing and Communications Jobs - 2026-08-12
+# Marketing and Communications Jobs - 2026-08-13
 
 ## Summary
 
-- Total matching jobs: 28
+- Total matching jobs: 26
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -11,43 +11,29 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 ## Jobs
 
-### Cloudflare
-
-- [Brand Social Media Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8054093?gh_jid=8054093)
-  - Location: In-Office
-  - Updated: 2026-08-06
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Marketing Programs and Analytics Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8104138?gh_jid=8104138)
-  - Location: In-Office
-  - Updated: 2026-08-06
-  - Source: greenhouse
-  - Source type: Unknown source type
-
 ### Datadog
 
 - [Associate Field Marketing Manager](https://careers.datadoghq.com/detail/8003073/?gh_jid=8003073)
   - Location: Bangalore, India
-  - Updated: 2026-08-06
+  - Updated: 2026-08-12
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Associate Field Marketing Manager (US East and Canada)](https://careers.datadoghq.com/detail/8097690/?gh_jid=8097690)
   - Location: New York, New York, USA
-  - Updated: 2026-08-05
+  - Updated: 2026-08-12
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Associate Growth Marketing Manager](https://careers.datadoghq.com/detail/8059723/?gh_jid=8059723)
   - Location: New York, New York, USA; San Francisco, California, USA
-  - Updated: 2026-07-28
+  - Updated: 2026-08-12
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [GTM Strategy & Operations Senior Associate (Marketing)](https://careers.datadoghq.com/detail/8023435/?gh_jid=8023435)
   - Location: New York, New York, USA
-  - Updated: 2026-07-28
+  - Updated: 2026-08-12
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -55,7 +41,7 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Policy and Communications Coordinator/Manager (based on experience)](https://www.europeanchamber.com.cn/en/job-vacancies/1959/Policy_and_Communications_Coordinator_Manager_based_on_experience_)
   - Location: Beijing, China
-  - Updated: 2026-08-12
+  - Updated: 2026-08-13
   - Source: european_chamber
   - Source type: china_local_static
 
@@ -63,7 +49,7 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Marketing Execution Expert- JingDigital--BJ/SH](https://jobs.sap.com/job/Beijing-Marketing-Execution-Expert-JingDigital-BJSH-100016/1418500233/)
   - Location: Beijing, China
-  - Updated: 2026-08-12
+  - Updated: 2026-08-13
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -181,12 +167,12 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Marketing & Communications Specialist](https://swisscham.com.cn/jobs/marketing-communications-specialist-0)
   - Location: Shanghai, China
-  - Updated: 2026-08-12
+  - Updated: 2026-08-13
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-08-12
+  - Updated: 2026-08-13
   - Source: swisscham_china
   - Source type: china_local_static

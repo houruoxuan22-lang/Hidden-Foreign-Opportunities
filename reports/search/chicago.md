@@ -1,4 +1,4 @@
-# Chicago Jobs - 2026-08-12
+# Chicago Jobs - 2026-08-13
 
 ## Summary
 
@@ -103,9 +103,9 @@ Jobs with Chicago-related location signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Partner Development Manager, Strategic Partnerships](https://stripe.com/jobs/search?gh_jid=7973002)
+- [Partner Development Manager, Strategic Payment Partnerships](https://stripe.com/jobs/search?gh_jid=7973002)
   - Location: US-San Francisco; US-New York City; US-Seattle; US-Remote; US-Chicago; CA-Toronto; CA-Remote
-  - Updated: 2026-08-06
+  - Updated: 2026-08-12
   - Source: greenhouse
   - Source type: Unknown source type
 
