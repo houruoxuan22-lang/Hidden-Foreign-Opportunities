@@ -1,4 +1,4 @@
-# Chicago Jobs - 2026-08-13
+# Chicago Jobs - 2026-08-14
 
 ## Summary
 
@@ -141,7 +141,7 @@ Jobs with Chicago-related location signals.
 
 - [Program Manager, GTM Planning](https://stripe.com/jobs/search?gh_jid=7656504)
   - Location: US-Chicago, US-Remote
-  - Updated: 2026-08-06
+  - Updated: 2026-08-13
   - Source: greenhouse
   - Source type: Unknown source type
 

@@ -1,8 +1,8 @@
-# Sales and Business Development Jobs - 2026-08-13
+# Sales and Business Development Jobs - 2026-08-14
 
 ## Summary
 
-- Total matching jobs: 65
+- Total matching jobs: 64
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -12,12 +12,6 @@ Jobs related to sales, account management, business development, partnerships, a
 ## Jobs
 
 ### Cloudflare
-
-- [AI Innovation Intern – Service Sales (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8044395?gh_jid=8044395)
-  - Location: In-Office
-  - Updated: 2026-08-11
-  - Source: greenhouse
-  - Source type: Unknown source type
 
 - [Named Account Executive, FSI (Hong Kong)](https://boards.greenhouse.io/cloudflare/jobs/7868936?gh_jid=7868936)
   - Location: Hybrid
@@ -67,22 +61,10 @@ Jobs related to sales, account management, business development, partnerships, a
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Territory Account Executive, Digital Native (Hong Kong)](https://boards.greenhouse.io/cloudflare/jobs/7972135?gh_jid=7972135)
-  - Location: Hybrid
-  - Updated: 2026-08-06
-  - Source: greenhouse
-  - Source type: Unknown source type
-
 ### Datadog
 
 - [Commercial Account Executive (Hong Kong Market)](https://careers.datadoghq.com/detail/7919037/?gh_jid=7919037)
   - Location: Singapore, Singapore
-  - Updated: 2026-08-12
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Customer Success Associate](https://careers.datadoghq.com/detail/8012339/?gh_jid=8012339)
-  - Location: Seoul, South Korea
   - Updated: 2026-08-12
   - Source: greenhouse
   - Source type: Unknown source type
@@ -95,6 +77,12 @@ Jobs related to sales, account management, business development, partnerships, a
 
 - [Customer Success Associate](https://careers.datadoghq.com/detail/5486716/?gh_jid=5486716)
   - Location: Tokyo, Japan
+  - Updated: 2026-08-12
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Customer Success Associate](https://careers.datadoghq.com/detail/8012339/?gh_jid=8012339)
+  - Location: Seoul, South Korea
   - Updated: 2026-08-12
   - Source: greenhouse
   - Source type: Unknown source type
@@ -147,6 +135,12 @@ Jobs related to sales, account management, business development, partnerships, a
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [Enterprise Sales Executive](https://careers.datadoghq.com/detail/7466155/?gh_jid=7466155)
+  - Location: Florida, USA, Remote
+  - Updated: 2026-08-12
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [Enterprise Sales Executive](https://careers.datadoghq.com/detail/7421331/?gh_jid=7421331)
   - Location: North Carolina, USA, Remote
   - Updated: 2026-08-12
@@ -155,12 +149,6 @@ Jobs related to sales, account management, business development, partnerships, a
 
 - [Enterprise Sales Executive](https://careers.datadoghq.com/detail/7465857/?gh_jid=7465857)
   - Location: North Carolina, USA, Remote; Tennessee, USA, Remote
-  - Updated: 2026-08-12
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Enterprise Sales Executive](https://careers.datadoghq.com/detail/7466155/?gh_jid=7466155)
-  - Location: Florida, USA, Remote
   - Updated: 2026-08-12
   - Source: greenhouse
   - Source type: Unknown source type
@@ -237,6 +225,12 @@ Jobs related to sales, account management, business development, partnerships, a
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [Senior Sales Engineer - Majors (West)](https://careers.datadoghq.com/detail/8126596/?gh_jid=8126596)
+  - Location: California, USA, Remote
+  - Updated: 2026-08-13
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [Senior Sales Engineer - Ohio Valley](https://careers.datadoghq.com/detail/8027427/?gh_jid=8027427)
   - Location: Ohio, USA, Remote
   - Updated: 2026-08-12
@@ -245,18 +239,6 @@ Jobs related to sales, account management, business development, partnerships, a
 
 - [Strategic Account Executive](https://careers.datadoghq.com/detail/7134079/?gh_jid=7134079)
   - Location: Texas, USA, Remote
-  - Updated: 2026-08-12
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/6242929/?gh_jid=6242929)
-  - Location: Florida, USA, Remote
-  - Updated: 2026-08-12
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/6522720/?gh_jid=6522720)
-  - Location: Georgia, USA, Remote; Tennessee, USA, Remote
   - Updated: 2026-08-12
   - Source: greenhouse
   - Source type: Unknown source type
@@ -275,6 +257,18 @@ Jobs related to sales, account management, business development, partnerships, a
 
 - [Strategic Account Executive](https://careers.datadoghq.com/detail/7131363/?gh_jid=7131363)
   - Location: North Carolina, USA, Remote; South Carolina, USA, Remote
+  - Updated: 2026-08-12
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/6242929/?gh_jid=6242929)
+  - Location: Florida, USA, Remote
+  - Updated: 2026-08-12
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/6522720/?gh_jid=6522720)
+  - Location: Georgia, USA, Remote; Tennessee, USA, Remote
   - Updated: 2026-08-12
   - Source: greenhouse
   - Source type: Unknown source type
@@ -313,43 +307,43 @@ Jobs related to sales, account management, business development, partnerships, a
 
 - [Customer Success Manager (CSM) - SAP Academy for Customer Success - Shanghai](https://jobs.sap.com/job/Shanghai-Customer-Success-Manager-%28CSM%29-SAP-Academy-for-Customer-Success-Shanghai-200040/1425117933/)
   - Location: Shanghai, China
-  - Updated: 2026-08-13
+  - Updated: 2026-08-14
   - Source: sap_careers
   - Source type: china_company_career
 
 - [Customer Success Manager (CSM) - SAP Next Gen - SAP Academy for Customer Success - China Shenzhen](https://jobs.sap.com/job/Shenzhen-Customer-Success-Manager-%28CSM%29-SAP-Next-Gen-SAP-Academy-for-Customer-Success-China-Shenzhen-518048/1425455233/)
   - Location: Shenzhen, China
-  - Updated: 2026-08-13
+  - Updated: 2026-08-14
   - Source: sap_careers
   - Source type: china_company_career
 
 - [Sales Account Executive - SAP Next Gen - SAP Academy for Customer Success - China Shenzhen](https://jobs.sap.com/job/Shenzhen-Sales-Account-Executive-SAP-Next-Gen-SAP-Academy-for-Customer-Success-China-Shenzhen-518048/1425454933/)
   - Location: Shenzhen, China
-  - Updated: 2026-08-13
+  - Updated: 2026-08-14
   - Source: sap_careers
   - Source type: china_company_career
 
 - [Senior Account Executive - Auto](https://jobs.sap.com/job/Beijing-Senior-Account-Executive-Auto-100016/1394371033/)
   - Location: Beijing, China
-  - Updated: 2026-08-13
+  - Updated: 2026-08-14
   - Source: sap_careers
   - Source type: china_company_career
 
 - [Senior Account Executive - LS - SH](https://jobs.sap.com/job/Shanghai-Senior-Account-Executive-LS-SH-200040/1378768633/)
   - Location: Shanghai, China
-  - Updated: 2026-08-13
+  - Updated: 2026-08-14
   - Source: sap_careers
   - Source type: china_company_career
 
 - [Solution Sales Expert - F&S](https://jobs.sap.com/job/Beijing-Solution-Sales-Expert-F&S-100016/1287050901/)
   - Location: Beijing, China
-  - Updated: 2026-08-13
+  - Updated: 2026-08-14
   - Source: sap_careers
   - Source type: china_company_career
 
 - [Solution Sales Expert - F&S](https://jobs.sap.com/job/Shanghai-Solution-Sales-Expert-F&S-200040/1287055001/)
   - Location: Shanghai, China
-  - Updated: 2026-08-13
+  - Updated: 2026-08-14
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -407,6 +401,6 @@ Jobs related to sales, account management, business development, partnerships, a
 
 - [Business Development Executive/Manager 业务拓展主任/经理](https://swisscham.com.cn/jobs/business-development-executivemanager-yewutazhanzhurenjingli)
   - Location: Shanghai, China
-  - Updated: 2026-08-13
+  - Updated: 2026-08-14
   - Source: swisscham_china
   - Source type: china_local_static
