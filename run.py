@@ -1,3 +1,4 @@
+from datetime import datetime, timezone
 import json
 import yaml
 from crawlers.china_local_fetcher import fetch_static_job_board
@@ -20,6 +21,45 @@ def load_companies():
 
     return companies or []
 
+def job_identity(job):
+    url = str(job.get("url") or "").strip().lower().rstrip("/")
+
+    if url:
+        return ("url", url)
+
+    return (
+        "fallback",
+        str(job.get("company") or "").strip().lower(),
+        str(job.get("title") or "").strip().lower(),
+        str(job.get("location") or "").strip().lower(),
+    )
+
+def load_existing_jobs():
+    try:
+        with open(JOBS_FILE, "r", encoding="utf-8") as f:
+            jobs = json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        return []
+
+    return jobs if isinstance(jobs, list) else []
+
+
+def apply_seen_metadata(jobs, existing_jobs, seen_at):
+    existing_by_identity = {
+        job_identity(job): job
+        for job in existing_jobs
+    }
+
+    for job in jobs:
+        previous = existing_by_identity.get(job_identity(job), {})
+
+        job["first_seen"] = (
+            previous.get("first_seen")
+            or seen_at
+        )
+        job["last_seen"] = seen_at
+
+    return jobs
 
 def save_jobs(jobs):
     with open(JOBS_FILE, "w", encoding="utf-8") as f:
@@ -28,7 +68,7 @@ def save_jobs(jobs):
 
 def main():
     companies = load_companies()
-
+    existing_jobs = load_existing_jobs()
     all_jobs = []
 
     for company in companies:             
@@ -100,6 +140,13 @@ def main():
         
  
     all_jobs = enrich_jobs_with_skills(all_jobs)
+
+    seen_at = datetime.now(timezone.utc).isoformat(timespec="seconds")
+    all_jobs = apply_seen_metadata(
+        all_jobs,
+        existing_jobs,
+        seen_at,
+    )
 
     save_jobs(all_jobs)
     profile = load_json(PROFILE_FILE)

@@ -182,6 +182,8 @@ def normalize_job(job):
     audience = safe_text(job.get("audience")) or "unknown"
     url = safe_text(job.get("url"))
     posted_date = format_date(job.get("posted_date"))
+    first_seen = safe_text(job.get("first_seen")).strip()
+    last_seen = safe_text(job.get("last_seen")).strip()
     description = clean_dashboard_description(job.get("description"))
 
     raw_match_score = job.get("match_score")
@@ -235,6 +237,8 @@ def normalize_job(job):
         "audience": audience,
         "url": url,
         "posted_date": posted_date,
+        "first_seen": first_seen,
+        "last_seen": last_seen,
         "description": description[:500],
         "match_score": match_score,
         "match_label": match_label,
@@ -1369,15 +1373,15 @@ def build_dashboard_html(jobs, profile=None):
 
         <select id="freshnessSelect">
           <option value="">All dates</option>
-          <option value="7">Updated in last 7 days</option>
-          <option value="14">Updated in last 14 days</option>
-          <option value="30">Updated in last 30 days</option>
+          <option value="7">Seen in last 7 days</option>
+          <option value="14">Seen in last 14 days</option>
+          <option value="30">Seen in last 30 days</option>
         </select>
 
         <select id="sortSelect">
-          <option value="updated_desc">Newest first</option>
+          <option value="updated_desc">Recently seen first</option>
           <option value="match_desc">Best Match first</option>
-          <option value="updated_asc">Oldest first</option>
+          <option value="updated_asc">Least recently seen first</option>
           <option value="company">Company A-Z</option>
           <option value="title">Title A-Z</option>
         </select>
@@ -1390,7 +1394,7 @@ def build_dashboard_html(jobs, profile=None):
         <button data-location="Chicago">Chicago</button>
         <button data-category="internship">Internships</button>
         <button data-category="remote">Remote</button>
-        <button data-freshness="7">Last 7 days</button>
+        <button data-freshness="7">Seen in last 7 days</button>
         <button id="clearFilters">Clear filters</button>
         <button id="copyLinkButton">Copy current link</button>
         <span id="shareStatus" class="share-status" aria-live="polite"></span>
@@ -2676,10 +2680,25 @@ function updateUrlFromFilters() {
       return true;
       }
 
+    function displayDate(value) {
+      if (!value || value === "Unknown") return "Unknown";
+
+      const text = String(value).trim();
+      return text.includes("T")
+        ? text.split("T")[0]
+        : text;
+    }
+
     function dateValue(value) {
       if (!value || value === "Unknown") return 0;
 
-      const parsed = Date.parse(`${value}T00:00:00`);
+      const text = String(value).trim();
+      const parsed = Date.parse(
+        text.includes("T")
+          ? text
+          : `${text}T00:00:00`
+      );
+
       if (Number.isNaN(parsed)) return 0;
 
       return parsed;
@@ -2698,7 +2717,7 @@ function updateUrlFromFilters() {
 
     function matchesFreshness(job, freshnessDays) {
       if (!freshnessDays) return true;
-      return daysSinceUpdated(job.posted_date) <= Number(freshnessDays);
+      return daysSinceUpdated(job.last_seen) <= Number(freshnessDays);
     }
 
     function matchScoreValue(job) {
@@ -2731,12 +2750,12 @@ function updateUrlFromFilters() {
           : -1;
 
         return scoreB - scoreA
-          || dateValue(b.posted_date) - dateValue(a.posted_date)
+          || dateValue(b.last_seen) - dateValue(a.last_seen)
           || a.company.localeCompare(b.company)
           || a.title.localeCompare(b.title);
       }
      if (sortMode === "updated_asc") {
-        return dateValue(a.posted_date) - dateValue(b.posted_date)
+        return dateValue(a.last_seen) - dateValue(b.last_seen)
           || a.company.localeCompare(b.company)
           || a.title.localeCompare(b.title);
       }
@@ -2751,7 +2770,7 @@ function updateUrlFromFilters() {
        || a.company.localeCompare(b.company);
     }
 
-    return dateValue(b.posted_date) - dateValue(a.posted_date)
+    return dateValue(b.last_seen) - dateValue(a.last_seen)
       || a.company.localeCompare(b.company)
       || a.title.localeCompare(b.title);
   }
@@ -2846,7 +2865,9 @@ function updateUrlFromFilters() {
           <div class="meta">
             <span class="badge">${escapeHtml(job.company)}</span>
             <span class="badge">${escapeHtml(job.location)}</span>
-            <span class="badge">Updated: ${escapeHtml(job.posted_date)}</span>
+            <span class="badge">Last seen: ${escapeHtml(displayDate(job.last_seen))}</span>
+            <span class="badge">First seen: ${escapeHtml(displayDate(job.first_seen))}</span>
+            <span class="badge">Source date: ${escapeHtml(job.posted_date)}</span>
             <span class="badge">Source: ${escapeHtml(job.source)}</span>
             <span class="badge">${escapeHtml(job.source_type_label || job.source_type)}</span>
           </div>
@@ -2908,11 +2929,11 @@ function updateUrlFromFilters() {
     }
 
     if (freshness) {
-      labels.push(`Updated in last ${freshness} days`);
+      labels.push(`Seen in last ${freshness} days`);
     }
       const sortLabels = {
         match_desc: "Best Match first",
-        updated_asc: "Oldest first",
+        updated_asc: "Least recently seen first",
         company: "Company A-Z",
         title: "Title A-Z",
       };

@@ -139,6 +139,47 @@ def test_dashboard_contains_region_restricted_remote_scoring():
     assert "regionRestrictedRemote" in dashboard_html
     assert '"restricted_remote_penalty"' in dashboard_html
 
+def test_dashboard_freshness_uses_last_seen_not_posted_date():
+    profile = load_json(PROFILE_FILE)
+
+    dashboard_html = build_dashboard_html(
+        [sample_scored_job()],
+        profile,
+    )
+
+    assert '"last_seen"' in dashboard_html
+    assert "daysSinceUpdated(job.last_seen)" in dashboard_html
+    assert "daysSinceUpdated(job.posted_date)" not in dashboard_html
+
+def test_dashboard_recency_sort_uses_last_seen_not_posted_date():
+    profile = load_json(PROFILE_FILE)
+
+    dashboard_html = build_dashboard_html(
+        [sample_scored_job()],
+        profile,
+    )
+
+    assert "dateValue(b.last_seen) - dateValue(a.last_seen)" in dashboard_html
+    assert "dateValue(a.last_seen) - dateValue(b.last_seen)" in dashboard_html
+    assert "dateValue(b.posted_date) - dateValue(a.posted_date)" not in dashboard_html
+    assert "dateValue(a.posted_date) - dateValue(b.posted_date)" not in dashboard_html
+
+def test_dashboard_displays_seen_dates_and_source_date():
+    profile = load_json(PROFILE_FILE)
+
+    dashboard_html = build_dashboard_html(
+        [sample_scored_job()],
+        profile,
+    )
+
+    assert "Seen in last 7 days" in dashboard_html
+    assert "Recently seen first" in dashboard_html
+    assert "Least recently seen first" in dashboard_html
+    assert "Last seen:" in dashboard_html
+    assert "First seen:" in dashboard_html
+    assert "Source date:" in dashboard_html
+    assert "Updated:" not in dashboard_html
+
 def test_dashboard_uses_safe_fallback_profile():
     dashboard_html = build_dashboard_html(
         [sample_scored_job()],
