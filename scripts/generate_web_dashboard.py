@@ -1938,6 +1938,68 @@ function loadStoredProfile() {
       );
     }
 
+    const UNRESTRICTED_REMOTE_VALUES = new Set([
+      "remote",
+      "global remote",
+      "remote global",
+      "worldwide remote",
+      "remote worldwide",
+      "work from home",
+      "hybrid or remote",
+    ]);
+
+    function isRegionRestrictedRemote(value, profile) {
+      const location = normalizeLocationText(value);
+
+      if (!containsMatchKeyword(location, "remote")) {
+        return false;
+      }
+
+      if (UNRESTRICTED_REMOTE_VALUES.has(location)) {
+        return false;
+      }
+
+      if (
+        findMatchKeywords(
+          location,
+          profile.location_keywords || []
+        ).length
+      ) {
+        return false;
+      }
+
+      const removableWords = [
+        "remote",
+        "hybrid",
+        "distributed",
+        "in office",
+        "onsite",
+        "on site",
+        "or",
+        "and",
+      ];
+
+      let remainder = location;
+
+      for (const word of removableWords) {
+        const escapedWord = word.replace(
+        /[.*+?^${}()|[\\]\\\\]/g,
+        "\\\\$&"
+        );
+
+        remainder = remainder.replace(
+          new RegExp(`\\b${escapedWord}\\b`, "g"),
+          " "
+        );
+      }
+
+      remainder = remainder
+        .replace(/\\s+/g, " ")
+        .trim();
+
+      return Boolean(remainder);
+    }
+
     function containsMatchKeyword(text, keyword) {
       const normalizedKeyword = normalizeMatchText(keyword);
 
@@ -2137,13 +2199,22 @@ function loadStoredProfile() {
           profile.remote_keywords
         );
 
-      const restrictedRemoteMatches =
-        findMatchKeywords(
-          location,
-          profile.restricted_remote_keywords
-        );
+    const restrictedRemoteMatches =
+      findMatchKeywords(
+        location,
+        profile.restricted_remote_keywords
+      );
 
-      if (restrictedRemoteMatches.length) {
+    const regionRestrictedRemote =
+      isRegionRestrictedRemote(
+        job.location,
+        profile
+      );
+
+    if (
+      restrictedRemoteMatches.length ||
+      regionRestrictedRemote
+    ) {
         score += scorePoints(
           "restricted_remote_penalty"
         );

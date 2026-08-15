@@ -123,6 +123,21 @@ def test_dashboard_contains_profile_and_scoring_explanation():
     assert "function showProfileEditor()" in dashboard_html
     assert "function hideProfileEditor()" in dashboard_html
 
+def test_dashboard_contains_region_restricted_remote_scoring():
+    profile = load_json(PROFILE_FILE)
+
+    dashboard_html = build_dashboard_html(
+        [sample_scored_job()],
+        profile,
+    )
+
+    assert "const UNRESTRICTED_REMOTE_VALUES = new Set([" in dashboard_html
+    assert "function isRegionRestrictedRemote(value, profile)" in dashboard_html
+    assert "const regionRestrictedRemote =" in dashboard_html
+    assert "isRegionRestrictedRemote(" in dashboard_html
+    assert "restrictedRemoteMatches.length ||" in dashboard_html
+    assert "regionRestrictedRemote" in dashboard_html
+    assert '"restricted_remote_penalty"' in dashboard_html
 
 def test_dashboard_uses_safe_fallback_profile():
     dashboard_html = build_dashboard_html(
