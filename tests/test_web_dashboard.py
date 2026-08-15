@@ -151,6 +151,31 @@ def test_dashboard_freshness_uses_last_seen_not_posted_date():
     assert "daysSinceUpdated(job.last_seen)" in dashboard_html
     assert "daysSinceUpdated(job.posted_date)" not in dashboard_html
 
+def test_dashboard_includes_possibly_closed_status():
+    profile = load_json(PROFILE_FILE)
+    job = sample_scored_job()
+    job["possibly_closed"] = True
+
+    dashboard_html = build_dashboard_html(
+        [job],
+        profile,
+    )
+
+    assert '"possibly_closed": true' in dashboard_html
+
+def test_dashboard_displays_possibly_closed_badge():
+    profile = load_json(PROFILE_FILE)
+    job = sample_scored_job()
+    job["possibly_closed"] = True
+
+    dashboard_html = build_dashboard_html(
+        [job],
+        profile,
+    )
+
+    assert "Possibly closed" in dashboard_html
+
+
 def test_dashboard_recency_sort_uses_last_seen_not_posted_date():
     profile = load_json(PROFILE_FILE)
 

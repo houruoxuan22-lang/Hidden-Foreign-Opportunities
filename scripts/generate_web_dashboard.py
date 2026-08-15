@@ -184,6 +184,7 @@ def normalize_job(job):
     posted_date = format_date(job.get("posted_date"))
     first_seen = safe_text(job.get("first_seen")).strip()
     last_seen = safe_text(job.get("last_seen")).strip()
+    possibly_closed = bool(job.get("possibly_closed"))
     description = clean_dashboard_description(job.get("description"))
 
     raw_match_score = job.get("match_score")
@@ -239,6 +240,7 @@ def normalize_job(job):
         "posted_date": posted_date,
         "first_seen": first_seen,
         "last_seen": last_seen,
+        "possibly_closed": possibly_closed,
         "description": description[:500],
         "match_score": match_score,
         "match_label": match_label,
@@ -2864,8 +2866,13 @@ function updateUrlFromFilters() {
           <h2 class="job-title">${titleHtml}</h2>
           <div class="meta">
             <span class="badge">${escapeHtml(job.company)}</span>
-            <span class="badge">${escapeHtml(job.location)}</span>
-            <span class="badge">Last seen: ${escapeHtml(displayDate(job.last_seen))}</span>
+          <span class="badge">${escapeHtml(job.location)}</span>
+          ${
+          job.possibly_closed
+            ? `<span class="badge">Possibly closed</span>`
+            : ""
+          }
+          <span class="badge">Last seen: ${escapeHtml(displayDate(job.last_seen))}</span>
             <span class="badge">First seen: ${escapeHtml(displayDate(job.first_seen))}</span>
             <span class="badge">Source date: ${escapeHtml(job.posted_date)}</span>
             <span class="badge">Source: ${escapeHtml(job.source)}</span>

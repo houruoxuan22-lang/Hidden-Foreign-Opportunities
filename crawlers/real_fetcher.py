@@ -69,7 +69,7 @@ def fetch_greenhouse(company_slug):
     )
 
     if not isinstance(data, dict):
-        return []
+        return [], False
 
     jobs = []
 
@@ -86,7 +86,7 @@ def fetch_greenhouse(company_slug):
             }
         )
 
-    return jobs
+    return jobs, True
 
 
 def fetch_lever(company_slug):
@@ -101,7 +101,8 @@ def fetch_lever(company_slug):
     )
 
     if not isinstance(data, list):
-        return []
+        return [], False
+
 
     jobs = []
 
@@ -123,7 +124,7 @@ def fetch_lever(company_slug):
             }
         )
 
-    return jobs
+    return jobs, True
 
 def filter_relevant_jobs(jobs):
     keywords = [

@@ -1,4 +1,4 @@
-from run import apply_seen_metadata, job_identity
+from run import apply_seen_metadata, job_identity, merge_missing_jobs
 
 
 def test_job_identity_normalizes_url_case_and_trailing_slash():
@@ -78,3 +78,72 @@ def test_apply_seen_metadata_preserves_first_seen_and_updates_last_seen():
 
     assert result[0]["first_seen"] == "2026-08-10T09:00:00+08:00"
     assert result[0]["last_seen"] == "2026-08-16T00:50:00+08:00"
+
+def test_merge_missing_jobs_marks_current_job_active():
+    jobs = [
+        {
+            "company": "Stripe",
+            "url": "https://example.com/jobs/123",
+        }
+    ]
+    existing_jobs = [
+        {
+            "company": "Stripe",
+            "url": "https://example.com/jobs/123",
+            "possibly_closed": True,
+        }
+    ]
+
+    result = merge_missing_jobs(
+        jobs,
+        existing_jobs,
+        successful_sources={"Stripe"},
+    )
+
+    assert len(result) == 1
+    assert result[0]["possibly_closed"] is False
+
+
+def test_merge_missing_jobs_marks_missing_job_possibly_closed_when_source_succeeded():
+    jobs = []
+    existing_jobs = [
+        {
+            "company": "Stripe",
+            "url": "https://example.com/jobs/123",
+            "first_seen": "2026-08-10T09:00:00+00:00",
+            "last_seen": "2026-08-15T09:00:00+00:00",
+        }
+    ]
+
+    result = merge_missing_jobs(
+        jobs,
+        existing_jobs,
+        successful_sources={"Stripe"},
+    )
+
+    assert len(result) == 1
+    assert result[0]["possibly_closed"] is True
+    assert result[0]["last_seen"] == "2026-08-15T09:00:00+00:00"
+
+
+def test_merge_missing_jobs_preserves_status_when_source_failed():
+    jobs = []
+    existing_jobs = [
+        {
+            "company": "Stripe",
+            "url": "https://example.com/jobs/123",
+            "possibly_closed": False,
+            "first_seen": "2026-08-10T09:00:00+00:00",
+            "last_seen": "2026-08-15T09:00:00+00:00",
+        }
+    ]
+
+    result = merge_missing_jobs(
+        jobs,
+        existing_jobs,
+        successful_sources=set(),
+    )
+
+    assert len(result) == 1
+    assert result[0]["possibly_closed"] is False
+    assert result[0]["last_seen"] == "2026-08-15T09:00:00+00:00"

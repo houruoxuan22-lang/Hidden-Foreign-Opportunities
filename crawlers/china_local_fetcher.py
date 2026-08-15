@@ -164,11 +164,11 @@ def fetch_static_job_board(
         res = requests.get(url, headers=headers, timeout=20)
     except Exception as e:
         print(f"Failed to fetch {name}: {e}")
-        return []
+        return [], False
 
     if res.status_code != 200:
         print(f"Failed to fetch {name}: HTTP {res.status_code}")
-        return []
+        return [], False
 
     soup = BeautifulSoup(res.text, "html.parser")
 
@@ -221,4 +221,4 @@ def fetch_static_job_board(
 
     print(f"{name}: {len(jobs)} China-local candidate jobs")
 
-    return jobs
+    return jobs, True

@@ -61,6 +61,30 @@ def apply_seen_metadata(jobs, existing_jobs, seen_at):
 
     return jobs
 
+def merge_missing_jobs(jobs, existing_jobs, successful_sources):
+    current_ids = {
+        job_identity(job)
+        for job in jobs
+    }
+
+    for job in jobs:
+        job["possibly_closed"] = False
+
+    for previous in existing_jobs:
+        identity = job_identity(previous)
+
+        if identity in current_ids:
+            continue
+
+        preserved = dict(previous)
+
+        if previous.get("company") in successful_sources:
+            preserved["possibly_closed"] = True
+
+        jobs.append(preserved)
+
+    return jobs
+
 def save_jobs(jobs):
     with open(JOBS_FILE, "w", encoding="utf-8") as f:
         json.dump(jobs, f, ensure_ascii=False, indent=2)
@@ -70,6 +94,8 @@ def main():
     companies = load_companies()
     existing_jobs = load_existing_jobs()
     all_jobs = []
+
+    successful_sources = set()
 
     for company in companies:             
         name = company.get("name")
@@ -83,7 +109,7 @@ def main():
         allowed_domains = company.get("allowed_domains", [])
 
         if source_type in ["static_job_board", "company_career_page"]:
-            jobs = fetch_static_job_board(
+            jobs, fetch_ok = fetch_static_job_board(
                 name=name,
                 url=url,
                 default_location=default_location,
@@ -105,7 +131,7 @@ def main():
                 continue
 
             print(f"Fetching jobs from {name} ({slug}) via greenhouse...")
-            jobs = fetch_greenhouse(slug)
+            jobs, fetch_ok = fetch_greenhouse(slug)
             relevant_jobs = filter_relevant_jobs(jobs)
 
         elif ats == "lever":
@@ -114,12 +140,15 @@ def main():
                 continue
 
             print(f"Fetching jobs from {name} ({slug}) via lever...")
-            jobs = fetch_lever(slug)
+            jobs, fetch_ok = fetch_lever(slug)
             relevant_jobs = filter_relevant_jobs(jobs)
  
         else: 
             print(f"Skipping {name}: unsupported or missing source config")
             continue
+
+        if fetch_ok:
+            successful_sources.add(name)
 
         for job in relevant_jobs:
             job["company"] = name
@@ -147,6 +176,13 @@ def main():
         existing_jobs,
         seen_at,
     )
+
+    all_jobs = merge_missing_jobs(
+        all_jobs,
+        existing_jobs,
+        successful_sources,
+    )
+
 
     save_jobs(all_jobs)
     profile = load_json(PROFILE_FILE)
