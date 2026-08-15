@@ -1,4 +1,4 @@
-# Marketing and Communications Jobs - 2026-08-14
+# Marketing and Communications Jobs - 2026-08-15
 
 ## Summary
 
@@ -11,13 +11,15 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 ## Jobs
 
-### Datadog
+### Cloudflare
 
-- [Associate Field Marketing Manager](https://careers.datadoghq.com/detail/8003073/?gh_jid=8003073)
-  - Location: Bangalore, India
-  - Updated: 2026-08-12
+- [Marketing Campaigns & Account-Based Marketing (ABM) Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7838607?gh_jid=7838607)
+  - Location: In-Office
+  - Updated: 2026-08-14
   - Source: greenhouse
   - Source type: Unknown source type
+
+### Datadog
 
 - [Associate Field Marketing Manager (US East and Canada)](https://careers.datadoghq.com/detail/8097690/?gh_jid=8097690)
   - Location: New York, New York, USA
@@ -41,7 +43,7 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Policy and Communications Coordinator/Manager (based on experience)](https://www.europeanchamber.com.cn/en/job-vacancies/1959/Policy_and_Communications_Coordinator_Manager_based_on_experience_)
   - Location: Beijing, China
-  - Updated: 2026-08-14
+  - Updated: 2026-08-15
   - Source: european_chamber
   - Source type: china_local_static
 
@@ -49,13 +51,13 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [iXP - SAP China AI Marketing Intern](https://jobs.sap.com/job/Beijing-iXP-SAP-China-AI-Marketing-Intern-100016/1426364433/)
   - Location: Beijing, China
-  - Updated: 2026-08-14
+  - Updated: 2026-08-15
   - Source: sap_careers
   - Source type: china_company_career
 
 - [Marketing Execution Expert- JingDigital--BJ/SH](https://jobs.sap.com/job/Beijing-Marketing-Execution-Expert-JingDigital-BJSH-100016/1418500233/)
   - Location: Beijing, China
-  - Updated: 2026-08-14
+  - Updated: 2026-08-15
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -167,12 +169,12 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Marketing & Communications Specialist](https://swisscham.com.cn/jobs/marketing-communications-specialist-0)
   - Location: Shanghai, China
-  - Updated: 2026-08-14
+  - Updated: 2026-08-15
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-08-14
+  - Updated: 2026-08-15
   - Source: swisscham_china
   - Source type: china_local_static
