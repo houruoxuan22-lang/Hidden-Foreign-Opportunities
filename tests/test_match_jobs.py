@@ -191,7 +191,89 @@ from scripts.match_jobs import (
     score_label,
     is_unknown_location,
     is_work_mode_only_location,
+    is_region_restricted_remote,
 )
+
+@pytest.mark.parametrize(
+    "location",
+    [
+        "Remote India",
+        "India, Remote",
+        "Texas, USA, Remote",
+        "London, United Kingdom, Remote",
+        "Thailand, Remote",
+        "France, Remote",
+        "SF, NYC, remote",
+        "New York, San Francisco or Remote",
+        "South Africa, Remote",
+    ],
+)
+def test_region_restricted_remote_locations(
+    location,
+):
+    profile = load_default_profile()
+
+    assert is_region_restricted_remote(
+        location,
+        profile,
+    )
+
+@pytest.mark.parametrize(
+    "location",
+    [
+        "Remote",
+        "Global Remote",
+        "Worldwide Remote",
+        "Hybrid or Remote",
+        "Shanghai, China, Remote",
+        "China, Remote",
+    ],
+)
+def test_unrestricted_or_target_remote_locations(
+    location,
+):
+    profile = load_default_profile()
+
+    assert not is_region_restricted_remote(
+        location,
+        profile,
+    )
+
+@pytest.mark.parametrize(
+    "location",
+    [
+        "Remote India",
+        "Texas, USA, Remote",
+        "France, Remote",
+    ],
+)
+def test_score_job_penalizes_generic_region_restricted_remote(
+    location,
+):
+    profile = load_default_profile()
+
+    job = {
+        "title": "Marketing Specialist",
+        "company": "Example Company",
+        "location": location,
+        "description": "",
+        "skills": ["Marketing"],
+        "source_type": "ats_api",
+    }
+
+    result = score_job(job, profile)
+
+    assert (
+        "Remote-friendly location"
+        not in result["good_fit"]
+    )
+
+    assert any(
+        reason.startswith(
+            "Remote role appears region-restricted:"
+        )
+        for reason in result["watch_out"]
+    )
 
 def load_default_profile():
     return load_json(PROFILE_FILE)
