@@ -201,6 +201,20 @@ def test_dashboard_suppresses_specialist_early_career_when_title_has_risk():
         in dashboard_html
     )
 
+def test_dashboard_syncs_quick_button_active_states():
+    profile = load_json(PROFILE_FILE)
+
+    dashboard_html = build_dashboard_html(
+        [sample_scored_job()],
+        profile,
+    )
+
+    assert "function setQuickButtonActive(button, isActive)" in dashboard_html
+    assert 'button.classList.toggle("active", isActive)' in dashboard_html
+    assert '"aria-pressed"' in dashboard_html
+    assert "function syncQuickButtonStates()" in dashboard_html
+    assert "syncQuickButtonStates();" in dashboard_html
+
 def test_dashboard_freshness_uses_last_seen_not_posted_date():
     profile = load_json(PROFILE_FILE)
 
@@ -236,6 +250,7 @@ def test_dashboard_displays_possibly_closed_badge():
     )
 
     assert "Possibly closed" in dashboard_html
+    assert 'class="badge badge-warning">Possibly closed</span>' in dashboard_html
 
 
 def test_dashboard_recency_sort_uses_last_seen_not_posted_date():
@@ -344,3 +359,93 @@ def test_generated_dashboard_javascript_has_valid_syntax(tmp_path):
             "invalid JavaScript:\n"
             f"{result.stderr}"
         )
+
+def test_dashboard_uses_secondary_job_metadata_line():
+    profile = load_json(PROFILE_FILE)
+
+    dashboard_html = build_dashboard_html(
+        [sample_scored_job()],
+        profile,
+    )
+
+    assert ".meta-secondary {" in dashboard_html
+    assert '<div class="meta-secondary">' in dashboard_html
+    assert "First seen:" in dashboard_html
+    assert "Source date:" in dashboard_html
+    assert "Source:" in dashboard_html
+
+def test_dashboard_includes_official_posting_cta():
+    profile = load_json(PROFILE_FILE)
+
+    dashboard_html = build_dashboard_html(
+        [sample_scored_job()],
+        profile,
+    )
+
+    assert ".job-actions {" in dashboard_html
+    assert ".job-link {" in dashboard_html
+    assert "Open official posting ↗" in dashboard_html
+    assert 'target="_blank"' in dashboard_html
+    assert 'rel="noopener noreferrer"' in dashboard_html
+
+def test_dashboard_empty_state_can_clear_filters():
+    profile = load_json(PROFILE_FILE)
+
+    dashboard_html = build_dashboard_html(
+        [sample_scored_job()],
+        profile,
+    )
+
+    assert 'id="emptyClearFilters"' in dashboard_html
+    assert "function resetFilters()" in dashboard_html
+    assert (
+        '.getElementById("emptyClearFilters")'
+        in dashboard_html
+    )
+    assert (
+        '.addEventListener("click", resetFilters)'
+        in dashboard_html
+    )
+
+def test_dashboard_uses_clear_profile_labels_and_target_quick_locations():
+    profile = load_json(PROFILE_FILE)
+
+    dashboard_html = build_dashboard_html(
+        [sample_scored_job()],
+        profile,
+    )
+
+    assert ">Target locations</p>" in dashboard_html
+    assert ">Target role areas</p>" in dashboard_html
+
+    assert (
+        '<button data-location="Shenzhen">Shenzhen</button>'
+        in dashboard_html
+    )
+
+    assert (
+        '<button data-location="Chicago">Chicago</button>'
+        not in dashboard_html
+    )
+
+def test_dashboard_styles_match_scores_by_score_band():
+    profile = load_json(PROFILE_FILE)
+
+    dashboard_html = build_dashboard_html(
+        [sample_scored_job()],
+        profile,
+    )
+
+    assert ".match-score.score-worth {" in dashboard_html
+    assert ".match-score.score-potential {" in dashboard_html
+    assert ".match-score.score-strong {" in dashboard_html
+
+    assert "function matchScoreClass(score)" in dashboard_html
+    assert 'return "score-strong";' in dashboard_html
+    assert 'return "score-potential";' in dashboard_html
+    assert 'return "score-worth";' in dashboard_html
+
+    assert (
+        'class="match-score ${matchScoreClass(matchScore)}"'
+        in dashboard_html
+    )

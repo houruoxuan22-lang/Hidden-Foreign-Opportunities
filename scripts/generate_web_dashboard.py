@@ -888,11 +888,37 @@ def build_dashboard_html(jobs, profile=None):
       text-decoration: underline;
     }
 
+          .job-actions {
+        margin-top: 12px;
+      }
+
+      .job-link {
+        display: inline-flex;
+        align-items: center;
+        gap: 4px;
+        color: var(--accent);
+        font-size: 13px;
+        font-weight: 600;
+        text-decoration: none;
+      }
+
+      .job-link:hover {
+        text-decoration: underline;
+      }
+
     .meta {
       display: flex;
       flex-wrap: wrap;
       gap: 8px;
       margin-bottom: 10px;
+    }
+
+    .meta-secondary {
+      margin: -2px 0 10px;
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.5;
+      overflow-wrap: anywhere;
     }
 
     .badge {
@@ -904,6 +930,13 @@ def build_dashboard_html(jobs, profile=None):
       font-size: 12px;
       max-width: 100%;
       overflow-wrap: anywhere;
+    }
+
+    .badge-warning {
+      background: #fff8c5;
+      border-color: #d4a72c;
+      color: #7d4e00;
+      font-weight: 600;
     }
 
     .description {
@@ -928,17 +961,36 @@ def build_dashboard_html(jobs, profile=None):
       margin-bottom: 6px;
     }
 
-    .match-score {
-      display: inline-flex;
-      align-items: center;
-      border: 1px solid #1f883d;
-      border-radius: 999px;
-      background: #dafbe1;
-      color: #116329;
-      padding: 4px 9px;
-      font-size: 13px;
-      font-weight: 700;
-    }
+
+          .match-score {
+        display: inline-flex;
+        align-items: center;
+        border: 1px solid var(--border);
+        border-radius: 999px;
+        background: var(--badge);
+        color: var(--muted);
+        padding: 4px 9px;
+        font-size: 13px;
+        font-weight: 700;
+      }
+
+      .match-score.score-worth {
+        border-color: #d4a72c;
+        background: #fff8c5;
+        color: #7d4e00;
+      }
+
+      .match-score.score-potential {
+        border-color: #0969da;
+        background: #ddf4ff;
+        color: #0550ae;
+      }
+
+      .match-score.score-strong {
+        border-color: #1f883d;
+        background: #dafbe1;
+        color: #116329;
+      }
 
     .match-label {
       color: var(--muted);
@@ -1132,22 +1184,27 @@ def build_dashboard_html(jobs, profile=None):
           __PROFILE_DESCRIPTION__
         </p>
 
-        <div class="profile-group">
-          <p class="profile-group-title">Target role areas</p>
+                 <div class="profile-group">
+            <p class="profile-group-title">Target locations</p>
 
-          <div
-           id="currentProfileLocations"
-           class="profile-chips"
-          >
-          __PROFILE_LOCATIONS__
+            <div
+              id="currentProfileLocations"
+              class="profile-chips"
+            >
+              __PROFILE_LOCATIONS__
+            </div>
           </div>
-        <div
-          id="currentProfileRoles"
-          class="profile-chips"
-        >
-          __PROFILE_ROLES__
-        </div>
-        </div>
+
+          <div class="profile-group">
+            <p class="profile-group-title">Target role areas</p>
+
+            <div
+              id="currentProfileRoles"
+              class="profile-chips"
+            >
+              __PROFILE_ROLES__
+            </div>
+          </div>
 
             <details class="score-details">
       <summary>How the match score is calculated</summary>
@@ -1372,7 +1429,7 @@ def build_dashboard_html(jobs, profile=None):
         <button data-category="mainland">Mainland China</button>
         <button data-location="Shanghai">Shanghai</button>
         <button data-location="Beijing">Beijing</button>
-        <button data-location="Chicago">Chicago</button>
+        <button data-location="Shenzhen">Shenzhen</button>
         <button data-category="internship">Internships</button>
         <button data-category="remote">Remote</button>
         <button data-freshness="7">Seen in last 7 days</button>
@@ -2844,6 +2901,24 @@ function updateUrlFromFilters() {
         .replaceAll("'", "&#039;");
     }
 
+    function matchScoreClass(score) {
+      const numericScore = Number(score);
+
+      if (numericScore >= 75) {
+          return "score-strong";
+      }
+
+      if (numericScore >= 55) {
+        return "score-potential";
+      }
+
+      if (numericScore >= 35) {
+        return "score-worth";
+      }
+
+      return "";
+    }
+
     function renderJobs(filteredJobs) {
       jobsList.innerHTML = "";
 
@@ -2851,9 +2926,21 @@ function updateUrlFromFilters() {
       resultSummary.textContent = `Showing ${filteredJobs.length} of ${jobs.length} jobs`;
 
       if (!filteredJobs.length) {
-        jobsList.innerHTML = `<div class="empty">No matching jobs found. Try adjusting your filters.</div>`;
-        return;
-      }
+      jobsList.innerHTML = `
+        <div class="empty">
+          <p>No matching jobs found. Try adjusting your filters.</p>
+          <button id="emptyClearFilters" type="button">
+            Clear filters
+          </button>
+        </div>
+      `;
+
+      document
+        .getElementById("emptyClearFilters")
+        .addEventListener("click", resetFilters);
+
+      return;
+    }
 
       filteredJobs.slice(0, 300).forEach(job => {
         const card = document.createElement("article");
@@ -2884,7 +2971,7 @@ function updateUrlFromFilters() {
           ? `
             <div class="match-panel">
               <div class="match-header">
-                <span class="match-score">
+                <span class="match-score ${matchScoreClass(matchScore)}">
                   Match ${matchScore}/100
                 </span>
                 ${
@@ -2922,23 +3009,39 @@ function updateUrlFromFilters() {
 
         card.innerHTML = `
           <h2 class="job-title">${titleHtml}</h2>
-          <div class="meta">
-            <span class="badge">${escapeHtml(job.company)}</span>
+         <div class="meta">
+          <span class="badge">${escapeHtml(job.company)}</span>
           <span class="badge">${escapeHtml(job.location)}</span>
           ${
-          job.possibly_closed
-            ? `<span class="badge">Possibly closed</span>`
-            : ""
+            job.possibly_closed
+              ? `<span class="badge badge-warning">Possibly closed</span>`
+              : ""
           }
-          <span class="badge">Last seen: ${escapeHtml(displayDate(job.last_seen))}</span>
-            <span class="badge">First seen: ${escapeHtml(displayDate(job.first_seen))}</span>
-            <span class="badge">Source date: ${escapeHtml(job.posted_date)}</span>
-            <span class="badge">Source: ${escapeHtml(job.source)}</span>
-            <span class="badge">${escapeHtml(job.source_type_label || job.source_type)}</span>
-          </div>
-          ${matchHtml}
-          ${job.description ? `<p class="description">${escapeHtml(job.description)}</p>` : ""}
-        `;
+          <span class="badge">
+            Last seen: ${escapeHtml(displayDate(job.last_seen))}
+          </span>
+        </div>
+
+        <div class="meta-secondary">
+          First seen: ${escapeHtml(displayDate(job.first_seen))}
+          · Source date: ${escapeHtml(job.posted_date)}
+          · Source: ${escapeHtml(job.source)}
+          · ${escapeHtml(job.source_type_label || job.source_type)}
+        </div>
+            ${matchHtml}
+            ${job.description ? `<p class="description">${escapeHtml(job.description)}</p>` : ""}
+
+            <div class="job-actions">
+              <a
+                class="job-link"
+                href="${escapeHtml(job.url)}"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Open official posting ↗
+              </a>
+            </div>
+          `;
 
         jobsList.appendChild(card);
       });
@@ -2950,6 +3053,50 @@ function updateUrlFromFilters() {
         jobsList.appendChild(notice);
       }
     }
+
+          function setQuickButtonActive(button, isActive) {
+        button.classList.toggle("active", isActive);
+        button.setAttribute(
+          "aria-pressed",
+          isActive ? "true" : "false"
+        );
+      }
+
+      function syncQuickButtonStates() {
+        document
+          .querySelectorAll("button[data-category]")
+          .forEach(button => {
+            setQuickButtonActive(
+              button,
+              categorySelect.value === button.dataset.category
+            );
+          });
+
+        document
+          .querySelectorAll("button[data-location]")
+          .forEach(button => {
+            const selectedLocation =
+              locationSelect.value.toLowerCase();
+
+            const targetLocation =
+              button.dataset.location.toLowerCase();
+
+            setQuickButtonActive(
+              button,
+              Boolean(selectedLocation)
+              && selectedLocation.includes(targetLocation)
+            );
+          });
+
+        document
+          .querySelectorAll("button[data-freshness]")
+          .forEach(button => {
+            setQuickButtonActive(
+              button,
+              freshnessSelect.value === button.dataset.freshness
+            );
+          });
+      }
 
     function applyFilters() {
       const query = searchInput.value.trim().toLowerCase();
@@ -3008,6 +3155,7 @@ function updateUrlFromFilters() {
       }
 
       activeFilters.textContent = labels.length ? labels.join(" · ") : "No active filters";
+      syncQuickButtonStates();
       updateUrlFromFilters();
       renderJobs(filteredJobs);
     }
@@ -3046,7 +3194,7 @@ function updateUrlFromFilters() {
       });
     });
 
-    clearFilters.addEventListener("click", () => {
+    function resetFilters() {
       searchInput.value = "";
       locationSelect.value = "";
       companySelect.value = "";
@@ -3056,7 +3204,9 @@ function updateUrlFromFilters() {
       freshnessSelect.value = "";
       sortSelect.value = "updated_desc";
       applyFilters();
-    });
+    }
+
+    clearFilters.addEventListener("click", resetFilters);
 
     copyLinkButton.addEventListener("click", async () => {
       applyFilters();
