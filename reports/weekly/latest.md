@@ -1,22 +1,22 @@
-# Weekly Job Trend Report - 2026-08-15
+# Weekly Job Trend Report - 2026-08-16
 
 ## Summary
 
-- Snapshot window: 2026-08-09 to 2026-08-15
+- Snapshot window: 2026-08-10 to 2026-08-16
 - Snapshot days available: 7
 - Latest total relevant jobs: 282
-- Change vs first available snapshot: 0
+- Change vs first available snapshot: -5
 
 ## Skill Trend Signals
 
-- Communication: 65 (-2)
-- Project Management: 53 (-2)
+- Communication: 65 (-7)
+- Project Management: 53 (-4)
 - SQL: 40 (+1)
-- Python: 40 (-4)
-- Sales: 36 (+3)
-- Operations: 30 (+6)
-- Excel: 30 (+5)
-- CRM: 21 (-2)
+- Python: 40 (-3)
+- Sales: 36 (+1)
+- Operations: 30 (+4)
+- Excel: 30 (+4)
+- CRM: 21 (-3)
 - Product: 15 (0)
 - Engineering: 13 (-2)
 - Customer Success: 13 (+3)
