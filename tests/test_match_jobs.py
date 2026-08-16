@@ -191,8 +191,187 @@ from scripts.match_jobs import (
     score_label,
     is_unknown_location,
     is_work_mode_only_location,
+    title_location_fallback,
     is_region_restricted_remote,
 )
+
+@pytest.mark.parametrize(
+    (
+        "title",
+        "location",
+        "expected_target",
+        "expected_geography",
+    ),
+    [
+        (
+            "Senior Customer Engineer, Shenzhen",
+            "Distributed",
+            ["shenzhen"],
+            [],
+        ),
+        (
+            "Senior Named Account Executive, North China",
+            "Hybrid",
+            ["china"],
+            [],
+        ),
+        (
+            "Named Account Executive, FSI (Hong Kong)",
+            "Hybrid",
+            [],
+            ["hong kong"],
+        ),
+        (
+            "Software Engineer Intern (Fall 2026) - Austin, TX",
+            "In-Office",
+            [],
+            ["austin"],
+        ),
+        (
+            "Accounting Intern (Fall 2026)",
+            "In-Office",
+            [],
+            [],
+        ),
+    ],
+)
+def test_title_location_fallback_for_work_mode_only_locations(
+    title,
+    location,
+    expected_target,
+    expected_geography,
+):
+    profile = load_default_profile()
+
+    target_matches, geography_matches = title_location_fallback(
+        {
+            "title": title,
+            "location": location,
+        },
+        profile,
+    )
+
+    assert target_matches == expected_target
+    assert geography_matches == expected_geography
+
+@pytest.mark.parametrize(
+    (
+        "title",
+        "location",
+        "expected_location",
+    ),
+    [
+        (
+            "Senior Customer Engineer, Shenzhen",
+            "Distributed",
+            "Shenzhen",
+        ),
+        (
+            "Senior Named Account Executive, North China",
+            "Hybrid",
+            "China",
+        ),
+    ],
+)
+def test_score_job_uses_target_location_from_title_for_work_mode_only_location(
+    title,
+    location,
+    expected_location,
+):
+    profile = load_default_profile()
+
+    job = {
+        "title": title,
+        "company": "Example Company",
+        "location": location,
+        "description": "",
+        "skills": [],
+        "source_type": "ats_api",
+    }
+
+    result = score_job(job, profile)
+
+    assert (
+        f"Target location in title: {expected_location}"
+        in result["good_fit"]
+    )
+
+    assert not any(
+        reason.startswith("Location outside current targets:")
+        for reason in result["watch_out"]
+    )
+
+
+@pytest.mark.parametrize(
+    (
+        "title",
+        "location",
+        "expected_location",
+    ),
+    [
+        (
+            "Named Account Executive, FSI (Hong Kong)",
+            "Hybrid",
+            "Hong Kong",
+        ),
+        (
+            "Software Engineer Intern (Fall 2026) - Austin, TX",
+            "In-Office",
+            "Austin",
+        ),
+    ],
+)
+def test_score_job_penalizes_non_target_location_from_title_for_work_mode_only_location(
+    title,
+    location,
+    expected_location,
+):
+    profile = load_default_profile()
+
+    job = {
+        "title": title,
+        "company": "Example Company",
+        "location": location,
+        "description": "",
+        "skills": [],
+        "source_type": "ats_api",
+    }
+
+    result = score_job(job, profile)
+
+    assert (
+        f"Location in title outside current targets: {expected_location}"
+        in result["watch_out"]
+    )
+
+    assert not any(
+        reason.startswith("Target location in title:")
+        for reason in result["good_fit"]
+    )
+
+def test_score_job_keeps_work_mode_only_location_neutral_without_title_geography():
+    profile = load_default_profile()
+
+    job = {
+        "title": "Accounting Intern (Fall 2026)",
+        "company": "Example Company",
+        "location": "In-Office",
+        "description": "",
+        "skills": [],
+        "source_type": "ats_api",
+    }
+
+    result = score_job(job, profile)
+
+    assert not any(
+        reason.startswith("Target location")
+        for reason in result["good_fit"]
+    )
+
+    assert not any(
+        "Location" in reason
+        for reason in result["watch_out"]
+    )
 
 @pytest.mark.parametrize(
     "location",

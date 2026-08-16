@@ -81,12 +81,37 @@ WORK_MODE_ONLY_VALUES = {
     "distributed",
 }
 
+TITLE_GEOGRAPHY_HINT_KEYWORDS = {
+    "hong kong",
+    "austin",
+}
 
 def is_work_mode_only_location(value: Any) -> bool:
     return (
         normalize_location_text(value)
         in WORK_MODE_ONLY_VALUES
     )
+
+def title_location_fallback(
+    job: dict[str, Any],
+    profile: dict[str, Any],
+) -> tuple[list[str], list[str]]:
+    if not is_work_mode_only_location(job.get("location")):
+        return [], []
+
+    title = normalize_location_text(job.get("title"))
+
+    target_matches = find_matching_keywords(
+        title,
+        profile.get("location_keywords", []),
+    )
+
+    geography_matches = find_matching_keywords(
+        title,
+        TITLE_GEOGRAPHY_HINT_KEYWORDS,
+    )
+
+    return target_matches, geography_matches
 
 UNRESTRICTED_REMOTE_VALUES = {
     "remote",
@@ -259,6 +284,10 @@ def score_job(
         )
     )
 
+    title_location_matches, title_geography_matches = title_location_fallback(
+        job,
+        profile,
+    )
 
     if (
         restricted_remote_matches
@@ -279,9 +308,25 @@ def score_job(
         )
         good_fit.append(f"Target location: {displayed_location}")
 
+    elif title_location_matches:
+        score += scoring["location_match"]
+
+        good_fit.append(
+            f"Target location in title: "
+            f"{readable_keyword(title_location_matches[0])}"
+        )
+
     elif remote_matches:
         score += scoring["remote_match"]
         good_fit.append("Remote-friendly location")
+
+    elif title_geography_matches:
+        score += scoring["location_mismatch_penalty"]
+
+        watch_out.append(
+            f"Location in title outside current targets: "
+            f"{readable_keyword(title_geography_matches[0])}"
+    )
 
     elif (
         not is_unknown_location(job.get("location"))

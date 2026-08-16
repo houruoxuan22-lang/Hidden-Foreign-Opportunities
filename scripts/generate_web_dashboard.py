@@ -1909,13 +1909,46 @@ function loadStoredProfile() {
       ]).has(normalized);
     }
 
-    const WORK_MODE_ONLY_VALUES = new Set([
-      "in office",
-      "onsite",
-      "on site",
-      "hybrid",
-      "distributed",
-    ]);
+      const WORK_MODE_ONLY_VALUES = new Set([
+        "in office",
+        "onsite",
+        "on site",
+        "hybrid",
+        "distributed",
+      ]);
+
+      const TITLE_GEOGRAPHY_HINT_KEYWORDS = [
+        "hong kong",
+        "austin",
+      ];
+
+      function isWorkModeOnlyLocation(value) {
+        return WORK_MODE_ONLY_VALUES.has(
+          normalizeLocationText(value)
+        );
+      }
+
+      function titleLocationFallback(job, profile) {
+        if (!isWorkModeOnlyLocation(job.location)) {
+          return {
+            targetMatches: [],
+            geographyMatches: [],
+          };
+        }
+
+        const title = normalizeLocationText(job.title);
+
+        return {
+          targetMatches: findMatchKeywords(
+            title,
+            profile.location_keywords || []
+          ),
+          geographyMatches: findMatchKeywords(
+            title,
+            TITLE_GEOGRAPHY_HINT_KEYWORDS
+          ),
+        };
+      }
 
     function isWorkModeOnlyLocation(value) {
       return WORK_MODE_ONLY_VALUES.has(
@@ -2184,22 +2217,34 @@ function loadStoredProfile() {
           profile.remote_keywords
         );
 
-    const restrictedRemoteMatches =
-      findMatchKeywords(
-        location,
-        profile.restricted_remote_keywords
-      );
+      const restrictedRemoteMatches =
+        findMatchKeywords(
+          location,
+          profile.restricted_remote_keywords
+        );
 
-    const regionRestrictedRemote =
-      isRegionRestrictedRemote(
-        job.location,
-        profile
-      );
+      const regionRestrictedRemote =
+        isRegionRestrictedRemote(
+          job.location,
+          profile
+        );
 
-    if (
-      restrictedRemoteMatches.length ||
-      regionRestrictedRemote
-    ) {
+      const titleLocationResult =
+        titleLocationFallback(
+          job,
+          profile
+        );
+
+      const titleLocationMatches =
+        titleLocationResult.targetMatches;
+
+      const titleGeographyMatches =
+        titleLocationResult.geographyMatches;
+
+      if (
+        restrictedRemoteMatches.length ||
+        regionRestrictedRemote
+      ) {
         score += scorePoints(
           "restricted_remote_penalty"
         );
@@ -2208,7 +2253,7 @@ function loadStoredProfile() {
           `Remote role appears region-restricted: ${
             safeMatchText(job.location)
           }`
-         );
+        );
       } else if (locationMatches.length) {
         score += scorePoints(
           "location_match"
@@ -2223,21 +2268,44 @@ function loadStoredProfile() {
         goodFit.push(
           `Target location: ${displayedLocation}`
         );
+      } else if (titleLocationMatches.length) {
+        score += scorePoints(
+          "location_match"
+        );
+
+        goodFit.push(
+          `Target location in title: ${
+            readableMatchKeyword(
+              titleLocationMatches[0]
+            )
+          }`
+        );
       } else if (remoteMatches.length) {
         if (remotePreference === "preferred") {
-         score += scorePoints(
-           "remote_match"
+          score += scorePoints(
+            "remote_match"
           );
 
           goodFit.push(
             "Remote-friendly location"
           );
         }
+      } else if (titleGeographyMatches.length) {
+        score += scorePoints(
+          "location_mismatch_penalty"
+        );
 
+        watchOut.push(
+          `Location in title outside current targets: ${
+            readableMatchKeyword(
+              titleGeographyMatches[0]
+            )
+          }`
+        );
       } else if (
-      !isUnknownLocation(job.location)
-      && !isWorkModeOnlyLocation(job.location)
-    ) {
+        !isUnknownLocation(job.location)
+        && !isWorkModeOnlyLocation(job.location)
+      ) {
         score += scorePoints(
           "location_mismatch_penalty"
         );

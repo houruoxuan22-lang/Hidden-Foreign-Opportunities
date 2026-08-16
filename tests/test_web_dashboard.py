@@ -160,6 +160,31 @@ def test_dashboard_contains_region_restricted_remote_scoring():
     assert "regionRestrictedRemote" in dashboard_html
     assert '"restricted_remote_penalty"' in dashboard_html
 
+def test_dashboard_contains_title_location_fallback_scoring():
+    profile = load_json(PROFILE_FILE)
+
+    dashboard_html = build_dashboard_html(
+        [sample_scored_job()],
+        profile,
+    )
+
+    assert "const TITLE_GEOGRAPHY_HINT_KEYWORDS = [" in dashboard_html
+    assert '"hong kong"' in dashboard_html
+    assert '"austin"' in dashboard_html
+
+    assert "function titleLocationFallback(job, profile)" in dashboard_html
+    assert "const titleLocationResult =" in dashboard_html
+    assert "const titleLocationMatches =" in dashboard_html
+    assert "const titleGeographyMatches =" in dashboard_html
+
+    assert "Target location in title:" in dashboard_html
+    assert "Location in title outside current targets:" in dashboard_html
+
+    assert (
+        "profile.location_keywords || []"
+        in dashboard_html
+    )
+
 def test_dashboard_freshness_uses_last_seen_not_posted_date():
     profile = load_json(PROFILE_FILE)
 
@@ -239,6 +264,7 @@ def test_dashboard_uses_safe_fallback_profile():
     )
     assert "Not specified" in dashboard_html
     assert "No scoring rules configured." in dashboard_html
+
 
 
 def test_embedded_job_json_escapes_script_closing_tags():
