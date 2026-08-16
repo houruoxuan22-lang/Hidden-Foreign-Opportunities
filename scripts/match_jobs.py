@@ -362,6 +362,21 @@ def score_job(
         profile.get("early_career_keywords", []),
     )
 
+    title_risk_matches = find_matching_keywords(
+        title,
+        profile.get("title_risk_keywords", []),
+    )
+
+    if (
+        "specialist" in early_career_matches
+        and title_risk_matches
+    ):
+        early_career_matches = [
+            keyword
+            for keyword in early_career_matches
+            if keyword != "specialist"
+        ]
+
     if early_career_matches:
         score += scoring["early_career_match"]
 
@@ -395,12 +410,7 @@ def score_job(
         ]
         good_fit.append(f"Matched skills: {', '.join(skill_labels)}")
 
-    # 5. Seniority risks from the job title
-    title_risk_matches = find_matching_keywords(
-        title,
-        profile.get("title_risk_keywords", []),
-    )
-
+   # 5. Seniority risks from the job title
     for risk_keyword in title_risk_matches:
         score += scoring["title_risk_penalty"]
         watch_out.append(

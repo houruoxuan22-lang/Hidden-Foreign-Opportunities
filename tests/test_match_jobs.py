@@ -605,6 +605,57 @@ def test_score_job_applies_each_title_seniority_penalty():
     assert "Seniority signal in title: Senior" in result["watch_out"]
     assert "Seniority signal in title: Manager" in result["watch_out"]
 
+@pytest.mark.parametrize(
+    "title",
+    [
+        "Specialist Solutions Architect, Billing",
+        "Senior Audit Specialist - Compliance Monitoring",
+    ],
+)
+def test_score_job_does_not_treat_specialist_as_early_career_when_title_has_seniority_risk(
+    title,
+):
+    profile = load_default_profile()
+
+    job = {
+        "title": title,
+        "company": "Example Company",
+        "location": "Shanghai, China",
+        "description": "",
+        "skills": [],
+        "source_type": "ats_api",
+    }
+
+    result = score_job(job, profile)
+
+    assert "Early-career signal: Specialist" not in result["good_fit"]
+
+    assert any(
+        reason.startswith("Seniority signal in title:")
+        for reason in result["watch_out"]
+    )
+
+
+def test_score_job_keeps_plain_specialist_as_early_career_signal():
+    profile = load_default_profile()
+
+    job = {
+        "title": "Marketing Specialist",
+        "company": "Example Company",
+        "location": "Shanghai, China",
+        "description": "",
+        "skills": [],
+        "source_type": "ats_api",
+    }
+
+    result = score_job(job, profile)
+
+    assert "Early-career signal: Specialist" in result["good_fit"]
+
+    assert not any(
+        reason.startswith("Seniority signal in title:")
+        for reason in result["watch_out"]
+    )
 
 def test_score_job_penalizes_region_restricted_remote_role():
     profile = load_default_profile()

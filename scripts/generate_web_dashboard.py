@@ -2337,30 +2337,41 @@ function loadStoredProfile() {
         );
       }
 
-      const earlyCareerMatches =
-        findMatchKeywords(
-          title,
-          profile.early_career_keywords
-        );
 
-      if (
-        useEarlyCareerRules
-        && earlyCareerMatches.length
-      ) {
-        score += scorePoints(
-          "early_career_match"
-        );
+        let earlyCareerMatches =
+          findMatchKeywords(
+            title,
+            profile.early_career_keywords
+          );
 
-        const labels = earlyCareerMatches
-          .slice(0, 2)
-          .map(readableMatchKeyword);
+        if (
+          earlyCareerMatches.includes("specialist")
+          && titleRiskMatches.length
+        ) {
+          earlyCareerMatches =
+            earlyCareerMatches.filter(
+              keyword => keyword !== "specialist"
+            );
+        }
 
-        goodFit.push(
-          `Early-career signal: ${
-            labels.join(", ")
-          }`
-        );
-      }
+        if (
+          useEarlyCareerRules
+          && earlyCareerMatches.length
+        ) {
+          score += scorePoints(
+            "early_career_match"
+          );
+
+          const labels = earlyCareerMatches
+            .slice(0, 2)
+            .map(readableMatchKeyword);
+
+          goodFit.push(
+            `Early-career signal: ${
+              labels.join(", ")
+            }`
+          );
+        }
 
       const skillMatches =
         findMatchKeywords(

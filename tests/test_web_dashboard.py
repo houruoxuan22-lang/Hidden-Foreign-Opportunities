@@ -185,6 +185,22 @@ def test_dashboard_contains_title_location_fallback_scoring():
         in dashboard_html
     )
 
+def test_dashboard_suppresses_specialist_early_career_when_title_has_risk():
+    profile = load_json(PROFILE_FILE)
+
+    dashboard_html = build_dashboard_html(
+        [sample_scored_job()],
+        profile,
+    )
+
+    assert "let earlyCareerMatches =" in dashboard_html
+    assert 'earlyCareerMatches.includes("specialist")' in dashboard_html
+    assert "&& titleRiskMatches.length" in dashboard_html
+    assert (
+        'keyword => keyword !== "specialist"'
+        in dashboard_html
+    )
+
 def test_dashboard_freshness_uses_last_seen_not_posted_date():
     profile = load_json(PROFILE_FILE)
 
