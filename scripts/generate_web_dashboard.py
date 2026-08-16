@@ -1,3 +1,4 @@
+from scripts.job_identity import deduplicate_jobs
 import json
 import os
 import re
@@ -250,29 +251,7 @@ def normalize_job(job):
     }
 
 def deduplicate_normalized_jobs(jobs):
-    seen = set()
-    deduped_jobs = []
-
-    for job in jobs:
-        url = safe_text(job.get("url")).strip().lower().rstrip("/")
-
-        if url:
-            key = ("url", url)
-        else:
-            key = (
-                "fallback",
-                safe_text(job.get("company")).strip().lower(),
-                safe_text(job.get("title")).strip().lower(),
-                safe_text(job.get("location")).strip().lower(),
-            )
-
-        if key in seen:
-            continue
-
-        seen.add(key)
-        deduped_jobs.append(job)
-
-    return deduped_jobs
+    return deduplicate_jobs(jobs)
 
 def build_dashboard_html(jobs, profile=None):
     today = date.today().isoformat()

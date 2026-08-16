@@ -1,3 +1,4 @@
+from scripts.job_identity import deduplicate_jobs, job_identity
 from datetime import datetime, timezone
 import json
 import yaml
@@ -21,18 +22,6 @@ def load_companies():
 
     return companies or []
 
-def job_identity(job):
-    url = str(job.get("url") or "").strip().lower().rstrip("/")
-
-    if url:
-        return ("url", url)
-
-    return (
-        "fallback",
-        str(job.get("company") or "").strip().lower(),
-        str(job.get("title") or "").strip().lower(),
-        str(job.get("location") or "").strip().lower(),
-    )
 
 def load_existing_jobs():
     try:
@@ -167,7 +156,7 @@ def main():
 
         print(f"{name}: {len(relevant_jobs)} relevant jobs")        
         
- 
+    all_jobs = deduplicate_jobs(all_jobs)
     all_jobs = enrich_jobs_with_skills(all_jobs)
 
     seen_at = datetime.now(timezone.utc).isoformat(timespec="seconds")

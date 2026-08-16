@@ -82,6 +82,27 @@ def test_deduplicate_jobs_uses_normalized_url():
         "Marketing & Communications Specialist"
     )
 
+def test_deduplicate_jobs_uses_greenhouse_job_id_across_url_changes():
+    jobs = [
+        {
+            "company": "Stripe",
+            "source": "greenhouse",
+            "title": "Security Analyst",
+            "location": "Remote",
+            "url": "https://boards.greenhouse.io/stripe/jobs/123?gh_jid=7893199",
+        },
+        {
+            "company": "Stripe",
+            "source": "greenhouse",
+            "title": "Security Analyst",
+            "location": "Remote",
+            "url": "https://stripe.com/jobs/search?foo=bar&gh_jid=7893199",
+        },
+    ]
+
+    deduped = deduplicate_normalized_jobs(jobs)
+
+    assert len(deduped) == 1
 
 def test_dashboard_contains_profile_and_scoring_explanation():
     profile = load_json(PROFILE_FILE)

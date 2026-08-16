@@ -1,5 +1,51 @@
-from run import apply_seen_metadata, job_identity, merge_missing_jobs
+from pathlib import Path
+from run import apply_seen_metadata, merge_missing_jobs
+from scripts.job_identity import deduplicate_jobs, job_identity
 
+def test_deduplicate_jobs_removes_same_greenhouse_job_across_url_changes():
+    jobs = [
+        {
+            "company": "Stripe",
+            "source": "greenhouse",
+            "title": "Security Analyst",
+            "location": "Remote",
+            "url": "https://boards.greenhouse.io/stripe/jobs/123?gh_jid=7893199",
+        },
+        {
+            "company": "Stripe",
+            "source": "greenhouse",
+            "title": "Security Analyst",
+            "location": "Remote",
+            "url": "https://stripe.com/jobs/search?foo=bar&gh_jid=7893199",
+        },
+    ]
+
+    deduped = deduplicate_jobs(jobs)
+
+    assert len(deduped) == 1
+
+
+def test_deduplicate_jobs_keeps_distinct_native_job_ids():
+    jobs = [
+        {
+            "company": "Stripe",
+            "source": "greenhouse",
+            "title": "Security Analyst, Bug Bounty",
+            "location": "Remote, North America",
+            "url": "https://stripe.com/jobs/search?gh_jid=7979393",
+        },
+        {
+            "company": "Stripe",
+            "source": "greenhouse",
+            "title": "Security Analyst, Bug Bounty",
+            "location": "Remote, North America",
+            "url": "https://stripe.com/jobs/search?gh_jid=8070570",
+        },
+    ]
+
+    deduped = deduplicate_jobs(jobs)
+
+    assert len(deduped) == 2
 
 def test_job_identity_normalizes_url_case_and_trailing_slash():
     first = {
@@ -22,6 +68,62 @@ def test_job_identity_preserves_job_query_parameter():
 
     assert job_identity(first) != job_identity(second)
 
+def test_job_identity_uses_greenhouse_job_id_across_url_changes():
+    first = {
+        "company": "Stripe",
+        "source": "greenhouse",
+        "url": "https://boards.greenhouse.io/stripe/jobs/123?gh_jid=7893199",
+    }
+    second = {
+        "company": "Stripe",
+        "source": "greenhouse",
+        "url": "https://stripe.com/jobs/search?foo=bar&gh_jid=7893199",
+    }
+
+    assert job_identity(first) == job_identity(second)
+
+def test_job_identity_keeps_greenhouse_ids_separate_across_companies():
+    first = {
+        "company": "Stripe",
+        "source": "greenhouse",
+        "url": "https://stripe.com/jobs/search?gh_jid=7893199",
+    }
+    second = {
+        "company": "Cloudflare",
+        "source": "greenhouse",
+        "url": "https://boards.greenhouse.io/cloudflare/jobs/7893199?gh_jid=7893199",
+    }
+
+    assert job_identity(first) != job_identity(second)
+
+def test_job_identity_uses_european_chamber_vacancy_id_across_url_changes():
+    first = {
+        "company": "European Chamber China",
+        "source": "european_chamber",
+        "url": "https://www.europeanchamber.com.cn/en/job-vacancies/5398/Commissioning_Engineer",
+    }
+    second = {
+        "company": "European Chamber China",
+        "source": "european_chamber",
+        "url": "https://www.europeanchamber.com.cn/en/job-vacancies/5398/Changed_Title_Slug",
+    }
+
+    assert job_identity(first) == job_identity(second)
+
+
+def test_job_identity_uses_sap_job_id_across_url_changes():
+    first = {
+        "company": "SAP China",
+        "source": "sap_careers",
+        "url": "https://jobs.sap.com/job/Beijing-Old-Title-100016/1426364433/",
+    }
+    second = {
+        "company": "SAP China",
+        "source": "sap_careers",
+        "url": "https://jobs.sap.com/job/Shanghai-Completely-New-Title-200040/1426364433/",
+    }
+
+    assert job_identity(first) == job_identity(second)
 
 def test_job_identity_falls_back_to_company_title_location():
     first = {
@@ -147,3 +249,12 @@ def test_merge_missing_jobs_preserves_status_when_source_failed():
     assert len(result) == 1
     assert result[0]["possibly_closed"] is False
     assert result[0]["last_seen"] == "2026-08-15T09:00:00+00:00"
+
+def test_run_pipeline_deduplicates_before_enrichment():
+    source = Path("run.py").read_text(encoding="utf-8")
+
+    dedupe_index = source.index("all_jobs = deduplicate_jobs(all_jobs)")
+    enrich_index = source.index("all_jobs = enrich_jobs_with_skills(all_jobs)")
+    save_index = source.index("save_jobs(all_jobs)")
+
+    assert dedupe_index < enrich_index < save_index
