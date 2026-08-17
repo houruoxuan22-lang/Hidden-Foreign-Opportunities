@@ -1,8 +1,8 @@
-# Sales and Business Development Jobs - 2026-08-16
+# Sales and Business Development Jobs - 2026-08-17
 
 ## Summary
 
-- Total matching jobs: 65
+- Total matching jobs: 66
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -58,6 +58,12 @@ Jobs related to sales, account management, business development, partnerships, a
 - [Senior Territory Account Executive, Gaming (South China)](https://boards.greenhouse.io/cloudflare/jobs/8101702?gh_jid=8101702)
   - Location: Hybrid
   - Updated: 2026-08-11
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Senior Territory Account Executive, South China ](https://boards.greenhouse.io/cloudflare/jobs/8129566?gh_jid=8129566)
+  - Location: Distributed
+  - Updated: 2026-08-16
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -301,43 +307,43 @@ Jobs related to sales, account management, business development, partnerships, a
 
 - [Customer Success Manager (CSM) - SAP Academy for Customer Success - Shanghai](https://jobs.sap.com/job/Shanghai-Customer-Success-Manager-%28CSM%29-SAP-Academy-for-Customer-Success-Shanghai-200040/1425117933/)
   - Location: Shanghai, China
-  - Updated: 2026-08-16
+  - Updated: 2026-08-17
   - Source: sap_careers
   - Source type: china_company_career
 
 - [Customer Success Manager (CSM) - SAP Next Gen - SAP Academy for Customer Success - China Shenzhen](https://jobs.sap.com/job/Shenzhen-Customer-Success-Manager-%28CSM%29-SAP-Next-Gen-SAP-Academy-for-Customer-Success-China-Shenzhen-518048/1425455233/)
   - Location: Shenzhen, China
-  - Updated: 2026-08-16
+  - Updated: 2026-08-17
   - Source: sap_careers
   - Source type: china_company_career
 
 - [Sales Account Executive - SAP Next Gen - SAP Academy for Customer Success - China Shenzhen](https://jobs.sap.com/job/Shenzhen-Sales-Account-Executive-SAP-Next-Gen-SAP-Academy-for-Customer-Success-China-Shenzhen-518048/1425454933/)
   - Location: Shenzhen, China
-  - Updated: 2026-08-16
+  - Updated: 2026-08-17
   - Source: sap_careers
   - Source type: china_company_career
 
 - [Senior Account Executive - Auto](https://jobs.sap.com/job/Beijing-Senior-Account-Executive-Auto-100016/1394371033/)
   - Location: Beijing, China
-  - Updated: 2026-08-16
+  - Updated: 2026-08-17
   - Source: sap_careers
   - Source type: china_company_career
 
 - [Senior Account Executive - LS - SH](https://jobs.sap.com/job/Shanghai-Senior-Account-Executive-LS-SH-200040/1378768633/)
   - Location: Shanghai, China
-  - Updated: 2026-08-16
+  - Updated: 2026-08-17
   - Source: sap_careers
   - Source type: china_company_career
 
 - [Solution Sales Expert - F&S](https://jobs.sap.com/job/Beijing-Solution-Sales-Expert-F&S-100016/1287050901/)
   - Location: Beijing, China
-  - Updated: 2026-08-16
+  - Updated: 2026-08-17
   - Source: sap_careers
   - Source type: china_company_career
 
 - [Solution Sales Expert - F&S](https://jobs.sap.com/job/Shanghai-Solution-Sales-Expert-F&S-200040/1287055001/)
   - Location: Shanghai, China
-  - Updated: 2026-08-16
+  - Updated: 2026-08-17
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -407,6 +413,6 @@ Jobs related to sales, account management, business development, partnerships, a
 
 - [Business Development Executive/Manager 业务拓展主任/经理](https://swisscham.com.cn/jobs/business-development-executivemanager-yewutazhanzhurenjingli)
   - Location: Shanghai, China
-  - Updated: 2026-08-16
+  - Updated: 2026-08-17
   - Source: swisscham_china
   - Source type: china_local_static

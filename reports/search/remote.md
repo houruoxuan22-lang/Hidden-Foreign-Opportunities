@@ -1,8 +1,8 @@
-# Remote Jobs - 2026-08-16
+# Remote Jobs - 2026-08-17
 
 ## Summary
 
-- Total matching jobs: 181
+- Total matching jobs: 182
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -43,7 +43,7 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379)
+- [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400)
   - Location: In-Office
   - Updated: 2026-08-06
   - Source: greenhouse
@@ -55,7 +55,7 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400)
+- [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379)
   - Location: In-Office
   - Updated: 2026-08-06
   - Source: greenhouse
@@ -76,6 +76,12 @@ Jobs with remote or distributed work signals.
 - [Senior Principal, Sales Compensation Design & Strategy](https://boards.greenhouse.io/cloudflare/jobs/8024849?gh_jid=8024849)
   - Location: Remote
   - Updated: 2026-08-06
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Senior Territory Account Executive, South China ](https://boards.greenhouse.io/cloudflare/jobs/8129566?gh_jid=8129566)
+  - Location: Distributed
+  - Updated: 2026-08-16
   - Source: greenhouse
   - Source type: Unknown source type
 
