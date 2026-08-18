@@ -1,8 +1,8 @@
-# Chengdu Jobs - 2026-08-17
+# Chengdu Jobs - 2026-08-18
 
 ## Summary
 
-- Total matching jobs: 0
+- Total matching jobs: 1
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -11,4 +11,10 @@ Jobs with Chengdu-related location signals.
 
 ## Jobs
 
-No matching jobs found.
+### SAP China
+
+- [SAP iXp Interns - AI Platform Developer(AIOps) CX Cloud Operation](https://jobs.sap.com/job/Chengdu-SAP-iXp-Interns-AI-Platform-Developer%28AIOps%29-CX-Cloud-Operation-610041/1398663033/)
+  - Location: Chengdu, China
+  - Updated: 2026-08-18
+  - Source: sap_careers
+  - Source type: china_company_career

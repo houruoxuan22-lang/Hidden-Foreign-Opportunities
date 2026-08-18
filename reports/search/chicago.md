@@ -1,4 +1,4 @@
-# Chicago Jobs - 2026-08-17
+# Chicago Jobs - 2026-08-18
 
 ## Summary
 
