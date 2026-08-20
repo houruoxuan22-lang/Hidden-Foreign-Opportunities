@@ -1,8 +1,8 @@
-# Marketing and Communications Jobs - 2026-08-19
+# Marketing and Communications Jobs - 2026-08-20
 
 ## Summary
 
-- Total matching jobs: 28
+- Total matching jobs: 29
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -35,13 +35,13 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Associate Field Marketing Manager (US East and Canada)](https://careers.datadoghq.com/detail/8097690/?gh_jid=8097690)
   - Location: New York, New York, USA
-  - Updated: 2026-08-12
+  - Updated: 2026-08-19
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Associate Growth Marketing Manager](https://careers.datadoghq.com/detail/8059723/?gh_jid=8059723)
   - Location: New York, New York, USA; San Francisco, California, USA
-  - Updated: 2026-08-12
+  - Updated: 2026-08-19
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -55,7 +55,7 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Policy and Communications Coordinator/Manager (based on experience)](https://www.europeanchamber.com.cn/en/job-vacancies/1959/Policy_and_Communications_Coordinator_Manager_based_on_experience_)
   - Location: Beijing, China
-  - Updated: 2026-08-19
+  - Updated: 2026-08-20
   - Source: european_chamber
   - Source type: china_local_static
 
@@ -63,7 +63,7 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [iXP - SAP China AI Marketing Intern](https://jobs.sap.com/job/Beijing-iXP-SAP-China-AI-Marketing-Intern-100016/1426364433/)
   - Location: Beijing, China
-  - Updated: 2026-08-19
+  - Updated: 2026-08-20
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -147,6 +147,12 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [Product Marketing Manager, Payments](https://stripe.com/jobs/search?gh_jid=8142770)
+  - Location: Remote in the US, Chicago, Toronto
+  - Updated: 2026-08-19
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [Product Marketing Manager, Radar](https://stripe.com/jobs/search?gh_jid=7961101)
   - Location: SF, NYC, Seattle, Remote
   - Updated: 2026-08-18
@@ -181,12 +187,12 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Marketing & Communications Specialist](https://swisscham.com.cn/jobs/marketing-communications-specialist-0)
   - Location: Shanghai, China
-  - Updated: 2026-08-19
+  - Updated: 2026-08-20
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-08-19
+  - Updated: 2026-08-20
   - Source: swisscham_china
   - Source type: china_local_static

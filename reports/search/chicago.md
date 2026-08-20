@@ -1,8 +1,8 @@
-# Chicago Jobs - 2026-08-19
+# Chicago Jobs - 2026-08-20
 
 ## Summary
 
-- Total matching jobs: 36
+- Total matching jobs: 39
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -67,6 +67,12 @@ Jobs with Chicago-related location signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [Head of AEO & SEO](https://stripe.com/jobs/search?gh_jid=8128634)
+  - Location: US Remote; Chicago, Atlanta, Canada
+  - Updated: 2026-08-19
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [Head of Market Intelligence, Product Marketing](https://stripe.com/jobs/search?gh_jid=8036235)
   - Location: SF, Seattle, NYC, Chicago, Remote in the US
   - Updated: 2026-08-18
@@ -109,6 +115,12 @@ Jobs with Chicago-related location signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [Partner Solutions Architect - Commerce Partners](https://stripe.com/jobs/search?gh_jid=8140581)
+  - Location: Chicago, Atlanta, Remote
+  - Updated: 2026-08-19
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [People Project Manager](https://stripe.com/jobs/search?gh_jid=8039954)
   - Location: US-Remote, Atlanta, Chicago
   - Updated: 2026-08-18
@@ -130,6 +142,12 @@ Jobs with Chicago-related location signals.
 - [Product Marketing Manager, Market Intelligence](https://stripe.com/jobs/search?gh_jid=8014761)
   - Location: SF, Seattle, NYC, Chicago, Toronto, Remote in the US
   - Updated: 2026-08-18
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Product Marketing Manager, Payments](https://stripe.com/jobs/search?gh_jid=8142770)
+  - Location: Remote in the US, Chicago, Toronto
+  - Updated: 2026-08-19
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -195,7 +213,7 @@ Jobs with Chicago-related location signals.
 
 - [Staff Product Manager, Dashboard](https://stripe.com/jobs/search?gh_jid=7913702)
   - Location: San Francisco, Seattle, NYC, Chicago, Atlanta, US Remote
-  - Updated: 2026-08-06
+  - Updated: 2026-08-19
   - Source: greenhouse
   - Source type: Unknown source type
 
