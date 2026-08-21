@@ -1,8 +1,8 @@
-# Chicago Jobs - 2026-08-20
+# Chicago Jobs - 2026-08-21
 
 ## Summary
 
-- Total matching jobs: 39
+- Total matching jobs: 41
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -91,6 +91,12 @@ Jobs with Chicago-related location signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [Partner Development Manager, Financial Connections](https://stripe.com/jobs/search?gh_jid=8027573)
+  - Location: New York, San Francisco, Seattle, Chicago, US-Remote 
+  - Updated: 2026-08-20
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [Partner Development Manager, Global Networks](https://stripe.com/jobs/search?gh_jid=7697675)
   - Location: US-Remote; US-Chicago; US-Atlanta; Canada-Toronto; Canada-Remote; US-NYC; US-San Francisco; US-Seattle
   - Updated: 2026-08-18
@@ -160,6 +166,12 @@ Jobs with Chicago-related location signals.
 - [Program Manager, GTM Planning](https://stripe.com/jobs/search?gh_jid=7656504)
   - Location: US-Chicago, US-Remote
   - Updated: 2026-08-13
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Program Manager, GTM Strategic Programs](https://stripe.com/jobs/search?gh_jid=8042309)
+  - Location: US-Remote, Chicago
+  - Updated: 2026-08-20
   - Source: greenhouse
   - Source type: Unknown source type
 
