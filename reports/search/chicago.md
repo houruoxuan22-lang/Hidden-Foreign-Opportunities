@@ -1,4 +1,4 @@
-# Chicago Jobs - 2026-08-21
+# Chicago Jobs - 2026-08-22
 
 ## Summary
 
@@ -231,7 +231,7 @@ Jobs with Chicago-related location signals.
 
 - [Staff Product Manager, Enterprise](https://stripe.com/jobs/search?gh_jid=7812856)
   - Location: San Francisco, Seattle, New York, Chicago, Atlanta, Remote
-  - Updated: 2026-08-18
+  - Updated: 2026-08-21
   - Source: greenhouse
   - Source type: Unknown source type
 

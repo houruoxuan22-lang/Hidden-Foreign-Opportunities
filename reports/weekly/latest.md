@@ -1,47 +1,47 @@
-# Weekly Job Trend Report - 2026-08-21
+# Weekly Job Trend Report - 2026-08-22
 
 ## Summary
 
-- Snapshot window: 2026-08-15 to 2026-08-21
+- Snapshot window: 2026-08-16 to 2026-08-22
 - Snapshot days available: 7
-- Latest total relevant jobs: 318
-- Change vs first available snapshot: 36
+- Latest total relevant jobs: 331
+- Change vs first available snapshot: 49
 
 ## Skill Trend Signals
 
-- Communication: 74 (+9)
-- Project Management: 58 (+5)
-- SQL: 43 (+3)
-- Python: 43 (+3)
-- Sales: 41 (+5)
-- Operations: 33 (+3)
-- Excel: 31 (+1)
+- Communication: 78 (+13)
+- Project Management: 60 (+7)
+- Python: 45 (+5)
+- SQL: 44 (+4)
+- Sales: 43 (+7)
+- Operations: 34 (+4)
+- Excel: 32 (+2)
 - CRM: 26 (+5)
-- Product: 17 (+2)
+- Product: 18 (+3)
+- Tableau: 16 (+4)
 - Engineering: 16 (+3)
-- Tableau: 15 (+3)
 - Customer Success: 13 (0)
 - Marketing: 12 (+1)
-- Mandarin: 10 (0)
-- LLM: 9 (+1)
+- Mandarin: 11 (+1)
+- LLM: 10 (+2)
 
 ## Job Distribution by Section
 
-- Global Remote Jobs: 171
-- China / APAC Relevant Jobs: 45
-- Mainland China Foreign Employer Jobs: 45
-- Other International Jobs: 20
+- Global Remote Jobs: 178
+- China / APAC Relevant Jobs: 47
+- Mainland China Foreign Employer Jobs: 46
+- Other International Jobs: 21
+- Other Relevant Jobs: 20
 - US / Canada Jobs: 19
-- Other Relevant Jobs: 18
 
 ## Top Companies in Latest Snapshot
 
-- Stripe: 162
-- Datadog: 78
-- Cloudflare: 33
+- Stripe: 166
+- Datadog: 83
+- Cloudflare: 36
 - SAP China: 25
 - European Chamber China: 11
-- SwissCham China: 9
+- SwissCham China: 10
 
 ## Notes
 
