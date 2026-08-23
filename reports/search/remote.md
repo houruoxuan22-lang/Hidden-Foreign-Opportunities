@@ -1,4 +1,4 @@
-# Remote Jobs - 2026-08-22
+# Remote Jobs - 2026-08-23
 
 ## Summary
 
