@@ -1,4 +1,4 @@
-# Chicago Jobs - 2026-08-23
+# Chicago Jobs - 2026-08-24
 
 ## Summary
 
@@ -213,7 +213,7 @@ Jobs with Chicago-related location signals.
 
 - [Solutions Architect, Enterprise (Pre-sales)](https://stripe.com/jobs/search?gh_jid=7827184)
   - Location: Chicago, IL or San Francisco, CA OR US Remote
-  - Updated: 2026-08-18
+  - Updated: 2026-08-23
   - Source: greenhouse
   - Source type: Unknown source type
 

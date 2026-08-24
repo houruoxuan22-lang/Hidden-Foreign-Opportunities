@@ -1,4 +1,4 @@
-# Beijing Jobs - 2026-08-23
+# Beijing Jobs - 2026-08-24
 
 ## Summary
 
@@ -29,25 +29,25 @@ Jobs with Beijing-related location signals.
 
 - [iXP - SAP China AI Marketing Intern](https://jobs.sap.com/job/Beijing-iXP-SAP-China-AI-Marketing-Intern-100016/1426364433/)
   - Location: Beijing, China
-  - Updated: 2026-08-23
+  - Updated: 2026-08-24
   - Source: sap_careers
   - Source type: china_company_career
 
 - [Lead Sr Legal Counsel-Local Data Protection Officer for Greater China (GC), DPPC Korea, Japan](https://jobs.sap.com/job/Beijing-Lead-Sr-Legal-Counsel-Local-Data-Protection-Officer-for-Greater-China-%28GC%29%2C-DPPC-Korea%2C-Japan-100016/1427235433/)
   - Location: Beijing, China
-  - Updated: 2026-08-23
+  - Updated: 2026-08-24
   - Source: sap_careers
   - Source type: china_company_career
 
 - [Marketing Execution Expert- JingDigital--BJ/SH](https://jobs.sap.com/job/Beijing-Marketing-Execution-Expert-JingDigital-BJSH-100016/1418500233/)
   - Location: Beijing, China
-  - Updated: 2026-08-23
+  - Updated: 2026-08-24
   - Source: sap_careers
   - Source type: china_company_career
 
 - [Senior Account Executive - Auto](https://jobs.sap.com/job/Beijing-Senior-Account-Executive-Auto-100016/1394371033/)
   - Location: Beijing, China
-  - Updated: 2026-08-23
+  - Updated: 2026-08-24
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -61,6 +61,6 @@ Jobs with Beijing-related location signals.
 
 - [Internal Medicine Physician](https://swisscham.com.cn/jobs/internal-medicine-physician)
   - Location: Beijing, China
-  - Updated: 2026-08-23
+  - Updated: 2026-08-24
   - Source: swisscham_china
   - Source type: china_local_static

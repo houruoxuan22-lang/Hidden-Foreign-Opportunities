@@ -1,8 +1,8 @@
-# Remote Jobs - 2026-08-23
+# Remote Jobs - 2026-08-24
 
 ## Summary
 
-- Total matching jobs: 215
+- Total matching jobs: 217
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -67,15 +67,21 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400)
+  - Location: In-Office
+  - Updated: 2026-08-06
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379)
   - Location: In-Office
   - Updated: 2026-08-06
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400)
-  - Location: In-Office
-  - Updated: 2026-08-06
+- [Senior Customer Engineer, East China](https://boards.greenhouse.io/cloudflare/jobs/8147148?gh_jid=8147148)
+  - Location: Distributed
+  - Updated: 2026-08-23
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -611,13 +617,13 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Communities Partner Development Manager, SaaS Platforms](https://stripe.com/jobs/search?gh_jid=8103952)
+- [Communities Partner Development Manager, SaaS Platforms](https://stripe.com/jobs/search?gh_jid=8138000)
   - Location: US-Remote
   - Updated: 2026-08-20
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Communities Partner Development Manager, SaaS Platforms](https://stripe.com/jobs/search?gh_jid=8138000)
+- [Communities Partner Development Manager, SaaS Platforms](https://stripe.com/jobs/search?gh_jid=8103952)
   - Location: US-Remote
   - Updated: 2026-08-20
   - Source: greenhouse
@@ -1165,7 +1171,13 @@ Jobs with remote or distributed work signals.
 
 - [Solutions Architect, Enterprise (Pre-sales)](https://stripe.com/jobs/search?gh_jid=7827184)
   - Location: Chicago, IL or San Francisco, CA OR US Remote
-  - Updated: 2026-08-18
+  - Updated: 2026-08-23
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Solutions Architect, Platforms (Presales)](https://stripe.com/jobs/search?gh_jid=8152145)
+  - Location: NYC or Remote
+  - Updated: 2026-08-23
   - Source: greenhouse
   - Source type: Unknown source type
 
