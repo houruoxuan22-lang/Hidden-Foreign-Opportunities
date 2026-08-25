@@ -1,4 +1,4 @@
-# Chicago Jobs - 2026-08-24
+# Chicago Jobs - 2026-08-25
 
 ## Summary
 
@@ -129,7 +129,7 @@ Jobs with Chicago-related location signals.
 
 - [People Project Manager](https://stripe.com/jobs/search?gh_jid=8039954)
   - Location: US-Remote, Atlanta, Chicago
-  - Updated: 2026-08-18
+  - Updated: 2026-08-24
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -211,9 +211,9 @@ Jobs with Chicago-related location signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Solutions Architect, Enterprise (Pre-sales)](https://stripe.com/jobs/search?gh_jid=7827184)
+- [Solutions Architect, Enterprise (Presales)](https://stripe.com/jobs/search?gh_jid=7827184)
   - Location: Chicago, IL or San Francisco, CA OR US Remote
-  - Updated: 2026-08-23
+  - Updated: 2026-08-24
   - Source: greenhouse
   - Source type: Unknown source type
 

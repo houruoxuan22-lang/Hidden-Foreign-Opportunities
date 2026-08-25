@@ -1,4 +1,4 @@
-# Marketing and Communications Jobs - 2026-08-24
+# Marketing and Communications Jobs - 2026-08-25
 
 ## Summary
 
@@ -15,13 +15,13 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Marketing Campaigns & Account-Based Marketing (ABM) Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7838607?gh_jid=7838607)
   - Location: In-Office
-  - Updated: 2026-08-17
+  - Updated: 2026-08-24
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Marketing Events and Campaigns Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8053546?gh_jid=8053546)
   - Location: In-Office
-  - Updated: 2026-08-18
+  - Updated: 2026-08-24
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -33,7 +33,7 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Strategic Events Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8142802?gh_jid=8142802)
   - Location: In-Office
-  - Updated: 2026-08-21
+  - Updated: 2026-08-24
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -41,13 +41,13 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Associate Field Marketing Manager (US East and Canada)](https://careers.datadoghq.com/detail/8097690/?gh_jid=8097690)
   - Location: New York, New York, USA
-  - Updated: 2026-08-20
+  - Updated: 2026-08-24
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Associate Growth Marketing Manager](https://careers.datadoghq.com/detail/8059723/?gh_jid=8059723)
   - Location: New York, New York, USA; San Francisco, California, USA
-  - Updated: 2026-08-20
+  - Updated: 2026-08-24
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -69,13 +69,13 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [iXP - SAP China AI Marketing Intern](https://jobs.sap.com/job/Beijing-iXP-SAP-China-AI-Marketing-Intern-100016/1426364433/)
   - Location: Beijing, China
-  - Updated: 2026-08-24
+  - Updated: 2026-08-25
   - Source: sap_careers
   - Source type: china_company_career
 
 - [Marketing Execution Expert- JingDigital--BJ/SH](https://jobs.sap.com/job/Beijing-Marketing-Execution-Expert-JingDigital-BJSH-100016/1418500233/)
   - Location: Beijing, China
-  - Updated: 2026-08-24
+  - Updated: 2026-08-25
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -193,12 +193,12 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Marketing & Communications Specialist](https://swisscham.com.cn/jobs/marketing-communications-specialist-0)
   - Location: Shanghai, China
-  - Updated: 2026-08-24
+  - Updated: 2026-08-25
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-08-24
+  - Updated: 2026-08-25
   - Source: swisscham_china
   - Source type: china_local_static
