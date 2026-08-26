@@ -1,8 +1,8 @@
-# Chicago Jobs - 2026-08-25
+# Chicago Jobs - 2026-08-26
 
 ## Summary
 
-- Total matching jobs: 41
+- Total matching jobs: 42
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -115,9 +115,15 @@ Jobs with Chicago-related location signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Partner Development Manager, Strategic Payment Partnerships](https://stripe.com/jobs/search?gh_jid=7973002)
+- [Partner Development Manager, Strategic Partnerships](https://stripe.com/jobs/search?gh_jid=7973002)
   - Location: US-San Francisco; US-New York City; US-Seattle; US-Remote; US-Chicago; CA-Toronto; CA-Remote
-  - Updated: 2026-08-18
+  - Updated: 2026-08-25
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Partner Development Manager, Strategic Payment Partnerships](https://stripe.com/jobs/search?gh_jid=8155164)
+  - Location: US-San Francisco; US-New York City; US-Seattle; US-Remote; US-Chicago; CA-Toronto; CA-Remote
+  - Updated: 2026-08-25
   - Source: greenhouse
   - Source type: Unknown source type
 

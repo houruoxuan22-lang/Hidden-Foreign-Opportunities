@@ -1,8 +1,8 @@
-# Remote Jobs - 2026-08-25
+# Remote Jobs - 2026-08-26
 
 ## Summary
 
-- Total matching jobs: 218
+- Total matching jobs: 222
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -15,37 +15,37 @@ Jobs with remote or distributed work signals.
 
 - [Associate General Counsel, Privacy Compliance](https://boards.greenhouse.io/cloudflare/jobs/8144669?gh_jid=8144669)
   - Location: Hybrid
-  - Updated: 2026-08-24
+  - Updated: 2026-08-25
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Country Director, India](https://boards.greenhouse.io/cloudflare/jobs/7588061?gh_jid=7588061)
   - Location: Remote India
-  - Updated: 2026-08-24
+  - Updated: 2026-08-25
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Customer Engineer, India (Based in Mumbai)](https://boards.greenhouse.io/cloudflare/jobs/7955378?gh_jid=7955378)
   - Location: Remote India
-  - Updated: 2026-08-24
+  - Updated: 2026-08-25
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Director, Customer Engineering](https://boards.greenhouse.io/cloudflare/jobs/8077424?gh_jid=8077424)
   - Location: Hybrid or Remote
-  - Updated: 2026-08-24
+  - Updated: 2026-08-25
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [EIAM Business Enablement & Operations Intern (Fall 2026) ](https://boards.greenhouse.io/cloudflare/jobs/8068479?gh_jid=8068479)
   - Location: In-Office
-  - Updated: 2026-08-24
+  - Updated: 2026-08-25
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Full Stack Engineer - Internal Audit](https://boards.greenhouse.io/cloudflare/jobs/8014902?gh_jid=8014902)
   - Location: Hybrid
-  - Updated: 2026-08-24
+  - Updated: 2026-08-25
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -57,55 +57,55 @@ Jobs with remote or distributed work signals.
 
 - [Principal Partner Solutions Engineer, SAARC (Based in Bangalore)](https://boards.greenhouse.io/cloudflare/jobs/8024889?gh_jid=8024889)
   - Location: Hybrid or Remote
-  - Updated: 2026-08-24
+  - Updated: 2026-08-25
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400)
   - Location: In-Office
-  - Updated: 2026-08-24
+  - Updated: 2026-08-25
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407)
   - Location: In-Office
-  - Updated: 2026-08-24
+  - Updated: 2026-08-25
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089379?gh_jid=8089379)
   - Location: In-Office
-  - Updated: 2026-08-24
+  - Updated: 2026-08-25
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Senior Customer Engineer, East China](https://boards.greenhouse.io/cloudflare/jobs/8147148?gh_jid=8147148)
   - Location: Distributed
-  - Updated: 2026-08-24
+  - Updated: 2026-08-25
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Senior Customer Engineer, Shenzhen](https://boards.greenhouse.io/cloudflare/jobs/8115936?gh_jid=8115936)
   - Location: Distributed
-  - Updated: 2026-08-24
+  - Updated: 2026-08-25
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Senior Customer Engineer, South China](https://boards.greenhouse.io/cloudflare/jobs/8146651?gh_jid=8146651)
   - Location: Distributed
-  - Updated: 2026-08-24
+  - Updated: 2026-08-25
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Senior Manager, Customer Engineering, India](https://boards.greenhouse.io/cloudflare/jobs/8020043?gh_jid=8020043)
   - Location: Remote India
-  - Updated: 2026-08-24
+  - Updated: 2026-08-25
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Senior Principal, Sales Compensation Design & Strategy](https://boards.greenhouse.io/cloudflare/jobs/8024849?gh_jid=8024849)
   - Location: Remote
-  - Updated: 2026-08-24
+  - Updated: 2026-08-25
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -115,21 +115,21 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845)
+- [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855)
   - Location: In-Office
-  - Updated: 2026-08-24
+  - Updated: 2026-08-25
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855)
+- [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845)
   - Location: In-Office
-  - Updated: 2026-08-24
+  - Updated: 2026-08-25
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Software Engineer Intern (Fall 2026) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8052785?gh_jid=8052785)
   - Location: In-Office
-  - Updated: 2026-08-24
+  - Updated: 2026-08-25
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -137,7 +137,7 @@ Jobs with remote or distributed work signals.
 
 - [Developer Advocate - Service Management](https://careers.datadoghq.com/detail/8139662/?gh_jid=8139662)
   - Location: California, USA, Remote; New York, USA, Remote
-  - Updated: 2026-08-24
+  - Updated: 2026-08-25
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -315,6 +315,12 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [Security Sales Engineer](https://careers.datadoghq.com/detail/8141240/?gh_jid=8141240)
+  - Location: Florida, USA, Remote; Georgia, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote
+  - Updated: 2026-08-24
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [Security Sales Engineer](https://careers.datadoghq.com/detail/8141243/?gh_jid=8141243)
   - Location: California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote
   - Updated: 2026-08-24
@@ -323,12 +329,6 @@ Jobs with remote or distributed work signals.
 
 - [Security Sales Engineer](https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877)
   - Location: Illinois, USA, Remote; Texas, USA, Remote
-  - Updated: 2026-08-24
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Security Sales Engineer](https://careers.datadoghq.com/detail/8141240/?gh_jid=8141240)
-  - Location: Florida, USA, Remote; Georgia, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote
   - Updated: 2026-08-24
   - Source: greenhouse
   - Source type: Unknown source type
@@ -441,8 +441,38 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/7134079/?gh_jid=7134079)
+  - Location: Texas, USA, Remote
+  - Updated: 2026-08-24
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/7131363/?gh_jid=7131363)
+  - Location: North Carolina, USA, Remote; South Carolina, USA, Remote
+  - Updated: 2026-08-24
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [Strategic Account Executive](https://careers.datadoghq.com/detail/7057036/?gh_jid=7057036)
   - Location: District of Columbia, USA, Remote; Maryland, USA, Remote; Virginia, USA, Remote
+  - Updated: 2026-08-24
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/6522747/?gh_jid=6522747)
+  - Location: Minnesota, USA, Remote
+  - Updated: 2026-08-25
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/6522720/?gh_jid=6522720)
+  - Location: Georgia, USA, Remote; Tennessee, USA, Remote
+  - Updated: 2026-08-24
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/6242929/?gh_jid=6242929)
+  - Location: Florida, USA, Remote
   - Updated: 2026-08-24
   - Source: greenhouse
   - Source type: Unknown source type
@@ -455,30 +485,6 @@ Jobs with remote or distributed work signals.
 
 - [Strategic Account Executive](https://careers.datadoghq.com/detail/7131404/?gh_jid=7131404)
   - Location: Chile, Remote
-  - Updated: 2026-08-24
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/7131363/?gh_jid=7131363)
-  - Location: North Carolina, USA, Remote; South Carolina, USA, Remote
-  - Updated: 2026-08-24
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/7134079/?gh_jid=7134079)
-  - Location: Texas, USA, Remote
-  - Updated: 2026-08-24
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/6522720/?gh_jid=6522720)
-  - Location: Georgia, USA, Remote; Tennessee, USA, Remote
-  - Updated: 2026-08-24
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/6242929/?gh_jid=6242929)
-  - Location: Florida, USA, Remote
   - Updated: 2026-08-24
   - Source: greenhouse
   - Source type: Unknown source type
@@ -623,13 +629,13 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Communities Partner Development Manager, SaaS Platforms](https://stripe.com/jobs/search?gh_jid=8138000)
+- [Communities Partner Development Manager, SaaS Platforms](https://stripe.com/jobs/search?gh_jid=8103952)
   - Location: US-Remote
   - Updated: 2026-08-20
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Communities Partner Development Manager, SaaS Platforms](https://stripe.com/jobs/search?gh_jid=8103952)
+- [Communities Partner Development Manager, SaaS Platforms](https://stripe.com/jobs/search?gh_jid=8138000)
   - Location: US-Remote
   - Updated: 2026-08-20
   - Source: greenhouse
@@ -905,9 +911,15 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Partner Development Manager, Strategic Payment Partnerships](https://stripe.com/jobs/search?gh_jid=7973002)
+- [Partner Development Manager, Strategic Partnerships](https://stripe.com/jobs/search?gh_jid=7973002)
   - Location: US-San Francisco; US-New York City; US-Seattle; US-Remote; US-Chicago; CA-Toronto; CA-Remote
-  - Updated: 2026-08-18
+  - Updated: 2026-08-25
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Partner Development Manager, Strategic Payment Partnerships](https://stripe.com/jobs/search?gh_jid=8155164)
+  - Location: US-San Francisco; US-New York City; US-Seattle; US-Remote; US-Chicago; CA-Toronto; CA-Remote
+  - Updated: 2026-08-25
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -986,6 +998,12 @@ Jobs with remote or distributed work signals.
 - [Product Manager, Payments](https://stripe.com/jobs/search?gh_jid=7176530)
   - Location: SF, NY, SEA, Remote-US
   - Updated: 2026-08-18
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Product Manager, Sail Core](https://stripe.com/jobs/search?gh_jid=7913698)
+  - Location: Toronto, New York, US - Remote
+  - Updated: 2026-08-25
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -1141,7 +1159,7 @@ Jobs with remote or distributed work signals.
 
 - [Security Incident Response Engineer](https://stripe.com/jobs/search?gh_jid=8142302)
   - Location: US Remote
-  - Updated: 2026-08-19
+  - Updated: 2026-08-25
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -1316,6 +1334,12 @@ Jobs with remote or distributed work signals.
 - [User Risk Strategist, Ecosystem Risk Strategy](https://stripe.com/jobs/search?gh_jid=7977981)
   - Location: US-Chicago; US-Atlanta; US-Remote
   - Updated: 2026-08-18
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Verifications Operations Associate](https://stripe.com/jobs/search?gh_jid=7738241)
+  - Location: Bengaluru
+  - Updated: 2026-08-25
   - Source: greenhouse
   - Source type: Unknown source type
 
