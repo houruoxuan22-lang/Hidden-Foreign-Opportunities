@@ -1,37 +1,38 @@
-# Daily Foreign Job Radar - 2026-08-26
+# Daily Foreign Job Radar - 2026-08-27
 
 ## Summary
 
-- Total relevant jobs: 342
+- Total relevant jobs: 349
 - Companies tracked in this report: 6
-- China / APAC relevant jobs: 50
-- Global remote jobs: 183
-- Other international jobs: 22
+- China / APAC relevant jobs: 53
+- Global remote jobs: 185
+- Other international jobs: 24
 - US / Canada jobs: 19
 - Other relevant jobs: 21
 
 ## Skill Signals
 
-- Communication: 80
+- Communication: 81
 - Project Management: 62
-- Python: 46
-- SQL: 45
-- Sales: 44
-- Operations: 35
-- Excel: 32
-- CRM: 27
+- Python: 48
+- SQL: 47
+- Sales: 45
+- Operations: 38
+- Excel: 33
+- CRM: 28
 - Product: 19
+- Tableau: 18
 - Engineering: 17
-- Tableau: 16
 - Customer Success: 15
-- Mandarin: 12
+- Mandarin: 14
 - Marketing: 12
 - Cross-border: 11
 - LLM: 11
 - Finance: 2
-- Consulting: 1
-- English: 1
+- English: 2
+- AI: 1
 - Data: 1
+- Consulting: 1
 - Power BI: 1
 
 ## Jobs
@@ -42,55 +43,55 @@
 
 - [(Assistant) Manager – Account Management](https://swisscham.com.cn/jobs/assistant-manager-account-management)
   - Location: Shanghai, China
-  - Updated: 2026-08-26
+  - Updated: 2026-08-27
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [(Senior) Associate – Account Management](https://swisscham.com.cn/jobs/senior-associate-account-management)
   - Location: Shanghai, China
-  - Updated: 2026-08-26
+  - Updated: 2026-08-27
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [Sea Freight Product Manager](https://swisscham.com.cn/jobs/sea-freight-product-manager)
   - Location: China
-  - Updated: 2026-08-26
+  - Updated: 2026-08-27
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [Marketing & Communications Specialist](https://swisscham.com.cn/jobs/marketing-communications-specialist-0)
   - Location: Shanghai, China
-  - Updated: 2026-08-26
+  - Updated: 2026-08-27
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [Business Development Executive/Manager 业务拓展主任/经理](https://swisscham.com.cn/jobs/business-development-executivemanager-yewutazhanzhurenjingli)
   - Location: Shanghai, China
-  - Updated: 2026-08-26
+  - Updated: 2026-08-27
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [Shaohe Law Firm – Recruitment / 劭合律师事务所招聘启事](https://swisscham.com.cn/jobs/shaohe-law-firm-recruitment-shaohelushishiwusuozhaopinqishi)
   - Location: China
-  - Updated: 2026-08-26
+  - Updated: 2026-08-27
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [Internal Medicine Physician](https://swisscham.com.cn/jobs/internal-medicine-physician)
   - Location: Beijing, China
-  - Updated: 2026-08-26
+  - Updated: 2026-08-27
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-08-26
+  - Updated: 2026-08-27
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [Business Development Manager](https://swisscham.com.cn/jobs/business-development-manager-0)
   - Location: China
-  - Updated: 2026-08-26
+  - Updated: 2026-08-27
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
@@ -102,81 +103,117 @@
 
 #### SAP China
 
+- [SAP China iXp Intern - Data Management Intern for GTLC Team - Shanghai](https://jobs.sap.com/job/Shanghai-SAP-China-iXp-Intern-Data-Management-Intern-for-GTLC-Team-Shanghai-201203/1409649533/)
+  - Location: Shanghai, China
+  - Updated: 2026-08-27
+  - Source: sap_careers
+  - Status: Listed on official career page at report generation
+
 - [SAP China iXp Intern - S4HANA Public Cloud QA Intern](https://jobs.sap.com/job/Shanghai-SAP-China-iXp-Intern-S4HANA-Public-Cloud-QA-Intern-201203/1419885233/)
   - Location: Shanghai, China
-  - Updated: 2026-08-26
+  - Updated: 2026-08-27
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
 - [SAP China iXp Intern - S/4HANA Consumer Industry Cloud (CIC) - UX Designer Intern - Shanghai](https://jobs.sap.com/job/Shanghai-SAP-China-iXp-Intern-S4HANA-Consumer-Industry-Cloud-%28CIC%29-UX-Designer-Intern-Shanghai-201203/1429451033/)
   - Location: Shanghai, China
-  - Updated: 2026-08-26
+  - Updated: 2026-08-27
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
 - [Marketing Execution Expert- JingDigital--BJ/SH](https://jobs.sap.com/job/Beijing-Marketing-Execution-Expert-JingDigital-BJSH-100016/1418500233/)
   - Location: Beijing, China
-  - Updated: 2026-08-26
+  - Updated: 2026-08-27
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
 - [Senior Account Executive - LS - SH](https://jobs.sap.com/job/Shanghai-Senior-Account-Executive-LS-SH-200040/1378768633/)
   - Location: Shanghai, China
-  - Updated: 2026-08-26
+  - Updated: 2026-08-27
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
 - [SAP China iXp Intern - Quality Engineer for Web Application - Xi'an](https://jobs.sap.com/job/XiAn-Shaanxi-SAP-China-iXp-Intern-Quality-Engineer-for-Web-Application-Xi&apos;an-710077/1397540533/)
   - Location: Xi'an, China
-  - Updated: 2026-08-26
+  - Updated: 2026-08-27
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
 - [SAP China iXp Interns - Backend Software Development Intern](https://jobs.sap.com/job/Shanghai-SAP-China-iXp-Interns-Backend-Software-Development-Intern-201203/1392176533/)
   - Location: Shanghai, China
-  - Updated: 2026-08-26
+  - Updated: 2026-08-27
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
 - [SAP China iXp Intern -Testing Engineer - Xi'an](https://jobs.sap.com/job/XiAn-Shaanxi-SAP-China-iXp-Intern-Testing-Engineer-Xi&apos;an-710077/1418110833/)
   - Location: Xi'an, China
-  - Updated: 2026-08-26
+  - Updated: 2026-08-27
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
 - [MCC CISE (Customer Interaction & Support Escalation) Intern](https://jobs.sap.com/job/Dalian-China-MCC-CISE-%28Customer-Interaction-&-Support-Escalation%29-Intern-116023/1427704233/)
   - Location: Dalian, China
-  - Updated: 2026-08-26
+  - Updated: 2026-08-27
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
 - [MCC CISE (Customer Interaction & Support Escalation) Intern](https://jobs.sap.com/job/Dalian-China-MCC-CISE-%28Customer-Interaction-&-Support-Escalation%29-Intern-116023/1427692733/)
   - Location: Dalian, China
-  - Updated: 2026-08-26
+  - Updated: 2026-08-27
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
 - [SAP iXp Interns - AI Platform Developer(AIOps) CX Cloud Operation](https://jobs.sap.com/job/Chengdu-SAP-iXp-Interns-AI-Platform-Developer%28AIOps%29-CX-Cloud-Operation-610041/1398663033/)
   - Location: Chengdu, China
-  - Updated: 2026-08-26
+  - Updated: 2026-08-27
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
 - [Lead Sr Legal Counsel-Local Data Protection Officer for Greater China (GC), DPPC Korea, Japan](https://jobs.sap.com/job/Beijing-Lead-Sr-Legal-Counsel-Local-Data-Protection-Officer-for-Greater-China-%28GC%29%2C-DPPC-Korea%2C-Japan-100016/1427235433/)
   - Location: Beijing, China
-  - Updated: 2026-08-26
+  - Updated: 2026-08-27
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
 - [Data Engineer](https://jobs.sap.com/job/Shanghai-Data-Engineer-201203/1406689133/)
   - Location: Shanghai, China
-  - Updated: 2026-08-26
+  - Updated: 2026-08-27
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
 - [SAP China iXp Intern - Developer for Web Application - Xi'an](https://jobs.sap.com/job/XiAn-Shaanxi-SAP-China-iXp-Intern-Developer-for-Web-Application-Xi&apos;an-710077/1377239633/)
   - Location: Xi'an, China
-  - Updated: 2026-08-26
+  - Updated: 2026-08-27
+  - Source: sap_careers
+  - Status: Listed on official career page at report generation
+
+- [iXP - SAP China AI Marketing Intern](https://jobs.sap.com/job/Beijing-iXP-SAP-China-AI-Marketing-Intern-100016/1426364433/)
+  - Location: Beijing, China
+  - Updated: 2026-08-27
+  - Source: sap_careers
+  - Status: Listed on official career page at report generation
+
+- [Senior Account Executive - Auto](https://jobs.sap.com/job/Beijing-Senior-Account-Executive-Auto-100016/1394371033/)
+  - Location: Beijing, China
+  - Updated: 2026-08-27
+  - Source: sap_careers
+  - Status: Listed on official career page at report generation
+
+- [Sales Account Executive - SAP Next Gen - SAP Academy for Customer Success - China Shenzhen](https://jobs.sap.com/job/Shenzhen-Sales-Account-Executive-SAP-Next-Gen-SAP-Academy-for-Customer-Success-China-Shenzhen-518048/1425454933/)
+  - Location: Shenzhen, China
+  - Updated: 2026-08-27
+  - Source: sap_careers
+  - Status: Listed on official career page at report generation
+
+- [Customer Success Manager (CSM) - SAP Next Gen - SAP Academy for Customer Success - China Shenzhen](https://jobs.sap.com/job/Shenzhen-Customer-Success-Manager-%28CSM%29-SAP-Next-Gen-SAP-Academy-for-Customer-Success-China-Shenzhen-518048/1425455233/)
+  - Location: Shenzhen, China
+  - Updated: 2026-08-27
+  - Source: sap_careers
+  - Status: Listed on official career page at report generation
+
+- [Customer Success Manager (CSM) - SAP Academy for Customer Success - Shanghai](https://jobs.sap.com/job/Shanghai-Customer-Success-Manager-%28CSM%29-SAP-Academy-for-Customer-Success-Shanghai-200040/1425117933/)
+  - Location: Shanghai, China
+  - Updated: 2026-08-27
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
@@ -186,43 +223,7 @@
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
-- [iXP - SAP China AI Marketing Intern](https://jobs.sap.com/job/Beijing-iXP-SAP-China-AI-Marketing-Intern-100016/1426364433/)
-  - Location: Beijing, China
-  - Updated: 2026-08-26
-  - Source: sap_careers
-  - Status: Listed on official career page at report generation
-
-- [Senior Account Executive - Auto](https://jobs.sap.com/job/Beijing-Senior-Account-Executive-Auto-100016/1394371033/)
-  - Location: Beijing, China
-  - Updated: 2026-08-26
-  - Source: sap_careers
-  - Status: Listed on official career page at report generation
-
-- [Sales Account Executive - SAP Next Gen - SAP Academy for Customer Success - China Shenzhen](https://jobs.sap.com/job/Shenzhen-Sales-Account-Executive-SAP-Next-Gen-SAP-Academy-for-Customer-Success-China-Shenzhen-518048/1425454933/)
-  - Location: Shenzhen, China
-  - Updated: 2026-08-26
-  - Source: sap_careers
-  - Status: Listed on official career page at report generation
-
-- [Customer Success Manager (CSM) - SAP Next Gen - SAP Academy for Customer Success - China Shenzhen](https://jobs.sap.com/job/Shenzhen-Customer-Success-Manager-%28CSM%29-SAP-Next-Gen-SAP-Academy-for-Customer-Success-China-Shenzhen-518048/1425455233/)
-  - Location: Shenzhen, China
-  - Updated: 2026-08-26
-  - Source: sap_careers
-  - Status: Listed on official career page at report generation
-
-- [Customer Success Manager (CSM) - SAP Academy for Customer Success - Shanghai](https://jobs.sap.com/job/Shanghai-Customer-Success-Manager-%28CSM%29-SAP-Academy-for-Customer-Success-Shanghai-200040/1425117933/)
-  - Location: Shanghai, China
-  - Updated: 2026-08-26
-  - Source: sap_careers
-  - Status: Listed on official career page at report generation
-
 - [SAP China iXp Intern - System Reliability Engineer Intern - Shanghai](https://jobs.sap.com/job/Shanghai-SAP-China-iXp-Intern-System-Reliability-Engineer-Intern-Shanghai-201203/1413714333/)
-  - Location: Shanghai, China
-  - Updated: 2026-08-26
-  - Source: sap_careers
-  - Status: Listed on official career page at report generation
-
-- [SAP China iXp Intern - Data Management Intern for GTLC Team - Shanghai](https://jobs.sap.com/job/Shanghai-SAP-China-iXp-Intern-Data-Management-Intern-for-GTLC-Team-Shanghai-201203/1409649533/)
   - Location: Shanghai, China
   - Updated: 2026-08-26
   - Source: sap_careers
@@ -351,19 +352,13 @@
 
 - [Global Partnerships Lead — Greater China, Hong Kong & Singapore](https://stripe.com/jobs/search?gh_jid=8146053)
   - Location: Singapore
-  - Updated: 2026-08-23
+  - Updated: 2026-08-26
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
 - [Growth Marketing Manager, Greater China](https://stripe.com/jobs/search?gh_jid=8078168)
   - Location: Singapore
-  - Updated: 2026-08-18
-  - Source: greenhouse
-  - Status: Listed on official career page at report generation
-
-- [ Hong Kong Regulatory Compliance & Money Laundering Reporting Officer](https://stripe.com/jobs/search?gh_jid=7976163)
-  - Location: Hong Kong , Singapore
-  - Updated: 2026-08-18
+  - Updated: 2026-08-26
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
@@ -391,6 +386,12 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
+- [Operations Associate, Financial Crimes EDD/PEP](https://stripe.com/jobs/search?gh_jid=8102597)
+  - Location: Bangalore 
+  - Updated: 2026-08-27
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
 - [Operations Associate, GTM Accelerate (Bangalore)](https://stripe.com/jobs/search?gh_jid=7780256)
   - Location: Bengaluru
   - Updated: 2026-08-18
@@ -399,13 +400,13 @@
 
 - [Operations Associate, Sanctions](https://stripe.com/jobs/search?gh_jid=8098394)
   - Location: Bengaluru
-  - Updated: 2026-08-18
+  - Updated: 2026-08-27
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
 - [Payments Performance Strategist (Greater China)](https://stripe.com/jobs/search?gh_jid=8068669)
   - Location: Singapore
-  - Updated: 2026-08-18
+  - Updated: 2026-08-26
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
@@ -429,7 +430,7 @@
 
 - [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8031833)
   - Location: Bengaluru
-  - Updated: 2026-08-21
+  - Updated: 2026-08-26
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
@@ -445,15 +446,21 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Specialist Solutions Architect - Money Management (APAC and Greater China)](https://stripe.com/jobs/search?gh_jid=8066735)
-  - Location: Singapore
-  - Updated: 2026-08-20
-  - Source: greenhouse
-  - Status: Listed on official career page at report generation
-
 - [Verifications Operations Associate](https://stripe.com/jobs/search?gh_jid=7738241)
   - Location: Bengaluru
   - Updated: 2026-08-25
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
+- [ Hong Kong Regulatory Compliance & Money Laundering Reporting Officer](https://stripe.com/jobs/search?gh_jid=7976163)
+  - Location: Hong Kong , Singapore
+  - Updated: 2026-08-18
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
+- [Specialist Solutions Architect - Money Management (APAC and Greater China)](https://stripe.com/jobs/search?gh_jid=8066735)
+  - Location: Singapore
+  - Updated: 2026-08-20
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
@@ -525,14 +532,14 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Office Operations Associate](https://careers.datadoghq.com/detail/8102152/?gh_jid=8102152)
-  - Location: Bangalore, India
+- [Strategic Account Executive (Hong Kong Market)](https://careers.datadoghq.com/detail/7442122/?gh_jid=7442122)
+  - Location: Singapore, Singapore
   - Updated: 2026-08-24
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Strategic Account Executive (Hong Kong Market)](https://careers.datadoghq.com/detail/7442122/?gh_jid=7442122)
-  - Location: Singapore, Singapore
+- [Office Operations Associate](https://careers.datadoghq.com/detail/8102152/?gh_jid=8102152)
+  - Location: Bangalore, India
   - Updated: 2026-08-24
   - Source: greenhouse
   - Status: Listed on official career page at report generation
@@ -544,6 +551,12 @@
   - Status: Listed on official career page at report generation
 
 #### Cloudflare
+
+- [Associate Solutions Engineer - Beijing](https://boards.greenhouse.io/cloudflare/jobs/8152697?gh_jid=8152697)
+  - Location: Hybrid
+  - Updated: 2026-08-25
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
 
 - [Country Director, India](https://boards.greenhouse.io/cloudflare/jobs/7588061?gh_jid=7588061)
   - Location: Remote India
@@ -587,12 +600,6 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Senior Customer Engineer, South China](https://boards.greenhouse.io/cloudflare/jobs/8146651?gh_jid=8146651)
-  - Location: Distributed
-  - Updated: 2026-08-25
-  - Source: greenhouse
-  - Status: Listed on official career page at report generation
-
 - [Senior Manager, Customer Engineering, India](https://boards.greenhouse.io/cloudflare/jobs/8020043?gh_jid=8020043)
   - Location: Remote India
   - Updated: 2026-08-25
@@ -613,6 +620,18 @@
 
 - [Senior Territory Account Executive - North China ](https://boards.greenhouse.io/cloudflare/jobs/8012884?gh_jid=8012884)
   - Location: Hybrid
+  - Updated: 2026-08-25
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
+- [Territory Account Executive, Digital Native (Hong Kong)](https://boards.greenhouse.io/cloudflare/jobs/7972135?gh_jid=7972135)
+  - Location: Hybrid
+  - Updated: 2026-08-25
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
+- [Senior Customer Engineer, South China](https://boards.greenhouse.io/cloudflare/jobs/8146651?gh_jid=8146651)
+  - Location: Distributed
   - Updated: 2026-08-25
   - Source: greenhouse
   - Status: Listed on official career page at report generation
@@ -724,25 +743,19 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Business Value Consultant](https://stripe.com/jobs/search?gh_jid=8097051)
-  - Location: US-Remote
-  - Updated: 2026-08-18
-  - Source: greenhouse
-  - Status: Listed on official career page at report generation
-
 - [Commercial Solutions Program Manager](https://stripe.com/jobs/search?gh_jid=8059784)
   - Location: Chicago, IL , Remote
   - Updated: 2026-08-18
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Communities Partner Development Manager, SaaS Platforms](https://stripe.com/jobs/search?gh_jid=8103952)
+- [Communities Partner Development Manager, SaaS Platforms](https://stripe.com/jobs/search?gh_jid=8138000)
   - Location: US-Remote
   - Updated: 2026-08-20
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Communities Partner Development Manager, SaaS Platforms](https://stripe.com/jobs/search?gh_jid=8138000)
+- [Communities Partner Development Manager, SaaS Platforms](https://stripe.com/jobs/search?gh_jid=8103952)
   - Location: US-Remote
   - Updated: 2026-08-20
   - Source: greenhouse
@@ -792,7 +805,7 @@
 
 - [Forward Deployed AI Accelerator, Marketing](https://stripe.com/jobs/search?gh_jid=8055930)
   - Location: Remote in the US, Remote in Canada
-  - Updated: 2026-08-18
+  - Updated: 2026-08-26
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
@@ -810,12 +823,6 @@
 
 - [Global Filing Specialist, Tax](https://stripe.com/jobs/search?gh_jid=7997545)
   - Location: US Remote,Toronto, CA-Remote-Ontario
-  - Updated: 2026-08-18
-  - Source: greenhouse
-  - Status: Listed on official career page at report generation
-
-- [Global Sales Enablement Systems Administrator](https://stripe.com/jobs/search?gh_jid=7993682)
-  - Location: US-Remote
   - Updated: 2026-08-18
   - Source: greenhouse
   - Status: Listed on official career page at report generation
@@ -898,19 +905,7 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Partner Development Manager, Global Networks](https://stripe.com/jobs/search?gh_jid=7697675)
-  - Location: US-Remote; US-Chicago; US-Atlanta; Canada-Toronto; Canada-Remote; US-NYC; US-San Francisco; US-Seattle
-  - Updated: 2026-08-18
-  - Source: greenhouse
-  - Status: Listed on official career page at report generation
-
 - [Partner Development Manager, Link - Payments Partnerships](https://stripe.com/jobs/search?gh_jid=8090126)
-  - Location: US-NYC; US-San Francisco; US-Seattle; US-Remote; US- Chicago; US-Atlanta; Canada-Toronto; Canada-Remote
-  - Updated: 2026-08-18
-  - Source: greenhouse
-  - Status: Listed on official career page at report generation
-
-- [Partner Development Manager, Strategic Partnerships](https://stripe.com/jobs/search?gh_jid=8094869)
   - Location: US-NYC; US-San Francisco; US-Seattle; US-Remote; US- Chicago; US-Atlanta; Canada-Toronto; Canada-Remote
   - Updated: 2026-08-18
   - Source: greenhouse
@@ -919,6 +914,12 @@
 - [Partner Development Manager, Strategic Partnerships](https://stripe.com/jobs/search?gh_jid=7973002)
   - Location: US-San Francisco; US-New York City; US-Seattle; US-Remote; US-Chicago; CA-Toronto; CA-Remote
   - Updated: 2026-08-25
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
+- [Partner Development Manager, Strategic Partnerships](https://stripe.com/jobs/search?gh_jid=8094869)
+  - Location: US-NYC; US-San Francisco; US-Seattle; US-Remote; US- Chicago; US-Atlanta; Canada-Toronto; Canada-Remote
+  - Updated: 2026-08-18
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
@@ -1026,7 +1027,7 @@
 
 - [Program Manager, Card Network Office (Card Networks)](https://stripe.com/jobs/search?gh_jid=8081754)
   - Location: US-SF, US-NYC, US-Seattle, US-Remote
-  - Updated: 2026-08-18
+  - Updated: 2026-08-26
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
@@ -1132,12 +1133,6 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Solutions Architect, Enterprise (Presales)](https://stripe.com/jobs/search?gh_jid=7827184)
-  - Location: Chicago, IL or San Francisco, CA OR US Remote
-  - Updated: 2026-08-24
-  - Source: greenhouse
-  - Status: Listed on official career page at report generation
-
 - [Solutions Architect, Platforms (Presales)](https://stripe.com/jobs/search?gh_jid=8152145)
   - Location: NYC or Remote
   - Updated: 2026-08-23
@@ -1153,6 +1148,12 @@
 - [Specialist Solutions Architect, Billing](https://stripe.com/jobs/search?gh_jid=7728618)
   - Location: Remote
   - Updated: 2026-08-18
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
+- [Specialist Solutions Architect, Data](https://stripe.com/jobs/search?gh_jid=8144262)
+  - Location: SF, NY, Remote
+  - Updated: 2026-08-26
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
@@ -1249,6 +1250,30 @@
 - [User Risk Strategist, Ecosystem Risk Strategy](https://stripe.com/jobs/search?gh_jid=7977981)
   - Location: US-Chicago; US-Atlanta; US-Remote
   - Updated: 2026-08-18
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
+- [Business Value Consultant](https://stripe.com/jobs/search?gh_jid=8097051)
+  - Location: US-Remote
+  - Updated: 2026-08-18
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
+- [Global Sales Enablement Systems Administrator](https://stripe.com/jobs/search?gh_jid=7993682)
+  - Location: US-Remote
+  - Updated: 2026-08-18
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
+- [Partner Development Manager, Global Networks](https://stripe.com/jobs/search?gh_jid=7697675)
+  - Location: US-Remote; US-Chicago; US-Atlanta; Canada-Toronto; Canada-Remote; US-NYC; US-San Francisco; US-Seattle
+  - Updated: 2026-08-18
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
+- [Solutions Architect, Enterprise (Presales)](https://stripe.com/jobs/search?gh_jid=7827184)
+  - Location: Chicago, IL or San Francisco, CA OR US Remote
+  - Updated: 2026-08-24
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
@@ -1386,14 +1411,14 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Enterprise Sales Executive](https://careers.datadoghq.com/detail/7405822/?gh_jid=7405822)
-  - Location: Georgia, USA, Remote
+- [Enterprise Sales Executive](https://careers.datadoghq.com/detail/7465857/?gh_jid=7465857)
+  - Location: North Carolina, USA, Remote; Tennessee, USA, Remote
   - Updated: 2026-08-24
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Enterprise Sales Executive](https://careers.datadoghq.com/detail/7465857/?gh_jid=7465857)
-  - Location: North Carolina, USA, Remote; Tennessee, USA, Remote
+- [Enterprise Sales Executive](https://careers.datadoghq.com/detail/7405822/?gh_jid=7405822)
+  - Location: Georgia, USA, Remote
   - Updated: 2026-08-24
   - Source: greenhouse
   - Status: Listed on official career page at report generation
@@ -1418,7 +1443,7 @@
 
 - [Enterprise Security Sales Specialist](https://careers.datadoghq.com/detail/7132132/?gh_jid=7132132)
   - Location: District of Columbia, USA, Remote; North Carolina, USA, Remote
-  - Updated: 2026-08-24
+  - Updated: 2026-08-26
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
@@ -1506,6 +1531,12 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
+- [Security Sales Engineer](https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877)
+  - Location: Illinois, USA, Remote; Texas, USA, Remote
+  - Updated: 2026-08-24
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
 - [Security Sales Engineer](https://careers.datadoghq.com/detail/8141240/?gh_jid=8141240)
   - Location: Florida, USA, Remote; Georgia, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote
   - Updated: 2026-08-24
@@ -1518,9 +1549,9 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Security Sales Engineer](https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877)
-  - Location: Illinois, USA, Remote; Texas, USA, Remote
-  - Updated: 2026-08-24
+- [Senior AI Engineer – Notebooks](https://careers.datadoghq.com/detail/8112183/?gh_jid=8112183)
+  - Location: Bordeaux, France; Dublin, Ireland; France, Remote; Germany, Remote; Lyon, France; Madrid, Spain; Montpellier, France; Nantes, France; Paris, France; Portugal, Remote; Sophia Antipolis, France; Spain, Remote
+  - Updated: 2026-08-27
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
@@ -1608,50 +1639,14 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Staff Software Engineer - Security Agent](https://careers.datadoghq.com/detail/8007606/?gh_jid=8007606)
-  - Location: Portugal, Remote
-  - Updated: 2026-08-24
-  - Source: greenhouse
-  - Status: Listed on official career page at report generation
-
 - [Staff Software Engineer - Security Agent](https://careers.datadoghq.com/detail/8007598/?gh_jid=8007598)
   - Location: France, Remote; Germany, Remote; Ireland, Remote; Italy, Remote; Spain, Remote
   - Updated: 2026-08-24
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/7134079/?gh_jid=7134079)
-  - Location: Texas, USA, Remote
-  - Updated: 2026-08-24
-  - Source: greenhouse
-  - Status: Listed on official career page at report generation
-
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/7131363/?gh_jid=7131363)
-  - Location: North Carolina, USA, Remote; South Carolina, USA, Remote
-  - Updated: 2026-08-24
-  - Source: greenhouse
-  - Status: Listed on official career page at report generation
-
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/7057036/?gh_jid=7057036)
-  - Location: District of Columbia, USA, Remote; Maryland, USA, Remote; Virginia, USA, Remote
-  - Updated: 2026-08-24
-  - Source: greenhouse
-  - Status: Listed on official career page at report generation
-
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/6522747/?gh_jid=6522747)
-  - Location: Minnesota, USA, Remote
-  - Updated: 2026-08-25
-  - Source: greenhouse
-  - Status: Listed on official career page at report generation
-
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/6522720/?gh_jid=6522720)
-  - Location: Georgia, USA, Remote; Tennessee, USA, Remote
-  - Updated: 2026-08-24
-  - Source: greenhouse
-  - Status: Listed on official career page at report generation
-
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/6242929/?gh_jid=6242929)
-  - Location: Florida, USA, Remote
+- [Staff Software Engineer - Security Agent](https://careers.datadoghq.com/detail/8007606/?gh_jid=8007606)
+  - Location: Portugal, Remote
   - Updated: 2026-08-24
   - Source: greenhouse
   - Status: Listed on official career page at report generation
@@ -1668,6 +1663,36 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/6522720/?gh_jid=6522720)
+  - Location: Georgia, USA, Remote; Tennessee, USA, Remote
+  - Updated: 2026-08-24
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/6522747/?gh_jid=6522747)
+  - Location: Minnesota, USA, Remote
+  - Updated: 2026-08-25
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/7131363/?gh_jid=7131363)
+  - Location: North Carolina, USA, Remote; South Carolina, USA, Remote
+  - Updated: 2026-08-24
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/7134079/?gh_jid=7134079)
+  - Location: Texas, USA, Remote
+  - Updated: 2026-08-24
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/7057036/?gh_jid=7057036)
+  - Location: District of Columbia, USA, Remote; Maryland, USA, Remote; Virginia, USA, Remote
+  - Updated: 2026-08-24
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
 - [Strategic Account Executive (DACH)](https://careers.datadoghq.com/detail/5511968/?gh_jid=5511968)
   - Location: Austria, Remote ; Germany, Remote; Poland, Remote
   - Updated: 2026-08-24
@@ -1680,20 +1705,26 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Strategic Account Executive (SLED)](https://careers.datadoghq.com/detail/7453034/?gh_jid=7453034)
-  - Location: Texas, USA, Remote
-  - Updated: 2026-08-24
-  - Source: greenhouse
-  - Status: Listed on official career page at report generation
-
 - [Strategic Account Executive (SLED)](https://careers.datadoghq.com/detail/6430945/?gh_jid=6430945)
   - Location: California, USA, Remote; Oregon, USA, Remote; Washington, USA, Remote
   - Updated: 2026-08-24
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Technical Account Manager 2 - South Africa](https://careers.datadoghq.com/detail/8018696/?gh_jid=8018696)
+- [Strategic Account Executive (SLED)](https://careers.datadoghq.com/detail/7453034/?gh_jid=7453034)
+  - Location: Texas, USA, Remote
+  - Updated: 2026-08-24
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
+- [Technical Account Manager 3 - South Africa](https://careers.datadoghq.com/detail/8018696/?gh_jid=8018696)
   - Location: South Africa, Remote
+  - Updated: 2026-08-26
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/6242929/?gh_jid=6242929)
+  - Location: Florida, USA, Remote
   - Updated: 2026-08-24
   - Source: greenhouse
   - Status: Listed on official career page at report generation
@@ -1807,9 +1838,15 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
+- [Operations Associate - Managed Support (Includes Weekend Rotation)](https://stripe.com/jobs/search?gh_jid=8093103)
+  - Location: Mexico City
+  - Updated: 2026-08-26
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
 - [Operations Associate - Managed Support (Includes Weekend Rotation)](https://stripe.com/jobs/search?gh_jid=8011682)
   - Location: Mexico City
-  - Updated: 2026-08-18
+  - Updated: 2026-08-26
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
@@ -1822,6 +1859,12 @@
 - [Operations Associate - Product Support Operations (CDMX)](https://stripe.com/jobs/search?gh_jid=7981587)
   - Location: MX- Mexico City
   - Updated: 2026-08-18
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
+- [Risk Operations Associate, Partner Risk Operations (CDMX)](https://stripe.com/jobs/search?gh_jid=8158090)
+  - Location: Mexico City
+  - Updated: 2026-08-26
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
@@ -1845,7 +1888,7 @@
 
 - [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8097801)
   - Location: Dublin
-  - Updated: 2026-08-21
+  - Updated: 2026-08-26
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
@@ -2011,7 +2054,7 @@
 
 - [Customer Success Associate - Tel Aviv](https://careers.datadoghq.com/detail/8146994/?gh_jid=8146994)
   - Location: Tel Aviv, Israel
-  - Updated: 2026-08-25
+  - Updated: 2026-08-26
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
@@ -2047,19 +2090,13 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Marketing Events and Campaigns Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8053546?gh_jid=8053546)
+- [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407)
   - Location: In-Office
   - Updated: 2026-08-25
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
 - [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089400?gh_jid=8089400)
-  - Location: In-Office
-  - Updated: 2026-08-25
-  - Source: greenhouse
-  - Status: Listed on official career page at report generation
-
-- [Research Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8089407?gh_jid=8089407)
   - Location: In-Office
   - Updated: 2026-08-25
   - Source: greenhouse
@@ -2091,6 +2128,12 @@
 
 - [Vice President, Internal Audit](https://boards.greenhouse.io/cloudflare/jobs/8080851?gh_jid=8080851)
   - Location: Hybrid
+  - Updated: 2026-08-25
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
+- [Marketing Events and Campaigns Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8053546?gh_jid=8053546)
+  - Location: In-Office
   - Updated: 2026-08-25
   - Source: greenhouse
   - Status: Listed on official career page at report generation
