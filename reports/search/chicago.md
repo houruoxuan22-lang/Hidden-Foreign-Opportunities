@@ -1,8 +1,8 @@
-# Chicago Jobs - 2026-08-28
+# Chicago Jobs - 2026-08-29
 
 ## Summary
 
-- Total matching jobs: 44
+- Total matching jobs: 45
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -148,6 +148,12 @@ Jobs with Chicago-related location signals.
 - [People Solutions Program Manager](https://stripe.com/jobs/search?gh_jid=7594208)
   - Location: US-Remote; US-Chicago; US-Atlanta; CA-Toronto
   - Updated: 2026-08-18
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Product Manager, Identity & Access Management](https://stripe.com/jobs/search?gh_jid=8165137)
+  - Location: US-Remote, US-Chicago
+  - Updated: 2026-08-28
   - Source: greenhouse
   - Source type: Unknown source type
 
