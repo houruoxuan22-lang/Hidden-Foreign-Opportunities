@@ -1,8 +1,8 @@
-# Chicago Jobs - 2026-08-31
+# Chicago Jobs - 2026-09-01
 
 ## Summary
 
-- Total matching jobs: 45
+- Total matching jobs: 47
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -55,6 +55,12 @@ Jobs with Chicago-related location signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [Data Excellence Manager ](https://stripe.com/jobs/search?gh_jid=8106026)
+  - Location: US Remote, Chicago, SF, Seattle, NYC
+  - Updated: 2026-08-31
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [Executive Compensation Business Partner](https://stripe.com/jobs/search?gh_jid=8036761)
   - Location: Chicago, Atlanta, US-Remote
   - Updated: 2026-08-18
@@ -93,7 +99,7 @@ Jobs with Chicago-related location signals.
 
 - [Head of Self-Serve Paid Media](https://stripe.com/jobs/search?gh_jid=8068521)
   - Location: San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US, Toronto, Remote in Canada
-  - Updated: 2026-08-18
+  - Updated: 2026-08-31
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -181,6 +187,12 @@ Jobs with Chicago-related location signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [Program Manager, GTM Planning](https://stripe.com/jobs/search?gh_jid=8147961)
+  - Location: Chicago, Remote
+  - Updated: 2026-08-31
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [Program Manager, GTM Planning](https://stripe.com/jobs/search?gh_jid=7656504)
   - Location: US-Chicago, US-Remote
   - Updated: 2026-08-13
@@ -255,7 +267,7 @@ Jobs with Chicago-related location signals.
 
 - [Strategic Business Performance, Central Strategy & Operations](https://stripe.com/jobs/search?gh_jid=8155580)
   - Location: US-Chicago, US-Remote, US-Seattle, US-San Francisco
-  - Updated: 2026-08-27
+  - Updated: 2026-08-31
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -271,9 +283,9 @@ Jobs with Chicago-related location signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Technical Program Manager,  Extensibility Programs](https://stripe.com/jobs/search?gh_jid=7778643)
+- [Technical Program Manager,  Growth](https://stripe.com/jobs/search?gh_jid=7778643)
   - Location: Remote in the US, Chicago, Atlanta
-  - Updated: 2026-08-18
+  - Updated: 2026-08-31
   - Source: greenhouse
   - Source type: Unknown source type
 

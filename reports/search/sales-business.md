@@ -1,8 +1,8 @@
-# Sales and Business Development Jobs - 2026-08-31
+# Sales and Business Development Jobs - 2026-09-01
 
 ## Summary
 
-- Total matching jobs: 80
+- Total matching jobs: 81
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -34,6 +34,12 @@ Jobs related to sales, account management, business development, partnerships, a
 - [Senior Principal, Sales Compensation Design & Strategy](https://boards.greenhouse.io/cloudflare/jobs/8024849?gh_jid=8024849)
   - Location: Remote
   - Updated: 2026-08-27
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Senior Sales Manager, Mid Market](https://boards.greenhouse.io/cloudflare/jobs/8143690?gh_jid=8143690)
+  - Location: Remote France
+  - Updated: 2026-08-31
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -81,13 +87,13 @@ Jobs related to sales, account management, business development, partnerships, a
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Customer Success Associate](https://careers.datadoghq.com/detail/6009779/?gh_jid=6009779)
+- [Customer Success Associate](https://careers.datadoghq.com/detail/5486716/?gh_jid=5486716)
   - Location: Tokyo, Japan
   - Updated: 2026-08-27
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Customer Success Associate](https://careers.datadoghq.com/detail/5486716/?gh_jid=5486716)
+- [Customer Success Associate](https://careers.datadoghq.com/detail/6009779/?gh_jid=6009779)
   - Location: Tokyo, Japan
   - Updated: 2026-08-27
   - Source: greenhouse
@@ -159,6 +165,12 @@ Jobs related to sales, account management, business development, partnerships, a
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [Enterprise Sales Executive](https://careers.datadoghq.com/detail/7466155/?gh_jid=7466155)
+  - Location: Florida, USA, Remote
+  - Updated: 2026-08-27
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [Enterprise Sales Executive](https://careers.datadoghq.com/detail/7465857/?gh_jid=7465857)
   - Location: North Carolina, USA, Remote; Tennessee, USA, Remote
   - Updated: 2026-08-27
@@ -167,12 +179,6 @@ Jobs related to sales, account management, business development, partnerships, a
 
 - [Enterprise Sales Executive](https://careers.datadoghq.com/detail/7405822/?gh_jid=7405822)
   - Location: Georgia, USA, Remote
-  - Updated: 2026-08-27
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Enterprise Sales Executive](https://careers.datadoghq.com/detail/7466155/?gh_jid=7466155)
-  - Location: Florida, USA, Remote
   - Updated: 2026-08-27
   - Source: greenhouse
   - Source type: Unknown source type
@@ -291,8 +297,20 @@ Jobs related to sales, account management, business development, partnerships, a
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/7134079/?gh_jid=7134079)
-  - Location: Texas, USA, Remote
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/7057036/?gh_jid=7057036)
+  - Location: District of Columbia, USA, Remote; Maryland, USA, Remote; Virginia, USA, Remote
+  - Updated: 2026-08-27
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/6522720/?gh_jid=6522720)
+  - Location: Georgia, USA, Remote; Tennessee, USA, Remote
+  - Updated: 2026-08-27
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/7131404/?gh_jid=7131404)
+  - Location: Chile, Remote
   - Updated: 2026-08-27
   - Source: greenhouse
   - Source type: Unknown source type
@@ -309,8 +327,8 @@ Jobs related to sales, account management, business development, partnerships, a
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/7131404/?gh_jid=7131404)
-  - Location: Chile, Remote
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/6522747/?gh_jid=6522747)
+  - Location: Minnesota, USA, Remote
   - Updated: 2026-08-27
   - Source: greenhouse
   - Source type: Unknown source type
@@ -321,20 +339,8 @@ Jobs related to sales, account management, business development, partnerships, a
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/6522720/?gh_jid=6522720)
-  - Location: Georgia, USA, Remote; Tennessee, USA, Remote
-  - Updated: 2026-08-27
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/6522747/?gh_jid=6522747)
-  - Location: Minnesota, USA, Remote
-  - Updated: 2026-08-27
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/7057036/?gh_jid=7057036)
-  - Location: District of Columbia, USA, Remote; Maryland, USA, Remote; Virginia, USA, Remote
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/7134079/?gh_jid=7134079)
+  - Location: Texas, USA, Remote
   - Updated: 2026-08-27
   - Source: greenhouse
   - Source type: Unknown source type
@@ -409,13 +415,13 @@ Jobs related to sales, account management, business development, partnerships, a
 
 - [Senior Account Executive - Auto](https://jobs.sap.com/job/Beijing-Senior-Account-Executive-Auto-100016/1394371033/)
   - Location: Beijing, China
-  - Updated: 2026-08-31
+  - Updated: 2026-09-01
   - Source: sap_careers
   - Source type: china_company_career
 
 - [Senior Account Executive - LS - SH](https://jobs.sap.com/job/Shanghai-Senior-Account-Executive-LS-SH-200040/1378768633/)
   - Location: Shanghai, China
-  - Updated: 2026-08-31
+  - Updated: 2026-09-01
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -491,12 +497,12 @@ Jobs related to sales, account management, business development, partnerships, a
 
 - [Business Development Executive/Manager 业务拓展主任/经理](https://swisscham.com.cn/jobs/business-development-executivemanager-yewutazhanzhurenjingli)
   - Location: Shanghai, China
-  - Updated: 2026-08-31
+  - Updated: 2026-09-01
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Business Development Manager](https://swisscham.com.cn/jobs/business-development-manager-0)
   - Location: China
-  - Updated: 2026-08-31
+  - Updated: 2026-09-01
   - Source: swisscham_china
   - Source type: china_local_static

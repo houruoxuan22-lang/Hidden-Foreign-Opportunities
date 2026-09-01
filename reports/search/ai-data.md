@@ -1,8 +1,8 @@
-# AI and Data Jobs - 2026-08-31
+# AI and Data Jobs - 2026-09-01
 
 ## Summary
 
-- Total matching jobs: 24
+- Total matching jobs: 26
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -35,25 +35,31 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [iXP - SAP China AI Marketing Intern](https://jobs.sap.com/job/Beijing-iXP-SAP-China-AI-Marketing-Intern-100016/1426364433/)
   - Location: Beijing, China
-  - Updated: 2026-08-31
+  - Updated: 2026-09-01
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [iXP - SAP China Intern Diligence, Screening and Assurance (DSA) Analyst](https://jobs.sap.com/job/Shanghai-iXP-SAP-China-Intern-Diligence%2C-Screening-and-Assurance-%28DSA%29-Analyst-200040/1432190233/)
+  - Location: Shanghai, China
+  - Updated: 2026-09-01
   - Source: sap_careers
   - Source type: china_company_career
 
 - [Lead Sr Legal Counsel-Local Data Protection Officer for Greater China (GC), DPPC Korea, Japan](https://jobs.sap.com/job/Beijing-Lead-Sr-Legal-Counsel-Local-Data-Protection-Officer-for-Greater-China-%28GC%29%2C-DPPC-Korea%2C-Japan-100016/1427235433/)
   - Location: Beijing, China
-  - Updated: 2026-08-31
+  - Updated: 2026-09-01
   - Source: sap_careers
   - Source type: china_company_career
 
 - [SAP China iXp Intern - Data Management Intern for GTLC Team - Shanghai](https://jobs.sap.com/job/Shanghai-SAP-China-iXp-Intern-Data-Management-Intern-for-GTLC-Team-Shanghai-201203/1409649533/)
   - Location: Shanghai, China
-  - Updated: 2026-08-31
+  - Updated: 2026-09-01
   - Source: sap_careers
   - Source type: china_company_career
 
 - [SAP iXp Interns - AI Platform Developer(AIOps) CX Cloud Operation](https://jobs.sap.com/job/Chengdu-SAP-iXp-Interns-AI-Platform-Developer%28AIOps%29-CX-Cloud-Operation-610041/1398663033/)
   - Location: Chengdu, China
-  - Updated: 2026-08-31
+  - Updated: 2026-09-01
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -80,6 +86,12 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 - [Credit Risk Analyst, North American Underwriter](https://stripe.com/jobs/search?gh_jid=7612192)
   - Location: Toronto, Remote-Canada 
   - Updated: 2026-08-18
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Data Excellence Manager ](https://stripe.com/jobs/search?gh_jid=8106026)
+  - Location: US Remote, Chicago, SF, Seattle, NYC
+  - Updated: 2026-08-31
   - Source: greenhouse
   - Source type: Unknown source type
 
