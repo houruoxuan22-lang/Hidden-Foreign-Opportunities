@@ -1,4 +1,4 @@
-# Searchable Job Reports - 2026-09-02
+# Searchable Job Reports - 2026-09-03
 
 This folder contains filtered job reports generated from `data/jobs.json`.
 
@@ -14,7 +14,7 @@ This folder contains filtered job reports generated from `data/jobs.json`.
 - [Sales and Business Development Jobs](sales-business.md) - 81 jobs
 - [Marketing and Communications Jobs](marketing.md) - 32 jobs
 - [AI and Data Jobs](ai-data.md) - 26 jobs
-- [Remote Jobs](remote.md) - 239 jobs
+- [Remote Jobs](remote.md) - 241 jobs
 
 ## How to use
 

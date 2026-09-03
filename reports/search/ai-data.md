@@ -1,4 +1,4 @@
-# AI and Data Jobs - 2026-09-02
+# AI and Data Jobs - 2026-09-03
 
 ## Summary
 
@@ -15,13 +15,13 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [Manager, Internal Product Analytics](https://careers.datadoghq.com/detail/8128810/?gh_jid=8128810)
   - Location: New York, New York, USA
-  - Updated: 2026-09-01
+  - Updated: 2026-09-02
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Senior AI Engineer – Notebooks](https://careers.datadoghq.com/detail/8112183/?gh_jid=8112183)
   - Location: Bordeaux, France; Dublin, Ireland; France, Remote; Germany, Remote; Lyon, France; Madrid, Spain; Montpellier, France; Nantes, France; Paris, France; Portugal, Remote; Sophia Antipolis, France; Spain, Remote
-  - Updated: 2026-09-01
+  - Updated: 2026-09-02
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -35,31 +35,31 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [iXP - SAP China AI Marketing Intern](https://jobs.sap.com/job/Beijing-iXP-SAP-China-AI-Marketing-Intern-100016/1426364433/)
   - Location: Beijing, China
-  - Updated: 2026-09-02
+  - Updated: 2026-09-03
   - Source: sap_careers
   - Source type: china_company_career
 
 - [iXP - SAP China Intern Diligence, Screening and Assurance (DSA) Analyst](https://jobs.sap.com/job/Shanghai-iXP-SAP-China-Intern-Diligence%2C-Screening-and-Assurance-%28DSA%29-Analyst-200040/1432190233/)
   - Location: Shanghai, China
-  - Updated: 2026-09-02
+  - Updated: 2026-09-03
   - Source: sap_careers
   - Source type: china_company_career
 
 - [Lead Sr Legal Counsel-Local Data Protection Officer for Greater China (GC), DPPC Korea, Japan](https://jobs.sap.com/job/Beijing-Lead-Sr-Legal-Counsel-Local-Data-Protection-Officer-for-Greater-China-%28GC%29%2C-DPPC-Korea%2C-Japan-100016/1427235433/)
   - Location: Beijing, China
-  - Updated: 2026-09-02
+  - Updated: 2026-09-03
   - Source: sap_careers
   - Source type: china_company_career
 
 - [SAP China iXp Intern - Data Management Intern for GTLC Team - Shanghai](https://jobs.sap.com/job/Shanghai-SAP-China-iXp-Intern-Data-Management-Intern-for-GTLC-Team-Shanghai-201203/1409649533/)
   - Location: Shanghai, China
-  - Updated: 2026-09-02
+  - Updated: 2026-09-03
   - Source: sap_careers
   - Source type: china_company_career
 
 - [SAP iXp Interns - AI Platform Developer(AIOps) CX Cloud Operation](https://jobs.sap.com/job/Chengdu-SAP-iXp-Interns-AI-Platform-Developer%28AIOps%29-CX-Cloud-Operation-610041/1398663033/)
   - Location: Chengdu, China
-  - Updated: 2026-09-02
+  - Updated: 2026-09-03
   - Source: sap_careers
   - Source type: china_company_career
 

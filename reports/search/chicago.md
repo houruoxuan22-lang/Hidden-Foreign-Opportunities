@@ -1,4 +1,4 @@
-# Chicago Jobs - 2026-09-02
+# Chicago Jobs - 2026-09-03
 
 ## Summary
 
@@ -127,15 +127,15 @@ Jobs with Chicago-related location signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Partner Development Manager, Strategic Partnerships](https://stripe.com/jobs/search?gh_jid=8094869)
-  - Location: US-NYC; US-San Francisco; US-Seattle; US-Remote; US- Chicago; US-Atlanta; Canada-Toronto; Canada-Remote
-  - Updated: 2026-08-18
-  - Source: greenhouse
-  - Source type: Unknown source type
-
 - [Partner Development Manager, Strategic Partnerships](https://stripe.com/jobs/search?gh_jid=7973002)
   - Location: US-San Francisco; US-New York City; US-Seattle; US-Remote; US-Chicago; CA-Toronto; CA-Remote
   - Updated: 2026-08-25
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Partner Development Manager, Strategic Partnerships](https://stripe.com/jobs/search?gh_jid=8094869)
+  - Location: US-NYC; US-San Francisco; US-Seattle; US-Remote; US- Chicago; US-Atlanta; Canada-Toronto; Canada-Remote
+  - Updated: 2026-08-18
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -183,7 +183,7 @@ Jobs with Chicago-related location signals.
 
 - [Product Marketing Manager, Payments](https://stripe.com/jobs/search?gh_jid=8142770)
   - Location: Remote in the US, Chicago, Toronto
-  - Updated: 2026-09-01
+  - Updated: 2026-09-02
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -225,7 +225,7 @@ Jobs with Chicago-related location signals.
 
 - [Risk Strategist - Screening (Financial Crimes)](https://stripe.com/jobs/search?gh_jid=7874862)
   - Location: US-Chicago; US-Atlanta; US-Remote; Canada-Toronto; Canada-Remote
-  - Updated: 2026-08-18
+  - Updated: 2026-09-02
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -297,12 +297,12 @@ Jobs with Chicago-related location signals.
 
 - [Technical Program Manager,  Growth](https://stripe.com/jobs/search?gh_jid=7778643)
   - Location: Remote in the US, Chicago, Atlanta
-  - Updated: 2026-09-01
+  - Updated: 2026-09-02
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [User Risk Strategist, Ecosystem Risk Strategy](https://stripe.com/jobs/search?gh_jid=7977981)
   - Location: US-Chicago; US-Atlanta; US-Remote
-  - Updated: 2026-08-18
+  - Updated: 2026-09-02
   - Source: greenhouse
   - Source type: Unknown source type
