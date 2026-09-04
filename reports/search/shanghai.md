@@ -1,8 +1,8 @@
-# Shanghai Jobs - 2026-09-03
+# Shanghai Jobs - 2026-09-04
 
 ## Summary
 
-- Total matching jobs: 21
+- Total matching jobs: 22
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -41,13 +41,19 @@ Jobs with Shanghai-related location signals.
 
 - [iXP - SAP China Intern Diligence, Screening and Assurance (DSA) Analyst](https://jobs.sap.com/job/Shanghai-iXP-SAP-China-Intern-Diligence%2C-Screening-and-Assurance-%28DSA%29-Analyst-200040/1432190233/)
   - Location: Shanghai, China
-  - Updated: 2026-09-03
+  - Updated: 2026-09-04
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Partner Management Senior Specialist - SH](https://jobs.sap.com/job/Shanghai-Partner-Management-Senior-Specialist-SH-201203/1415572633/)
+  - Location: Shanghai, China
+  - Updated: 2026-09-04
   - Source: sap_careers
   - Source type: china_company_career
 
 - [SAP China iXp Intern - Data Management Intern for GTLC Team - Shanghai](https://jobs.sap.com/job/Shanghai-SAP-China-iXp-Intern-Data-Management-Intern-for-GTLC-Team-Shanghai-201203/1409649533/)
   - Location: Shanghai, China
-  - Updated: 2026-09-03
+  - Updated: 2026-09-04
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -59,13 +65,13 @@ Jobs with Shanghai-related location signals.
 
 - [SAP China iXp Intern - PC3 Digital Customer Engagement Manager](https://jobs.sap.com/job/Shanghai-SAP-China-iXp-Intern-PC3-Digital-Customer-Engagement-Manager-201203/1431749433/)
   - Location: Shanghai, China
-  - Updated: 2026-09-03
+  - Updated: 2026-09-04
   - Source: sap_careers
   - Source type: china_company_career
 
 - [SAP China iXp Intern - S/4HANA Consumer Industry Cloud (CIC) - UX Designer Intern - Shanghai](https://jobs.sap.com/job/Shanghai-SAP-China-iXp-Intern-S4HANA-Consumer-Industry-Cloud-%28CIC%29-UX-Designer-Intern-Shanghai-201203/1429451033/)
   - Location: Shanghai, China
-  - Updated: 2026-09-03
+  - Updated: 2026-09-04
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -89,13 +95,13 @@ Jobs with Shanghai-related location signals.
 
 - [SAP China iXp Interns - Backend Software Development Intern](https://jobs.sap.com/job/Shanghai-SAP-China-iXp-Interns-Backend-Software-Development-Intern-201203/1392176533/)
   - Location: Shanghai, China
-  - Updated: 2026-09-03
+  - Updated: 2026-09-04
   - Source: sap_careers
   - Source type: china_company_career
 
 - [Senior Account Executive - LS - SH](https://jobs.sap.com/job/Shanghai-Senior-Account-Executive-LS-SH-200040/1378768633/)
   - Location: Shanghai, China
-  - Updated: 2026-09-03
+  - Updated: 2026-09-04
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -107,7 +113,7 @@ Jobs with Shanghai-related location signals.
 
 - [Solution Sales Expert - F&S](https://jobs.sap.com/job/Shanghai-Solution-Sales-Expert-F&S-200040/1287055001/)
   - Location: Shanghai, China
-  - Updated: 2026-09-03
+  - Updated: 2026-09-04
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -115,30 +121,30 @@ Jobs with Shanghai-related location signals.
 
 - [(Assistant) Manager – Account Management](https://swisscham.com.cn/jobs/assistant-manager-account-management)
   - Location: Shanghai, China
-  - Updated: 2026-09-03
+  - Updated: 2026-09-04
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [(Senior) Associate – Account Management](https://swisscham.com.cn/jobs/senior-associate-account-management)
   - Location: Shanghai, China
-  - Updated: 2026-09-03
+  - Updated: 2026-09-04
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Business Development Executive/Manager 业务拓展主任/经理](https://swisscham.com.cn/jobs/business-development-executivemanager-yewutazhanzhurenjingli)
   - Location: Shanghai, China
-  - Updated: 2026-09-03
+  - Updated: 2026-09-04
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Marketing & Communications Specialist](https://swisscham.com.cn/jobs/marketing-communications-specialist-0)
   - Location: Shanghai, China
-  - Updated: 2026-09-03
+  - Updated: 2026-09-04
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-09-03
+  - Updated: 2026-09-04
   - Source: swisscham_china
   - Source type: china_local_static
