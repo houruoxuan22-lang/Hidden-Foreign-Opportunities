@@ -1,8 +1,8 @@
-# Chicago Jobs - 2026-09-05
+# Chicago Jobs - 2026-09-06
 
 ## Summary
 
-- Total matching jobs: 49
+- Total matching jobs: 50
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -190,6 +190,12 @@ Jobs with Chicago-related location signals.
 - [Product Marketing Manager, Startup Segment](https://stripe.com/jobs/search?gh_jid=8097731)
   - Location: San Francisco, Seattle, NYC, Chicago, Remote in the US, Toronto
   - Updated: 2026-09-04
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Program Manager, Executive Experiences](https://stripe.com/jobs/search?gh_jid=8175629)
+  - Location: San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US
+  - Updated: 2026-09-05
   - Source: greenhouse
   - Source type: Unknown source type
 

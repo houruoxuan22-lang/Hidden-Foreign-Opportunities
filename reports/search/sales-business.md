@@ -1,4 +1,4 @@
-# Sales and Business Development Jobs - 2026-09-05
+# Sales and Business Development Jobs - 2026-09-06
 
 ## Summary
 
@@ -409,13 +409,13 @@ Jobs related to sales, account management, business development, partnerships, a
 
 - [Customer Success Manager (CSM) - SAP Next Gen - SAP Academy for Customer Success - China Shenzhen](https://jobs.sap.com/job/Shenzhen-Customer-Success-Manager-%28CSM%29-SAP-Next-Gen-SAP-Academy-for-Customer-Success-China-Shenzhen-518048/1425455233/)
   - Location: Shenzhen, China
-  - Updated: 2026-09-05
+  - Updated: 2026-09-06
   - Source: sap_careers
   - Source type: china_company_career
 
 - [Sales Account Executive - SAP Next Gen - SAP Academy for Customer Success - China Shenzhen](https://jobs.sap.com/job/Shenzhen-Sales-Account-Executive-SAP-Next-Gen-SAP-Academy-for-Customer-Success-China-Shenzhen-518048/1425454933/)
   - Location: Shenzhen, China
-  - Updated: 2026-09-05
+  - Updated: 2026-09-06
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -427,19 +427,19 @@ Jobs related to sales, account management, business development, partnerships, a
 
 - [Senior Account Executive - LS - SH](https://jobs.sap.com/job/Shanghai-Senior-Account-Executive-LS-SH-200040/1378768633/)
   - Location: Shanghai, China
-  - Updated: 2026-09-05
+  - Updated: 2026-09-06
   - Source: sap_careers
   - Source type: china_company_career
 
 - [Solution Sales Expert - F&S](https://jobs.sap.com/job/Beijing-Solution-Sales-Expert-F&S-100016/1287050901/)
   - Location: Beijing, China
-  - Updated: 2026-09-05
+  - Updated: 2026-09-06
   - Source: sap_careers
   - Source type: china_company_career
 
 - [Solution Sales Expert - F&S](https://jobs.sap.com/job/Shanghai-Solution-Sales-Expert-F&S-200040/1287055001/)
   - Location: Shanghai, China
-  - Updated: 2026-09-05
+  - Updated: 2026-09-06
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -509,12 +509,12 @@ Jobs related to sales, account management, business development, partnerships, a
 
 - [Business Development Executive/Manager 业务拓展主任/经理](https://swisscham.com.cn/jobs/business-development-executivemanager-yewutazhanzhurenjingli)
   - Location: Shanghai, China
-  - Updated: 2026-09-05
+  - Updated: 2026-09-06
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Business Development Manager](https://swisscham.com.cn/jobs/business-development-manager-0)
   - Location: China
-  - Updated: 2026-09-05
+  - Updated: 2026-09-06
   - Source: swisscham_china
   - Source type: china_local_static

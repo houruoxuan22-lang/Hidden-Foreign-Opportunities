@@ -1,11 +1,11 @@
-# Daily Foreign Job Radar - 2026-09-05
+# Daily Foreign Job Radar - 2026-09-06
 
 ## Summary
 
-- Total relevant jobs: 385
+- Total relevant jobs: 386
 - Companies tracked in this report: 6
 - China / APAC relevant jobs: 59
-- Global remote jobs: 203
+- Global remote jobs: 204
 - Other international jobs: 26
 - US / Canada jobs: 22
 - Other relevant jobs: 23
@@ -13,7 +13,7 @@
 ## Skill Signals
 
 - Communication: 94
-- Project Management: 70
+- Project Management: 71
 - SQL: 57
 - Python: 52
 - Sales: 48
@@ -43,55 +43,55 @@
 
 - [(Assistant) Manager – Account Management](https://swisscham.com.cn/jobs/assistant-manager-account-management)
   - Location: Shanghai, China
-  - Updated: 2026-09-05
+  - Updated: 2026-09-06
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [(Senior) Associate – Account Management](https://swisscham.com.cn/jobs/senior-associate-account-management)
   - Location: Shanghai, China
-  - Updated: 2026-09-05
+  - Updated: 2026-09-06
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [Sea Freight Product Manager](https://swisscham.com.cn/jobs/sea-freight-product-manager)
   - Location: China
-  - Updated: 2026-09-05
+  - Updated: 2026-09-06
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [Marketing & Communications Specialist](https://swisscham.com.cn/jobs/marketing-communications-specialist-0)
   - Location: Shanghai, China
-  - Updated: 2026-09-05
+  - Updated: 2026-09-06
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [Business Development Executive/Manager 业务拓展主任/经理](https://swisscham.com.cn/jobs/business-development-executivemanager-yewutazhanzhurenjingli)
   - Location: Shanghai, China
-  - Updated: 2026-09-05
+  - Updated: 2026-09-06
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [Shaohe Law Firm – Recruitment / 劭合律师事务所招聘启事](https://swisscham.com.cn/jobs/shaohe-law-firm-recruitment-shaohelushishiwusuozhaopinqishi)
   - Location: China
-  - Updated: 2026-09-05
+  - Updated: 2026-09-06
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [Internal Medicine Physician](https://swisscham.com.cn/jobs/internal-medicine-physician)
   - Location: Beijing, China
-  - Updated: 2026-09-05
+  - Updated: 2026-09-06
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-09-05
+  - Updated: 2026-09-06
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [Business Development Manager](https://swisscham.com.cn/jobs/business-development-manager-0)
   - Location: China
-  - Updated: 2026-09-05
+  - Updated: 2026-09-06
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
@@ -103,123 +103,129 @@
 
 #### SAP China
 
+- [SAP China iXp Intern - System Reliability Engineer Intern - Shanghai](https://jobs.sap.com/job/Shanghai-SAP-China-iXp-Intern-System-Reliability-Engineer-Intern-Shanghai-201203/1413714333/)
+  - Location: Shanghai, China
+  - Updated: 2026-09-06
+  - Source: sap_careers
+  - Status: Listed on official career page at report generation
+
 - [Partner Management Senior Specialist - SH](https://jobs.sap.com/job/Shanghai-Partner-Management-Senior-Specialist-SH-201203/1415572633/)
   - Location: Shanghai, China
-  - Updated: 2026-09-05
+  - Updated: 2026-09-06
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
 - [iXP - SAP China Intern Diligence, Screening and Assurance (DSA) Analyst](https://jobs.sap.com/job/Shanghai-iXP-SAP-China-Intern-Diligence%2C-Screening-and-Assurance-%28DSA%29-Analyst-200040/1432190233/)
   - Location: Shanghai, China
-  - Updated: 2026-09-05
+  - Updated: 2026-09-06
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
 - [SAP China iXp Intern - HANA Cloud Microservice Developer - Xi'an](https://jobs.sap.com/job/XiAn-Shaanxi-SAP-China-iXp-Intern-HANA-Cloud-Microservice-Developer-Xi&apos;an-710077/1431732333/)
   - Location: Xi'an, China
-  - Updated: 2026-09-05
+  - Updated: 2026-09-06
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
 - [SAP China iXp Intern - Intern Queue Manager for Technial Support - Dalian](https://jobs.sap.com/job/Dalian-China-SAP-China-iXp-Intern-Intern-Queue-Manager-for-Technial-Support-Dalian-116023/1431751533/)
   - Location: Dalian, China
-  - Updated: 2026-09-05
+  - Updated: 2026-09-06
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
 - [SAP China iXp Intern - PC3 Digital Customer Engagement Manager](https://jobs.sap.com/job/Shanghai-SAP-China-iXp-Intern-PC3-Digital-Customer-Engagement-Manager-201203/1431749433/)
   - Location: Shanghai, China
-  - Updated: 2026-09-05
+  - Updated: 2026-09-06
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
 - [SAP China iXp Intern - Data Management Intern for GTLC Team - Shanghai](https://jobs.sap.com/job/Shanghai-SAP-China-iXp-Intern-Data-Management-Intern-for-GTLC-Team-Shanghai-201203/1409649533/)
   - Location: Shanghai, China
-  - Updated: 2026-09-05
+  - Updated: 2026-09-06
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
 - [SAP China iXp Intern - S/4HANA Consumer Industry Cloud (CIC) - UX Designer Intern - Shanghai](https://jobs.sap.com/job/Shanghai-SAP-China-iXp-Intern-S4HANA-Consumer-Industry-Cloud-%28CIC%29-UX-Designer-Intern-Shanghai-201203/1429451033/)
   - Location: Shanghai, China
-  - Updated: 2026-09-05
+  - Updated: 2026-09-06
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
 - [Solution Sales Expert - F&S](https://jobs.sap.com/job/Beijing-Solution-Sales-Expert-F&S-100016/1287050901/)
   - Location: Beijing, China
-  - Updated: 2026-09-05
+  - Updated: 2026-09-06
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
 - [Solution Sales Expert - F&S](https://jobs.sap.com/job/Shanghai-Solution-Sales-Expert-F&S-200040/1287055001/)
   - Location: Shanghai, China
-  - Updated: 2026-09-05
+  - Updated: 2026-09-06
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
 - [Marketing Execution Expert- JingDigital--BJ/SH](https://jobs.sap.com/job/Beijing-Marketing-Execution-Expert-JingDigital-BJSH-100016/1418500233/)
   - Location: Beijing, China
-  - Updated: 2026-09-05
+  - Updated: 2026-09-06
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
 - [SAP China iXp Intern - Quality Engineer for Web Application - Xi'an](https://jobs.sap.com/job/XiAn-Shaanxi-SAP-China-iXp-Intern-Quality-Engineer-for-Web-Application-Xi&apos;an-710077/1397540533/)
   - Location: Xi'an, China
-  - Updated: 2026-09-05
+  - Updated: 2026-09-06
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
 - [Senior Account Executive - LS - SH](https://jobs.sap.com/job/Shanghai-Senior-Account-Executive-LS-SH-200040/1378768633/)
   - Location: Shanghai, China
-  - Updated: 2026-09-05
+  - Updated: 2026-09-06
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
 - [SAP China iXp Interns - Backend Software Development Intern](https://jobs.sap.com/job/Shanghai-SAP-China-iXp-Interns-Backend-Software-Development-Intern-201203/1392176533/)
   - Location: Shanghai, China
-  - Updated: 2026-09-05
+  - Updated: 2026-09-06
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
 - [MCC CISE (Customer Interaction & Support Escalation) Intern](https://jobs.sap.com/job/Dalian-China-MCC-CISE-%28Customer-Interaction-&-Support-Escalation%29-Intern-116023/1427692733/)
   - Location: Dalian, China
-  - Updated: 2026-09-05
+  - Updated: 2026-09-06
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
 - [SAP iXp Interns - AI Platform Developer(AIOps) CX Cloud Operation](https://jobs.sap.com/job/Chengdu-SAP-iXp-Interns-AI-Platform-Developer%28AIOps%29-CX-Cloud-Operation-610041/1398663033/)
   - Location: Chengdu, China
-  - Updated: 2026-09-05
+  - Updated: 2026-09-06
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
 - [Lead Sr Legal Counsel-Local Data Protection Officer for Greater China (GC), DPPC Korea, Japan](https://jobs.sap.com/job/Beijing-Lead-Sr-Legal-Counsel-Local-Data-Protection-Officer-for-Greater-China-%28GC%29%2C-DPPC-Korea%2C-Japan-100016/1427235433/)
   - Location: Beijing, China
-  - Updated: 2026-09-05
+  - Updated: 2026-09-06
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
 - [SAP China iXp Intern - Developer for Web Application - Xi'an](https://jobs.sap.com/job/XiAn-Shaanxi-SAP-China-iXp-Intern-Developer-for-Web-Application-Xi&apos;an-710077/1377239633/)
   - Location: Xi'an, China
-  - Updated: 2026-09-05
+  - Updated: 2026-09-06
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
 - [iXP - SAP China AI Marketing Intern](https://jobs.sap.com/job/Beijing-iXP-SAP-China-AI-Marketing-Intern-100016/1426364433/)
   - Location: Beijing, China
-  - Updated: 2026-09-05
+  - Updated: 2026-09-06
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
 - [Customer Success Manager (CSM) - SAP Next Gen - SAP Academy for Customer Success - China Shenzhen](https://jobs.sap.com/job/Shenzhen-Customer-Success-Manager-%28CSM%29-SAP-Next-Gen-SAP-Academy-for-Customer-Success-China-Shenzhen-518048/1425455233/)
   - Location: Shenzhen, China
-  - Updated: 2026-09-05
+  - Updated: 2026-09-06
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
 - [Sales Account Executive - SAP Next Gen - SAP Academy for Customer Success - China Shenzhen](https://jobs.sap.com/job/Shenzhen-Sales-Account-Executive-SAP-Next-Gen-SAP-Academy-for-Customer-Success-China-Shenzhen-518048/1425454933/)
   - Location: Shenzhen, China
-  - Updated: 2026-09-05
+  - Updated: 2026-09-06
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
@@ -260,12 +266,6 @@
   - Status: Listed on official career page at report generation
 
 - [SAP China iXp Intern - S/4HANA Consumer Industry Cloud (CIC) - UX Designer Intern - Shanghai](https://jobs.sap.com/job/Shanghai-SAP-China-iXp-Intern-S4HANA-Consumer-Industry-Cloud-%28CIC%29-UX-Designer-Intern-Shanghai-201203/1416186433/)
-  - Location: Shanghai, China
-  - Updated: 2026-08-26
-  - Source: sap_careers
-  - Status: Listed on official career page at report generation
-
-- [SAP China iXp Intern - System Reliability Engineer Intern - Shanghai](https://jobs.sap.com/job/Shanghai-SAP-China-iXp-Intern-System-Reliability-Engineer-Intern-Shanghai-201203/1413714333/)
   - Location: Shanghai, China
   - Updated: 2026-08-26
   - Source: sap_careers
@@ -797,13 +797,13 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Communities Partner Development Manager, SaaS Platforms](https://stripe.com/jobs/search?gh_jid=8103952)
+- [Communities Partner Development Manager, SaaS Platforms](https://stripe.com/jobs/search?gh_jid=8138000)
   - Location: US-Remote
   - Updated: 2026-09-04
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Communities Partner Development Manager, SaaS Platforms](https://stripe.com/jobs/search?gh_jid=8138000)
+- [Communities Partner Development Manager, SaaS Platforms](https://stripe.com/jobs/search?gh_jid=8103952)
   - Location: US-Remote
   - Updated: 2026-09-04
   - Source: greenhouse
@@ -1118,6 +1118,12 @@
 - [Program Manager, Card Network Office (Card Networks)](https://stripe.com/jobs/search?gh_jid=8081754)
   - Location: US-SF, US-NYC, US-Seattle, US-Remote
   - Updated: 2026-09-04
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
+- [Program Manager, Executive Experiences](https://stripe.com/jobs/search?gh_jid=8175629)
+  - Location: San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US
+  - Updated: 2026-09-05
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
@@ -2012,13 +2018,13 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Operations Associate - Managed Support (Includes Weekend Rotation)](https://stripe.com/jobs/search?gh_jid=8011682)
+- [Operations Associate - Managed Support (Includes Weekend Rotation)](https://stripe.com/jobs/search?gh_jid=8093103)
   - Location: Mexico City
   - Updated: 2026-09-04
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Operations Associate - Managed Support (Includes Weekend Rotation)](https://stripe.com/jobs/search?gh_jid=8093103)
+- [Operations Associate - Managed Support (Includes Weekend Rotation)](https://stripe.com/jobs/search?gh_jid=8011682)
   - Location: Mexico City
   - Updated: 2026-09-04
   - Source: greenhouse
@@ -2302,13 +2308,13 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855)
+- [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845)
   - Location: In-Office
   - Updated: 2026-09-04
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845)
+- [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855)
   - Location: In-Office
   - Updated: 2026-09-04
   - Source: greenhouse

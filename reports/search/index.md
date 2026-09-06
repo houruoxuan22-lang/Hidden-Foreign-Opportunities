@@ -1,4 +1,4 @@
-# Searchable Job Reports - 2026-09-05
+# Searchable Job Reports - 2026-09-06
 
 This folder contains filtered job reports generated from `data/jobs.json`.
 
@@ -9,12 +9,12 @@ This folder contains filtered job reports generated from `data/jobs.json`.
 - [Beijing Jobs](beijing.md) - 8 jobs
 - [Shenzhen Jobs](shenzhen.md) - 2 jobs
 - [Chengdu Jobs](chengdu.md) - 1 jobs
-- [Chicago Jobs](chicago.md) - 49 jobs
+- [Chicago Jobs](chicago.md) - 50 jobs
 - [Internships and Early-career Jobs](internships.md) - 53 jobs
 - [Sales and Business Development Jobs](sales-business.md) - 83 jobs
 - [Marketing and Communications Jobs](marketing.md) - 32 jobs
 - [AI and Data Jobs](ai-data.md) - 26 jobs
-- [Remote Jobs](remote.md) - 246 jobs
+- [Remote Jobs](remote.md) - 247 jobs
 
 ## How to use
 

@@ -1,8 +1,8 @@
-# Remote Jobs - 2026-09-05
+# Remote Jobs - 2026-09-06
 
 ## Summary
 
-- Total matching jobs: 246
+- Total matching jobs: 247
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -121,13 +121,13 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855)
+- [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845)
   - Location: In-Office
   - Updated: 2026-09-04
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118845?gh_jid=8118845)
+- [Software Engineer Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855)
   - Location: In-Office
   - Updated: 2026-09-04
   - Source: greenhouse
@@ -665,13 +665,13 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Communities Partner Development Manager, SaaS Platforms](https://stripe.com/jobs/search?gh_jid=8103952)
+- [Communities Partner Development Manager, SaaS Platforms](https://stripe.com/jobs/search?gh_jid=8138000)
   - Location: US-Remote
   - Updated: 2026-09-04
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Communities Partner Development Manager, SaaS Platforms](https://stripe.com/jobs/search?gh_jid=8138000)
+- [Communities Partner Development Manager, SaaS Platforms](https://stripe.com/jobs/search?gh_jid=8103952)
   - Location: US-Remote
   - Updated: 2026-09-04
   - Source: greenhouse
@@ -917,13 +917,13 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Operations Associate - Managed Support (Includes Weekend Rotation)](https://stripe.com/jobs/search?gh_jid=8011682)
+- [Operations Associate - Managed Support (Includes Weekend Rotation)](https://stripe.com/jobs/search?gh_jid=8093103)
   - Location: Mexico City
   - Updated: 2026-09-04
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Operations Associate - Managed Support (Includes Weekend Rotation)](https://stripe.com/jobs/search?gh_jid=8093103)
+- [Operations Associate - Managed Support (Includes Weekend Rotation)](https://stripe.com/jobs/search?gh_jid=8011682)
   - Location: Mexico City
   - Updated: 2026-09-04
   - Source: greenhouse
@@ -1142,6 +1142,12 @@ Jobs with remote or distributed work signals.
 - [Program Manager, Card Network Office (Card Networks)](https://stripe.com/jobs/search?gh_jid=8081754)
   - Location: US-SF, US-NYC, US-Seattle, US-Remote
   - Updated: 2026-09-04
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Program Manager, Executive Experiences](https://stripe.com/jobs/search?gh_jid=8175629)
+  - Location: San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US
+  - Updated: 2026-09-05
   - Source: greenhouse
   - Source type: Unknown source type
 
