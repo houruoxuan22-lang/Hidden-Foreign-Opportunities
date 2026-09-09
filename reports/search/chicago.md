@@ -1,8 +1,8 @@
-# Chicago Jobs - 2026-09-08
+# Chicago Jobs - 2026-09-09
 
 ## Summary
 
-- Total matching jobs: 50
+- Total matching jobs: 52
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -64,6 +64,12 @@ Jobs with Chicago-related location signals.
 - [Data Excellence Manager ](https://stripe.com/jobs/search?gh_jid=8106026)
   - Location: US Remote, Chicago, SF, Seattle, NYC
   - Updated: 2026-09-04
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Engineering Manager, Billing Products](https://stripe.com/jobs/search?gh_jid=8180536)
+  - Location: US-Remote, Chicago
+  - Updated: 2026-09-08
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -163,9 +169,15 @@ Jobs with Chicago-related location signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [PMM, Executive Content & Experiences ](https://stripe.com/jobs/search?gh_jid=8178459)
+  - Location: San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US
+  - Updated: 2026-09-08
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [Product Manager, Identity & Access Management](https://stripe.com/jobs/search?gh_jid=8165137)
   - Location: US-Remote, US-Chicago
-  - Updated: 2026-09-04
+  - Updated: 2026-09-08
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -195,7 +207,7 @@ Jobs with Chicago-related location signals.
 
 - [Program Manager, Executive Experiences](https://stripe.com/jobs/search?gh_jid=8175629)
   - Location: San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US
-  - Updated: 2026-09-05
+  - Updated: 2026-09-08
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -285,7 +297,7 @@ Jobs with Chicago-related location signals.
 
 - [Strategic Business Performance, Central Strategy & Operations](https://stripe.com/jobs/search?gh_jid=8155580)
   - Location: US-Chicago, US-Remote, US-Seattle, US-San Francisco
-  - Updated: 2026-09-04
+  - Updated: 2026-09-08
   - Source: greenhouse
   - Source type: Unknown source type
 
