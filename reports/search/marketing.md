@@ -1,8 +1,8 @@
-# Marketing and Communications Jobs - 2026-09-09
+# Marketing and Communications Jobs - 2026-09-10
 
 ## Summary
 
-- Total matching jobs: 33
+- Total matching jobs: 35
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -57,6 +57,12 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [Marketing Operations Associate](https://careers.datadoghq.com/detail/8177270/?gh_jid=8177270)
+  - Location: Singapore, Singapore
+  - Updated: 2026-09-09
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 ### European Chamber China
 
 - [Policy and Communications Coordinator/Manager (based on experience)](https://www.europeanchamber.com.cn/en/job-vacancies/1959/Policy_and_Communications_Coordinator_Manager_based_on_experience_)
@@ -69,7 +75,7 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [iXP - SAP China AI Marketing Intern](https://jobs.sap.com/job/Beijing-iXP-SAP-China-AI-Marketing-Intern-100016/1426364433/)
   - Location: Beijing, China
-  - Updated: 2026-09-09
+  - Updated: 2026-09-10
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -96,6 +102,12 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 - [Enterprise Paid Digital Marketing Manager](https://stripe.com/jobs/search?gh_jid=7617049)
   - Location: US: SF Bay Area, Seattle, New York, US Remote; Canada
   - Updated: 2026-09-04
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Executive Engagement Marketing Manager, Americas](https://stripe.com/jobs/search?gh_jid=8175675)
+  - Location: Remote, US
+  - Updated: 2026-09-09
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -211,12 +223,12 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Marketing & Communications Specialist](https://swisscham.com.cn/jobs/marketing-communications-specialist-0)
   - Location: Shanghai, China
-  - Updated: 2026-09-09
+  - Updated: 2026-09-10
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-09-09
+  - Updated: 2026-09-10
   - Source: swisscham_china
   - Source type: china_local_static
