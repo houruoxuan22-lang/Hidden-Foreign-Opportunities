@@ -1,4 +1,4 @@
-# Marketing and Communications Jobs - 2026-09-10
+# Marketing and Communications Jobs - 2026-09-11
 
 ## Summary
 
@@ -59,7 +59,7 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Marketing Operations Associate](https://careers.datadoghq.com/detail/8177270/?gh_jid=8177270)
   - Location: Singapore, Singapore
-  - Updated: 2026-09-09
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -75,7 +75,7 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [iXP - SAP China AI Marketing Intern](https://jobs.sap.com/job/Beijing-iXP-SAP-China-AI-Marketing-Intern-100016/1426364433/)
   - Location: Beijing, China
-  - Updated: 2026-09-10
+  - Updated: 2026-09-11
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -89,7 +89,7 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [AEO and GEO Marketing Manager](https://stripe.com/jobs/search?gh_jid=7844214)
   - Location: Remote in the US
-  - Updated: 2026-09-04
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -101,43 +101,43 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Enterprise Paid Digital Marketing Manager](https://stripe.com/jobs/search?gh_jid=7617049)
   - Location: US: SF Bay Area, Seattle, New York, US Remote; Canada
-  - Updated: 2026-09-04
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Executive Engagement Marketing Manager, Americas](https://stripe.com/jobs/search?gh_jid=8175675)
   - Location: Remote, US
-  - Updated: 2026-09-09
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Forward Deployed AI Accelerator, Marketing](https://stripe.com/jobs/search?gh_jid=8055930)
   - Location: Remote in the US, Remote in Canada
-  - Updated: 2026-09-04
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Growth Marketing Manager, Greater China](https://stripe.com/jobs/search?gh_jid=8078168)
   - Location: Singapore
-  - Updated: 2026-09-04
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Head of Market Intelligence, Product Marketing](https://stripe.com/jobs/search?gh_jid=8036235)
   - Location: SF, Seattle, NYC, Chicago, Remote in the US
-  - Updated: 2026-09-04
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Head of Marketing Operations](https://stripe.com/jobs/search?gh_jid=8065643)
   - Location: San Francisco, New York, Seattle, Chicago, Atlanta, Toronto, Remote in the US, Remote in Canada
-  - Updated: 2026-09-04
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Lifecycle Marketing Manager, Capital](https://stripe.com/jobs/search?gh_jid=8082149)
   - Location: Remote, US
-  - Updated: 2026-09-04
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -149,7 +149,7 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [PMM, Executive Content & Experiences ](https://stripe.com/jobs/search?gh_jid=8178459)
   - Location: San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US
-  - Updated: 2026-09-08
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -161,55 +161,55 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Product Marketing Manager](https://stripe.com/jobs/search?gh_jid=6348471)
   - Location: San Francisco, New York, Seattle, Chicago, Remote, Toronto
-  - Updated: 2026-09-04
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Product Marketing Manager, Market Intelligence](https://stripe.com/jobs/search?gh_jid=8014761)
   - Location: SF, Seattle, NYC, Chicago, Toronto, Remote in the US
-  - Updated: 2026-09-04
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Product Marketing Manager, Payments](https://stripe.com/jobs/search?gh_jid=8142770)
   - Location: Remote in the US, Chicago, Toronto
-  - Updated: 2026-09-04
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Product Marketing Manager, Radar](https://stripe.com/jobs/search?gh_jid=7961101)
   - Location: SF, NYC, Seattle, Remote
-  - Updated: 2026-09-04
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Product Marketing Manager, Startup Segment](https://stripe.com/jobs/search?gh_jid=8097731)
   - Location: San Francisco, Seattle, NYC, Chicago, Remote in the US, Toronto
-  - Updated: 2026-09-04
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Social Media, Customer Support Associate](https://stripe.com/jobs/search?gh_jid=7962437)
   - Location: Bengaluru
-  - Updated: 2026-09-04
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Social Media, Customer Support Associate (Includes Weekend Rotations)](https://stripe.com/jobs/search?gh_jid=7867328)
   - Location: Mexico
-  - Updated: 2026-09-04
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Technical Program Manager,  Growth](https://stripe.com/jobs/search?gh_jid=7778643)
   - Location: Remote in the US, Chicago, Atlanta
-  - Updated: 2026-09-04
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Technical Program Manager, Growth](https://stripe.com/jobs/search?gh_jid=8114397)
   - Location: Toronto, Remote Canada 
-  - Updated: 2026-09-04
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -223,12 +223,12 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Marketing & Communications Specialist](https://swisscham.com.cn/jobs/marketing-communications-specialist-0)
   - Location: Shanghai, China
-  - Updated: 2026-09-10
+  - Updated: 2026-09-11
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-09-10
+  - Updated: 2026-09-11
   - Source: swisscham_china
   - Source type: china_local_static

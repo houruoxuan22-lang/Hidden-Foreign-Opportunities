@@ -1,8 +1,8 @@
-# Chicago Jobs - 2026-09-10
+# Chicago Jobs - 2026-09-11
 
 ## Summary
 
-- Total matching jobs: 55
+- Total matching jobs: 56
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -15,13 +15,13 @@ Jobs with Chicago-related location signals.
 
 - [Account Executive - Enterprise, Grower](https://stripe.com/jobs/search?gh_jid=7993151)
   - Location: US-Remote, US-San Francisco, US-Chicago, US-New York, US-Seattle, US-Texas
-  - Updated: 2026-09-04
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Account Executive Product - Radar](https://stripe.com/jobs/search?gh_jid=8181024)
   - Location: Chicago, Seattle, NYC, San Francisco, Remote 
-  - Updated: 2026-09-09
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -33,7 +33,7 @@ Jobs with Chicago-related location signals.
 
 - [Backend Engineer, Core Technology](https://stripe.com/jobs/search?gh_jid=6042172)
   - Location: US-Remote, Chicago, Seattle, San Francisco
-  - Updated: 2026-09-04
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -45,7 +45,7 @@ Jobs with Chicago-related location signals.
 
 - [Campaign Strategy & Operations Manager](https://stripe.com/jobs/search?gh_jid=7584016)
   - Location: San Francisco, Seattle, New York, Chicago, Remote in the US
-  - Updated: 2026-09-04
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -63,19 +63,19 @@ Jobs with Chicago-related location signals.
 
 - [Credit Risk Analyst Commercial Underwriter, West Coast](https://stripe.com/jobs/search?gh_jid=7540441)
   - Location: Chicago, US-Remote, Canada-Remote
-  - Updated: 2026-09-04
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Data Excellence Manager ](https://stripe.com/jobs/search?gh_jid=8106026)
   - Location: US Remote, Chicago, SF, Seattle, NYC
-  - Updated: 2026-09-04
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Engineering Manager, Billing Products](https://stripe.com/jobs/search?gh_jid=8180536)
   - Location: US-Remote, Chicago
-  - Updated: 2026-09-08
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -87,7 +87,7 @@ Jobs with Chicago-related location signals.
 
 - [GTM Recruiter, AMER (Fixed Term)](https://stripe.com/jobs/search?gh_jid=7942216)
   - Location: Chicago, US-Remote
-  - Updated: 2026-09-04
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -99,25 +99,25 @@ Jobs with Chicago-related location signals.
 
 - [Head of AEO & SEO](https://stripe.com/jobs/search?gh_jid=8128634)
   - Location: US Remote; Chicago, Atlanta, Canada
-  - Updated: 2026-09-04
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Head of Market Intelligence, Product Marketing](https://stripe.com/jobs/search?gh_jid=8036235)
   - Location: SF, Seattle, NYC, Chicago, Remote in the US
-  - Updated: 2026-09-04
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Head of Marketing Operations](https://stripe.com/jobs/search?gh_jid=8065643)
   - Location: San Francisco, New York, Seattle, Chicago, Atlanta, Toronto, Remote in the US, Remote in Canada
-  - Updated: 2026-09-04
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Head of Self-Serve Paid Media](https://stripe.com/jobs/search?gh_jid=8068521)
   - Location: San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US, Toronto, Remote in Canada
-  - Updated: 2026-09-04
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -135,37 +135,43 @@ Jobs with Chicago-related location signals.
 
 - [Partner Development Manager, Link - Payments Partnerships](https://stripe.com/jobs/search?gh_jid=8090126)
   - Location: US-NYC; US-San Francisco; US-Seattle; US-Remote; US- Chicago; US-Atlanta; Canada-Toronto; Canada-Remote
-  - Updated: 2026-09-04
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Partner Development Manager, Strategic Partnerships](https://stripe.com/jobs/search?gh_jid=7973002)
-  - Location: US-San Francisco; US-New York City; US-Seattle; US-Remote; US-Chicago; CA-Toronto; CA-Remote
-  - Updated: 2026-09-04
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Partner Development Manager, Strategic Partnerships](https://stripe.com/jobs/search?gh_jid=8094869)
   - Location: US-NYC; US-San Francisco; US-Seattle; US-Remote; US- Chicago; US-Atlanta; Canada-Toronto; Canada-Remote
-  - Updated: 2026-09-04
+  - Updated: 2026-09-10
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Partner Development Manager, Strategic Partnerships](https://stripe.com/jobs/search?gh_jid=7973002)
+  - Location: US-San Francisco; US-New York City; US-Seattle; US-Remote; US-Chicago; CA-Toronto; CA-Remote
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Partner Development Manager, Strategic Payment Partnerships](https://stripe.com/jobs/search?gh_jid=8155164)
   - Location: US-San Francisco; US-New York City; US-Seattle; US-Remote; US-Chicago; CA-Toronto; CA-Remote
-  - Updated: 2026-09-04
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Partner Solutions Architect - Commerce Partners](https://stripe.com/jobs/search?gh_jid=8140581)
   - Location: Chicago, Atlanta, Remote
-  - Updated: 2026-09-04
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [People Project Manager](https://stripe.com/jobs/search?gh_jid=8039954)
   - Location: US-Remote, Atlanta, Chicago
-  - Updated: 2026-09-04
+  - Updated: 2026-09-10
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [People Project Manager](https://stripe.com/jobs/search?gh_jid=8173467)
+  - Location: Chicago, Atlanta, US-Remote
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -177,55 +183,55 @@ Jobs with Chicago-related location signals.
 
 - [PMM, Executive Content & Experiences ](https://stripe.com/jobs/search?gh_jid=8178459)
   - Location: San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US
-  - Updated: 2026-09-08
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Product Manager, Identity & Access Management](https://stripe.com/jobs/search?gh_jid=8165137)
   - Location: US-Remote, US-Chicago
-  - Updated: 2026-09-08
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Product Manager, Mobile](https://stripe.com/jobs/search?gh_jid=8140438)
   - Location: New York City, Toronto, Chicago, or Remote
-  - Updated: 2026-09-09
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Product Marketing Manager](https://stripe.com/jobs/search?gh_jid=6348471)
   - Location: San Francisco, New York, Seattle, Chicago, Remote, Toronto
-  - Updated: 2026-09-04
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Product Marketing Manager, Market Intelligence](https://stripe.com/jobs/search?gh_jid=8014761)
   - Location: SF, Seattle, NYC, Chicago, Toronto, Remote in the US
-  - Updated: 2026-09-04
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Product Marketing Manager, Payments](https://stripe.com/jobs/search?gh_jid=8142770)
   - Location: Remote in the US, Chicago, Toronto
-  - Updated: 2026-09-04
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Product Marketing Manager, Startup Segment](https://stripe.com/jobs/search?gh_jid=8097731)
   - Location: San Francisco, Seattle, NYC, Chicago, Remote in the US, Toronto
-  - Updated: 2026-09-04
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Program Manager, Executive Experiences](https://stripe.com/jobs/search?gh_jid=8175629)
   - Location: San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US
-  - Updated: 2026-09-08
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Program Manager, GTM Planning](https://stripe.com/jobs/search?gh_jid=8147961)
   - Location: Chicago, Remote
-  - Updated: 2026-09-04
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -237,7 +243,7 @@ Jobs with Chicago-related location signals.
 
 - [Program Manager, GTM Strategic Programs](https://stripe.com/jobs/search?gh_jid=8042309)
   - Location: US-Remote, Chicago
-  - Updated: 2026-09-04
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -249,7 +255,7 @@ Jobs with Chicago-related location signals.
 
 - [Risk Partnerships Manager, Stablecoin](https://stripe.com/jobs/search?gh_jid=8078333)
   - Location: US-San Francisco; US-NYC; US-Seattle; US-Remote; US-Chicago; US-Atlanta
-  - Updated: 2026-09-04
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -279,7 +285,7 @@ Jobs with Chicago-related location signals.
 
 - [Security Incident Response Manager, Abuse Operations](https://stripe.com/jobs/search?gh_jid=8172497)
   - Location: Seattle, SF, NYC, Chicago, Atlanta, Remote in the US
-  - Updated: 2026-09-09
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -297,25 +303,25 @@ Jobs with Chicago-related location signals.
 
 - [Specialist Solutions Architect, Tax](https://stripe.com/jobs/search?gh_jid=8090244)
   - Location: Chicago, Atlanta, Remote
-  - Updated: 2026-09-04
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Staff Product Manager, Dashboard](https://stripe.com/jobs/search?gh_jid=7913702)
   - Location: San Francisco, Seattle, NYC, Chicago, Atlanta, US Remote
-  - Updated: 2026-09-04
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Staff Product Manager, Enterprise](https://stripe.com/jobs/search?gh_jid=7812856)
   - Location: San Francisco, Seattle, New York, Chicago, Atlanta, Remote
-  - Updated: 2026-09-04
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Strategic Business Performance, Central Strategy & Operations](https://stripe.com/jobs/search?gh_jid=8155580)
   - Location: US-Chicago, US-Remote, US-Seattle, US-San Francisco
-  - Updated: 2026-09-08
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -333,7 +339,7 @@ Jobs with Chicago-related location signals.
 
 - [Technical Program Manager,  Growth](https://stripe.com/jobs/search?gh_jid=7778643)
   - Location: Remote in the US, Chicago, Atlanta
-  - Updated: 2026-09-04
+  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
