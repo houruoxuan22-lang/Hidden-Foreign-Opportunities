@@ -1,4 +1,4 @@
-# Remote Jobs - 2026-09-12
+# Remote Jobs - 2026-09-13
 
 ## Summary
 
@@ -995,13 +995,13 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Operations Associate - Managed Support (Includes Weekend Rotation)](https://stripe.com/jobs/search?gh_jid=8093103)
+- [Operations Associate - Managed Support (Includes Weekend Rotation)](https://stripe.com/jobs/search?gh_jid=8011682)
   - Location: Mexico City
   - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Operations Associate - Managed Support (Includes Weekend Rotation)](https://stripe.com/jobs/search?gh_jid=8011682)
+- [Operations Associate - Managed Support (Includes Weekend Rotation)](https://stripe.com/jobs/search?gh_jid=8093103)
   - Location: Mexico City
   - Updated: 2026-09-10
   - Source: greenhouse
@@ -1115,14 +1115,14 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [People Project Manager](https://stripe.com/jobs/search?gh_jid=8039954)
-  - Location: US-Remote, Atlanta, Chicago
+- [People Project Manager](https://stripe.com/jobs/search?gh_jid=8173467)
+  - Location: Chicago, Atlanta, US-Remote
   - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [People Project Manager](https://stripe.com/jobs/search?gh_jid=8173467)
-  - Location: Chicago, Atlanta, US-Remote
+- [People Project Manager](https://stripe.com/jobs/search?gh_jid=8039954)
+  - Location: US-Remote, Atlanta, Chicago
   - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type

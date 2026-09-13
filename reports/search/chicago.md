@@ -1,4 +1,4 @@
-# Chicago Jobs - 2026-09-12
+# Chicago Jobs - 2026-09-13
 
 ## Summary
 
@@ -169,14 +169,14 @@ Jobs with Chicago-related location signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [People Project Manager](https://stripe.com/jobs/search?gh_jid=8039954)
-  - Location: US-Remote, Atlanta, Chicago
+- [People Project Manager](https://stripe.com/jobs/search?gh_jid=8173467)
+  - Location: Chicago, Atlanta, US-Remote
   - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [People Project Manager](https://stripe.com/jobs/search?gh_jid=8173467)
-  - Location: Chicago, Atlanta, US-Remote
+- [People Project Manager](https://stripe.com/jobs/search?gh_jid=8039954)
+  - Location: US-Remote, Atlanta, Chicago
   - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
