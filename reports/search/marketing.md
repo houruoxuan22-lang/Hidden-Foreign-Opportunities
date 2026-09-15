@@ -1,8 +1,8 @@
-# Marketing and Communications Jobs - 2026-09-14
+# Marketing and Communications Jobs - 2026-09-15
 
 ## Summary
 
-- Total matching jobs: 35
+- Total matching jobs: 34
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -75,7 +75,7 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [iXP - SAP China AI Marketing Intern](https://jobs.sap.com/job/Beijing-iXP-SAP-China-AI-Marketing-Intern-100016/1426364433/)
   - Location: Beijing, China
-  - Updated: 2026-09-14
+  - Updated: 2026-09-15
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -207,12 +207,6 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Technical Program Manager, Growth](https://stripe.com/jobs/search?gh_jid=8114397)
-  - Location: Toronto, Remote Canada 
-  - Updated: 2026-09-10
-  - Source: greenhouse
-  - Source type: Unknown source type
-
 - [Writer, Content Marketing](https://stripe.com/jobs/search?gh_jid=7587814)
   - Location: Remote US
   - Updated: 2026-08-18
@@ -223,12 +217,12 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Marketing & Communications Specialist](https://swisscham.com.cn/jobs/marketing-communications-specialist-0)
   - Location: Shanghai, China
-  - Updated: 2026-09-14
+  - Updated: 2026-09-15
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-09-14
+  - Updated: 2026-09-15
   - Source: swisscham_china
   - Source type: china_local_static
