@@ -1,8 +1,8 @@
-# Internships and Early-career Jobs - 2026-09-15
+# Internships and Early-career Jobs - 2026-09-16
 
 ## Summary
 
-- Total matching jobs: 63
+- Total matching jobs: 64
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -125,43 +125,49 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 
 - [Applied Science Intern](https://careers.datadoghq.com/detail/8181440/?gh_jid=8181440)
   - Location: Paris, France
-  - Updated: 2026-09-10
+  - Updated: 2026-09-15
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [IT Support Technician Intern](https://careers.datadoghq.com/detail/8129799/?gh_jid=8129799)
   - Location: Paris, France
-  - Updated: 2026-09-10
+  - Updated: 2026-09-15
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Product Management Intern](https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241)
   - Location: New York, New York, USA
-  - Updated: 2026-09-10
+  - Updated: 2026-09-15
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Product Management Intern](https://careers.datadoghq.com/detail/8143729/?gh_jid=8143729)
   - Location: Paris, France
-  - Updated: 2026-09-10
+  - Updated: 2026-09-15
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Research Science Intern (PhD)](https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657)
+  - Location: New York, New York, USA; Pittsburgh, Pennsylvania, USA
+  - Updated: 2026-09-15
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Software Engineering Intern](https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186)
   - Location: Paris, France
-  - Updated: 2026-09-10
+  - Updated: 2026-09-15
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Software Engineering Intern](https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161)
   - Location: Madrid, Spain
-  - Updated: 2026-09-14
+  - Updated: 2026-09-15
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Software Engineering Intern (Summer)](https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118)
   - Location: Boston, Massachusetts, USA; New York, New York, USA
-  - Updated: 2026-09-10
+  - Updated: 2026-09-15
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -183,13 +189,13 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 
 - [iXP - SAP China AI Marketing Intern](https://jobs.sap.com/job/Beijing-iXP-SAP-China-AI-Marketing-Intern-100016/1426364433/)
   - Location: Beijing, China
-  - Updated: 2026-09-15
+  - Updated: 2026-09-16
   - Source: sap_careers
   - Source type: china_company_career
 
 - [iXP - SAP China Intern Diligence, Screening and Assurance (DSA) Analyst](https://jobs.sap.com/job/Shanghai-iXP-SAP-China-Intern-Diligence%2C-Screening-and-Assurance-%28DSA%29-Analyst-200040/1432190233/)
   - Location: Shanghai, China
-  - Updated: 2026-09-15
+  - Updated: 2026-09-16
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -213,19 +219,19 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 
 - [SAP China iXp Intern - Developer for Web Application - Xi'an](https://jobs.sap.com/job/XiAn-Shaanxi-SAP-China-iXp-Intern-Developer-for-Web-Application-Xi&apos;an-710077/1377239633/)
   - Location: Xi'an, China
-  - Updated: 2026-09-15
+  - Updated: 2026-09-16
   - Source: sap_careers
   - Source type: china_company_career
 
 - [SAP China iXp Intern - HANA Cloud Microservice Developer - Xi'an](https://jobs.sap.com/job/XiAn-Shaanxi-SAP-China-iXp-Intern-HANA-Cloud-Microservice-Developer-Xi&apos;an-710077/1431732333/)
   - Location: Xi'an, China
-  - Updated: 2026-09-15
+  - Updated: 2026-09-16
   - Source: sap_careers
   - Source type: china_company_career
 
 - [SAP China iXp Intern - Intelligent Cloud Service Developer](https://jobs.sap.com/job/Shanghai-SAP-China-iXp-Intern-Intelligent-Cloud-Service-Developer-201203/1435163033/)
   - Location: Shanghai, China
-  - Updated: 2026-09-15
+  - Updated: 2026-09-16
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -237,19 +243,19 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 
 - [SAP China iXp Intern - Intern Queue Manager for Technial Support - Dalian](https://jobs.sap.com/job/Dalian-China-SAP-China-iXp-Intern-Intern-Queue-Manager-for-Technial-Support-Dalian-116023/1431751533/)
   - Location: Dalian, China
-  - Updated: 2026-09-15
+  - Updated: 2026-09-16
   - Source: sap_careers
   - Source type: china_company_career
 
 - [SAP China iXp Intern - PC3 Digital Customer Engagement Manager](https://jobs.sap.com/job/Shanghai-SAP-China-iXp-Intern-PC3-Digital-Customer-Engagement-Manager-201203/1431749433/)
   - Location: Shanghai, China
-  - Updated: 2026-09-15
+  - Updated: 2026-09-16
   - Source: sap_careers
   - Source type: china_company_career
 
 - [SAP China iXp Intern - Quality Engineer for Web Application - Xi'an](https://jobs.sap.com/job/XiAn-Shaanxi-SAP-China-iXp-Intern-Quality-Engineer-for-Web-Application-Xi&apos;an-710077/1397540533/)
   - Location: Xi'an, China
-  - Updated: 2026-09-15
+  - Updated: 2026-09-16
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -279,13 +285,13 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 
 - [SAP China iXp Intern - Software engineer intern in test](https://jobs.sap.com/job/Shanghai-SAP-China-iXp-Intern-Software-engineer-intern-in-test-201203/1436140433/)
   - Location: Shanghai, China
-  - Updated: 2026-09-15
+  - Updated: 2026-09-16
   - Source: sap_careers
   - Source type: china_company_career
 
 - [SAP China iXp Intern - System Reliability Engineer Intern - Shanghai](https://jobs.sap.com/job/Shanghai-SAP-China-iXp-Intern-System-Reliability-Engineer-Intern-Shanghai-201203/1413714333/)
   - Location: Shanghai, China
-  - Updated: 2026-09-15
+  - Updated: 2026-09-16
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -305,7 +311,7 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 
 - [Backend Engineer, Payments](https://stripe.com/jobs/search?gh_jid=6692166)
   - Location: Toronto, Canada Remote
-  - Updated: 2026-09-10
+  - Updated: 2026-09-15
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -363,8 +369,8 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8097801)
-  - Location: Dublin
+- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8130805)
+  - Location: Toronto
   - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
@@ -375,8 +381,8 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8130805)
-  - Location: Toronto
+- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8097801)
+  - Location: Dublin
   - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
@@ -397,6 +403,6 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-09-15
+  - Updated: 2026-09-16
   - Source: swisscham_china
   - Source type: china_local_static

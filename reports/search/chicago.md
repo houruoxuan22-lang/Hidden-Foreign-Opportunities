@@ -1,4 +1,4 @@
-# Chicago Jobs - 2026-09-15
+# Chicago Jobs - 2026-09-16
 
 ## Summary
 
@@ -33,7 +33,7 @@ Jobs with Chicago-related location signals.
 
 - [Business Partner Analyst](https://stripe.com/jobs/search?gh_jid=8079783)
   - Location: US-SF, US-Seattle, US-NYC, US-Chicago, US-Georgia or US-Remote
-  - Updated: 2026-09-04
+  - Updated: 2026-09-15
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -163,14 +163,14 @@ Jobs with Chicago-related location signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [People Project Manager](https://stripe.com/jobs/search?gh_jid=8173467)
-  - Location: Chicago, Atlanta, US-Remote
+- [People Project Manager](https://stripe.com/jobs/search?gh_jid=8039954)
+  - Location: US-Remote, Atlanta, Chicago
   - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [People Project Manager](https://stripe.com/jobs/search?gh_jid=8039954)
-  - Location: US-Remote, Atlanta, Chicago
+- [People Project Manager](https://stripe.com/jobs/search?gh_jid=8173467)
+  - Location: Chicago, Atlanta, US-Remote
   - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
@@ -285,7 +285,7 @@ Jobs with Chicago-related location signals.
 
 - [Sales Manager, Product- Fraud & Risk](https://stripe.com/jobs/search?gh_jid=8181036)
   - Location: San Francisco, NYC, Seattle, Chicago, Remote
-  - Updated: 2026-09-14
+  - Updated: 2026-09-15
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -343,9 +343,9 @@ Jobs with Chicago-related location signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Technical Program Manager,  Growth](https://stripe.com/jobs/search?gh_jid=7778643)
+- [Technical Program Manager,  Extensibility ](https://stripe.com/jobs/search?gh_jid=7778643)
   - Location: Remote in the US, Chicago, Atlanta
-  - Updated: 2026-09-10
+  - Updated: 2026-09-15
   - Source: greenhouse
   - Source type: Unknown source type
 
