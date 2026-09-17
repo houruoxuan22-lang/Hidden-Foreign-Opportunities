@@ -1,8 +1,8 @@
-# AI and Data Jobs - 2026-09-16
+# AI and Data Jobs - 2026-09-17
 
 ## Summary
 
-- Total matching jobs: 28
+- Total matching jobs: 29
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -47,19 +47,19 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [iXP - SAP China AI Marketing Intern](https://jobs.sap.com/job/Beijing-iXP-SAP-China-AI-Marketing-Intern-100016/1426364433/)
   - Location: Beijing, China
-  - Updated: 2026-09-16
+  - Updated: 2026-09-17
   - Source: sap_careers
   - Source type: china_company_career
 
 - [iXP - SAP China Intern Diligence, Screening and Assurance (DSA) Analyst](https://jobs.sap.com/job/Shanghai-iXP-SAP-China-Intern-Diligence%2C-Screening-and-Assurance-%28DSA%29-Analyst-200040/1432190233/)
   - Location: Shanghai, China
-  - Updated: 2026-09-16
+  - Updated: 2026-09-17
   - Source: sap_careers
   - Source type: china_company_career
 
 - [Lead Sr Legal Counsel-Local Data Protection Officer for Greater China (GC), DPPC Korea, Japan](https://jobs.sap.com/job/Beijing-Lead-Sr-Legal-Counsel-Local-Data-Protection-Officer-for-Greater-China-%28GC%29%2C-DPPC-Korea%2C-Japan-100016/1427235433/)
   - Location: Beijing, China
-  - Updated: 2026-09-16
+  - Updated: 2026-09-17
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -140,6 +140,12 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 - [Internal Product Engineer, Developer Productivity AI ](https://stripe.com/jobs/search?gh_jid=7896151)
   - Location: Toronto, Canada 
   - Updated: 2026-09-10
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Manager of Managers, Marketing Data Science](https://stripe.com/jobs/search?gh_jid=8189012)
+  - Location: Seattle, WA OR New York, NY OR Remote North America
+  - Updated: 2026-09-16
   - Source: greenhouse
   - Source type: Unknown source type
 
