@@ -1,4 +1,4 @@
-# Chicago Jobs - 2026-09-18
+# Chicago Jobs - 2026-09-19
 
 ## Summary
 
@@ -81,7 +81,7 @@ Jobs with Chicago-related location signals.
 
 - [GTM Recruiter, AMER (Fixed Term)](https://stripe.com/jobs/search?gh_jid=7942216)
   - Location: Chicago, US-Remote
-  - Updated: 2026-09-16
+  - Updated: 2026-09-18
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -145,14 +145,14 @@ Jobs with Chicago-related location signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Partner Development Manager, Strategic Partnerships](https://stripe.com/jobs/search?gh_jid=8094869)
-  - Location: US-NYC; US-San Francisco; US-Seattle; US-Remote; US- Chicago; US-Atlanta; Canada-Toronto; Canada-Remote
+- [Partner Development Manager, Strategic Partnerships](https://stripe.com/jobs/search?gh_jid=7973002)
+  - Location: US-San Francisco; US-New York City; US-Seattle; US-Remote; US-Chicago; CA-Toronto; CA-Remote
   - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Partner Development Manager, Strategic Partnerships](https://stripe.com/jobs/search?gh_jid=7973002)
-  - Location: US-San Francisco; US-New York City; US-Seattle; US-Remote; US-Chicago; CA-Toronto; CA-Remote
+- [Partner Development Manager, Strategic Partnerships](https://stripe.com/jobs/search?gh_jid=8094869)
+  - Location: US-NYC; US-San Francisco; US-Seattle; US-Remote; US- Chicago; US-Atlanta; Canada-Toronto; Canada-Remote
   - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
@@ -193,9 +193,9 @@ Jobs with Chicago-related location signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [PMM, Executive Content & Experiences ](https://stripe.com/jobs/search?gh_jid=8178459)
+- [PMM Lead, Executive Content & Experiences ](https://stripe.com/jobs/search?gh_jid=8178459)
   - Location: San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US
-  - Updated: 2026-09-10
+  - Updated: 2026-09-18
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -225,7 +225,7 @@ Jobs with Chicago-related location signals.
 
 - [Product Marketing Manager, Payments](https://stripe.com/jobs/search?gh_jid=8142770)
   - Location: Remote in the US, Chicago, Toronto
-  - Updated: 2026-09-10
+  - Updated: 2026-09-18
   - Source: greenhouse
   - Source type: Unknown source type
 
