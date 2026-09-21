@@ -1,4 +1,4 @@
-# Shenzhen Jobs - 2026-09-20
+# Shenzhen Jobs - 2026-09-21
 
 ## Summary
 
@@ -15,12 +15,12 @@ Jobs with Shenzhen-related location signals.
 
 - [Customer Success Manager (CSM-HCM) - SAP Next Gen - SAP Academy for Customer Success - Shenzhen](https://jobs.sap.com/job/Shenzhen-Customer-Success-Manager-%28CSM-HCM%29-SAP-Next-Gen-SAP-Academy-for-Customer-Success-Shenzhen-518048/1425455233/)
   - Location: Shenzhen, China
-  - Updated: 2026-09-20
+  - Updated: 2026-09-21
   - Source: sap_careers
   - Source type: china_company_career
 
-- [Sales Account Executive - SAP Next Gen - SAP Academy for Customer Success - China Shenzhen](https://jobs.sap.com/job/Shenzhen-Sales-Account-Executive-SAP-Next-Gen-SAP-Academy-for-Customer-Success-China-Shenzhen-518048/1425454933/)
+- [Sales Account Executive(Sales-SCM) - SAP Next Gen - SAP Academy for Customer Success - Shenzhen](https://jobs.sap.com/job/Shenzhen-Sales-Account-Executive%28Sales-SCM%29-SAP-Next-Gen-SAP-Academy-for-Customer-Success-Shenzhen-518048/1425454933/)
   - Location: Shenzhen, China
-  - Updated: 2026-09-20
+  - Updated: 2026-09-21
   - Source: sap_careers
   - Source type: china_company_career
