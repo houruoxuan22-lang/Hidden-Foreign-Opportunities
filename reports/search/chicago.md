@@ -1,8 +1,8 @@
-# Chicago Jobs - 2026-09-21
+# Chicago Jobs - 2026-09-22
 
 ## Summary
 
-- Total matching jobs: 60
+- Total matching jobs: 61
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -130,6 +130,12 @@ Jobs with Chicago-related location signals.
 - [Partner Development Manager, Financial Connections](https://stripe.com/jobs/search?gh_jid=8027573)
   - Location: New York, San Francisco, Seattle, Chicago, US-Remote 
   - Updated: 2026-08-20
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Partner Development Manager, Financial Partnership Capabilities](https://stripe.com/jobs/search?gh_jid=8208523)
+  - Location: US-Remote; US- Chicago; US-Atlanta; Canada-Toronto; Canada-Remote
+  - Updated: 2026-09-21
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -313,6 +319,12 @@ Jobs with Chicago-related location signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [Senior Product Manager, Enterprise](https://stripe.com/jobs/search?gh_jid=7812856)
+  - Location: San Francisco, Seattle, New York, Chicago, Atlanta, Remote
+  - Updated: 2026-09-21
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [Software Engineer, Billing Platform](https://stripe.com/jobs/search?gh_jid=8127182)
   - Location: San Francisco, New York City, Seattle, Chicago, US-Remote
   - Updated: 2026-09-18
@@ -333,12 +345,6 @@ Jobs with Chicago-related location signals.
 
 - [Staff Product Manager, Dashboard](https://stripe.com/jobs/search?gh_jid=7913702)
   - Location: San Francisco, Seattle, NYC, Chicago, Atlanta, US Remote
-  - Updated: 2026-09-10
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Staff Product Manager, Enterprise](https://stripe.com/jobs/search?gh_jid=7812856)
-  - Location: San Francisco, Seattle, New York, Chicago, Atlanta, Remote
   - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type

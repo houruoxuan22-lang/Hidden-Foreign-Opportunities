@@ -1,8 +1,8 @@
-# Marketing and Communications Jobs - 2026-09-21
+# Marketing and Communications Jobs - 2026-09-22
 
 ## Summary
 
-- Total matching jobs: 35
+- Total matching jobs: 36
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -75,7 +75,7 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [iXP - SAP China AI Marketing Intern](https://jobs.sap.com/job/Beijing-iXP-SAP-China-AI-Marketing-Intern-100016/1426364433/)
   - Location: Beijing, China
-  - Updated: 2026-09-21
+  - Updated: 2026-09-22
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -132,6 +132,12 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 - [Head of Marketing Operations](https://stripe.com/jobs/search?gh_jid=8065643)
   - Location: San Francisco, New York, Seattle, Chicago, Atlanta, Toronto, Remote in the US, Remote in Canada
   - Updated: 2026-09-10
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Integrated Marketing Lead, Cross Product](https://stripe.com/jobs/search?gh_jid=8187572)
+  - Location: South San Francisco HQ, New York City, Remote US
+  - Updated: 2026-09-21
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -223,12 +229,12 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Marketing & Communications Specialist](https://swisscham.com.cn/jobs/marketing-communications-specialist-0)
   - Location: Shanghai, China
-  - Updated: 2026-09-21
+  - Updated: 2026-09-22
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-09-21
+  - Updated: 2026-09-22
   - Source: swisscham_china
   - Source type: china_local_static
