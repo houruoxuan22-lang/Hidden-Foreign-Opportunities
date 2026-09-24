@@ -1,8 +1,8 @@
-# Internships and Early-career Jobs - 2026-09-23
+# Internships and Early-career Jobs - 2026-09-24
 
 ## Summary
 
-- Total matching jobs: 67
+- Total matching jobs: 69
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -149,6 +149,12 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 
 - [Research Science Intern (PhD)](https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657)
   - Location: New York, New York, USA; Pittsburgh, Pennsylvania, USA
+  - Updated: 2026-09-23
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Software Engineering Intern](https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161)
+  - Location: Madrid, Spain
   - Updated: 2026-09-18
   - Source: greenhouse
   - Source type: Unknown source type
@@ -159,15 +165,9 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineering Intern](https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161)
-  - Location: Madrid, Spain
-  - Updated: 2026-09-18
-  - Source: greenhouse
-  - Source type: Unknown source type
-
 - [Software Engineering Intern (Summer)](https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118)
   - Location: Boston, Massachusetts, USA; New York, New York, USA
-  - Updated: 2026-09-18
+  - Updated: 2026-09-23
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -339,6 +339,12 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [Offensive Security Engineer](https://stripe.com/jobs/search?gh_jid=8172503)
+  - Location: Remote from the US
+  - Updated: 2026-09-23
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [Operations Associate, Apprenticeship](https://stripe.com/jobs/search?gh_jid=8131339)
   - Location: Bengaluru
   - Updated: 2026-09-10
@@ -363,12 +369,6 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130883)
-  - Location: Singapore
-  - Updated: 2026-09-22
-  - Source: greenhouse
-  - Source type: Unknown source type
-
 - [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130867)
   - Location: London
   - Updated: 2026-09-10
@@ -381,14 +381,20 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130883)
+  - Location: Singapore
+  - Updated: 2026-09-22
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [Software Engineer, Intern ](https://stripe.com/jobs/search?gh_jid=8130807)
   - Location: Bucharest
   - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8128745)
-  - Location: San Francisco, Seattle, New York City
+- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8097801)
+  - Location: Dublin
   - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
@@ -399,8 +405,8 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8097801)
-  - Location: Dublin
+- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8128745)
+  - Location: San Francisco, Seattle, New York City
   - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
@@ -417,10 +423,16 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [University Recruiter](https://stripe.com/jobs/search?gh_jid=8226211)
+  - Location: San Francisco, New York, Seattle, US-Remote
+  - Updated: 2026-09-23
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 ### SwissCham China
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-09-23
+  - Updated: 2026-09-24
   - Source: swisscham_china
   - Source type: china_local_static

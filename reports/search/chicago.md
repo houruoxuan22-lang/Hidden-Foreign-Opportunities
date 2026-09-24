@@ -1,8 +1,8 @@
-# Chicago Jobs - 2026-09-23
+# Chicago Jobs - 2026-09-24
 
 ## Summary
 
-- Total matching jobs: 61
+- Total matching jobs: 63
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -55,6 +55,12 @@ Jobs with Chicago-related location signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [Credit Operations Manager](https://stripe.com/jobs/search?gh_jid=8213951)
+  - Location: Chicago, Atlanta, US-Remote
+  - Updated: 2026-09-23
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [Credit Risk Analyst Commercial Underwriter, West Coast](https://stripe.com/jobs/search?gh_jid=7540441)
   - Location: Chicago, US-Remote, Canada-Remote
   - Updated: 2026-09-10
@@ -81,7 +87,7 @@ Jobs with Chicago-related location signals.
 
 - [GTM Recruiter, AMER (Fixed Term)](https://stripe.com/jobs/search?gh_jid=7942216)
   - Location: Chicago, US-Remote
-  - Updated: 2026-09-18
+  - Updated: 2026-09-23
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -151,15 +157,15 @@ Jobs with Chicago-related location signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Partner Development Manager, Strategic Partnerships](https://stripe.com/jobs/search?gh_jid=8094869)
-  - Location: US-NYC; US-San Francisco; US-Seattle; US-Remote; US- Chicago; US-Atlanta; Canada-Toronto; Canada-Remote
-  - Updated: 2026-09-22
-  - Source: greenhouse
-  - Source type: Unknown source type
-
 - [Partner Development Manager, Strategic Partnerships](https://stripe.com/jobs/search?gh_jid=7973002)
   - Location: US-San Francisco; US-New York City; US-Seattle; US-Remote; US-Chicago; CA-Toronto; CA-Remote
   - Updated: 2026-09-10
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Partner Development Manager, Strategic Partnerships](https://stripe.com/jobs/search?gh_jid=8094869)
+  - Location: US-NYC; US-San Francisco; US-Seattle; US-Remote; US- Chicago; US-Atlanta; Canada-Toronto; Canada-Remote
+  - Updated: 2026-09-22
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -334,6 +340,12 @@ Jobs with Chicago-related location signals.
 - [Solutions Architect, Enterprise (Presales)](https://stripe.com/jobs/search?gh_jid=7827184)
   - Location: Chicago, IL or San Francisco, CA OR US Remote
   - Updated: 2026-08-24
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Sourcer, GTM ](https://stripe.com/jobs/search?gh_jid=8016504)
+  - Location: Chicago, Atlanta, US-Remote
+  - Updated: 2026-09-23
   - Source: greenhouse
   - Source type: Unknown source type
 
