@@ -1,8 +1,8 @@
-# Remote Jobs - 2026-09-24
+# Remote Jobs - 2026-09-25
 
 ## Summary
 
-- Total matching jobs: 298
+- Total matching jobs: 304
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -160,8 +160,8 @@ Jobs with remote or distributed work signals.
 ### Datadog
 
 - [ Partner Solutions Architect (EMEA)](https://careers.datadoghq.com/detail/8204056/?gh_jid=8204056)
-  - Location: Italy, Remote; Portugal, Remote; Spain, Remote
-  - Updated: 2026-09-18
+  - Location: Italy, Remote; Spain, Remote
+  - Updated: 2026-09-24
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -225,12 +225,6 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Enterprise Sales Executive](https://careers.datadoghq.com/detail/7466155/?gh_jid=7466155)
-  - Location: Florida, USA, Remote
-  - Updated: 2026-09-18
-  - Source: greenhouse
-  - Source type: Unknown source type
-
 - [Enterprise Sales Executive](https://careers.datadoghq.com/detail/7405822/?gh_jid=7405822)
   - Location: Georgia, USA, Remote
   - Updated: 2026-09-18
@@ -239,6 +233,12 @@ Jobs with remote or distributed work signals.
 
 - [Enterprise Sales Executive](https://careers.datadoghq.com/detail/7465857/?gh_jid=7465857)
   - Location: North Carolina, USA, Remote; Tennessee, USA, Remote
+  - Updated: 2026-09-18
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Enterprise Sales Executive](https://careers.datadoghq.com/detail/7466155/?gh_jid=7466155)
+  - Location: Florida, USA, Remote
   - Updated: 2026-09-18
   - Source: greenhouse
   - Source type: Unknown source type
@@ -309,15 +309,21 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Partner Solutions Architect (EMEA)](https://careers.datadoghq.com/detail/8094179/?gh_jid=8094179)
-  - Location: Amsterdam, The Netherlands; Germany, Remote
-  - Updated: 2026-09-18
+- [Partner Solutions Architect (EMEA)](https://careers.datadoghq.com/detail/7683726/?gh_jid=7683726)
+  - Location: France, Remote
+  - Updated: 2026-09-24
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Partner Solutions Architect (EMEA)](https://careers.datadoghq.com/detail/7683726/?gh_jid=7683726)
-  - Location: Italy, Remote; Paris, France; Portugal, Remote; Spain, Remote
-  - Updated: 2026-09-10
+- [Partner Solutions Architect (EMEA)](https://careers.datadoghq.com/detail/7722122/?gh_jid=7722122)
+  - Location: Portugal, Remote
+  - Updated: 2026-09-24
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Partner Solutions Architect (EMEA)](https://careers.datadoghq.com/detail/8094179/?gh_jid=8094179)
+  - Location: Germany, Remote; The Netherlands, Remote
+  - Updated: 2026-09-24
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -328,8 +334,14 @@ Jobs with remote or distributed work signals.
   - Source type: Unknown source type
 
 - [Partner Solutions Architect (Pan-EMEA GSI)](https://careers.datadoghq.com/detail/7997198/?gh_jid=7997198)
-  - Location: Amsterdam, The Netherlands; Germany, Remote; Italy, Remote; London, United Kingdom; Madrid, Spain; Stockholm, Sweden
-  - Updated: 2026-09-18
+  - Location: Germany, Remote; Italy, Remote; Spain, Remote; Sweden, Remote; The Netherlands, Remote; United Kingdom, Remote
+  - Updated: 2026-09-24
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Partner Solutions Architect (Pan-EMEA GSI)](https://careers.datadoghq.com/detail/8095963/?gh_jid=8095963)
+  - Location: Portugal, Remote
+  - Updated: 2026-09-24
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -465,6 +477,12 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [Senior Sales Engineer - New England](https://careers.datadoghq.com/detail/8230456/?gh_jid=8230456)
+  - Location: Massachusetts, USA, Remote
+  - Updated: 2026-09-24
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [Senior Sales Engineer - NorthCentral](https://careers.datadoghq.com/detail/8142217/?gh_jid=8142217)
   - Location: Illinois, USA, Remote; Minnesota, USA, Remote
   - Updated: 2026-09-18
@@ -483,14 +501,14 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Senior Security Sales Engineer](https://careers.datadoghq.com/detail/8141240/?gh_jid=8141240)
-  - Location: Florida, USA, Remote; Georgia, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote
+- [Senior Security Sales Engineer](https://careers.datadoghq.com/detail/8141243/?gh_jid=8141243)
+  - Location: California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote
   - Updated: 2026-09-18
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Senior Security Sales Engineer](https://careers.datadoghq.com/detail/8141243/?gh_jid=8141243)
-  - Location: California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote
+- [Senior Security Sales Engineer](https://careers.datadoghq.com/detail/8141240/?gh_jid=8141240)
+  - Location: Florida, USA, Remote; Georgia, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote
   - Updated: 2026-09-18
   - Source: greenhouse
   - Source type: Unknown source type
@@ -549,20 +567,14 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/6522720/?gh_jid=6522720)
-  - Location: Georgia, USA, Remote; Tennessee, USA, Remote
-  - Updated: 2026-09-18
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/7131363/?gh_jid=7131363)
-  - Location: North Carolina, USA, Remote; South Carolina, USA, Remote
-  - Updated: 2026-09-18
-  - Source: greenhouse
-  - Source type: Unknown source type
-
 - [Strategic Account Executive](https://careers.datadoghq.com/detail/8157360/?gh_jid=8157360)
   - Location: Florida, USA, Remote
+  - Updated: 2026-09-18
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/7134079/?gh_jid=7134079)
+  - Location: Texas, USA, Remote
   - Updated: 2026-09-18
   - Source: greenhouse
   - Source type: Unknown source type
@@ -579,8 +591,8 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/7134079/?gh_jid=7134079)
-  - Location: Texas, USA, Remote
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/6522720/?gh_jid=6522720)
+  - Location: Georgia, USA, Remote; Tennessee, USA, Remote
   - Updated: 2026-09-18
   - Source: greenhouse
   - Source type: Unknown source type
@@ -593,6 +605,12 @@ Jobs with remote or distributed work signals.
 
 - [Strategic Account Executive](https://careers.datadoghq.com/detail/7131404/?gh_jid=7131404)
   - Location: Chile, Remote
+  - Updated: 2026-09-18
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/7131363/?gh_jid=7131363)
+  - Location: North Carolina, USA, Remote; South Carolina, USA, Remote
   - Updated: 2026-09-18
   - Source: greenhouse
   - Source type: Unknown source type
@@ -646,12 +664,6 @@ Jobs with remote or distributed work signals.
   - Source type: Unknown source type
 
 ### Stripe
-
-- [(TEMPLATE) Integration Engineer (Metronome) ](https://stripe.com/jobs/search?gh_jid=8175647)
-  - Location: Remote
-  - Updated: 2026-09-22
-  - Source: greenhouse
-  - Source type: Unknown source type
 
 - [Account Executive Product - Fraud & Risk ](https://stripe.com/jobs/search?gh_jid=8181024)
   - Location: Chicago, Seattle, NYC, San Francisco, Remote 
@@ -847,7 +859,7 @@ Jobs with remote or distributed work signals.
 
 - [Designer, Web Presence & Platform](https://stripe.com/jobs/search?gh_jid=8130913)
   - Location: US-Remote
-  - Updated: 2026-09-15
+  - Updated: 2026-09-24
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -983,9 +995,21 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [GTM Recruiter (Fixed Term)](https://stripe.com/jobs/search?gh_jid=8016504)
+  - Location: Chicago, Atlanta, US-Remote, Toro
+  - Updated: 2026-09-24
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [GTM Recruiter, AMER (Fixed Term)](https://stripe.com/jobs/search?gh_jid=7942216)
   - Location: Chicago, US-Remote
   - Updated: 2026-09-23
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [GTM Sourcer (Fixed Term Contract)](https://stripe.com/jobs/search?gh_jid=8230564)
+  - Location: Chicago, Atlanta, US-Remote, Toronto
+  - Updated: 2026-09-24
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -1026,8 +1050,14 @@ Jobs with remote or distributed work signals.
   - Source type: Unknown source type
 
 - [Integrated Marketing Lead, Cross Product](https://stripe.com/jobs/search?gh_jid=8187572)
-  - Location: South San Francisco HQ, New York City, Remote US
-  - Updated: 2026-09-21
+  - Location: Remote US
+  - Updated: 2026-09-24
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Integration Engineer (Metronome) ](https://stripe.com/jobs/search?gh_jid=8175647)
+  - Location: Remote
+  - Updated: 2026-09-24
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -1193,21 +1223,27 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Partner Development Manager, Strategic Partnerships](https://stripe.com/jobs/search?gh_jid=7973002)
-  - Location: US-San Francisco; US-New York City; US-Seattle; US-Remote; US-Chicago; CA-Toronto; CA-Remote
-  - Updated: 2026-09-10
-  - Source: greenhouse
-  - Source type: Unknown source type
-
 - [Partner Development Manager, Strategic Partnerships](https://stripe.com/jobs/search?gh_jid=8094869)
   - Location: US-NYC; US-San Francisco; US-Seattle; US-Remote; US- Chicago; US-Atlanta; Canada-Toronto; Canada-Remote
   - Updated: 2026-09-22
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [Partner Development Manager, Strategic Partnerships](https://stripe.com/jobs/search?gh_jid=7973002)
+  - Location: US-San Francisco; US-New York City; US-Seattle; US-Remote; US-Chicago; CA-Toronto; CA-Remote
+  - Updated: 2026-09-10
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [Partner Development Manager, Strategic Payment Partnerships](https://stripe.com/jobs/search?gh_jid=8155164)
   - Location: US-San Francisco; US-New York City; US-Seattle; US-Remote; US-Chicago; CA-Toronto; CA-Remote
   - Updated: 2026-09-10
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Partner Marketing Manager, Online & Regional Events](https://stripe.com/jobs/search?gh_jid=8175661)
+  - Location: Seattle or San Francisco or Chicago or New York City or US-Remote
+  - Updated: 2026-09-24
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -1370,6 +1406,12 @@ Jobs with remote or distributed work signals.
 - [Product Marketing Manager, Startup Segment](https://stripe.com/jobs/search?gh_jid=8097731)
   - Location: San Francisco, Seattle, NYC, Chicago, Remote in the US, Toronto
   - Updated: 2026-09-10
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Product Recruiter](https://stripe.com/jobs/search?gh_jid=8163193)
+  - Location: Remote
+  - Updated: 2026-09-24
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -1549,7 +1591,7 @@ Jobs with remote or distributed work signals.
 
 - [Security Engineer ](https://stripe.com/jobs/search?gh_jid=8174965)
   - Location: US Remote 
-  - Updated: 2026-09-10
+  - Updated: 2026-09-24
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -1585,7 +1627,7 @@ Jobs with remote or distributed work signals.
 
 - [Software Engineer, Billing Platform](https://stripe.com/jobs/search?gh_jid=8127182)
   - Location: San Francisco, New York City, Seattle, Chicago, US-Remote
-  - Updated: 2026-09-18
+  - Updated: 2026-09-24
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -1625,12 +1667,6 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Sourcer, GTM ](https://stripe.com/jobs/search?gh_jid=8016504)
-  - Location: Chicago, Atlanta, US-Remote
-  - Updated: 2026-09-23
-  - Source: greenhouse
-  - Source type: Unknown source type
-
 - [Specialist Solutions Architect, Data](https://stripe.com/jobs/search?gh_jid=8144262)
   - Location: SF, NY, Remote
   - Updated: 2026-09-10
@@ -1651,7 +1687,7 @@ Jobs with remote or distributed work signals.
 
 - [Staff Product Manager, Dashboard](https://stripe.com/jobs/search?gh_jid=7913702)
   - Location: San Francisco, Seattle, NYC, Chicago, Atlanta, US Remote
-  - Updated: 2026-09-10
+  - Updated: 2026-09-24
   - Source: greenhouse
   - Source type: Unknown source type
 

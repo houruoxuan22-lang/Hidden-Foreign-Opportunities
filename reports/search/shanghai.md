@@ -1,4 +1,4 @@
-# Shanghai Jobs - 2026-09-24
+# Shanghai Jobs - 2026-09-25
 
 ## Summary
 
@@ -145,30 +145,30 @@ Jobs with Shanghai-related location signals.
 
 - [(Assistant) Manager – Account Management](https://swisscham.com.cn/jobs/assistant-manager-account-management)
   - Location: Shanghai, China
-  - Updated: 2026-09-24
+  - Updated: 2026-09-25
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [(Senior) Associate – Account Management](https://swisscham.com.cn/jobs/senior-associate-account-management)
   - Location: Shanghai, China
-  - Updated: 2026-09-24
+  - Updated: 2026-09-25
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Business Development Executive/Manager 业务拓展主任/经理](https://swisscham.com.cn/jobs/business-development-executivemanager-yewutazhanzhurenjingli)
   - Location: Shanghai, China
-  - Updated: 2026-09-24
+  - Updated: 2026-09-25
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Marketing & Communications Specialist](https://swisscham.com.cn/jobs/marketing-communications-specialist-0)
   - Location: Shanghai, China
-  - Updated: 2026-09-24
+  - Updated: 2026-09-25
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-09-24
+  - Updated: 2026-09-25
   - Source: swisscham_china
   - Source type: china_local_static

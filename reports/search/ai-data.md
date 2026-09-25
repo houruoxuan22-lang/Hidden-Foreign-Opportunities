@@ -1,8 +1,8 @@
-# AI and Data Jobs - 2026-09-24
+# AI and Data Jobs - 2026-09-25
 
 ## Summary
 
-- Total matching jobs: 31
+- Total matching jobs: 32
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -124,6 +124,12 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 - [Engineering Manager, Data Transformation](https://stripe.com/jobs/search?gh_jid=7688358)
   - Location: US-SEA, US-SF, US-NYC, US-Remote
   - Updated: 2026-09-10
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Financial Data Analyst Intern, Technical Operations](https://stripe.com/jobs/search?gh_jid=8186442)
+  - Location: Singapore
+  - Updated: 2026-09-24
   - Source: greenhouse
   - Source type: Unknown source type
 
