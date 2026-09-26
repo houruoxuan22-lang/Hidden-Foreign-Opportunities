@@ -1,4 +1,4 @@
-# Beijing Jobs - 2026-09-25
+# Beijing Jobs - 2026-09-26
 
 ## Summary
 
@@ -61,6 +61,6 @@ Jobs with Beijing-related location signals.
 
 - [Internal Medicine Physician](https://swisscham.com.cn/jobs/internal-medicine-physician)
   - Location: Beijing, China
-  - Updated: 2026-09-25
+  - Updated: 2026-09-26
   - Source: swisscham_china
   - Source type: china_local_static

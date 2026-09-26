@@ -1,4 +1,4 @@
-# Internships and Early-career Jobs - 2026-09-25
+# Internships and Early-career Jobs - 2026-09-26
 
 ## Summary
 
@@ -323,49 +323,49 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 
 - [Backend Engineer, Payments](https://stripe.com/jobs/search?gh_jid=6692166)
   - Location: Toronto, Canada Remote
-  - Updated: 2026-09-15
+  - Updated: 2026-09-25
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Financial Data Analyst Intern, Technical Operations](https://stripe.com/jobs/search?gh_jid=8186442)
   - Location: Singapore
-  - Updated: 2026-09-24
+  - Updated: 2026-09-25
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Integration Reliability Engineer Intern, Technical Operations](https://stripe.com/jobs/search?gh_jid=8186367)
   - Location: Singapore
-  - Updated: 2026-09-24
+  - Updated: 2026-09-25
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Manager, Competitive Programs](https://stripe.com/jobs/search?gh_jid=8175671)
   - Location: NYC, Seattle, SF, Remote
-  - Updated: 2026-09-10
+  - Updated: 2026-09-25
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Offensive Security Engineer](https://stripe.com/jobs/search?gh_jid=8172503)
-  - Location: Remote from the US
-  - Updated: 2026-09-23
+- [Offensive Security Engineer](https://stripe.com/jobs/search?gh_jid=8233889)
+  - Location: US - Remote
+  - Updated: 2026-09-25
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Operations Associate, Apprenticeship](https://stripe.com/jobs/search?gh_jid=8131339)
   - Location: Bengaluru
-  - Updated: 2026-09-10
+  - Updated: 2026-09-25
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547)
   - Location: Mexico City, Mexico
-  - Updated: 2026-09-10
+  - Updated: 2026-09-25
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Program Manager, Competitive Programs](https://stripe.com/jobs/search?gh_jid=8175673)
   - Location: SF, NYC, Seattle, Remote
-  - Updated: 2026-09-10
+  - Updated: 2026-09-25
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -375,45 +375,45 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130867)
+  - Location: London
+  - Updated: 2026-09-25
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130883)
   - Location: Singapore
-  - Updated: 2026-09-22
+  - Updated: 2026-09-25
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8031833)
   - Location: Bengaluru
-  - Updated: 2026-09-10
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130867)
-  - Location: London
-  - Updated: 2026-09-10
+  - Updated: 2026-09-25
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Software Engineer, Intern ](https://stripe.com/jobs/search?gh_jid=8130807)
   - Location: Bucharest
-  - Updated: 2026-09-10
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8097801)
-  - Location: Dublin
-  - Updated: 2026-09-10
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8128745)
-  - Location: San Francisco, Seattle, New York City
-  - Updated: 2026-09-10
+  - Updated: 2026-09-25
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8130805)
   - Location: Toronto
-  - Updated: 2026-09-10
+  - Updated: 2026-09-25
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8097801)
+  - Location: Dublin
+  - Updated: 2026-09-25
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8128745)
+  - Location: San Francisco, Seattle, New York City
+  - Updated: 2026-09-25
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -425,13 +425,13 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 
 - [Tech Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7718947)
   - Location: Mexico City, Mexico
-  - Updated: 2026-09-10
+  - Updated: 2026-09-25
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [University Recruiter](https://stripe.com/jobs/search?gh_jid=8226211)
   - Location: San Francisco, New York, Seattle, US-Remote
-  - Updated: 2026-09-23
+  - Updated: 2026-09-25
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -439,6 +439,6 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-09-25
+  - Updated: 2026-09-26
   - Source: swisscham_china
   - Source type: china_local_static

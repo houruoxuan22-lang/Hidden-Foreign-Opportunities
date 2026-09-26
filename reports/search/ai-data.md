@@ -1,4 +1,4 @@
-# AI and Data Jobs - 2026-09-25
+# AI and Data Jobs - 2026-09-26
 
 ## Summary
 
@@ -87,7 +87,7 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [Business Partner Analyst](https://stripe.com/jobs/search?gh_jid=8079783)
   - Location: US-SF, US-Seattle, US-NYC, US-Chicago, US-Georgia or US-Remote
-  - Updated: 2026-09-15
+  - Updated: 2026-09-25
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -99,61 +99,61 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [Credit Risk Analyst Commercial Underwriter, West Coast](https://stripe.com/jobs/search?gh_jid=7540441)
   - Location: Chicago, US-Remote, Canada-Remote
-  - Updated: 2026-09-10
+  - Updated: 2026-09-25
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Credit Risk Analyst, North American Underwriter](https://stripe.com/jobs/search?gh_jid=7612192)
   - Location: Toronto, Remote-Canada 
-  - Updated: 2026-09-10
+  - Updated: 2026-09-25
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Data Excellence Manager ](https://stripe.com/jobs/search?gh_jid=8106026)
   - Location: US Remote, Chicago, SF, Seattle, NYC
-  - Updated: 2026-09-10
+  - Updated: 2026-09-25
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Data Science Manager, Finance and Strategy](https://stripe.com/jobs/search?gh_jid=7440963)
   - Location: Seattle, WA OR New York, NY OR Remote North America
-  - Updated: 2026-09-10
+  - Updated: 2026-09-25
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Engineering Manager, Data Transformation](https://stripe.com/jobs/search?gh_jid=7688358)
   - Location: US-SEA, US-SF, US-NYC, US-Remote
-  - Updated: 2026-09-10
+  - Updated: 2026-09-25
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Financial Data Analyst Intern, Technical Operations](https://stripe.com/jobs/search?gh_jid=8186442)
   - Location: Singapore
-  - Updated: 2026-09-24
+  - Updated: 2026-09-25
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Forward Deployed AI Accelerator, Marketing](https://stripe.com/jobs/search?gh_jid=8055930)
   - Location: Remote in the US, Remote in Canada
-  - Updated: 2026-09-10
+  - Updated: 2026-09-25
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Fraud Patterns Analyst](https://stripe.com/jobs/search?gh_jid=7913410)
   - Location: US-Remote
-  - Updated: 2026-09-10
+  - Updated: 2026-09-25
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Internal Audit Data Analytics Lead](https://stripe.com/jobs/search?gh_jid=8026689)
   - Location: Toronto, New York, San Francisco
-  - Updated: 2026-09-10
+  - Updated: 2026-09-25
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Internal Product Engineer, Developer Productivity AI ](https://stripe.com/jobs/search?gh_jid=7896151)
   - Location: Toronto, Canada 
-  - Updated: 2026-09-10
+  - Updated: 2026-09-25
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -165,7 +165,7 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [Product Counsel, Data Products](https://stripe.com/jobs/search?gh_jid=7930151)
   - Location: US remote
-  - Updated: 2026-09-10
+  - Updated: 2026-09-25
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -177,13 +177,13 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921)
   - Location: Remote
-  - Updated: 2026-09-17
+  - Updated: 2026-09-25
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Risk Operations Analyst - SSO ](https://stripe.com/jobs/search?gh_jid=8175824)
   - Location: Remote 
-  - Updated: 2026-09-22
+  - Updated: 2026-09-25
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -207,6 +207,6 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [Specialist Solutions Architect, Data](https://stripe.com/jobs/search?gh_jid=8144262)
   - Location: SF, NY, Remote
-  - Updated: 2026-09-10
+  - Updated: 2026-09-25
   - Source: greenhouse
   - Source type: Unknown source type
