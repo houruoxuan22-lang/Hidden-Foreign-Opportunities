@@ -1,4 +1,4 @@
-# AI and Data Jobs - 2026-09-26
+# AI and Data Jobs - 2026-09-27
 
 ## Summary
 
