@@ -1,4 +1,4 @@
-# Marketing and Communications Jobs - 2026-09-27
+# Marketing and Communications Jobs - 2026-09-28
 
 ## Summary
 
@@ -241,12 +241,12 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Marketing & Communications Specialist](https://swisscham.com.cn/jobs/marketing-communications-specialist-0)
   - Location: Shanghai, China
-  - Updated: 2026-09-27
+  - Updated: 2026-09-28
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-09-27
+  - Updated: 2026-09-28
   - Source: swisscham_china
   - Source type: china_local_static

@@ -1,8 +1,8 @@
-# Internships and Early-career Jobs - 2026-09-27
+# Internships and Early-career Jobs - 2026-09-28
 
 ## Summary
 
-- Total matching jobs: 70
+- Total matching jobs: 71
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -186,6 +186,12 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source type: china_local_static
 
 ### SAP China
+
+- [Diploma Student / Intern](https://jobs.sap.com/en/jobs/744000152063249/diploma-student-intern/)
+  - Location: China
+  - Updated: 2026-09-28
+  - Source: sap_careers
+  - Source type: china_company_career
 
 - [iXP - SAP China AI Marketing Intern](https://jobs.sap.com/job/Beijing-iXP-SAP-China-AI-Marketing-Intern-100016/1426364433/)
   - Location: Beijing, China
@@ -375,8 +381,8 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130867)
-  - Location: London
+- [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130883)
+  - Location: Singapore
   - Updated: 2026-09-25
   - Source: greenhouse
   - Source type: Unknown source type
@@ -387,14 +393,20 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130883)
-  - Location: Singapore
+- [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130867)
+  - Location: London
   - Updated: 2026-09-25
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Software Engineer, Intern ](https://stripe.com/jobs/search?gh_jid=8130807)
   - Location: Bucharest
+  - Updated: 2026-09-25
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8130805)
+  - Location: Toronto
   - Updated: 2026-09-25
   - Source: greenhouse
   - Source type: Unknown source type
@@ -407,12 +419,6 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 
 - [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8128745)
   - Location: San Francisco, Seattle, New York City
-  - Updated: 2026-09-25
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8130805)
-  - Location: Toronto
   - Updated: 2026-09-25
   - Source: greenhouse
   - Source type: Unknown source type
@@ -439,6 +445,6 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-09-27
+  - Updated: 2026-09-28
   - Source: swisscham_china
   - Source type: china_local_static
