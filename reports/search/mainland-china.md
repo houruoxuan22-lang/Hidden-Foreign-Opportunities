@@ -1,8 +1,8 @@
-# Mainland China Foreign Employer Jobs - 2026-09-28
+# Mainland China Foreign Employer Jobs - 2026-09-29
 
 ## Summary
 
-- Total matching jobs: 59
+- Total matching jobs: 62
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -81,6 +81,18 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
 
 ### SAP China
 
+- [Business Process Consultant - SF](https://jobs.sap.com/en/jobs/744000152133269/business-process-consultant-sf/)
+  - Location: Taiwan
+  - Updated: 2026-09-29
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Business Processes Consultant - Supply Planning / Integrated Business Planning H/F](https://jobs.sap.com/en/jobs/744000152286344/business-processes-consultant-supply-planning-integrated-business-planning-hf/)
+  - Location: China
+  - Updated: 2026-09-29
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [Customer Success Manager (CSM) - SAP Academy for Customer Success - Shanghai](https://jobs.sap.com/job/Shanghai-Customer-Success-Manager-%28CSM%29-SAP-Academy-for-Customer-Success-Shanghai-200040/1425117933/)
   - Location: Shanghai, China
   - Updated: 2026-09-23
@@ -119,7 +131,7 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
 
 - [LAC Head of Global Cloud Operations Technical Project Leads](https://jobs.sap.com/en/jobs/744000151905299/lac-head-of-global-cloud-operations-technical-project-leads/)
   - Location: China
-  - Updated: 2026-09-28
+  - Updated: 2026-09-29
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -291,6 +303,12 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
   - Source: sap_careers
   - Source type: china_company_career
 
+- [Services Account Executive (Oil & Gas)](https://jobs.sap.com/en/jobs/744000152319739/services-account-executive-oil-gas/)
+  - Location: China
+  - Updated: 2026-09-29
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [Solution Sales Expert - F&S](https://jobs.sap.com/job/Beijing-Solution-Sales-Expert-F&S-100016/1287050901/)
   - Location: Beijing, China
   - Updated: 2026-09-23
@@ -313,43 +331,43 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
 
 - [(Assistant) Manager – Account Management](https://swisscham.com.cn/jobs/assistant-manager-account-management)
   - Location: Shanghai, China
-  - Updated: 2026-09-28
+  - Updated: 2026-09-29
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [(Senior) Associate – Account Management](https://swisscham.com.cn/jobs/senior-associate-account-management)
   - Location: Shanghai, China
-  - Updated: 2026-09-28
+  - Updated: 2026-09-29
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Business Development Executive/Manager 业务拓展主任/经理](https://swisscham.com.cn/jobs/business-development-executivemanager-yewutazhanzhurenjingli)
   - Location: Shanghai, China
-  - Updated: 2026-09-28
+  - Updated: 2026-09-29
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Business Development Manager](https://swisscham.com.cn/jobs/business-development-manager-0)
   - Location: China
-  - Updated: 2026-09-28
+  - Updated: 2026-09-29
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Internal Medicine Physician](https://swisscham.com.cn/jobs/internal-medicine-physician)
   - Location: Beijing, China
-  - Updated: 2026-09-28
+  - Updated: 2026-09-29
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Marketing & Communications Specialist](https://swisscham.com.cn/jobs/marketing-communications-specialist-0)
   - Location: Shanghai, China
-  - Updated: 2026-09-28
+  - Updated: 2026-09-29
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-09-28
+  - Updated: 2026-09-29
   - Source: swisscham_china
   - Source type: china_local_static
 
@@ -361,12 +379,12 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
 
 - [Sea Freight Product Manager](https://swisscham.com.cn/jobs/sea-freight-product-manager)
   - Location: China
-  - Updated: 2026-09-28
+  - Updated: 2026-09-29
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Shaohe Law Firm – Recruitment / 劭合律师事务所招聘启事](https://swisscham.com.cn/jobs/shaohe-law-firm-recruitment-shaohelushishiwusuozhaopinqishi)
   - Location: China
-  - Updated: 2026-09-28
+  - Updated: 2026-09-29
   - Source: swisscham_china
   - Source type: china_local_static

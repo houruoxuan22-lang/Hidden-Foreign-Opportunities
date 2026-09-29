@@ -1,4 +1,4 @@
-# AI and Data Jobs - 2026-09-28
+# AI and Data Jobs - 2026-09-29
 
 ## Summary
 
@@ -146,8 +146,8 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source type: Unknown source type
 
 - [Internal Audit Data Analytics Lead](https://stripe.com/jobs/search?gh_jid=8026689)
-  - Location: Toronto, New York, San Francisco
-  - Updated: 2026-09-25
+  - Location: Toronto, New York, San Francisco, Atlanta, Seattle 
+  - Updated: 2026-09-28
   - Source: greenhouse
   - Source type: Unknown source type
 
