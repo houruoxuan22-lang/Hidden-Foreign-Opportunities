@@ -1,8 +1,8 @@
-# Chicago Jobs - 2026-09-29
+# Chicago Jobs - 2026-09-30
 
 ## Summary
 
-- Total matching jobs: 66
+- Total matching jobs: 69
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -10,6 +10,14 @@
 Jobs with Chicago-related location signals.
 
 ## Jobs
+
+### Datadog
+
+- [Regional Vice President, Enterprise Sales, Public Sector - US State and Local](https://careers.datadoghq.com/detail/8212513/?gh_jid=8212513)
+  - Location: Boston, Massachusetts, USA; Chicago, Illinois, USA; New York, New York, USA; North Carolina, USA, Remote; San Francisco, California, USA
+  - Updated: 2026-09-29
+  - Source: greenhouse
+  - Source type: Unknown source type
 
 ### Stripe
 
@@ -75,7 +83,7 @@ Jobs with Chicago-related location signals.
 
 - [Engineering Manager, Billing Products](https://stripe.com/jobs/search?gh_jid=8180536)
   - Location: US-Remote, Chicago
-  - Updated: 2026-09-25
+  - Updated: 2026-09-29
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -148,6 +156,12 @@ Jobs with Chicago-related location signals.
 - [Partner Development Manager, Financial Connections](https://stripe.com/jobs/search?gh_jid=8027573)
   - Location: New York, San Francisco, Seattle, Chicago, US-Remote 
   - Updated: 2026-08-20
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Partner Development Manager, Financial Partnership Capabilities](https://stripe.com/jobs/search?gh_jid=8238747)
+  - Location: US-Remote; US- Chicago; US-Atlanta; Canada-Toronto; Canada-Remote
+  - Updated: 2026-09-29
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -268,6 +282,12 @@ Jobs with Chicago-related location signals.
 - [Product Marketing Manager, Startup Segment](https://stripe.com/jobs/search?gh_jid=8097731)
   - Location: San Francisco, Seattle, NYC, Chicago, Remote in the US, Toronto
   - Updated: 2026-09-25
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Program Manager, Deal Operations](https://stripe.com/jobs/search?gh_jid=8209633)
+  - Location: San Francisco, CA / Chicago, IL / Seattle, WA / NYC / Remote
+  - Updated: 2026-09-29
   - Source: greenhouse
   - Source type: Unknown source type
 

@@ -1,8 +1,8 @@
-# Internships and Early-career Jobs - 2026-09-29
+# Internships and Early-career Jobs - 2026-09-30
 
 ## Summary
 
-- Total matching jobs: 72
+- Total matching jobs: 76
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -99,7 +99,7 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 
 - [Software Engineer Intern (2027) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958)
   - Location: In-Office
-  - Updated: 2026-09-28
+  - Updated: 2026-09-29
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -131,49 +131,49 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 
 - [Applied Science Intern](https://careers.datadoghq.com/detail/8181440/?gh_jid=8181440)
   - Location: Paris, France
-  - Updated: 2026-09-18
+  - Updated: 2026-09-29
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [IT Support Technician Intern](https://careers.datadoghq.com/detail/8129799/?gh_jid=8129799)
   - Location: Paris, France
-  - Updated: 2026-09-18
+  - Updated: 2026-09-29
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Product Management Intern](https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241)
   - Location: New York, New York, USA
-  - Updated: 2026-09-18
+  - Updated: 2026-09-29
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Product Management Intern](https://careers.datadoghq.com/detail/8143729/?gh_jid=8143729)
   - Location: Paris, France
-  - Updated: 2026-09-18
+  - Updated: 2026-09-29
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Research Science Intern (PhD)](https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657)
   - Location: New York, New York, USA; Pittsburgh, Pennsylvania, USA
-  - Updated: 2026-09-23
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Software Engineering Intern](https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161)
-  - Location: Madrid, Spain
-  - Updated: 2026-09-18
+  - Updated: 2026-09-29
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Software Engineering Intern](https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186)
   - Location: Paris, France
-  - Updated: 2026-09-18
+  - Updated: 2026-09-29
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Software Engineering Intern](https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161)
+  - Location: Madrid, Spain
+  - Updated: 2026-09-29
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Software Engineering Intern (Summer)](https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118)
   - Location: Boston, Massachusetts, USA; New York, New York, USA
-  - Updated: 2026-09-23
+  - Updated: 2026-09-29
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -193,9 +193,21 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 
 ### SAP China
 
+- [Diploma Student / Intern](https://jobs.sap.com/en/jobs/744000152518609/diploma-student-intern/)
+  - Location: China
+  - Updated: 2026-09-30
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [Diploma Student / Intern](https://jobs.sap.com/en/jobs/744000152063249/diploma-student-intern/)
   - Location: China
   - Updated: 2026-09-28
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Go-to-Market student internship - Jeddah F/M](https://jobs.sap.com/en/jobs/744000152518260/go-to-market-student-internship-jeddah-fm/)
+  - Location: China
+  - Updated: 2026-09-30
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -319,6 +331,18 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: sap_careers
   - Source type: china_company_career
 
+- [SAP Customer Success iXp Intern – SAP Experience Center Showcase Support](https://jobs.sap.com/en/jobs/744000152453800/sap-customer-success-ixp-intern-sap-experience-center-showcase-support/)
+  - Location: China
+  - Updated: 2026-09-30
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [SAP iXp intern - GPO Admin](https://jobs.sap.com/en/jobs/744000152500973/sap-ixp-intern-gpo-admin/)
+  - Location: China
+  - Updated: 2026-09-30
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [SAP Student Training & Rotation Program(VT/STAR) Intern (Application Engineer) - 2028 Graduates](https://jobs.sap.com/job/Shanghai-SAP-Student-Training-&-Rotation-Program%28VTSTAR%29-Intern-%28Application-Engineer%29-2028-Graduates-201203/1437529633/)
   - Location: Shanghai, China
   - Updated: 2026-09-23
@@ -417,14 +441,14 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8128745)
-  - Location: San Francisco, Seattle, New York City
+- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8130805)
+  - Location: Toronto
   - Updated: 2026-09-25
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8130805)
-  - Location: Toronto
+- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8128745)
+  - Location: San Francisco, Seattle, New York City
   - Updated: 2026-09-25
   - Source: greenhouse
   - Source type: Unknown source type
@@ -441,9 +465,9 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [University Recruiter](https://stripe.com/jobs/search?gh_jid=8226211)
+- [University Recruiter (Fixed Term)](https://stripe.com/jobs/search?gh_jid=8226211)
   - Location: San Francisco, New York, Seattle, US-Remote
-  - Updated: 2026-09-25
+  - Updated: 2026-09-29
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -451,6 +475,6 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-09-29
+  - Updated: 2026-09-30
   - Source: swisscham_china
   - Source type: china_local_static

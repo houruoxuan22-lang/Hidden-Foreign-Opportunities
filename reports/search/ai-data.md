@@ -1,4 +1,4 @@
-# AI and Data Jobs - 2026-09-29
+# AI and Data Jobs - 2026-09-30
 
 ## Summary
 
@@ -23,7 +23,7 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [Manager, Internal Product Analytics](https://careers.datadoghq.com/detail/8128810/?gh_jid=8128810)
   - Location: New York, New York, USA
-  - Updated: 2026-09-18
+  - Updated: 2026-09-29
   - Source: greenhouse
   - Source type: Unknown source type
 
