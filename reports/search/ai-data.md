@@ -1,8 +1,8 @@
-# AI and Data Jobs - 2026-09-30
+# AI and Data Jobs - 2026-10-01
 
 ## Summary
 
-- Total matching jobs: 32
+- Total matching jobs: 33
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -71,6 +71,12 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: sap_careers
   - Source type: china_company_career
 
+- [Principal Machine Learning Engineer](https://jobs.sap.com/en/jobs/744000152767933/principal-machine-learning-engineer/)
+  - Location: China
+  - Updated: 2026-10-01
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [SAP China iXp Intern - Data Management Intern for GTLC Team - Shanghai](https://jobs.sap.com/job/Shanghai-SAP-China-iXp-Intern-Data-Management-Intern-for-GTLC-Team-Shanghai-201203/1409649533/)
   - Location: Shanghai, China
   - Updated: 2026-09-14
@@ -123,7 +129,7 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [Engineering Manager, Data Transformation](https://stripe.com/jobs/search?gh_jid=7688358)
   - Location: US-SEA, US-SF, US-NYC, US-Remote
-  - Updated: 2026-09-25
+  - Updated: 2026-09-30
   - Source: greenhouse
   - Source type: Unknown source type
 
