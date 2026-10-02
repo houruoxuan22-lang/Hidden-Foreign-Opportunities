@@ -1,8 +1,8 @@
-# AI and Data Jobs - 2026-10-01
+# AI and Data Jobs - 2026-10-02
 
 ## Summary
 
-- Total matching jobs: 33
+- Total matching jobs: 38
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -89,6 +89,12 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: sap_careers
   - Source type: china_company_career
 
+- [SAP Labs iXp Intern - Associate Data Scientist](https://jobs.sap.com/en/jobs/744000152989720/sap-labs-ixp-intern-associate-data-scientist/)
+  - Location: China
+  - Updated: 2026-10-02
+  - Source: sap_careers
+  - Source type: china_company_career
+
 ### Stripe
 
 - [Business Partner Analyst](https://stripe.com/jobs/search?gh_jid=8079783)
@@ -112,6 +118,18 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 - [Credit Risk Analyst, North American Underwriter](https://stripe.com/jobs/search?gh_jid=7612192)
   - Location: Toronto, Remote-Canada 
   - Updated: 2026-09-25
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291)
+  - Location: New York, Seattle, South San Francisco HQ
+  - Updated: 2026-10-01
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287)
+  - Location: Toronto
+  - Updated: 2026-10-01
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -169,6 +187,18 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285)
+  - Location: Toronto
+  - Updated: 2026-10-01
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283)
+  - Location: New York, Seattle, South San Francisco HQ
+  - Updated: 2026-10-01
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [Product Counsel, Data Products](https://stripe.com/jobs/search?gh_jid=7930151)
   - Location: US remote
   - Updated: 2026-09-25
@@ -183,7 +213,7 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921)
   - Location: Remote
-  - Updated: 2026-09-25
+  - Updated: 2026-10-01
   - Source: greenhouse
   - Source type: Unknown source type
 
