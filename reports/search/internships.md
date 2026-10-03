@@ -1,8 +1,8 @@
-# Internships and Early-career Jobs - 2026-10-02
+# Internships and Early-career Jobs - 2026-10-03
 
 ## Summary
 
-- Total matching jobs: 90
+- Total matching jobs: 97
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -93,13 +93,13 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 
 - [Senior Customer Engineer, East China](https://boards.greenhouse.io/cloudflare/jobs/8147148?gh_jid=8147148)
   - Location: Distributed
-  - Updated: 2026-09-04
+  - Updated: 2026-10-02
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Software Engineer Intern (2027) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958)
   - Location: In-Office
-  - Updated: 2026-09-29
+  - Updated: 2026-10-02
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -147,14 +147,14 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Product Management Intern](https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241)
-  - Location: New York, New York, USA
+- [Product Management Intern](https://careers.datadoghq.com/detail/8143729/?gh_jid=8143729)
+  - Location: Paris, France
   - Updated: 2026-09-29
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Product Management Intern](https://careers.datadoghq.com/detail/8143729/?gh_jid=8143729)
-  - Location: Paris, France
+- [Product Management Intern](https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241)
+  - Location: New York, New York, USA
   - Updated: 2026-09-29
   - Source: greenhouse
   - Source type: Unknown source type
@@ -198,6 +198,12 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source type: china_local_static
 
 ### SAP China
+
+- [(Junior) Data Engineer - Integration & AI](https://jobs.sap.com/en/jobs/744000153237348/junior-data-engineer-integration-ai/)
+  - Location: China
+  - Updated: 2026-10-03
+  - Source: sap_careers
+  - Source type: china_company_career
 
 - [Diploma Student / Intern](https://jobs.sap.com/en/jobs/744000152518609/diploma-student-intern/)
   - Location: China
@@ -373,6 +379,12 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: sap_careers
   - Source type: china_company_career
 
+- [SAP iXp Intern - Digital Value Advisor](https://jobs.sap.com/en/jobs/744000153191259/sap-ixp-intern-digital-value-advisor/)
+  - Location: China
+  - Updated: 2026-10-03
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [SAP iXp intern - GPO Admin](https://jobs.sap.com/en/jobs/744000152737135/sap-ixp-intern-gpo-admin/)
   - Location: China
   - Updated: 2026-10-01
@@ -388,6 +400,36 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 - [SAP iXp Intern - IT End User Support Specialist, Deal Support CoE L2C EU/AS (1 year student position)](https://jobs.sap.com/en/jobs/744000152876399/sap-ixp-intern-it-end-user-support-specialist-deal-support-coe-l2c-euas-1-year-student-position/)
   - Location: China
   - Updated: 2026-10-02
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [SAP iXp Intern - Marketing and Communications Coordinator](https://jobs.sap.com/en/jobs/744000153269589/sap-ixp-intern-marketing-and-communications-coordinator/)
+  - Location: China
+  - Updated: 2026-10-03
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [SAP iXp Intern - Marketing and Communications Coordinator](https://jobs.sap.com/en/jobs/744000153268167/sap-ixp-intern-marketing-and-communications-coordinator/)
+  - Location: China
+  - Updated: 2026-10-03
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [SAP iXp Intern - Solution Adoption Campaign Coordinator](https://jobs.sap.com/en/jobs/744000153279309/sap-ixp-intern-solution-adoption-campaign-coordinator/)
+  - Location: China
+  - Updated: 2026-10-03
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [SAP iXp Intern - Solution Adoption Campaign Coordinator](https://jobs.sap.com/en/jobs/744000153279239/sap-ixp-intern-solution-adoption-campaign-coordinator/)
+  - Location: China
+  - Updated: 2026-10-03
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [SAP iXp Intern – Experience Center | SAP Labs Latin America](https://jobs.sap.com/en/jobs/744000153248139/sap-ixp-intern-experience-center-sap-labs-latin-america/)
+  - Location: China
+  - Updated: 2026-10-03
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -519,8 +561,8 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8128745)
-  - Location: San Francisco, Seattle, New York City
+- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8097801)
+  - Location: Dublin
   - Updated: 2026-09-25
   - Source: greenhouse
   - Source type: Unknown source type
@@ -531,8 +573,8 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8097801)
-  - Location: Dublin
+- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8128745)
+  - Location: San Francisco, Seattle, New York City
   - Updated: 2026-09-25
   - Source: greenhouse
   - Source type: Unknown source type
@@ -559,6 +601,6 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-10-02
+  - Updated: 2026-10-03
   - Source: swisscham_china
   - Source type: china_local_static

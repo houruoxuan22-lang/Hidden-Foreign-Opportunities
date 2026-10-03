@@ -1,8 +1,8 @@
-# Chicago Jobs - 2026-10-02
+# Chicago Jobs - 2026-10-03
 
 ## Summary
 
-- Total matching jobs: 69
+- Total matching jobs: 70
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -141,6 +141,12 @@ Jobs with Chicago-related location signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [Integration Engineer (Chicago) ](https://stripe.com/jobs/search?gh_jid=7819426)
+  - Location: Chicago, US-Remote
+  - Updated: 2026-10-02
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [Partner Development Manager, AMER Bank Partnerships](https://stripe.com/jobs/search?gh_jid=8187566)
   - Location: US-San Francisco; US-New York City; US-Seattle; US-Remote; US-Chicago
   - Updated: 2026-09-25
@@ -183,14 +189,14 @@ Jobs with Chicago-related location signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Partner Development Manager, Strategic Partnerships](https://stripe.com/jobs/search?gh_jid=8094869)
-  - Location: US-NYC; US-San Francisco; US-Seattle; US-Remote; US- Chicago; US-Atlanta; Canada-Toronto; Canada-Remote
+- [Partner Development Manager, Strategic Partnerships](https://stripe.com/jobs/search?gh_jid=7973002)
+  - Location: US-San Francisco; US-New York City; US-Seattle; US-Remote; US-Chicago; CA-Toronto; CA-Remote
   - Updated: 2026-09-25
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Partner Development Manager, Strategic Partnerships](https://stripe.com/jobs/search?gh_jid=7973002)
-  - Location: US-San Francisco; US-New York City; US-Seattle; US-Remote; US-Chicago; CA-Toronto; CA-Remote
+- [Partner Development Manager, Strategic Partnerships](https://stripe.com/jobs/search?gh_jid=8094869)
+  - Location: US-NYC; US-San Francisco; US-Seattle; US-Remote; US- Chicago; US-Atlanta; Canada-Toronto; Canada-Remote
   - Updated: 2026-09-25
   - Source: greenhouse
   - Source type: Unknown source type
@@ -251,12 +257,6 @@ Jobs with Chicago-related location signals.
 
 - [Product Manager, Identity & Access Management](https://stripe.com/jobs/search?gh_jid=8165137)
   - Location: US-Remote, US-Chicago
-  - Updated: 2026-09-25
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Product Manager, Mobile](https://stripe.com/jobs/search?gh_jid=8140438)
-  - Location: New York City, Toronto, Chicago, or Remote
   - Updated: 2026-09-25
   - Source: greenhouse
   - Source type: Unknown source type
@@ -375,9 +375,9 @@ Jobs with Chicago-related location signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer, Billing Platform](https://stripe.com/jobs/search?gh_jid=8127182)
+- [Software Engineer, Revenue and Financial Automation](https://stripe.com/jobs/search?gh_jid=8127182)
   - Location: San Francisco, New York City, Seattle, Chicago, US-Remote
-  - Updated: 2026-09-25
+  - Updated: 2026-10-02
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -396,6 +396,12 @@ Jobs with Chicago-related location signals.
 - [Staff Product Manager, Dashboard](https://stripe.com/jobs/search?gh_jid=7913702)
   - Location: San Francisco, Seattle, NYC, Chicago, Atlanta, US Remote
   - Updated: 2026-09-25
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Staff Product Manager, Mobile](https://stripe.com/jobs/search?gh_jid=8140438)
+  - Location: New York City, Toronto, Chicago, or Remote
+  - Updated: 2026-10-02
   - Source: greenhouse
   - Source type: Unknown source type
 

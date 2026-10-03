@@ -1,8 +1,8 @@
-# AI and Data Jobs - 2026-10-02
+# AI and Data Jobs - 2026-10-03
 
 ## Summary
 
-- Total matching jobs: 38
+- Total matching jobs: 39
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -15,7 +15,7 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [Engineering Manager, Agentic Internet & Data Insights](https://boards.greenhouse.io/cloudflare/jobs/8143649?gh_jid=8143649)
   - Location: Hybrid
-  - Updated: 2026-09-21
+  - Updated: 2026-10-02
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -46,6 +46,12 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source type: Unknown source type
 
 ### SAP China
+
+- [(Junior) Data Engineer - Integration & AI](https://jobs.sap.com/en/jobs/744000153237348/junior-data-engineer-integration-ai/)
+  - Location: China
+  - Updated: 2026-10-03
+  - Source: sap_careers
+  - Source type: china_company_career
 
 - [Data Engineer](https://jobs.sap.com/job/Shanghai-Data-Engineer-201203/1406689133/)
   - Location: Shanghai, China
