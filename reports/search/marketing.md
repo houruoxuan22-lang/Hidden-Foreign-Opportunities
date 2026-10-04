@@ -1,4 +1,4 @@
-# Marketing and Communications Jobs - 2026-10-03
+# Marketing and Communications Jobs - 2026-10-04
 
 ## Summary
 
@@ -87,13 +87,13 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [SAP iXp Intern - Marketing and Communications Coordinator](https://jobs.sap.com/en/jobs/744000153269589/sap-ixp-intern-marketing-and-communications-coordinator/)
   - Location: China
-  - Updated: 2026-10-03
+  - Updated: 2026-10-04
   - Source: sap_careers
   - Source type: china_company_career
 
 - [SAP iXp Intern - Marketing and Communications Coordinator](https://jobs.sap.com/en/jobs/744000153268167/sap-ixp-intern-marketing-and-communications-coordinator/)
   - Location: China
-  - Updated: 2026-10-03
+  - Updated: 2026-10-04
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -259,12 +259,12 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Marketing & Communications Specialist](https://swisscham.com.cn/jobs/marketing-communications-specialist-0)
   - Location: Shanghai, China
-  - Updated: 2026-10-03
+  - Updated: 2026-10-04
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-10-03
+  - Updated: 2026-10-04
   - Source: swisscham_china
   - Source type: china_local_static

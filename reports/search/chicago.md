@@ -1,4 +1,4 @@
-# Chicago Jobs - 2026-10-03
+# Chicago Jobs - 2026-10-04
 
 ## Summary
 
@@ -377,7 +377,7 @@ Jobs with Chicago-related location signals.
 
 - [Software Engineer, Revenue and Financial Automation](https://stripe.com/jobs/search?gh_jid=8127182)
   - Location: San Francisco, New York City, Seattle, Chicago, US-Remote
-  - Updated: 2026-10-02
+  - Updated: 2026-10-03
   - Source: greenhouse
   - Source type: Unknown source type
 

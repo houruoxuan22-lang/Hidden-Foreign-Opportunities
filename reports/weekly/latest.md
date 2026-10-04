@@ -1,10 +1,10 @@
-# Weekly Job Trend Report - 2026-10-03
+# Weekly Job Trend Report - 2026-10-04
 
 ## Summary
 
-- Snapshot window: 2026-09-27 to 2026-10-03
+- Snapshot window: 2026-09-28 to 2026-10-04
 - Snapshot days available: 7
-- Latest total relevant jobs: 538
+- Latest total relevant jobs: 539
 - Change vs first available snapshot: 70
 
 ## Skill Trend Signals
@@ -28,7 +28,7 @@
 ## Job Distribution by Section
 
 - Global Remote Jobs: 269
-- Mainland China Foreign Employer Jobs: 105
+- Mainland China Foreign Employer Jobs: 106
 - China / APAC Relevant Jobs: 69
 - Other International Jobs: 34
 - US / Canada Jobs: 33
@@ -38,7 +38,7 @@
 
 - Stripe: 267
 - Datadog: 120
-- SAP China: 84
+- SAP China: 85
 - Cloudflare: 46
 - European Chamber China: 11
 - SwissCham China: 10

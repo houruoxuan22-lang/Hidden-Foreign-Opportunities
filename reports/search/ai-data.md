@@ -1,4 +1,4 @@
-# AI and Data Jobs - 2026-10-03
+# AI and Data Jobs - 2026-10-04
 
 ## Summary
 
@@ -49,7 +49,7 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [(Junior) Data Engineer - Integration & AI](https://jobs.sap.com/en/jobs/744000153237348/junior-data-engineer-integration-ai/)
   - Location: China
-  - Updated: 2026-10-03
+  - Updated: 2026-10-04
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -193,14 +193,14 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285)
-  - Location: Toronto
+- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283)
+  - Location: New York, Seattle, South San Francisco HQ
   - Updated: 2026-10-01
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283)
-  - Location: New York, Seattle, South San Francisco HQ
+- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285)
+  - Location: Toronto
   - Updated: 2026-10-01
   - Source: greenhouse
   - Source type: Unknown source type
