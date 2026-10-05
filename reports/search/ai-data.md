@@ -1,8 +1,8 @@
-# AI and Data Jobs - 2026-10-04
+# AI and Data Jobs - 2026-10-05
 
 ## Summary
 
-- Total matching jobs: 39
+- Total matching jobs: 40
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -49,7 +49,7 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [(Junior) Data Engineer - Integration & AI](https://jobs.sap.com/en/jobs/744000153237348/junior-data-engineer-integration-ai/)
   - Location: China
-  - Updated: 2026-10-04
+  - Updated: 2026-10-05
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -101,6 +101,12 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: sap_careers
   - Source type: china_company_career
 
+- [SAP Next Gen – Commercial Sales Support for SAP Business AI Platform](https://jobs.sap.com/en/jobs/744000153368259/sap-next-gen-commercial-sales-support-for-sap-business-ai-platform/)
+  - Location: China
+  - Updated: 2026-10-05
+  - Source: sap_careers
+  - Source type: china_company_career
+
 ### Stripe
 
 - [Business Partner Analyst](https://stripe.com/jobs/search?gh_jid=8079783)
@@ -127,14 +133,14 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291)
-  - Location: New York, Seattle, South San Francisco HQ
+- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287)
+  - Location: Toronto
   - Updated: 2026-10-01
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287)
-  - Location: Toronto
+- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291)
+  - Location: New York, Seattle, South San Francisco HQ
   - Updated: 2026-10-01
   - Source: greenhouse
   - Source type: Unknown source type
