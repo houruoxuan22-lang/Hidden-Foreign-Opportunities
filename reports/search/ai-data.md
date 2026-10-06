@@ -1,8 +1,8 @@
-# AI and Data Jobs - 2026-10-05
+# AI and Data Jobs - 2026-10-06
 
 ## Summary
 
-- Total matching jobs: 40
+- Total matching jobs: 43
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -16,6 +16,12 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 - [Engineering Manager, Agentic Internet & Data Insights](https://boards.greenhouse.io/cloudflare/jobs/8143649?gh_jid=8143649)
   - Location: Hybrid
   - Updated: 2026-10-02
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [People Analytics Data Engineering Intern (Winter/Spring 2027)](https://boards.greenhouse.io/cloudflare/jobs/8241790?gh_jid=8241790)
+  - Location: Hybrid
+  - Updated: 2026-10-05
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -104,6 +110,12 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 - [SAP Next Gen – Commercial Sales Support for SAP Business AI Platform](https://jobs.sap.com/en/jobs/744000153368259/sap-next-gen-commercial-sales-support-for-sap-business-ai-platform/)
   - Location: China
   - Updated: 2026-10-05
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [SAP NS2 AI Consultant Specialist](https://jobs.sap.com/en/jobs/744000153525232/sap-ns2-ai-consultant-specialist/)
+  - Location: China
+  - Updated: 2026-10-06
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -225,13 +237,19 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921)
   - Location: Remote
-  - Updated: 2026-10-01
+  - Updated: 2026-10-05
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Risk Operations Analyst - SSO ](https://stripe.com/jobs/search?gh_jid=8175824)
   - Location: Remote 
-  - Updated: 2026-09-25
+  - Updated: 2026-10-05
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [SaaS Platform and AI Partner Marketing Lead](https://stripe.com/jobs/search?gh_jid=8248507)
+  - Location: San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US
+  - Updated: 2026-10-05
   - Source: greenhouse
   - Source type: Unknown source type
 
