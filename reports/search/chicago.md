@@ -1,8 +1,8 @@
-# Chicago Jobs - 2026-10-06
+# Chicago Jobs - 2026-10-07
 
 ## Summary
 
-- Total matching jobs: 71
+- Total matching jobs: 73
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -93,6 +93,12 @@ Jobs with Chicago-related location signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [Fraud Architect](https://stripe.com/jobs/search?gh_jid=8203220)
+  - Location: SF-HQ, Chicago, New York, US-Remote
+  - Updated: 2026-10-06
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [GTM Recruiter (Fixed Term)](https://stripe.com/jobs/search?gh_jid=8016504)
   - Location: Chicago, Atlanta, US-Remote, Toro
   - Updated: 2026-09-25
@@ -102,6 +108,12 @@ Jobs with Chicago-related location signals.
 - [GTM Recruiter, AMER (Fixed Term)](https://stripe.com/jobs/search?gh_jid=7942216)
   - Location: Chicago, US-Remote
   - Updated: 2026-09-23
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [GTM Recruiting Manager](https://stripe.com/jobs/search?gh_jid=8158086)
+  - Location: US-Remote, Chicago, Atlanta
+  - Updated: 2026-10-06
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -166,8 +178,8 @@ Jobs with Chicago-related location signals.
   - Source type: Unknown source type
 
 - [Partner Development Manager, Financial Partnership Capabilities](https://stripe.com/jobs/search?gh_jid=8238747)
-  - Location: US-Remote; US- Chicago; US-Atlanta; Canada-Toronto; Canada-Remote
-  - Updated: 2026-09-29
+  - Location: US-New York City; US-San Francisco; US-Seattle; US-Remote; US- Chicago; US-Atlanta; Canada-Toronto; Canada-Remote
+  - Updated: 2026-10-06
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -189,14 +201,14 @@ Jobs with Chicago-related location signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Partner Development Manager, Strategic Partnerships](https://stripe.com/jobs/search?gh_jid=7973002)
-  - Location: US-San Francisco; US-New York City; US-Seattle; US-Remote; US-Chicago; CA-Toronto; CA-Remote
+- [Partner Development Manager, Strategic Partnerships](https://stripe.com/jobs/search?gh_jid=8094869)
+  - Location: US-NYC; US-San Francisco; US-Seattle; US-Remote; US- Chicago; US-Atlanta; Canada-Toronto; Canada-Remote
   - Updated: 2026-09-25
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Partner Development Manager, Strategic Partnerships](https://stripe.com/jobs/search?gh_jid=8094869)
-  - Location: US-NYC; US-San Francisco; US-Seattle; US-Remote; US- Chicago; US-Atlanta; Canada-Toronto; Canada-Remote
+- [Partner Development Manager, Strategic Partnerships](https://stripe.com/jobs/search?gh_jid=7973002)
+  - Location: US-San Francisco; US-New York City; US-Seattle; US-Remote; US-Chicago; CA-Toronto; CA-Remote
   - Updated: 2026-09-25
   - Source: greenhouse
   - Source type: Unknown source type

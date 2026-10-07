@@ -1,8 +1,8 @@
-# AI and Data Jobs - 2026-10-06
+# AI and Data Jobs - 2026-10-07
 
 ## Summary
 
-- Total matching jobs: 43
+- Total matching jobs: 45
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -83,9 +83,21 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: sap_careers
   - Source type: china_company_career
 
+- [Machine Learning Engineering Manager](https://jobs.sap.com/en/jobs/744000153766639/machine-learning-engineering-manager/)
+  - Location: China
+  - Updated: 2026-10-07
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [Principal Machine Learning Engineer](https://jobs.sap.com/en/jobs/744000152767933/principal-machine-learning-engineer/)
   - Location: China
   - Updated: 2026-10-01
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Product Manager, Consumer Industries, Industry AI](https://jobs.sap.com/en/jobs/744000153876629/product-manager-consumer-industries-industry-ai/)
+  - Location: China
+  - Updated: 2026-10-07
   - Source: sap_careers
   - Source type: china_company_career
 
