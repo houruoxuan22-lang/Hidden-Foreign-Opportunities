@@ -1,4 +1,4 @@
-# AI and Data Jobs - 2026-10-07
+# AI and Data Jobs - 2026-10-08
 
 ## Summary
 
@@ -135,7 +135,7 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [Business Partner Analyst](https://stripe.com/jobs/search?gh_jid=8079783)
   - Location: US-SF, US-Seattle, US-NYC, US-Chicago, US-Georgia or US-Remote
-  - Updated: 2026-09-25
+  - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -147,55 +147,55 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [Credit Risk Analyst Commercial Underwriter, West Coast](https://stripe.com/jobs/search?gh_jid=7540441)
   - Location: Chicago, US-Remote, Canada-Remote
-  - Updated: 2026-09-25
+  - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Credit Risk Analyst, North American Underwriter](https://stripe.com/jobs/search?gh_jid=7612192)
   - Location: Toronto, Remote-Canada 
-  - Updated: 2026-09-25
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287)
-  - Location: Toronto
-  - Updated: 2026-10-01
+  - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291)
   - Location: New York, Seattle, South San Francisco HQ
-  - Updated: 2026-10-01
+  - Updated: 2026-10-07
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287)
+  - Location: Toronto
+  - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Data Excellence Manager ](https://stripe.com/jobs/search?gh_jid=8106026)
   - Location: US Remote, Chicago, SF, Seattle, NYC
-  - Updated: 2026-09-25
+  - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Data Science Manager, Finance and Strategy](https://stripe.com/jobs/search?gh_jid=7440963)
   - Location: Seattle, WA OR New York, NY OR Remote North America
-  - Updated: 2026-09-25
+  - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Engineering Manager, Data Transformation](https://stripe.com/jobs/search?gh_jid=7688358)
   - Location: US-SEA, US-SF, US-NYC, US-Remote
-  - Updated: 2026-09-30
+  - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Financial Data Analyst Intern, Technical Operations](https://stripe.com/jobs/search?gh_jid=8186442)
   - Location: Singapore
-  - Updated: 2026-09-25
+  - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Forward Deployed AI Accelerator, Marketing](https://stripe.com/jobs/search?gh_jid=8055930)
   - Location: Remote in the US, Remote in Canada
-  - Updated: 2026-09-25
+  - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -207,13 +207,13 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [Internal Audit Data Analytics Lead](https://stripe.com/jobs/search?gh_jid=8026689)
   - Location: Toronto, New York, San Francisco, Atlanta, Seattle 
-  - Updated: 2026-09-28
+  - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Internal Product Engineer, Developer Productivity AI ](https://stripe.com/jobs/search?gh_jid=7896151)
   - Location: Toronto, Canada 
-  - Updated: 2026-09-25
+  - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -223,15 +223,15 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283)
-  - Location: New York, Seattle, South San Francisco HQ
-  - Updated: 2026-10-01
+- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285)
+  - Location: Toronto
+  - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285)
-  - Location: Toronto
-  - Updated: 2026-10-01
+- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283)
+  - Location: New York, Seattle, South San Francisco HQ
+  - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -249,19 +249,19 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921)
   - Location: Remote
-  - Updated: 2026-10-05
+  - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Risk Operations Analyst - SSO ](https://stripe.com/jobs/search?gh_jid=8175824)
   - Location: Remote 
-  - Updated: 2026-10-05
+  - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [SaaS Platform and AI Partner Marketing Lead](https://stripe.com/jobs/search?gh_jid=8248507)
   - Location: San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US
-  - Updated: 2026-10-05
+  - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -285,6 +285,6 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [Specialist Solutions Architect, Data](https://stripe.com/jobs/search?gh_jid=8144262)
   - Location: SF, NY, Remote
-  - Updated: 2026-09-25
+  - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
