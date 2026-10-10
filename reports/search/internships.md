@@ -1,8 +1,8 @@
-# Internships and Early-career Jobs - 2026-10-09
+# Internships and Early-career Jobs - 2026-10-10
 
 ## Summary
 
-- Total matching jobs: 111
+- Total matching jobs: 114
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -271,6 +271,12 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: sap_careers
   - Source type: china_company_career
 
+- [Internship - Fullstack Cloud Developer – AI Agent Platform (SAP Build Experience) -F/M](https://jobs.sap.com/en/jobs/744000154698564/internship-fullstack-cloud-developer-ai-agent-platform-sap-build-experience-fm/)
+  - Location: China
+  - Updated: 2026-10-10
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [Internship - Project Management and Business Analysis: Global Revenue Operations team (Limited part-time)](https://jobs.sap.com/en/jobs/744000153774261/internship-project-management-and-business-analysis-global-revenue-operations-team-limited-part-time/)
   - Location: China
   - Updated: 2026-10-07
@@ -421,6 +427,18 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: sap_careers
   - Source type: china_company_career
 
+- [SAP iXp Intern (f/m/d) - Software Developer](https://jobs.sap.com/en/jobs/744000154686264/sap-ixp-intern-fmd-software-developer/)
+  - Location: China
+  - Updated: 2026-10-10
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [SAP iXp Intern - Business Transformation](https://jobs.sap.com/en/jobs/744000154783390/sap-ixp-intern-business-transformation/)
+  - Location: China
+  - Updated: 2026-10-10
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [SAP iXp Intern - Customer Renewal Center](https://jobs.sap.com/en/jobs/744000153791530/sap-ixp-intern-customer-renewal-center/)
   - Location: China
   - Updated: 2026-10-07
@@ -537,14 +555,14 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291)
-  - Location: New York, Seattle, South San Francisco HQ
+- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287)
+  - Location: Toronto
   - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287)
-  - Location: Toronto
+- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291)
+  - Location: New York, Seattle, South San Francisco HQ
   - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
@@ -645,12 +663,6 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8130805)
-  - Location: Toronto
-  - Updated: 2026-10-07
-  - Source: greenhouse
-  - Source type: Unknown source type
-
 - [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8097801)
   - Location: Dublin
   - Updated: 2026-10-07
@@ -659,6 +671,12 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 
 - [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8128745)
   - Location: San Francisco, Seattle, New York City
+  - Updated: 2026-10-07
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8130805)
+  - Location: Toronto
   - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
@@ -685,6 +703,6 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-10-09
+  - Updated: 2026-10-10
   - Source: swisscham_china
   - Source type: china_local_static

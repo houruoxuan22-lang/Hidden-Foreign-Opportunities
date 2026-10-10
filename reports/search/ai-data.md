@@ -1,8 +1,8 @@
-# AI and Data Jobs - 2026-10-09
+# AI and Data Jobs - 2026-10-10
 
 ## Summary
 
-- Total matching jobs: 50
+- Total matching jobs: 54
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -52,8 +52,8 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source type: Unknown source type
 
 - [Senior Product Security Engineer - AI Agents](https://careers.datadoghq.com/detail/7993198/?gh_jid=7993198)
-  - Location: Alabama, USA, Remote; Arizona, USA, Remote; Arkansas, USA, Remote; Atlanta, Georgia, USA; Boston, Massachusetts, USA; California, USA, Remote; Chicago, Illinois, USA; Colorado, USA, Remote; Connecticut, USA, Remote; Dallas, Texas, USA; Delaware, USA, Remote; Denver, Colorado, USA; District of Columbia, USA, Remote; Florida, USA, Remote; Georgia, USA, Remote; Houston, Texas, USA; Idaho, USA, Remote; Illinois, USA, Remote; Indiana, USA, Remote; Iowa, USA, Remote; Kansas, USA, Remote; Kentucky, USA, Remote; Los Angeles, California, USA; Louisiana, USA, Remote; Maine, USA, Remote; Maryland, USA, Remote; Massachusetts, USA, Remote; Michigan, USA, Remote; Minnesota, USA, Remote; Missouri, USA, Remote; Montana, USA, Remote; Nebraska, USA, Remote; Nevada, USA, Remote; New Hampshire, USA, Remote; New Jersey, USA, Remote; New Mexico, USA, Remote; New York, New York, USA; New York, USA, Remote; Oregon, USA, Remote; Pennsylvania, USA, Remote; Pittsburgh, Pennsylvania, USA; Portland, Oregon, USA; Rhode Island, USA, Remote; San Francisco, California, USA; San Jose, California, USA; Seattle, Washington, USA; South Carolina, USA, Remote; South Dakota, USA, Remote; Tennessee, USA, Remote; Texas, USA, Remote; Utah, USA, Remote; Vermont, USA, Remote; Virginia, USA, Remote; Washington, District of Columbia, USA; Washington, USA, Remote; Wisconsin, USA, Remote
-  - Updated: 2026-10-08
+  - Location: Atlanta, Georgia, USA; Connecticut, USA, Remote; Florida, USA, Remote; Massachusetts, USA, Remote; New York, New York, USA; New York, USA, Remote; Pennsylvania, USA, Remote
+  - Updated: 2026-10-09
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -65,9 +65,21 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: sap_careers
   - Source type: china_company_career
 
+- [Application AI Engineer - Globalization E-Invoicing Unit](https://jobs.sap.com/en/jobs/744000154722554/application-ai-engineer-globalization-e-invoicing-unit/)
+  - Location: China
+  - Updated: 2026-10-10
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [Data Engineer](https://jobs.sap.com/job/Shanghai-Data-Engineer-201203/1406689133/)
   - Location: Shanghai, China
   - Updated: 2026-08-31
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Internship - Fullstack Cloud Developer – AI Agent Platform (SAP Build Experience) -F/M](https://jobs.sap.com/en/jobs/744000154698564/internship-fullstack-cloud-developer-ai-agent-platform-sap-build-experience-fm/)
+  - Location: China
+  - Updated: 2026-10-10
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -155,6 +167,18 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: sap_careers
   - Source type: china_company_career
 
+- [Senior Application AI Engineer - Globalization E-Invoicing Unit](https://jobs.sap.com/en/jobs/744000154718139/senior-application-ai-engineer-globalization-e-invoicing-unit/)
+  - Location: China
+  - Updated: 2026-10-10
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Senior Application AI Engineer and Data Scientist - Globalization E-Invoicing Unit](https://jobs.sap.com/en/jobs/744000154720670/senior-application-ai-engineer-and-data-scientist-globalization-e-invoicing-unit/)
+  - Location: China
+  - Updated: 2026-10-10
+  - Source: sap_careers
+  - Source type: china_company_career
+
 ### Stripe
 
 - [Business Partner Analyst](https://stripe.com/jobs/search?gh_jid=8079783)
@@ -181,14 +205,14 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291)
-  - Location: New York, Seattle, South San Francisco HQ
+- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287)
+  - Location: Toronto
   - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287)
-  - Location: Toronto
+- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291)
+  - Location: New York, Seattle, South San Francisco HQ
   - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
