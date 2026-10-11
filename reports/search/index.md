@@ -1,4 +1,4 @@
-# Searchable Job Reports - 2026-10-10
+# Searchable Job Reports - 2026-10-11
 
 This folder contains filtered job reports generated from `data/jobs.json`.
 

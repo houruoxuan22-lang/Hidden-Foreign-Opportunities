@@ -1,4 +1,4 @@
-# Remote Jobs - 2026-10-10
+# Remote Jobs - 2026-10-11
 
 ## Summary
 
@@ -733,7 +733,7 @@ Jobs with remote or distributed work signals.
 
 - [Application AI Engineer - Globalization E-Invoicing Unit](https://jobs.sap.com/en/jobs/744000154722554/application-ai-engineer-globalization-e-invoicing-unit/)
   - Location: China
-  - Updated: 2026-10-10
+  - Updated: 2026-10-11
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -883,7 +883,7 @@ Jobs with remote or distributed work signals.
 
 - [Internship - Fullstack Cloud Developer – AI Agent Platform (SAP Build Experience) -F/M](https://jobs.sap.com/en/jobs/744000154698564/internship-fullstack-cloud-developer-ai-agent-platform-sap-build-experience-fm/)
   - Location: China
-  - Updated: 2026-10-10
+  - Updated: 2026-10-11
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -991,13 +991,13 @@ Jobs with remote or distributed work signals.
 
 - [SAP iXp Intern (f/m/d) - Software Developer](https://jobs.sap.com/en/jobs/744000154686264/sap-ixp-intern-fmd-software-developer/)
   - Location: China
-  - Updated: 2026-10-10
+  - Updated: 2026-10-11
   - Source: sap_careers
   - Source type: china_company_career
 
 - [SAP iXp Intern - Business Transformation](https://jobs.sap.com/en/jobs/744000154783390/sap-ixp-intern-business-transformation/)
   - Location: China
-  - Updated: 2026-10-10
+  - Updated: 2026-10-11
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -1117,7 +1117,7 @@ Jobs with remote or distributed work signals.
 
 - [SAP NS2 Client Delivery Manager (CDM)](https://jobs.sap.com/en/jobs/744000154760589/sap-ns2-client-delivery-manager-cdm/)
   - Location: China
-  - Updated: 2026-10-10
+  - Updated: 2026-10-11
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -1159,7 +1159,7 @@ Jobs with remote or distributed work signals.
 
 - [SAP NS2 Senior Support Engineer](https://jobs.sap.com/en/jobs/744000154771175/sap-ns2-senior-support-engineer/)
   - Location: China
-  - Updated: 2026-10-10
+  - Updated: 2026-10-11
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -1207,13 +1207,13 @@ Jobs with remote or distributed work signals.
 
 - [Senior Application AI Engineer - Globalization E-Invoicing Unit](https://jobs.sap.com/en/jobs/744000154718139/senior-application-ai-engineer-globalization-e-invoicing-unit/)
   - Location: China
-  - Updated: 2026-10-10
+  - Updated: 2026-10-11
   - Source: sap_careers
   - Source type: china_company_career
 
 - [Senior Application AI Engineer and Data Scientist - Globalization E-Invoicing Unit](https://jobs.sap.com/en/jobs/744000154720670/senior-application-ai-engineer-and-data-scientist-globalization-e-invoicing-unit/)
   - Location: China
-  - Updated: 2026-10-10
+  - Updated: 2026-10-11
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -1315,14 +1315,14 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Account Executive, Enterprise (Grower) ](https://stripe.com/jobs/search?gh_jid=8107136)
-  - Location: US-San Francisco, US-Seattle, US-West Coast (Remote) 
+- [Account Executive, Enterprise (Grower) ](https://stripe.com/jobs/search?gh_jid=7993151)
+  - Location: US-Remote-CA, US-San Francisco, US-Seattle, US-New York
   - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Account Executive, Enterprise (Grower) ](https://stripe.com/jobs/search?gh_jid=7993151)
-  - Location: US-Remote-CA, US-San Francisco, US-Seattle, US-New York
+- [Account Executive, Enterprise (Grower) ](https://stripe.com/jobs/search?gh_jid=8107136)
+  - Location: US-San Francisco, US-Seattle, US-West Coast (Remote) 
   - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
@@ -1935,7 +1935,7 @@ Jobs with remote or distributed work signals.
 
 - [Partner Development Manager, Financial Partnership Capabilities](https://stripe.com/jobs/search?gh_jid=8238747)
   - Location: US-New York City; US-San Francisco; US-Seattle; US-Remote; US- Chicago; US-Atlanta; Canada-Toronto; Canada-Remote
-  - Updated: 2026-10-07
+  - Updated: 2026-10-10
   - Source: greenhouse
   - Source type: Unknown source type
 

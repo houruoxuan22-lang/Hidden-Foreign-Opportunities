@@ -1,4 +1,4 @@
-# Chicago Jobs - 2026-10-10
+# Chicago Jobs - 2026-10-11
 
 ## Summary
 
@@ -179,7 +179,7 @@ Jobs with Chicago-related location signals.
 
 - [Partner Development Manager, Financial Partnership Capabilities](https://stripe.com/jobs/search?gh_jid=8238747)
   - Location: US-New York City; US-San Francisco; US-Seattle; US-Remote; US- Chicago; US-Atlanta; Canada-Toronto; Canada-Remote
-  - Updated: 2026-10-07
+  - Updated: 2026-10-10
   - Source: greenhouse
   - Source type: Unknown source type
 
