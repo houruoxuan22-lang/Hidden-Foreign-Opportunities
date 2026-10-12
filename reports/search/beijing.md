@@ -1,8 +1,8 @@
-# Beijing Jobs - 2026-10-11
+# Beijing Jobs - 2026-10-12
 
 ## Summary
 
-- Total matching jobs: 8
+- Total matching jobs: 9
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -45,6 +45,12 @@ Jobs with Beijing-related location signals.
   - Source: sap_careers
   - Source type: china_company_career
 
+- [SAP Student Training & Rotation Program(VT/STAR) Intern (IT Services) - 2028 Graduates](https://jobs.sap.com/en/jobs/744000154915259/sap-student-training-rotation-program-vtstar-intern-it-services-2028-graduates/)
+  - Location: Beijing, China
+  - Updated: 2026-10-12
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [Senior Account Executive - Auto](https://jobs.sap.com/job/Beijing-Senior-Account-Executive-Auto-100016/1394371033/)
   - Location: Beijing, China
   - Updated: 2026-09-01
@@ -61,6 +67,6 @@ Jobs with Beijing-related location signals.
 
 - [Internal Medicine Physician](https://swisscham.com.cn/jobs/internal-medicine-physician)
   - Location: Beijing, China
-  - Updated: 2026-10-11
+  - Updated: 2026-10-12
   - Source: swisscham_china
   - Source type: china_local_static

@@ -1,8 +1,8 @@
-# Internships and Early-career Jobs - 2026-10-11
+# Internships and Early-career Jobs - 2026-10-12
 
 ## Summary
 
-- Total matching jobs: 114
+- Total matching jobs: 118
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -109,13 +109,13 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer Intern (2027)](https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211)
+- [Software Engineer Intern (2027)](https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197)
   - Location: In-Office
   - Updated: 2026-10-05
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer Intern (2027)](https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197)
+- [Software Engineer Intern (2027)](https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211)
   - Location: In-Office
   - Updated: 2026-10-05
   - Source: greenhouse
@@ -435,7 +435,7 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 
 - [SAP iXp Intern - Business Transformation](https://jobs.sap.com/en/jobs/744000154783390/sap-ixp-intern-business-transformation/)
   - Location: China
-  - Updated: 2026-10-11
+  - Updated: 2026-10-12
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -529,9 +529,33 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: sap_careers
   - Source type: china_company_career
 
+- [SAP Student Training & Rotation Program(VT/STAR) Intern (Application Engineer) - 2028 Graduates](https://jobs.sap.com/en/jobs/744000154919159/sap-student-training-rotation-program-vtstar-intern-application-engineer-2028-graduates/)
+  - Location: Chengdu, China
+  - Updated: 2026-10-12
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [SAP Student Training & Rotation Program(VT/STAR) Intern (Application Engineer) - 2028 Graduates](https://jobs.sap.com/job/Shanghai-SAP-Student-Training-&-Rotation-Program%28VTSTAR%29-Intern-%28Application-Engineer%29-2028-Graduates-201203/1437529633/)
   - Location: Shanghai, China
   - Updated: 2026-09-23
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [SAP Student Training & Rotation Program(VT/STAR) Intern (IT Services) - 2028 Graduates](https://jobs.sap.com/en/jobs/744000154916199/sap-student-training-rotation-program-vtstar-intern-it-services-2028-graduates/)
+  - Location: Shanghai, China
+  - Updated: 2026-10-12
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [SAP Student Training & Rotation Program(VT/STAR) Intern (IT Services) - 2028 Graduates](https://jobs.sap.com/en/jobs/744000154915809/sap-student-training-rotation-program-vtstar-intern-it-services-2028-graduates/)
+  - Location: Dalian, China
+  - Updated: 2026-10-12
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [SAP Student Training & Rotation Program(VT/STAR) Intern (IT Services) - 2028 Graduates](https://jobs.sap.com/en/jobs/744000154915259/sap-student-training-rotation-program-vtstar-intern-it-services-2028-graduates/)
+  - Location: Beijing, China
+  - Updated: 2026-10-12
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -615,14 +639,14 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283)
-  - Location: New York, Seattle, South San Francisco HQ
+- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285)
+  - Location: Toronto
   - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285)
-  - Location: Toronto
+- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283)
+  - Location: New York, Seattle, South San Francisco HQ
   - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
@@ -639,14 +663,14 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130883)
-  - Location: Singapore
+- [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130867)
+  - Location: London
   - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130867)
-  - Location: London
+- [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130883)
+  - Location: Singapore
   - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
@@ -663,8 +687,8 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8097801)
-  - Location: Dublin
+- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8130805)
+  - Location: Toronto
   - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
@@ -675,8 +699,8 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8130805)
-  - Location: Toronto
+- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8097801)
+  - Location: Dublin
   - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
@@ -703,6 +727,6 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-10-11
+  - Updated: 2026-10-12
   - Source: swisscham_china
   - Source type: china_local_static

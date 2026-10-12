@@ -1,8 +1,8 @@
-# Daily Foreign Job Radar - 2026-10-11
+# Daily Foreign Job Radar - 2026-10-12
 
 ## Summary
 
-- Total relevant jobs: 611
+- Total relevant jobs: 617
 - Companies tracked in this report: 6
 - China / APAC relevant jobs: 70
 - Global remote jobs: 286
@@ -13,10 +13,10 @@
 ## Skill Signals
 
 - Communication: 138
-- Project Management: 90
+- Project Management: 91
 - SQL: 78
 - Python: 73
-- Sales: 69
+- Sales: 70
 - Operations: 52
 - Excel: 41
 - CRM: 39
@@ -43,55 +43,55 @@
 
 - [(Assistant) Manager – Account Management](https://swisscham.com.cn/jobs/assistant-manager-account-management)
   - Location: Shanghai, China
-  - Updated: 2026-10-11
+  - Updated: 2026-10-12
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [(Senior) Associate – Account Management](https://swisscham.com.cn/jobs/senior-associate-account-management)
   - Location: Shanghai, China
-  - Updated: 2026-10-11
+  - Updated: 2026-10-12
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [Sea Freight Product Manager](https://swisscham.com.cn/jobs/sea-freight-product-manager)
   - Location: China
-  - Updated: 2026-10-11
+  - Updated: 2026-10-12
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [Marketing & Communications Specialist](https://swisscham.com.cn/jobs/marketing-communications-specialist-0)
   - Location: Shanghai, China
-  - Updated: 2026-10-11
+  - Updated: 2026-10-12
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [Business Development Executive/Manager 业务拓展主任/经理](https://swisscham.com.cn/jobs/business-development-executivemanager-yewutazhanzhurenjingli)
   - Location: Shanghai, China
-  - Updated: 2026-10-11
+  - Updated: 2026-10-12
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [Shaohe Law Firm – Recruitment / 劭合律师事务所招聘启事](https://swisscham.com.cn/jobs/shaohe-law-firm-recruitment-shaohelushishiwusuozhaopinqishi)
   - Location: China
-  - Updated: 2026-10-11
+  - Updated: 2026-10-12
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [Internal Medicine Physician](https://swisscham.com.cn/jobs/internal-medicine-physician)
   - Location: Beijing, China
-  - Updated: 2026-10-11
+  - Updated: 2026-10-12
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-10-11
+  - Updated: 2026-10-12
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [Business Development Manager](https://swisscham.com.cn/jobs/business-development-manager-0)
   - Location: China
-  - Updated: 2026-10-11
+  - Updated: 2026-10-12
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
@@ -103,27 +103,63 @@
 
 #### SAP China
 
+- [Account Executive Expert - Large Enterprise Accounts](https://jobs.sap.com/en/jobs/744000154923109/account-executive-expert-large-enterprise-accounts/)
+  - Location: China
+  - Updated: 2026-10-12
+  - Source: sap_careers
+  - Status: Listed on official career page at report generation
+
+- [Project Management Associate](https://jobs.sap.com/en/jobs/744000154920568/project-management-associate/)
+  - Location: China
+  - Updated: 2026-10-12
+  - Source: sap_careers
+  - Status: Listed on official career page at report generation
+
+- [SAP Student Training & Rotation Program(VT/STAR) Intern (Application Engineer) - 2028 Graduates](https://jobs.sap.com/en/jobs/744000154919159/sap-student-training-rotation-program-vtstar-intern-application-engineer-2028-graduates/)
+  - Location: Chengdu, China
+  - Updated: 2026-10-12
+  - Source: sap_careers
+  - Status: Listed on official career page at report generation
+
+- [SAP Student Training & Rotation Program(VT/STAR) Intern (IT Services) - 2028 Graduates](https://jobs.sap.com/en/jobs/744000154916199/sap-student-training-rotation-program-vtstar-intern-it-services-2028-graduates/)
+  - Location: Shanghai, China
+  - Updated: 2026-10-12
+  - Source: sap_careers
+  - Status: Listed on official career page at report generation
+
+- [SAP Student Training & Rotation Program(VT/STAR) Intern (IT Services) - 2028 Graduates](https://jobs.sap.com/en/jobs/744000154915809/sap-student-training-rotation-program-vtstar-intern-it-services-2028-graduates/)
+  - Location: Dalian, China
+  - Updated: 2026-10-12
+  - Source: sap_careers
+  - Status: Listed on official career page at report generation
+
+- [SAP Student Training & Rotation Program(VT/STAR) Intern (IT Services) - 2028 Graduates](https://jobs.sap.com/en/jobs/744000154915259/sap-student-training-rotation-program-vtstar-intern-it-services-2028-graduates/)
+  - Location: Beijing, China
+  - Updated: 2026-10-12
+  - Source: sap_careers
+  - Status: Listed on official career page at report generation
+
 - [SAP iXp Intern - Business Transformation](https://jobs.sap.com/en/jobs/744000154783390/sap-ixp-intern-business-transformation/)
   - Location: China
-  - Updated: 2026-10-11
+  - Updated: 2026-10-12
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
 - [SAP NS2 Senior Support Engineer](https://jobs.sap.com/en/jobs/744000154771175/sap-ns2-senior-support-engineer/)
   - Location: China
-  - Updated: 2026-10-11
+  - Updated: 2026-10-12
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
 - [SAP NS2 Client Delivery Manager (CDM)](https://jobs.sap.com/en/jobs/744000154760589/sap-ns2-client-delivery-manager-cdm/)
   - Location: China
-  - Updated: 2026-10-11
+  - Updated: 2026-10-12
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
 - [Application AI Engineer - Globalization E-Invoicing Unit](https://jobs.sap.com/en/jobs/744000154722554/application-ai-engineer-globalization-e-invoicing-unit/)
   - Location: China
-  - Updated: 2026-10-11
+  - Updated: 2026-10-12
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
@@ -1284,14 +1320,14 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Senior Customer Engineer, Hong Kong (Pre-sales)](https://boards.greenhouse.io/cloudflare/jobs/8097947?gh_jid=8097947)
-  - Location: Hybrid
-  - Updated: 2026-10-02
+- [Senior Customer Engineer, East China](https://boards.greenhouse.io/cloudflare/jobs/8147190?gh_jid=8147190)
+  - Location: Distributed
+  - Updated: 2026-10-11
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Senior Customer Engineer, South China](https://boards.greenhouse.io/cloudflare/jobs/8147190?gh_jid=8147190)
-  - Location: Distributed
+- [Senior Customer Engineer, Hong Kong (Pre-sales)](https://boards.greenhouse.io/cloudflare/jobs/8097947?gh_jid=8097947)
+  - Location: Hybrid
   - Updated: 2026-10-02
   - Source: greenhouse
   - Status: Listed on official career page at report generation
@@ -1403,14 +1439,14 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Account Executive, Enterprise (Grower) ](https://stripe.com/jobs/search?gh_jid=7993151)
-  - Location: US-Remote-CA, US-San Francisco, US-Seattle, US-New York
+- [Account Executive, Enterprise (Grower) ](https://stripe.com/jobs/search?gh_jid=8107136)
+  - Location: US-San Francisco, US-Seattle, US-West Coast (Remote) 
   - Updated: 2026-10-07
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Account Executive, Enterprise (Grower) ](https://stripe.com/jobs/search?gh_jid=8107136)
-  - Location: US-San Francisco, US-Seattle, US-West Coast (Remote) 
+- [Account Executive, Enterprise (Grower) ](https://stripe.com/jobs/search?gh_jid=7993151)
+  - Location: US-Remote-CA, US-San Francisco, US-Seattle, US-New York
   - Updated: 2026-10-07
   - Source: greenhouse
   - Status: Listed on official career page at report generation
@@ -3369,14 +3405,14 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283)
-  - Location: New York, Seattle, South San Francisco HQ
+- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285)
+  - Location: Toronto
   - Updated: 2026-10-07
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285)
-  - Location: Toronto
+- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283)
+  - Location: New York, Seattle, South San Francisco HQ
   - Updated: 2026-10-07
   - Source: greenhouse
   - Status: Listed on official career page at report generation
@@ -3387,14 +3423,14 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8128745)
-  - Location: San Francisco, Seattle, New York City
+- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8130805)
+  - Location: Toronto
   - Updated: 2026-10-07
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8130805)
-  - Location: Toronto
+- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8128745)
+  - Location: San Francisco, Seattle, New York City
   - Updated: 2026-10-07
   - Source: greenhouse
   - Status: Listed on official career page at report generation
@@ -3628,13 +3664,13 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Software Engineer Intern (2027)](https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211)
+- [Software Engineer Intern (2027)](https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197)
   - Location: In-Office
   - Updated: 2026-10-05
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Software Engineer Intern (2027)](https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197)
+- [Software Engineer Intern (2027)](https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211)
   - Location: In-Office
   - Updated: 2026-10-05
   - Source: greenhouse

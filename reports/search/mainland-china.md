@@ -1,8 +1,8 @@
-# Mainland China Foreign Employer Jobs - 2026-10-11
+# Mainland China Foreign Employer Jobs - 2026-10-12
 
 ## Summary
 
-- Total matching jobs: 152
+- Total matching jobs: 158
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -87,9 +87,15 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
   - Source: sap_careers
   - Source type: china_company_career
 
+- [Account Executive Expert - Large Enterprise Accounts](https://jobs.sap.com/en/jobs/744000154923109/account-executive-expert-large-enterprise-accounts/)
+  - Location: China
+  - Updated: 2026-10-12
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [Application AI Engineer - Globalization E-Invoicing Unit](https://jobs.sap.com/en/jobs/744000154722554/application-ai-engineer-globalization-e-invoicing-unit/)
   - Location: China
-  - Updated: 2026-10-11
+  - Updated: 2026-10-12
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -381,6 +387,12 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
   - Source: sap_careers
   - Source type: china_company_career
 
+- [Project Management Associate](https://jobs.sap.com/en/jobs/744000154920568/project-management-associate/)
+  - Location: China
+  - Updated: 2026-10-12
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [Sales Account Executive(Sales-SCM) - SAP Next Gen - SAP Academy for Customer Success - Shenzhen](https://jobs.sap.com/job/Shenzhen-Sales-Account-Executive%28Sales-SCM%29-SAP-Next-Gen-SAP-Academy-for-Customer-Success-Shenzhen-518048/1425454933/)
   - Location: Shenzhen, China
   - Updated: 2026-09-23
@@ -515,7 +527,7 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
 
 - [SAP iXp Intern - Business Transformation](https://jobs.sap.com/en/jobs/744000154783390/sap-ixp-intern-business-transformation/)
   - Location: China
-  - Updated: 2026-10-11
+  - Updated: 2026-10-12
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -641,7 +653,7 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
 
 - [SAP NS2 Client Delivery Manager (CDM)](https://jobs.sap.com/en/jobs/744000154760589/sap-ns2-client-delivery-manager-cdm/)
   - Location: China
-  - Updated: 2026-10-11
+  - Updated: 2026-10-12
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -683,7 +695,7 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
 
 - [SAP NS2 Senior Support Engineer](https://jobs.sap.com/en/jobs/744000154771175/sap-ns2-senior-support-engineer/)
   - Location: China
-  - Updated: 2026-10-11
+  - Updated: 2026-10-12
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -693,9 +705,33 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
   - Source: sap_careers
   - Source type: china_company_career
 
+- [SAP Student Training & Rotation Program(VT/STAR) Intern (Application Engineer) - 2028 Graduates](https://jobs.sap.com/en/jobs/744000154919159/sap-student-training-rotation-program-vtstar-intern-application-engineer-2028-graduates/)
+  - Location: Chengdu, China
+  - Updated: 2026-10-12
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [SAP Student Training & Rotation Program(VT/STAR) Intern (Application Engineer) - 2028 Graduates](https://jobs.sap.com/job/Shanghai-SAP-Student-Training-&-Rotation-Program%28VTSTAR%29-Intern-%28Application-Engineer%29-2028-Graduates-201203/1437529633/)
   - Location: Shanghai, China
   - Updated: 2026-09-23
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [SAP Student Training & Rotation Program(VT/STAR) Intern (IT Services) - 2028 Graduates](https://jobs.sap.com/en/jobs/744000154916199/sap-student-training-rotation-program-vtstar-intern-it-services-2028-graduates/)
+  - Location: Shanghai, China
+  - Updated: 2026-10-12
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [SAP Student Training & Rotation Program(VT/STAR) Intern (IT Services) - 2028 Graduates](https://jobs.sap.com/en/jobs/744000154915809/sap-student-training-rotation-program-vtstar-intern-it-services-2028-graduates/)
+  - Location: Dalian, China
+  - Updated: 2026-10-12
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [SAP Student Training & Rotation Program(VT/STAR) Intern (IT Services) - 2028 Graduates](https://jobs.sap.com/en/jobs/744000154915259/sap-student-training-rotation-program-vtstar-intern-it-services-2028-graduates/)
+  - Location: Beijing, China
+  - Updated: 2026-10-12
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -871,43 +907,43 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
 
 - [(Assistant) Manager – Account Management](https://swisscham.com.cn/jobs/assistant-manager-account-management)
   - Location: Shanghai, China
-  - Updated: 2026-10-11
+  - Updated: 2026-10-12
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [(Senior) Associate – Account Management](https://swisscham.com.cn/jobs/senior-associate-account-management)
   - Location: Shanghai, China
-  - Updated: 2026-10-11
+  - Updated: 2026-10-12
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Business Development Executive/Manager 业务拓展主任/经理](https://swisscham.com.cn/jobs/business-development-executivemanager-yewutazhanzhurenjingli)
   - Location: Shanghai, China
-  - Updated: 2026-10-11
+  - Updated: 2026-10-12
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Business Development Manager](https://swisscham.com.cn/jobs/business-development-manager-0)
   - Location: China
-  - Updated: 2026-10-11
+  - Updated: 2026-10-12
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Internal Medicine Physician](https://swisscham.com.cn/jobs/internal-medicine-physician)
   - Location: Beijing, China
-  - Updated: 2026-10-11
+  - Updated: 2026-10-12
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Marketing & Communications Specialist](https://swisscham.com.cn/jobs/marketing-communications-specialist-0)
   - Location: Shanghai, China
-  - Updated: 2026-10-11
+  - Updated: 2026-10-12
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-10-11
+  - Updated: 2026-10-12
   - Source: swisscham_china
   - Source type: china_local_static
 
@@ -919,12 +955,12 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
 
 - [Sea Freight Product Manager](https://swisscham.com.cn/jobs/sea-freight-product-manager)
   - Location: China
-  - Updated: 2026-10-11
+  - Updated: 2026-10-12
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Shaohe Law Firm – Recruitment / 劭合律师事务所招聘启事](https://swisscham.com.cn/jobs/shaohe-law-firm-recruitment-shaohelushishiwusuozhaopinqishi)
   - Location: China
-  - Updated: 2026-10-11
+  - Updated: 2026-10-12
   - Source: swisscham_china
   - Source type: china_local_static

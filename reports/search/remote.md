@@ -1,8 +1,8 @@
-# Remote Jobs - 2026-10-11
+# Remote Jobs - 2026-10-12
 
 ## Summary
 
-- Total matching jobs: 437
+- Total matching jobs: 443
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -85,6 +85,12 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [Senior Customer Engineer, East China](https://boards.greenhouse.io/cloudflare/jobs/8147190?gh_jid=8147190)
+  - Location: Distributed
+  - Updated: 2026-10-11
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [Senior Customer Engineer, East China](https://boards.greenhouse.io/cloudflare/jobs/8147148?gh_jid=8147148)
   - Location: Distributed
   - Updated: 2026-10-02
@@ -94,12 +100,6 @@ Jobs with remote or distributed work signals.
 - [Senior Customer Engineer, Shenzhen](https://boards.greenhouse.io/cloudflare/jobs/8115936?gh_jid=8115936)
   - Location: Distributed
   - Updated: 2026-09-04
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Senior Customer Engineer, South China](https://boards.greenhouse.io/cloudflare/jobs/8147190?gh_jid=8147190)
-  - Location: Distributed
-  - Updated: 2026-10-02
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -139,13 +139,13 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer Intern (2027)](https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211)
+- [Software Engineer Intern (2027)](https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197)
   - Location: In-Office
   - Updated: 2026-10-05
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer Intern (2027)](https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197)
+- [Software Engineer Intern (2027)](https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211)
   - Location: In-Office
   - Updated: 2026-10-05
   - Source: greenhouse
@@ -731,9 +731,15 @@ Jobs with remote or distributed work signals.
   - Source: sap_careers
   - Source type: china_company_career
 
+- [Account Executive Expert - Large Enterprise Accounts](https://jobs.sap.com/en/jobs/744000154923109/account-executive-expert-large-enterprise-accounts/)
+  - Location: China
+  - Updated: 2026-10-12
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [Application AI Engineer - Globalization E-Invoicing Unit](https://jobs.sap.com/en/jobs/744000154722554/application-ai-engineer-globalization-e-invoicing-unit/)
   - Location: China
-  - Updated: 2026-10-11
+  - Updated: 2026-10-12
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -965,6 +971,12 @@ Jobs with remote or distributed work signals.
   - Source: sap_careers
   - Source type: china_company_career
 
+- [Project Management Associate](https://jobs.sap.com/en/jobs/744000154920568/project-management-associate/)
+  - Location: China
+  - Updated: 2026-10-12
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [Sales Ops Business Partner Expert](https://jobs.sap.com/en/jobs/744000152927241/sales-ops-business-partner-expert/)
   - Location: China
   - Updated: 2026-10-02
@@ -997,7 +1009,7 @@ Jobs with remote or distributed work signals.
 
 - [SAP iXp Intern - Business Transformation](https://jobs.sap.com/en/jobs/744000154783390/sap-ixp-intern-business-transformation/)
   - Location: China
-  - Updated: 2026-10-11
+  - Updated: 2026-10-12
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -1117,7 +1129,7 @@ Jobs with remote or distributed work signals.
 
 - [SAP NS2 Client Delivery Manager (CDM)](https://jobs.sap.com/en/jobs/744000154760589/sap-ns2-client-delivery-manager-cdm/)
   - Location: China
-  - Updated: 2026-10-11
+  - Updated: 2026-10-12
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -1159,13 +1171,37 @@ Jobs with remote or distributed work signals.
 
 - [SAP NS2 Senior Support Engineer](https://jobs.sap.com/en/jobs/744000154771175/sap-ns2-senior-support-engineer/)
   - Location: China
-  - Updated: 2026-10-11
+  - Updated: 2026-10-12
   - Source: sap_careers
   - Source type: china_company_career
 
 - [SAP NS2 Technical Quality / Success Plan Manager](https://jobs.sap.com/en/jobs/744000154429195/sap-ns2-technical-quality-success-plan-manager/)
   - Location: China
   - Updated: 2026-10-09
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [SAP Student Training & Rotation Program(VT/STAR) Intern (Application Engineer) - 2028 Graduates](https://jobs.sap.com/en/jobs/744000154919159/sap-student-training-rotation-program-vtstar-intern-application-engineer-2028-graduates/)
+  - Location: Chengdu, China
+  - Updated: 2026-10-12
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [SAP Student Training & Rotation Program(VT/STAR) Intern (IT Services) - 2028 Graduates](https://jobs.sap.com/en/jobs/744000154916199/sap-student-training-rotation-program-vtstar-intern-it-services-2028-graduates/)
+  - Location: Shanghai, China
+  - Updated: 2026-10-12
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [SAP Student Training & Rotation Program(VT/STAR) Intern (IT Services) - 2028 Graduates](https://jobs.sap.com/en/jobs/744000154915809/sap-student-training-rotation-program-vtstar-intern-it-services-2028-graduates/)
+  - Location: Dalian, China
+  - Updated: 2026-10-12
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [SAP Student Training & Rotation Program(VT/STAR) Intern (IT Services) - 2028 Graduates](https://jobs.sap.com/en/jobs/744000154915259/sap-student-training-rotation-program-vtstar-intern-it-services-2028-graduates/)
+  - Location: Beijing, China
+  - Updated: 2026-10-12
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -1315,14 +1351,14 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Account Executive, Enterprise (Grower) ](https://stripe.com/jobs/search?gh_jid=7993151)
-  - Location: US-Remote-CA, US-San Francisco, US-Seattle, US-New York
+- [Account Executive, Enterprise (Grower) ](https://stripe.com/jobs/search?gh_jid=8107136)
+  - Location: US-San Francisco, US-Seattle, US-West Coast (Remote) 
   - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Account Executive, Enterprise (Grower) ](https://stripe.com/jobs/search?gh_jid=8107136)
-  - Location: US-San Francisco, US-Seattle, US-West Coast (Remote) 
+- [Account Executive, Enterprise (Grower) ](https://stripe.com/jobs/search?gh_jid=7993151)
+  - Location: US-Remote-CA, US-San Francisco, US-Seattle, US-New York
   - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
