@@ -1,8 +1,8 @@
-# AI and Data Jobs - 2026-10-12
+# AI and Data Jobs - 2026-10-13
 
 ## Summary
 
-- Total matching jobs: 54
+- Total matching jobs: 55
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -15,7 +15,7 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [Engineering Manager, Agentic Internet & Data Insights](https://boards.greenhouse.io/cloudflare/jobs/8143649?gh_jid=8143649)
   - Location: Hybrid
-  - Updated: 2026-10-02
+  - Updated: 2026-10-12
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -131,6 +131,12 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: sap_careers
   - Source type: china_company_career
 
+- [Project Management Specialist - SAP Next Gen - AI Talent Strategy & Go to Market](https://jobs.sap.com/en/jobs/744000155029980/project-management-specialist-sap-next-gen-ai-talent-strategy-go-to-market/)
+  - Location: China
+  - Updated: 2026-10-13
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [SAP China iXp Intern - Data Management Intern for GTLC Team - Shanghai](https://jobs.sap.com/job/Shanghai-SAP-China-iXp-Intern-Data-Management-Intern-for-GTLC-Team-Shanghai-201203/1409649533/)
   - Location: Shanghai, China
   - Updated: 2026-09-14
@@ -193,9 +199,9 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Credit Risk Analyst Commercial Underwriter, West Coast](https://stripe.com/jobs/search?gh_jid=7540441)
+- [Credit Risk Analyst Commercial Underwriter](https://stripe.com/jobs/search?gh_jid=7540441)
   - Location: Chicago, US-Remote, Canada-Remote
-  - Updated: 2026-10-07
+  - Updated: 2026-10-12
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -205,14 +211,14 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291)
-  - Location: New York, Seattle, South San Francisco HQ
+- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287)
+  - Location: Toronto
   - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287)
-  - Location: Toronto
+- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291)
+  - Location: New York, Seattle, South San Francisco HQ
   - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type

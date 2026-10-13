@@ -1,8 +1,8 @@
-# Sales and Business Development Jobs - 2026-10-12
+# Sales and Business Development Jobs - 2026-10-13
 
 ## Summary
 
-- Total matching jobs: 129
+- Total matching jobs: 131
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -15,7 +15,7 @@ Jobs related to sales, account management, business development, partnerships, a
 
 - [Business Development Representative, Beijing](https://boards.greenhouse.io/cloudflare/jobs/8143255?gh_jid=8143255)
   - Location: Hybrid
-  - Updated: 2026-10-07
+  - Updated: 2026-10-12
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -105,13 +105,13 @@ Jobs related to sales, account management, business development, partnerships, a
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Customer Success Associate](https://careers.datadoghq.com/detail/6009779/?gh_jid=6009779)
+- [Customer Success Associate](https://careers.datadoghq.com/detail/5486716/?gh_jid=5486716)
   - Location: Tokyo, Japan
   - Updated: 2026-09-29
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Customer Success Associate](https://careers.datadoghq.com/detail/5486716/?gh_jid=5486716)
+- [Customer Success Associate](https://careers.datadoghq.com/detail/6009779/?gh_jid=6009779)
   - Location: Tokyo, Japan
   - Updated: 2026-09-29
   - Source: greenhouse
@@ -125,7 +125,7 @@ Jobs related to sales, account management, business development, partnerships, a
 
 - [Customer Success Associate (Commercial Accounts)](https://careers.datadoghq.com/detail/8222279/?gh_jid=8222279)
   - Location: Bangalore, India
-  - Updated: 2026-09-29
+  - Updated: 2026-10-12
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -219,14 +219,14 @@ Jobs related to sales, account management, business development, partnerships, a
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Enterprise Sales Executive](https://careers.datadoghq.com/detail/7405822/?gh_jid=7405822)
-  - Location: Georgia, USA, Remote
+- [Enterprise Sales Executive](https://careers.datadoghq.com/detail/7466155/?gh_jid=7466155)
+  - Location: Florida, USA, Remote
   - Updated: 2026-09-29
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Enterprise Sales Executive](https://careers.datadoghq.com/detail/7466155/?gh_jid=7466155)
-  - Location: Florida, USA, Remote
+- [Enterprise Sales Executive](https://careers.datadoghq.com/detail/7405822/?gh_jid=7405822)
+  - Location: Georgia, USA, Remote
   - Updated: 2026-09-29
   - Source: greenhouse
   - Source type: Unknown source type
@@ -243,15 +243,15 @@ Jobs related to sales, account management, business development, partnerships, a
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Enterprise Sales Executive (SLED)](https://careers.datadoghq.com/detail/6379544/?gh_jid=6379544)
-  - Location: Washington, USA, Remote
-  - Updated: 2026-10-06
-  - Source: greenhouse
-  - Source type: Unknown source type
-
 - [Enterprise Sales Executive (SLED)](https://careers.datadoghq.com/detail/7453039/?gh_jid=7453039)
   - Location: Illinois, USA, Remote; Michigan, USA, Remote; Texas, USA, Remote
   - Updated: 2026-09-29
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Enterprise Sales Executive (SLED)](https://careers.datadoghq.com/detail/6379544/?gh_jid=6379544)
+  - Location: Washington, USA, Remote
+  - Updated: 2026-10-06
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -369,12 +369,6 @@ Jobs related to sales, account management, business development, partnerships, a
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Senior Security Sales Engineer](https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877)
-  - Location: Illinois, USA, Remote; Texas, USA, Remote
-  - Updated: 2026-10-08
-  - Source: greenhouse
-  - Source type: Unknown source type
-
 - [Senior Security Sales Engineer](https://careers.datadoghq.com/detail/8141243/?gh_jid=8141243)
   - Location: California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote
   - Updated: 2026-10-08
@@ -387,38 +381,26 @@ Jobs related to sales, account management, business development, partnerships, a
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [Senior Security Sales Engineer](https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877)
+  - Location: Illinois, USA, Remote; Texas, USA, Remote
+  - Updated: 2026-10-08
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/7131363/?gh_jid=7131363)
+  - Location: North Carolina, USA, Remote; South Carolina, USA, Remote
+  - Updated: 2026-09-29
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [Strategic Account Executive](https://careers.datadoghq.com/detail/7134079/?gh_jid=7134079)
   - Location: Texas, USA, Remote
   - Updated: 2026-09-29
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/6522720/?gh_jid=6522720)
-  - Location: Georgia, USA, Remote; Tennessee, USA, Remote
-  - Updated: 2026-10-02
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/6522747/?gh_jid=6522747)
-  - Location: Minnesota, USA, Remote
-  - Updated: 2026-09-29
-  - Source: greenhouse
-  - Source type: Unknown source type
-
 - [Strategic Account Executive](https://careers.datadoghq.com/detail/7057036/?gh_jid=7057036)
   - Location: District of Columbia, USA, Remote; Maryland, USA, Remote; Virginia, USA, Remote
-  - Updated: 2026-09-29
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/8157360/?gh_jid=8157360)
-  - Location: Florida, USA, Remote
-  - Updated: 2026-09-29
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/7131363/?gh_jid=7131363)
-  - Location: North Carolina, USA, Remote; South Carolina, USA, Remote
   - Updated: 2026-09-29
   - Source: greenhouse
   - Source type: Unknown source type
@@ -431,6 +413,24 @@ Jobs related to sales, account management, business development, partnerships, a
 
 - [Strategic Account Executive](https://careers.datadoghq.com/detail/7131495/?gh_jid=7131495)
   - Location: Washington, USA, Remote
+  - Updated: 2026-09-29
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/8157360/?gh_jid=8157360)
+  - Location: Florida, USA, Remote
+  - Updated: 2026-09-29
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/6522720/?gh_jid=6522720)
+  - Location: Georgia, USA, Remote; Tennessee, USA, Remote
+  - Updated: 2026-10-02
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/6522747/?gh_jid=6522747)
+  - Location: Minnesota, USA, Remote
   - Updated: 2026-09-29
   - Source: greenhouse
   - Source type: Unknown source type
@@ -524,6 +524,12 @@ Jobs related to sales, account management, business development, partnerships, a
 - [Internship - Sales Executive Associate F/M](https://jobs.sap.com/en/jobs/744000153617079/internship-sales-executive-associate-fm/)
   - Location: China
   - Updated: 2026-10-06
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Programme Manager (Client Facing: part of SAP Delivery organisation)](https://jobs.sap.com/en/jobs/744000155077879/programme-manager-client-facing-part-of-sap-delivery-organisation/)
+  - Location: China
+  - Updated: 2026-10-13
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -673,14 +679,14 @@ Jobs related to sales, account management, business development, partnerships, a
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Account Executive, Enterprise (Grower) ](https://stripe.com/jobs/search?gh_jid=8107136)
-  - Location: US-San Francisco, US-Seattle, US-West Coast (Remote) 
+- [Account Executive, Enterprise (Grower) ](https://stripe.com/jobs/search?gh_jid=7993151)
+  - Location: US-Remote-CA, US-San Francisco, US-Seattle, US-New York
   - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Account Executive, Enterprise (Grower) ](https://stripe.com/jobs/search?gh_jid=7993151)
-  - Location: US-Remote-CA, US-San Francisco, US-Seattle, US-New York
+- [Account Executive, Enterprise (Grower) ](https://stripe.com/jobs/search?gh_jid=8107136)
+  - Location: US-San Francisco, US-Seattle, US-West Coast (Remote) 
   - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
@@ -694,6 +700,12 @@ Jobs related to sales, account management, business development, partnerships, a
 - [Account Executive, Hunter (Central Eastern Europe)](https://stripe.com/jobs/search?gh_jid=8130052)
   - Location: Poland - Remote OR Romania - Remote
   - Updated: 2026-10-07
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Account Executive, Platforms (Grower)](https://stripe.com/jobs/search?gh_jid=8274920)
+  - Location: US-SF, US-NY, US-Remote, Chicago
+  - Updated: 2026-10-12
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -785,12 +797,12 @@ Jobs related to sales, account management, business development, partnerships, a
 
 - [Business Development Executive/Manager 业务拓展主任/经理](https://swisscham.com.cn/jobs/business-development-executivemanager-yewutazhanzhurenjingli)
   - Location: Shanghai, China
-  - Updated: 2026-10-12
+  - Updated: 2026-10-13
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Business Development Manager](https://swisscham.com.cn/jobs/business-development-manager-0)
   - Location: China
-  - Updated: 2026-10-12
+  - Updated: 2026-10-13
   - Source: swisscham_china
   - Source type: china_local_static

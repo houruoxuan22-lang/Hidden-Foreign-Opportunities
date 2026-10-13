@@ -1,8 +1,8 @@
-# Chicago Jobs - 2026-10-12
+# Chicago Jobs - 2026-10-13
 
 ## Summary
 
-- Total matching jobs: 72
+- Total matching jobs: 74
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -24,6 +24,12 @@ Jobs with Chicago-related location signals.
 - [Account Executive Product - Fraud & Risk ](https://stripe.com/jobs/search?gh_jid=8181024)
   - Location: Chicago, Seattle, NYC, San Francisco, Remote 
   - Updated: 2026-10-07
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Account Executive, Platforms (Grower)](https://stripe.com/jobs/search?gh_jid=8274920)
+  - Location: US-SF, US-NY, US-Remote, Chicago
+  - Updated: 2026-10-12
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -69,9 +75,9 @@ Jobs with Chicago-related location signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Credit Risk Analyst Commercial Underwriter, West Coast](https://stripe.com/jobs/search?gh_jid=7540441)
+- [Credit Risk Analyst Commercial Underwriter](https://stripe.com/jobs/search?gh_jid=7540441)
   - Location: Chicago, US-Remote, Canada-Remote
-  - Updated: 2026-10-07
+  - Updated: 2026-10-12
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -95,7 +101,7 @@ Jobs with Chicago-related location signals.
 
 - [Fraud Architect](https://stripe.com/jobs/search?gh_jid=8203220)
   - Location: SF-HQ, Chicago, New York, US-Remote
-  - Updated: 2026-10-07
+  - Updated: 2026-10-12
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -161,7 +167,7 @@ Jobs with Chicago-related location signals.
 
 - [Partner Development Manager, AMER Bank Partnerships](https://stripe.com/jobs/search?gh_jid=8187566)
   - Location: US-San Francisco; US-New York City; US-Seattle; US-Remote; US-Chicago
-  - Updated: 2026-10-07
+  - Updated: 2026-10-12
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -215,7 +221,7 @@ Jobs with Chicago-related location signals.
 
 - [Partner Development Manager, Strategic Payment Partnerships](https://stripe.com/jobs/search?gh_jid=8155164)
   - Location: US-Remote; US-Chicago; US-Atlanta; CA-Toronto; CA-Remote
-  - Updated: 2026-10-09
+  - Updated: 2026-10-12
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -239,7 +245,13 @@ Jobs with Chicago-related location signals.
 
 - [Partner Solutions Engineer, Ecosystem](https://stripe.com/jobs/search?gh_jid=8227563)
   - Location: US-NYC; US-SF; US-Chicago; US-Atlanta; US-Seattle; US-Remote
-  - Updated: 2026-10-07
+  - Updated: 2026-10-12
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [People Operations Specialist, HR Compliance](https://stripe.com/jobs/search?gh_jid=8189015)
+  - Location: Chicago, US-Remote
+  - Updated: 2026-10-12
   - Source: greenhouse
   - Source type: Unknown source type
 
