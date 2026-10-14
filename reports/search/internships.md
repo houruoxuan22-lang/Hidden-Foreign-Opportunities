@@ -1,8 +1,8 @@
-# Internships and Early-career Jobs - 2026-10-13
+# Internships and Early-career Jobs - 2026-10-14
 
 ## Summary
 
-- Total matching jobs: 121
+- Total matching jobs: 125
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -109,21 +109,21 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer Intern (2027)](https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211)
+- [Software Engineer Intern (2027)](https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197)
   - Location: In-Office
-  - Updated: 2026-10-05
+  - Updated: 2026-10-13
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer Intern (2027)](https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197)
+- [Software Engineer Intern (2027)](https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211)
   - Location: In-Office
-  - Updated: 2026-10-05
+  - Updated: 2026-10-13
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Software Engineer Intern (2027) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958)
   - Location: In-Office
-  - Updated: 2026-10-02
+  - Updated: 2026-10-13
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -232,6 +232,24 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 - [Copy of Academic Partnerships iXp Intern – Digital Marketing & Audience Engagement | Academic Partnerships](https://jobs.sap.com/en/jobs/744000155129129/copy-of-academic-partnerships-ixp-intern-digital-marketing-audience-engagement-academic-partnerships/)
   - Location: China
   - Updated: 2026-10-13
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Copy of SAP iXp Intern - Technical Quality Manager | Services Engagement](https://jobs.sap.com/en/jobs/744000155364630/copy-of-sap-ixp-intern-technical-quality-manager-services-engagement/)
+  - Location: China
+  - Updated: 2026-10-14
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Diploma Student / Intern](https://jobs.sap.com/en/jobs/744000155414659/diploma-student-intern/)
+  - Location: Dalian, China
+  - Updated: 2026-10-14
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Diploma Student / Intern](https://jobs.sap.com/en/jobs/744000155408689/diploma-student-intern/)
+  - Location: Dalian, China
+  - Updated: 2026-10-14
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -523,6 +541,12 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: sap_careers
   - Source type: china_company_career
 
+- [SAP iXp Intern - Technical Quality Manager | Services Engagement](https://jobs.sap.com/en/jobs/744000155365399/sap-ixp-intern-technical-quality-manager-services-engagement/)
+  - Location: China
+  - Updated: 2026-10-14
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [SAP iXp Intern Quality Analyst – Customer & Partner Support (student, limited full time)](https://jobs.sap.com/en/jobs/744000154592189/sap-ixp-intern-quality-analyst-customer-partner-support-student-limited-full-time/)
   - Location: China
   - Updated: 2026-10-09
@@ -681,6 +705,12 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130883)
+  - Location: Singapore
+  - Updated: 2026-10-07
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8031833)
   - Location: Bengaluru
   - Updated: 2026-10-07
@@ -689,12 +719,6 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 
 - [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130867)
   - Location: London
-  - Updated: 2026-10-07
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130883)
-  - Location: Singapore
   - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
@@ -711,14 +735,14 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8097801)
-  - Location: Dublin
+- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8128745)
+  - Location: San Francisco, Seattle, New York City
   - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8128745)
-  - Location: San Francisco, Seattle, New York City
+- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8097801)
+  - Location: Dublin
   - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
@@ -745,6 +769,6 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-10-13
+  - Updated: 2026-10-14
   - Source: swisscham_china
   - Source type: china_local_static

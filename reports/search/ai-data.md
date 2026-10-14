@@ -1,4 +1,4 @@
-# AI and Data Jobs - 2026-10-13
+# AI and Data Jobs - 2026-10-14
 
 ## Summary
 
@@ -15,7 +15,7 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [Engineering Manager, Agentic Internet & Data Insights](https://boards.greenhouse.io/cloudflare/jobs/8143649?gh_jid=8143649)
   - Location: Hybrid
-  - Updated: 2026-10-12
+  - Updated: 2026-10-13
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -327,7 +327,7 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [Security Analyst ](https://stripe.com/jobs/search?gh_jid=8142302)
   - Location: US Remote
-  - Updated: 2026-10-08
+  - Updated: 2026-10-13
   - Source: greenhouse
   - Source type: Unknown source type
 

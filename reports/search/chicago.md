@@ -1,8 +1,8 @@
-# Chicago Jobs - 2026-10-13
+# Chicago Jobs - 2026-10-14
 
 ## Summary
 
-- Total matching jobs: 74
+- Total matching jobs: 76
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -173,7 +173,7 @@ Jobs with Chicago-related location signals.
 
 - [Partner Development Manager, Ecosystem Partnerships](https://stripe.com/jobs/search?gh_jid=8180254)
   - Location: Atlanta, Chicago, US-Remote 
-  - Updated: 2026-09-17
+  - Updated: 2026-10-13
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -207,6 +207,12 @@ Jobs with Chicago-related location signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [Partner Development Manager, Strategic Distribution Partnerships](https://stripe.com/jobs/search?gh_jid=8155164)
+  - Location: US-Remote; US-Chicago; US-Atlanta; CA-Toronto; CA-Remote
+  - Updated: 2026-10-13
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [Partner Development Manager, Strategic Partnerships](https://stripe.com/jobs/search?gh_jid=8094869)
   - Location: US-NYC; US-San Francisco; US-Seattle; US-Remote; US- Chicago; US-Atlanta; Canada-Toronto; Canada-Remote
   - Updated: 2026-09-25
@@ -219,9 +225,9 @@ Jobs with Chicago-related location signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Partner Development Manager, Strategic Payment Partnerships](https://stripe.com/jobs/search?gh_jid=8155164)
+- [Partner Development Manager, Strategic Payment Partnerships](https://stripe.com/jobs/search?gh_jid=8275513)
   - Location: US-Remote; US-Chicago; US-Atlanta; CA-Toronto; CA-Remote
-  - Updated: 2026-10-12
+  - Updated: 2026-10-13
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -414,6 +420,12 @@ Jobs with Chicago-related location signals.
 - [Solutions Architect, Enterprise (Presales)](https://stripe.com/jobs/search?gh_jid=7827184)
   - Location: Chicago, IL or San Francisco, CA OR US Remote
   - Updated: 2026-08-24
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Solutions Architect, Metronome (Startups)](https://stripe.com/jobs/search?gh_jid=8072257)
+  - Location: SF, NYC, Chicago, US-Remote
+  - Updated: 2026-10-13
   - Source: greenhouse
   - Source type: Unknown source type
 
