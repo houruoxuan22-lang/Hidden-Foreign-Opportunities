@@ -1,8 +1,8 @@
-# AI and Data Jobs - 2026-10-14
+# AI and Data Jobs - 2026-10-15
 
 ## Summary
 
-- Total matching jobs: 55
+- Total matching jobs: 58
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -57,11 +57,23 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [Senior Sales Engineer - AI Accounts](https://careers.datadoghq.com/detail/8238455/?gh_jid=8238455)
+  - Location: California, USA, Remote; Illinois, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote
+  - Updated: 2026-10-14
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 ### SAP China
 
 - [(Junior) Data Engineer - Integration & AI](https://jobs.sap.com/en/jobs/744000153237348/junior-data-engineer-integration-ai/)
   - Location: China
   - Updated: 2026-10-05
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [AI Engineer (Developer) - Autonomous Compliance Foundation](https://jobs.sap.com/en/jobs/744000155596988/ai-engineer-developer-autonomous-compliance-foundation/)
+  - Location: China
+  - Updated: 2026-10-15
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -173,6 +185,12 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: sap_careers
   - Source type: china_company_career
 
+- [Senior AI Engineer (Developer) - Autonomous Compliance Foundation](https://jobs.sap.com/en/jobs/744000155596838/senior-ai-engineer-developer-autonomous-compliance-foundation/)
+  - Location: China
+  - Updated: 2026-10-15
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [Senior Application AI Engineer - Globalization E-Invoicing Unit](https://jobs.sap.com/en/jobs/744000154718139/senior-application-ai-engineer-globalization-e-invoicing-unit/)
   - Location: China
   - Updated: 2026-10-11
@@ -186,12 +204,6 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source type: china_company_career
 
 ### Stripe
-
-- [Business Partner Analyst](https://stripe.com/jobs/search?gh_jid=8079783)
-  - Location: US-SF, US-Seattle, US-NYC, US-Chicago, US-Georgia or US-Remote
-  - Updated: 2026-10-07
-  - Source: greenhouse
-  - Source type: Unknown source type
 
 - [Business Value Scale Analyst](https://stripe.com/jobs/search?gh_jid=8097047)
   - Location: US-Remote
@@ -211,14 +223,14 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287)
-  - Location: Toronto
+- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291)
+  - Location: New York, Seattle, South San Francisco HQ
   - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291)
-  - Location: New York, Seattle, South San Francisco HQ
+- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287)
+  - Location: Toronto
   - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
@@ -303,13 +315,13 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921)
   - Location: Remote
-  - Updated: 2026-10-07
+  - Updated: 2026-10-14
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Risk Operations Analyst - SSO ](https://stripe.com/jobs/search?gh_jid=8175824)
   - Location: Remote 
-  - Updated: 2026-10-07
+  - Updated: 2026-10-14
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -346,5 +358,11 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 - [Specialist Solutions Architect, Data](https://stripe.com/jobs/search?gh_jid=8144262)
   - Location: SF, NY, Remote
   - Updated: 2026-10-07
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Strategy & Analytics Business Partner Analyst](https://stripe.com/jobs/search?gh_jid=8079783)
+  - Location: US-SF, US-Seattle, US-NYC, US-Chicago, US-Georgia or US-Remote
+  - Updated: 2026-10-14
   - Source: greenhouse
   - Source type: Unknown source type

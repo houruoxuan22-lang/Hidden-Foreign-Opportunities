@@ -1,4 +1,4 @@
-# Chicago Jobs - 2026-10-14
+# Chicago Jobs - 2026-10-15
 
 ## Summary
 
@@ -41,12 +41,6 @@ Jobs with Chicago-related location signals.
 
 - [Backend Engineer, Core Technology](https://stripe.com/jobs/search?gh_jid=6042172)
   - Location: US-Remote, Chicago, Seattle, San Francisco
-  - Updated: 2026-10-07
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Business Partner Analyst](https://stripe.com/jobs/search?gh_jid=8079783)
-  - Location: US-SF, US-Seattle, US-NYC, US-Chicago, US-Georgia or US-Remote
   - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
@@ -450,6 +444,12 @@ Jobs with Chicago-related location signals.
 - [Strategic Business Performance, Central Strategy & Operations](https://stripe.com/jobs/search?gh_jid=8155580)
   - Location: US-Chicago, US-Remote, US-Seattle, US-San Francisco
   - Updated: 2026-10-07
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Strategy & Analytics Business Partner Analyst](https://stripe.com/jobs/search?gh_jid=8079783)
+  - Location: US-SF, US-Seattle, US-NYC, US-Chicago, US-Georgia or US-Remote
+  - Updated: 2026-10-14
   - Source: greenhouse
   - Source type: Unknown source type
 
