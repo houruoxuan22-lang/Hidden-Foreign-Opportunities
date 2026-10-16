@@ -1,8 +1,8 @@
-# Chicago Jobs - 2026-10-15
+# Chicago Jobs - 2026-10-16
 
 ## Summary
 
-- Total matching jobs: 76
+- Total matching jobs: 77
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -378,6 +378,12 @@ Jobs with Chicago-related location signals.
 - [Sales Excellence Manager, Global Sales Vendors](https://stripe.com/jobs/search?gh_jid=8011418)
   - Location: San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US
   - Updated: 2026-08-18
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Sales Manager, Enterprise Hunter - Public Sector ](https://stripe.com/jobs/search?gh_jid=8191718)
+  - Location: US-Remote, US-Chicago, US-New York, US-San Francisco
+  - Updated: 2026-10-15
   - Source: greenhouse
   - Source type: Unknown source type
 

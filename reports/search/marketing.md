@@ -1,8 +1,8 @@
-# Marketing and Communications Jobs - 2026-10-15
+# Marketing and Communications Jobs - 2026-10-16
 
 ## Summary
 
-- Total matching jobs: 45
+- Total matching jobs: 46
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -72,6 +72,12 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
   - Source type: china_local_static
 
 ### SAP China
+
+- [Academic Partnerships iXp Intern – Digital Marketing & Audience Engagement | Academic Partnerships](https://jobs.sap.com/en/jobs/744000155853300/academic-partnerships-ixp-intern-digital-marketing-audience-engagement-academic-partnerships/)
+  - Location: China
+  - Updated: 2026-10-16
+  - Source: sap_careers
+  - Source type: china_company_career
 
 - [Copy of Academic Partnerships iXp Intern – Digital Marketing & Audience Engagement | Academic Partnerships](https://jobs.sap.com/en/jobs/744000155129129/copy-of-academic-partnerships-ixp-intern-digital-marketing-audience-engagement-academic-partnerships/)
   - Location: China
@@ -283,12 +289,12 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Marketing & Communications Specialist](https://swisscham.com.cn/jobs/marketing-communications-specialist-0)
   - Location: Shanghai, China
-  - Updated: 2026-10-15
+  - Updated: 2026-10-16
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-10-15
+  - Updated: 2026-10-16
   - Source: swisscham_china
   - Source type: china_local_static
