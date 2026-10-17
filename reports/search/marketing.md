@@ -1,8 +1,8 @@
-# Marketing and Communications Jobs - 2026-10-16
+# Marketing and Communications Jobs - 2026-10-17
 
 ## Summary
 
-- Total matching jobs: 46
+- Total matching jobs: 47
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -106,6 +106,12 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 - [SAP iXp Intern - Marketing and Communications Coordinator](https://jobs.sap.com/en/jobs/744000153268167/sap-ixp-intern-marketing-and-communications-coordinator/)
   - Location: China
   - Updated: 2026-10-05
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Senior Platform Engineer (f/m/d) for LoB & Industry Content Integration — Data Science (Physical AI)](https://jobs.sap.com/en/jobs/744000155998748/senior-platform-engineer-fmd-for-lob-industry-content-integration-data-science-physical-ai/)
+  - Location: China
+  - Updated: 2026-10-17
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -289,12 +295,12 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Marketing & Communications Specialist](https://swisscham.com.cn/jobs/marketing-communications-specialist-0)
   - Location: Shanghai, China
-  - Updated: 2026-10-16
+  - Updated: 2026-10-17
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-10-16
+  - Updated: 2026-10-17
   - Source: swisscham_china
   - Source type: china_local_static
