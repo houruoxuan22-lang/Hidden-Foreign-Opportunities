@@ -1,4 +1,4 @@
-# Sales and Business Development Jobs - 2026-10-17
+# Sales and Business Development Jobs - 2026-10-18
 
 ## Summary
 
@@ -523,7 +523,7 @@ Jobs related to sales, account management, business development, partnerships, a
 
 - [Account Executive Expert](https://jobs.sap.com/en/jobs/744000156015351/account-executive-expert/)
   - Location: China
-  - Updated: 2026-10-17
+  - Updated: 2026-10-18
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -619,7 +619,7 @@ Jobs related to sales, account management, business development, partnerships, a
 
 - [SAPiXp - Global Revenue Operations Intern – Project Management and Business Analysis](https://jobs.sap.com/en/jobs/744000156047893/sapixp-global-revenue-operations-intern-project-management-and-business-analysis/)
   - Location: China
-  - Updated: 2026-10-17
+  - Updated: 2026-10-18
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -715,7 +715,7 @@ Jobs related to sales, account management, business development, partnerships, a
 
 - [Working Student (f/m/d) - Sales Strategic Customer Program MEE](https://jobs.sap.com/en/jobs/744000156076128/working-student-fmd-sales-strategic-customer-program-mee/)
   - Location: China
-  - Updated: 2026-10-17
+  - Updated: 2026-10-18
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -881,12 +881,12 @@ Jobs related to sales, account management, business development, partnerships, a
 
 - [Business Development Executive/Manager 业务拓展主任/经理](https://swisscham.com.cn/jobs/business-development-executivemanager-yewutazhanzhurenjingli)
   - Location: Shanghai, China
-  - Updated: 2026-10-17
+  - Updated: 2026-10-18
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Business Development Manager](https://swisscham.com.cn/jobs/business-development-manager-0)
   - Location: China
-  - Updated: 2026-10-17
+  - Updated: 2026-10-18
   - Source: swisscham_china
   - Source type: china_local_static

@@ -1,8 +1,8 @@
-# Daily Foreign Job Radar - 2026-10-17
+# Daily Foreign Job Radar - 2026-10-18
 
 ## Summary
 
-- Total relevant jobs: 677
+- Total relevant jobs: 679
 - Companies tracked in this report: 6
 - China / APAC relevant jobs: 70
 - Global remote jobs: 299
@@ -43,55 +43,55 @@
 
 - [(Assistant) Manager – Account Management](https://swisscham.com.cn/jobs/assistant-manager-account-management)
   - Location: Shanghai, China
-  - Updated: 2026-10-17
+  - Updated: 2026-10-18
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [(Senior) Associate – Account Management](https://swisscham.com.cn/jobs/senior-associate-account-management)
   - Location: Shanghai, China
-  - Updated: 2026-10-17
+  - Updated: 2026-10-18
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [Sea Freight Product Manager](https://swisscham.com.cn/jobs/sea-freight-product-manager)
   - Location: China
-  - Updated: 2026-10-17
+  - Updated: 2026-10-18
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [Marketing & Communications Specialist](https://swisscham.com.cn/jobs/marketing-communications-specialist-0)
   - Location: Shanghai, China
-  - Updated: 2026-10-17
+  - Updated: 2026-10-18
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [Business Development Executive/Manager 业务拓展主任/经理](https://swisscham.com.cn/jobs/business-development-executivemanager-yewutazhanzhurenjingli)
   - Location: Shanghai, China
-  - Updated: 2026-10-17
+  - Updated: 2026-10-18
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [Shaohe Law Firm – Recruitment / 劭合律师事务所招聘启事](https://swisscham.com.cn/jobs/shaohe-law-firm-recruitment-shaohelushishiwusuozhaopinqishi)
   - Location: China
-  - Updated: 2026-10-17
+  - Updated: 2026-10-18
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [Internal Medicine Physician](https://swisscham.com.cn/jobs/internal-medicine-physician)
   - Location: Beijing, China
-  - Updated: 2026-10-17
+  - Updated: 2026-10-18
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-10-17
+  - Updated: 2026-10-18
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [Business Development Manager](https://swisscham.com.cn/jobs/business-development-manager-0)
   - Location: China
-  - Updated: 2026-10-17
+  - Updated: 2026-10-18
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
@@ -105,55 +105,67 @@
 
 - [Working Student (f/m/d) - Sales Strategic Customer Program MEE](https://jobs.sap.com/en/jobs/744000156076128/working-student-fmd-sales-strategic-customer-program-mee/)
   - Location: China
-  - Updated: 2026-10-17
+  - Updated: 2026-10-18
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
 - [Project Management Specialist - SAP Next Gen - AI Talent Strategy & Go to Market](https://jobs.sap.com/en/jobs/744000156073824/project-management-specialist-sap-next-gen-ai-talent-strategy-go-to-market/)
   - Location: China
-  - Updated: 2026-10-17
+  - Updated: 2026-10-18
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
 - [SAP iXp - SAP Business Suite CSM & CRE Strategy & Operations iXp Intern](https://jobs.sap.com/en/jobs/744000156072287/sap-ixp-sap-business-suite-csm-cre-strategy-operations-ixp-intern/)
   - Location: China
-  - Updated: 2026-10-17
+  - Updated: 2026-10-18
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
 - [SAPiXp - Global Revenue Operations Intern – Project Management and Business Analysis](https://jobs.sap.com/en/jobs/744000156047893/sapixp-global-revenue-operations-intern-project-management-and-business-analysis/)
   - Location: China
-  - Updated: 2026-10-17
+  - Updated: 2026-10-18
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
 - [AI Engineer – Development Expert (f/m/d)](https://jobs.sap.com/en/jobs/744000156035248/ai-engineer-development-expert-fmd/)
   - Location: China
-  - Updated: 2026-10-17
+  - Updated: 2026-10-18
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
 - [Senior AI Engineer (f/m/d)](https://jobs.sap.com/en/jobs/744000156030458/senior-ai-engineer-fmd/)
   - Location: China
-  - Updated: 2026-10-17
+  - Updated: 2026-10-18
+  - Source: sap_careers
+  - Status: Listed on official career page at report generation
+
+- [Territory Ecosystem Manager (f/m/d) Partner-Driven Corporate Germany](https://jobs.sap.com/en/jobs/744000156021166/territory-ecosystem-manager-fmd-partner-driven-corporate-germany/)
+  - Location: China
+  - Updated: 2026-10-18
+  - Source: sap_careers
+  - Status: Listed on official career page at report generation
+
+- [Territory Ecosystem Manager (f/m/d) Partner-Driven Corporate Germany](https://jobs.sap.com/en/jobs/744000156019572/territory-ecosystem-manager-fmd-partner-driven-corporate-germany/)
+  - Location: China
+  - Updated: 2026-10-18
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
 - [Account Executive Expert](https://jobs.sap.com/en/jobs/744000156015351/account-executive-expert/)
   - Location: China
-  - Updated: 2026-10-17
+  - Updated: 2026-10-18
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
 - [Principal Business Process Consultant - SuccessFactors / SmartRecruiters - Hungary](https://jobs.sap.com/en/jobs/744000156013629/principal-business-process-consultant-successfactors-smartrecruiters-hungary/)
   - Location: China
-  - Updated: 2026-10-17
+  - Updated: 2026-10-18
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 
 - [Senior Platform Engineer (f/m/d) for LoB & Industry Content Integration — Data Science (Physical AI)](https://jobs.sap.com/en/jobs/744000155998748/senior-platform-engineer-fmd-for-lob-industry-content-integration-data-science-physical-ai/)
   - Location: China
-  - Updated: 2026-10-17
+  - Updated: 2026-10-18
   - Source: sap_careers
   - Status: Listed on official career page at report generation
 

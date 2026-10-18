@@ -1,8 +1,8 @@
-# Remote Jobs - 2026-10-17
+# Remote Jobs - 2026-10-18
 
 ## Summary
 
-- Total matching jobs: 501
+- Total matching jobs: 503
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -769,7 +769,7 @@ Jobs with remote or distributed work signals.
 
 - [Account Executive Expert](https://jobs.sap.com/en/jobs/744000156015351/account-executive-expert/)
   - Location: China
-  - Updated: 2026-10-17
+  - Updated: 2026-10-18
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -787,7 +787,7 @@ Jobs with remote or distributed work signals.
 
 - [AI Engineer – Development Expert (f/m/d)](https://jobs.sap.com/en/jobs/744000156035248/ai-engineer-development-expert-fmd/)
   - Location: China
-  - Updated: 2026-10-17
+  - Updated: 2026-10-18
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -1081,7 +1081,7 @@ Jobs with remote or distributed work signals.
 
 - [Principal Business Process Consultant - SuccessFactors / SmartRecruiters - Hungary](https://jobs.sap.com/en/jobs/744000156013629/principal-business-process-consultant-successfactors-smartrecruiters-hungary/)
   - Location: China
-  - Updated: 2026-10-17
+  - Updated: 2026-10-18
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -1117,7 +1117,7 @@ Jobs with remote or distributed work signals.
 
 - [Project Management Specialist - SAP Next Gen - AI Talent Strategy & Go to Market](https://jobs.sap.com/en/jobs/744000156073824/project-management-specialist-sap-next-gen-ai-talent-strategy-go-to-market/)
   - Location: China
-  - Updated: 2026-10-17
+  - Updated: 2026-10-18
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -1153,7 +1153,7 @@ Jobs with remote or distributed work signals.
 
 - [SAP iXp - SAP Business Suite CSM & CRE Strategy & Operations iXp Intern](https://jobs.sap.com/en/jobs/744000156072287/sap-ixp-sap-business-suite-csm-cre-strategy-operations-ixp-intern/)
   - Location: China
-  - Updated: 2026-10-17
+  - Updated: 2026-10-18
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -1435,7 +1435,7 @@ Jobs with remote or distributed work signals.
 
 - [SAPiXp - Global Revenue Operations Intern – Project Management and Business Analysis](https://jobs.sap.com/en/jobs/744000156047893/sapixp-global-revenue-operations-intern-project-management-and-business-analysis/)
   - Location: China
-  - Updated: 2026-10-17
+  - Updated: 2026-10-18
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -1483,7 +1483,7 @@ Jobs with remote or distributed work signals.
 
 - [Senior AI Engineer (f/m/d)](https://jobs.sap.com/en/jobs/744000156030458/senior-ai-engineer-fmd/)
   - Location: China
-  - Updated: 2026-10-17
+  - Updated: 2026-10-18
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -1513,7 +1513,7 @@ Jobs with remote or distributed work signals.
 
 - [Senior Platform Engineer (f/m/d) for LoB & Industry Content Integration — Data Science (Physical AI)](https://jobs.sap.com/en/jobs/744000155998748/senior-platform-engineer-fmd-for-lob-industry-content-integration-data-science-physical-ai/)
   - Location: China
-  - Updated: 2026-10-17
+  - Updated: 2026-10-18
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -1601,9 +1601,21 @@ Jobs with remote or distributed work signals.
   - Source: sap_careers
   - Source type: china_company_career
 
+- [Territory Ecosystem Manager (f/m/d) Partner-Driven Corporate Germany](https://jobs.sap.com/en/jobs/744000156021166/territory-ecosystem-manager-fmd-partner-driven-corporate-germany/)
+  - Location: China
+  - Updated: 2026-10-18
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Territory Ecosystem Manager (f/m/d) Partner-Driven Corporate Germany](https://jobs.sap.com/en/jobs/744000156019572/territory-ecosystem-manager-fmd-partner-driven-corporate-germany/)
+  - Location: China
+  - Updated: 2026-10-18
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [Working Student (f/m/d) - Sales Strategic Customer Program MEE](https://jobs.sap.com/en/jobs/744000156076128/working-student-fmd-sales-strategic-customer-program-mee/)
   - Location: China
-  - Updated: 2026-10-17
+  - Updated: 2026-10-18
   - Source: sap_careers
   - Source type: china_company_career
 

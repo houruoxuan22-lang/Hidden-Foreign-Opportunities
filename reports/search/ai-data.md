@@ -1,4 +1,4 @@
-# AI and Data Jobs - 2026-10-17
+# AI and Data Jobs - 2026-10-18
 
 ## Summary
 
@@ -79,7 +79,7 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [AI Engineer – Development Expert (f/m/d)](https://jobs.sap.com/en/jobs/744000156035248/ai-engineer-development-expert-fmd/)
   - Location: China
-  - Updated: 2026-10-17
+  - Updated: 2026-10-18
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -157,7 +157,7 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [Project Management Specialist - SAP Next Gen - AI Talent Strategy & Go to Market](https://jobs.sap.com/en/jobs/744000156073824/project-management-specialist-sap-next-gen-ai-talent-strategy-go-to-market/)
   - Location: China
-  - Updated: 2026-10-17
+  - Updated: 2026-10-18
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -211,7 +211,7 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [Senior AI Engineer (f/m/d)](https://jobs.sap.com/en/jobs/744000156030458/senior-ai-engineer-fmd/)
   - Location: China
-  - Updated: 2026-10-17
+  - Updated: 2026-10-18
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -229,7 +229,7 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [Senior Platform Engineer (f/m/d) for LoB & Industry Content Integration — Data Science (Physical AI)](https://jobs.sap.com/en/jobs/744000155998748/senior-platform-engineer-fmd-for-lob-industry-content-integration-data-science-physical-ai/)
   - Location: China
-  - Updated: 2026-10-17
+  - Updated: 2026-10-18
   - Source: sap_careers
   - Source type: china_company_career
 
