@@ -1,18 +1,18 @@
-# Weekly Job Trend Report - 2026-10-18
+# Weekly Job Trend Report - 2026-10-19
 
 ## Summary
 
-- Snapshot window: 2026-10-12 to 2026-10-18
+- Snapshot window: 2026-10-13 to 2026-10-19
 - Snapshot days available: 7
-- Latest total relevant jobs: 679
-- Change vs first available snapshot: 62
+- Latest total relevant jobs: 680
+- Change vs first available snapshot: 54
 
 ## Skill Trend Signals
 
 - Communication: 142 (+4)
-- Project Management: 96 (+5)
+- Project Management: 96 (+4)
 - SQL: 79 (+1)
-- Sales: 77 (+7)
+- Sales: 77 (+6)
 - Python: 74 (+1)
 - Operations: 53 (+1)
 - Excel: 41 (0)
@@ -28,7 +28,7 @@
 ## Job Distribution by Section
 
 - Global Remote Jobs: 299
-- Mainland China Foreign Employer Jobs: 205
+- Mainland China Foreign Employer Jobs: 206
 - China / APAC Relevant Jobs: 70
 - Other International Jobs: 37
 - Other Relevant Jobs: 35
@@ -37,7 +37,7 @@
 ## Top Companies in Latest Snapshot
 
 - Stripe: 293
-- SAP China: 184
+- SAP China: 185
 - Datadog: 129
 - Cloudflare: 52
 - European Chamber China: 11
