@@ -1,4 +1,4 @@
-# Chicago Jobs - 2026-10-19
+# Chicago Jobs - 2026-10-20
 
 ## Summary
 
@@ -83,7 +83,7 @@ Jobs with Chicago-related location signals.
 
 - [Engineering Manager, Billing Products](https://stripe.com/jobs/search?gh_jid=8180536)
   - Location: US-Remote, Chicago
-  - Updated: 2026-10-07
+  - Updated: 2026-10-19
   - Source: greenhouse
   - Source type: Unknown source type
 

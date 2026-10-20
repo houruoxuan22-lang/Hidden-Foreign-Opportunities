@@ -1,8 +1,8 @@
-# AI and Data Jobs - 2026-10-19
+# AI and Data Jobs - 2026-10-20
 
 ## Summary
 
-- Total matching jobs: 64
+- Total matching jobs: 70
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -15,7 +15,7 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [Engineering Manager, Agentic Internet & Data Insights](https://boards.greenhouse.io/cloudflare/jobs/8143649?gh_jid=8143649)
   - Location: Hybrid
-  - Updated: 2026-10-13
+  - Updated: 2026-10-19
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -71,9 +71,33 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: sap_careers
   - Source type: china_company_career
 
+- [AI Engineer (Associate AI Developer) (f/m/d)](https://jobs.sap.com/en/jobs/744000156367698/ai-engineer-associate-ai-developer-fmd/)
+  - Location: China
+  - Updated: 2026-10-20
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [AI Engineer (Developer) - Autonomous Compliance Foundation](https://jobs.sap.com/en/jobs/744000155596988/ai-engineer-developer-autonomous-compliance-foundation/)
   - Location: China
   - Updated: 2026-10-15
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [AI Engineer (f/m/d)](https://jobs.sap.com/en/jobs/744000156366769/ai-engineer-fmd/)
+  - Location: China
+  - Updated: 2026-10-20
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [AI Engineer (f/m/d)](https://jobs.sap.com/en/jobs/744000156367297/ai-engineer-fmd/)
+  - Location: China
+  - Updated: 2026-10-20
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [AI Engineer – Development Expert (f/m/d)](https://jobs.sap.com/en/jobs/744000156364628/ai-engineer-development-expert-fmd/)
+  - Location: China
+  - Updated: 2026-10-20
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -209,6 +233,12 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: sap_careers
   - Source type: china_company_career
 
+- [Senior AI Engineer (f/m/d)](https://jobs.sap.com/en/jobs/744000156361844/senior-ai-engineer-fmd/)
+  - Location: China
+  - Updated: 2026-10-20
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [Senior AI Engineer (f/m/d)](https://jobs.sap.com/en/jobs/744000156030458/senior-ai-engineer-fmd/)
   - Location: China
   - Updated: 2026-10-19
@@ -224,6 +254,12 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 - [Senior Application AI Engineer and Data Scientist - Globalization E-Invoicing Unit](https://jobs.sap.com/en/jobs/744000154720670/senior-application-ai-engineer-and-data-scientist-globalization-e-invoicing-unit/)
   - Location: China
   - Updated: 2026-10-11
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Senior Consultant - Python, MLops, Agentic AI](https://jobs.sap.com/en/jobs/744000156350554/senior-consultant-python-mlops-agentic-ai/)
+  - Location: China
+  - Updated: 2026-10-20
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -253,14 +289,14 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287)
-  - Location: Toronto
+- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291)
+  - Location: New York, Seattle, South San Francisco HQ
   - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291)
-  - Location: New York, Seattle, South San Francisco HQ
+- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287)
+  - Location: Toronto
   - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
@@ -319,14 +355,14 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285)
-  - Location: Toronto
+- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283)
+  - Location: New York, Seattle, South San Francisco HQ
   - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283)
-  - Location: New York, Seattle, South San Francisco HQ
+- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285)
+  - Location: Toronto
   - Updated: 2026-10-07
   - Source: greenhouse
   - Source type: Unknown source type
@@ -369,7 +405,7 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [Security Analyst ](https://stripe.com/jobs/search?gh_jid=8142302)
   - Location: US Remote
-  - Updated: 2026-10-13
+  - Updated: 2026-10-19
   - Source: greenhouse
   - Source type: Unknown source type
 

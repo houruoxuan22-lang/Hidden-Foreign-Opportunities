@@ -1,8 +1,8 @@
-# Marketing and Communications Jobs - 2026-10-19
+# Marketing and Communications Jobs - 2026-10-20
 
 ## Summary
 
-- Total matching jobs: 47
+- Total matching jobs: 48
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -207,6 +207,12 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [Marketing Technology Program Manager](https://stripe.com/jobs/search?gh_jid=8257939)
+  - Location: US Remote
+  - Updated: 2026-10-19
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [Partner Marketing Leader, Alliances & Channel](https://stripe.com/jobs/search?gh_jid=8257500)
   - Location: Seattle, San Francisco, or US-Remote
   - Updated: 2026-10-07
@@ -295,12 +301,12 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Marketing & Communications Specialist](https://swisscham.com.cn/jobs/marketing-communications-specialist-0)
   - Location: Shanghai, China
-  - Updated: 2026-10-19
+  - Updated: 2026-10-20
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-10-19
+  - Updated: 2026-10-20
   - Source: swisscham_china
   - Source type: china_local_static

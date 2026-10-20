@@ -1,8 +1,8 @@
-# Mainland China Foreign Employer Jobs - 2026-10-19
+# Mainland China Foreign Employer Jobs - 2026-10-20
 
 ## Summary
 
-- Total matching jobs: 206
+- Total matching jobs: 218
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -111,9 +111,33 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
   - Source: sap_careers
   - Source type: china_company_career
 
+- [AI Engineer (Associate AI Developer) (f/m/d)](https://jobs.sap.com/en/jobs/744000156367698/ai-engineer-associate-ai-developer-fmd/)
+  - Location: China
+  - Updated: 2026-10-20
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [AI Engineer (Developer) - Autonomous Compliance Foundation](https://jobs.sap.com/en/jobs/744000155596988/ai-engineer-developer-autonomous-compliance-foundation/)
   - Location: China
   - Updated: 2026-10-15
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [AI Engineer (f/m/d)](https://jobs.sap.com/en/jobs/744000156366769/ai-engineer-fmd/)
+  - Location: China
+  - Updated: 2026-10-20
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [AI Engineer (f/m/d)](https://jobs.sap.com/en/jobs/744000156367297/ai-engineer-fmd/)
+  - Location: China
+  - Updated: 2026-10-20
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [AI Engineer – Development Expert (f/m/d)](https://jobs.sap.com/en/jobs/744000156364628/ai-engineer-development-expert-fmd/)
+  - Location: China
+  - Updated: 2026-10-20
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -159,9 +183,33 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
   - Source: sap_careers
   - Source type: china_company_career
 
+- [Business Process Consultant - SuccessFactors / SmartRecruiters (with German) - Czech Republic](https://jobs.sap.com/en/jobs/744000156355929/business-process-consultant-successfactors-smartrecruiters-with-german-czech-republic/)
+  - Location: China
+  - Updated: 2026-10-20
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Business Process Consultant - SuccessFactors / SmartRecruiters (with German) - Hungary](https://jobs.sap.com/en/jobs/744000156355619/business-process-consultant-successfactors-smartrecruiters-with-german-hungary/)
+  - Location: China
+  - Updated: 2026-10-20
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [Business Process Consultant - SuccessFactors / SmartRecruiters (with German) - Hungary](https://jobs.sap.com/en/jobs/744000155776724/business-process-consultant-successfactors-smartrecruiters-with-german-hungary/)
   - Location: China
   - Updated: 2026-10-16
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Business Process Consultant - SuccessFactors / SmartRecruiters (with German) - Poland](https://jobs.sap.com/en/jobs/744000156354270/business-process-consultant-successfactors-smartrecruiters-with-german-poland/)
+  - Location: China
+  - Updated: 2026-10-20
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Business Process Consultant - SuccessFactors / SmartRecruiters - Austria](https://jobs.sap.com/en/jobs/744000156354999/business-process-consultant-successfactors-smartrecruiters-austria/)
+  - Location: China
+  - Updated: 2026-10-20
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -474,6 +522,12 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
 - [Platform Engineering Expert - Agentic Tooling Team](https://jobs.sap.com/en/jobs/744000155268569/platform-engineering-expert-agentic-tooling-team/)
   - Location: China
   - Updated: 2026-10-14
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Principal Business Process Consultant - SuccessFactors / SmartRecruiters - Austria](https://jobs.sap.com/en/jobs/744000156352436/principal-business-process-consultant-successfactors-smartrecruiters-austria/)
+  - Location: China
+  - Updated: 2026-10-20
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -795,6 +849,12 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
   - Source: sap_careers
   - Source type: china_company_career
 
+- [SAP iXp Intern – Tech Recruitment (limited contract)](https://jobs.sap.com/en/jobs/744000156367340/sap-ixp-intern-tech-recruitment-limited-contract/)
+  - Location: China
+  - Updated: 2026-10-20
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [SAP iXp Interns - AI Platform Developer(AIOps) CX Cloud Operation](https://jobs.sap.com/job/Chengdu-SAP-iXp-Interns-AI-Platform-Developer%28AIOps%29-CX-Cloud-Operation-610041/1398663033/)
   - Location: Chengdu, China
   - Updated: 2026-09-11
@@ -1011,6 +1071,12 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
   - Source: sap_careers
   - Source type: china_company_career
 
+- [Senior AI Engineer (f/m/d)](https://jobs.sap.com/en/jobs/744000156361844/senior-ai-engineer-fmd/)
+  - Location: China
+  - Updated: 2026-10-20
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [Senior AI Engineer (f/m/d)](https://jobs.sap.com/en/jobs/744000156030458/senior-ai-engineer-fmd/)
   - Location: China
   - Updated: 2026-10-19
@@ -1044,6 +1110,12 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
 - [Senior Audit Specialist - Compliance Monitoring](https://jobs.sap.com/job/Shanghai-Senior-Audit-Specialist-Compliance-Monitoring-201203/1413655533/)
   - Location: Shanghai, China
   - Updated: 2026-08-21
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Senior Consultant - Python, MLops, Agentic AI](https://jobs.sap.com/en/jobs/744000156350554/senior-consultant-python-mlops-agentic-ai/)
+  - Location: China
+  - Updated: 2026-10-20
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -1195,43 +1267,43 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
 
 - [(Assistant) Manager – Account Management](https://swisscham.com.cn/jobs/assistant-manager-account-management)
   - Location: Shanghai, China
-  - Updated: 2026-10-19
+  - Updated: 2026-10-20
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [(Senior) Associate – Account Management](https://swisscham.com.cn/jobs/senior-associate-account-management)
   - Location: Shanghai, China
-  - Updated: 2026-10-19
+  - Updated: 2026-10-20
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Business Development Executive/Manager 业务拓展主任/经理](https://swisscham.com.cn/jobs/business-development-executivemanager-yewutazhanzhurenjingli)
   - Location: Shanghai, China
-  - Updated: 2026-10-19
+  - Updated: 2026-10-20
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Business Development Manager](https://swisscham.com.cn/jobs/business-development-manager-0)
   - Location: China
-  - Updated: 2026-10-19
+  - Updated: 2026-10-20
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Internal Medicine Physician](https://swisscham.com.cn/jobs/internal-medicine-physician)
   - Location: Beijing, China
-  - Updated: 2026-10-19
+  - Updated: 2026-10-20
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Marketing & Communications Specialist](https://swisscham.com.cn/jobs/marketing-communications-specialist-0)
   - Location: Shanghai, China
-  - Updated: 2026-10-19
+  - Updated: 2026-10-20
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-10-19
+  - Updated: 2026-10-20
   - Source: swisscham_china
   - Source type: china_local_static
 
@@ -1243,12 +1315,12 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
 
 - [Sea Freight Product Manager](https://swisscham.com.cn/jobs/sea-freight-product-manager)
   - Location: China
-  - Updated: 2026-10-19
+  - Updated: 2026-10-20
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Shaohe Law Firm – Recruitment / 劭合律师事务所招聘启事](https://swisscham.com.cn/jobs/shaohe-law-firm-recruitment-shaohelushishiwusuozhaopinqishi)
   - Location: China
-  - Updated: 2026-10-19
+  - Updated: 2026-10-20
   - Source: swisscham_china
   - Source type: china_local_static
