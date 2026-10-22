@@ -1,8 +1,8 @@
-# Internships and Early-career Jobs - 2026-10-21
+# Internships and Early-career Jobs - 2026-10-22
 
 ## Summary
 
-- Total matching jobs: 137
+- Total matching jobs: 140
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -111,19 +111,19 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 
 - [Software Engineer Intern (2027)](https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211)
   - Location: In-Office
-  - Updated: 2026-10-19
+  - Updated: 2026-10-21
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Software Engineer Intern (2027)](https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197)
   - Location: In-Office
-  - Updated: 2026-10-19
+  - Updated: 2026-10-21
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Software Engineer Intern (2027) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958)
   - Location: In-Office
-  - Updated: 2026-10-19
+  - Updated: 2026-10-21
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -185,7 +185,7 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 
 - [Research Science Intern (PhD)](https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657)
   - Location: New York, New York, USA; Pittsburgh, Pennsylvania, USA
-  - Updated: 2026-09-29
+  - Updated: 2026-10-21
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -445,6 +445,12 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: sap_careers
   - Source type: china_company_career
 
+- [SAP China iXp Intern – Cloud Engineer for SAP HANA Cloud Tooling](https://jobs.sap.com/en/jobs/744000157002029/sap-china-ixp-intern-cloud-engineer-for-sap-hana-cloud-tooling/)
+  - Location: Xi'an, China
+  - Updated: 2026-10-22
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [SAP China iXp Interns - Quality Engineer Intern - Cloud Native and Micro-Delivery Focus](https://jobs.sap.com/job/Shanghai-SAP-China-iXp-Interns-Quality-Engineer-Intern-Cloud-Native-and-Micro-Delivery-Focus-201203/1392176533/)
   - Location: Shanghai, China
   - Updated: 2026-09-23
@@ -490,6 +496,12 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 - [SAP iXp Intern - Business Transformation](https://jobs.sap.com/en/jobs/744000154783390/sap-ixp-intern-business-transformation/)
   - Location: China
   - Updated: 2026-10-12
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [SAP iXp Intern - Compliance Team](https://jobs.sap.com/en/jobs/744000156882464/sap-ixp-intern-compliance-team/)
+  - Location: China
+  - Updated: 2026-10-22
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -601,6 +613,12 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: sap_careers
   - Source type: china_company_career
 
+- [SAP iXp Intern – Order to Invoice Cloud, Software & Support](https://jobs.sap.com/en/jobs/744000156888951/sap-ixp-intern-order-to-invoice-cloud-software-support/)
+  - Location: China
+  - Updated: 2026-10-22
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [SAP iXp Intern – Sustainability Go-To-Market](https://jobs.sap.com/en/jobs/744000153618449/sap-ixp-intern-sustainability-go-to-market/)
   - Location: China
   - Updated: 2026-10-06
@@ -693,129 +711,129 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291)
-  - Location: New York, Seattle, South San Francisco HQ
-  - Updated: 2026-10-20
+- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287)
+  - Location: Toronto
+  - Updated: 2026-10-21
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287)
-  - Location: Toronto
-  - Updated: 2026-10-20
+- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291)
+  - Location: New York, Seattle, South San Francisco HQ
+  - Updated: 2026-10-21
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Financial Data Analyst Intern, Technical Operations](https://stripe.com/jobs/search?gh_jid=8186442)
   - Location: Singapore
-  - Updated: 2026-10-20
+  - Updated: 2026-10-21
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [High School Internship, Software Engineering (Summer 2027)](https://stripe.com/jobs/search?gh_jid=8241260)
   - Location: Seattle, San Francisco
-  - Updated: 2026-10-20
+  - Updated: 2026-10-21
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Integration Reliability Engineer Intern, Technical Operations](https://stripe.com/jobs/search?gh_jid=8186367)
   - Location: Singapore
-  - Updated: 2026-10-20
+  - Updated: 2026-10-21
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Junior Commercial Associate — Works in Progress](https://stripe.com/jobs/search?gh_jid=8241571)
   - Location: London
-  - Updated: 2026-10-07
+  - Updated: 2026-10-21
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Manager, Competitive Programs](https://stripe.com/jobs/search?gh_jid=8175671)
   - Location: NYC, Seattle, SF, Remote
-  - Updated: 2026-10-20
+  - Updated: 2026-10-21
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Offensive Security Engineer](https://stripe.com/jobs/search?gh_jid=8233889)
   - Location: US - Remote
-  - Updated: 2026-10-20
+  - Updated: 2026-10-21
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Operations Associate, Apprenticeship](https://stripe.com/jobs/search?gh_jid=8131339)
   - Location: Bengaluru
-  - Updated: 2026-10-20
+  - Updated: 2026-10-21
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7544547)
   - Location: Mexico City, Mexico
-  - Updated: 2026-10-20
+  - Updated: 2026-10-21
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283)
   - Location: New York, Seattle, South San Francisco HQ
-  - Updated: 2026-10-20
+  - Updated: 2026-10-21
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285)
   - Location: Toronto
-  - Updated: 2026-10-20
+  - Updated: 2026-10-21
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Program Manager, Competitive Programs](https://stripe.com/jobs/search?gh_jid=8175673)
   - Location: SF, NYC, Seattle, Remote
-  - Updated: 2026-10-20
+  - Updated: 2026-10-21
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Program Manager, Risk Ops Enablement](https://stripe.com/jobs/search?gh_jid=7214197)
   - Location: US-Remote
-  - Updated: 2026-10-20
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130883)
-  - Location: Singapore
-  - Updated: 2026-10-20
+  - Updated: 2026-10-21
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8031833)
   - Location: Bengaluru
-  - Updated: 2026-10-20
+  - Updated: 2026-10-21
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130867)
   - Location: London
-  - Updated: 2026-10-20
+  - Updated: 2026-10-21
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130883)
+  - Location: Singapore
+  - Updated: 2026-10-21
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Software Engineer, Intern ](https://stripe.com/jobs/search?gh_jid=8130807)
   - Location: Bucharest
-  - Updated: 2026-10-20
+  - Updated: 2026-10-21
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8128745)
   - Location: San Francisco, Seattle, New York City
-  - Updated: 2026-10-20
+  - Updated: 2026-10-21
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8097801)
   - Location: Dublin
-  - Updated: 2026-10-20
+  - Updated: 2026-10-21
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8130805)
   - Location: Toronto
-  - Updated: 2026-10-20
+  - Updated: 2026-10-21
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -827,13 +845,13 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 
 - [Tech Operations Associate, New Grad (Mexico)](https://stripe.com/jobs/search?gh_jid=7718947)
   - Location: Mexico City, Mexico
-  - Updated: 2026-10-20
+  - Updated: 2026-10-21
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [University Recruiter (Fixed Term)](https://stripe.com/jobs/search?gh_jid=8226211)
   - Location: San Francisco, New York, Seattle, US-Remote
-  - Updated: 2026-10-20
+  - Updated: 2026-10-21
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -841,6 +859,6 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-10-21
+  - Updated: 2026-10-22
   - Source: swisscham_china
   - Source type: china_local_static
