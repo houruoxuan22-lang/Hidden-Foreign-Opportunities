@@ -1,8 +1,8 @@
-# Mainland China Foreign Employer Jobs - 2026-10-22
+# Mainland China Foreign Employer Jobs - 2026-10-23
 
 ## Summary
 
-- Total matching jobs: 236
+- Total matching jobs: 247
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -114,6 +114,12 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
 - [Account Executive Expert - Public Sector](https://jobs.sap.com/en/jobs/744000156580958/account-executive-expert-public-sector/)
   - Location: China
   - Updated: 2026-10-21
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Administration Specialist](https://jobs.sap.com/en/jobs/744000157381405/administration-specialist/)
+  - Location: China
+  - Updated: 2026-10-23
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -246,6 +252,12 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
 - [Business Processes Consultant - Supply Planning / Integrated Business Planning H/F](https://jobs.sap.com/en/jobs/744000152286344/business-processes-consultant-supply-planning-integrated-business-planning-hf/)
   - Location: China
   - Updated: 2026-09-29
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Business Processes Senior Consultant - Supply Planning / Integrated Business Planning](https://jobs.sap.com/en/jobs/744000157238359/business-processes-senior-consultant-supply-planning-integrated-business-planning/)
+  - Location: China
+  - Updated: 2026-10-23
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -417,9 +429,21 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
   - Source: sap_careers
   - Source type: china_company_career
 
+- [HR Service Associate – People & Culture Local Services (limited full-time)](https://jobs.sap.com/en/jobs/744000157211579/hr-service-associate-people-culture-local-services-limited-full-time/)
+  - Location: China
+  - Updated: 2026-10-23
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [Industry Value Advisory (IVA) internship](https://jobs.sap.com/en/jobs/744000152896719/industry-value-advisory-iva-internship/)
   - Location: China
   - Updated: 2026-10-02
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Intern (f/m/d) - Experience Center: S.Factory Walldorf](https://jobs.sap.com/en/jobs/744000157227939/intern-fmd-experience-center-sfactory-walldorf/)
+  - Location: China
+  - Updated: 2026-10-23
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -621,6 +645,12 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
   - Source: sap_careers
   - Source type: china_company_career
 
+- [Project Senior Consultant](https://jobs.sap.com/en/jobs/744000157234189/project-senior-consultant/)
+  - Location: China
+  - Updated: 2026-10-23
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [Sales Account Executive(Sales-SCM) - SAP Next Gen - SAP Academy for Customer Success - Shenzhen](https://jobs.sap.com/job/Shenzhen-Sales-Account-Executive%28Sales-SCM%29-SAP-Next-Gen-SAP-Academy-for-Customer-Success-Shenzhen-518048/1425454933/)
   - Location: Shenzhen, China
   - Updated: 2026-09-23
@@ -642,6 +672,12 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
 - [SAP China iXp Intern - Developer for Web Application - Xi'an](https://jobs.sap.com/job/XiAn-Shaanxi-SAP-China-iXp-Intern-Developer-for-Web-Application-Xi&apos;an-710077/1377239633/)
   - Location: Xi'an, China
   - Updated: 2026-09-20
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [SAP China iXp Intern - Full Stack AI-Native Developer Intern - Shanghai](https://jobs.sap.com/en/jobs/744000157379640/sap-china-ixp-intern-full-stack-ai-native-developer-intern-shanghai/)
+  - Location: Shanghai, China
+  - Updated: 2026-10-23
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -741,6 +777,12 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
   - Source: sap_careers
   - Source type: china_company_career
 
+- [SAP Customer Success iXp Intern – SAP Experience Center Showcase Support](https://jobs.sap.com/en/jobs/744000157380579/sap-customer-success-ixp-intern-sap-experience-center-showcase-support/)
+  - Location: China
+  - Updated: 2026-10-23
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [SAP Customer Success iXp Intern – SAP Experience Center Showcase Support](https://jobs.sap.com/en/jobs/744000152770989/sap-customer-success-ixp-intern-sap-experience-center-showcase-support/)
   - Location: China
   - Updated: 2026-10-01
@@ -780,6 +822,12 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
 - [SAP iXp Intern - Business Transformation](https://jobs.sap.com/en/jobs/744000154783390/sap-ixp-intern-business-transformation/)
   - Location: China
   - Updated: 2026-10-12
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [SAP iXp Intern - Compliance Team](https://jobs.sap.com/en/jobs/744000157164160/sap-ixp-intern-compliance-team/)
+  - Location: China
+  - Updated: 2026-10-23
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -939,6 +987,12 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
   - Source: sap_careers
   - Source type: china_company_career
 
+- [SAP Mexico Next Gen - Commercial Operations Analyst | Value Delivery Hub](https://jobs.sap.com/en/jobs/744000157188556/sap-mexico-next-gen-commercial-operations-analyst-value-delivery-hub/)
+  - Location: China
+  - Updated: 2026-10-23
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [SAP Next Gen - Global Revenue Operations](https://jobs.sap.com/en/jobs/744000154525737/sap-next-gen-global-revenue-operations/)
   - Location: China
   - Updated: 2026-10-09
@@ -1008,6 +1062,12 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
 - [SAP NS2 Sales Architect](https://jobs.sap.com/en/jobs/744000154194893/sap-ns2-sales-architect/)
   - Location: China
   - Updated: 2026-10-08
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [SAP NS2 Senior Support Engineer](https://jobs.sap.com/en/jobs/744000157183900/sap-ns2-senior-support-engineer/)
+  - Location: China
+  - Updated: 2026-10-23
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -1341,6 +1401,12 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
   - Source: sap_careers
   - Source type: china_company_career
 
+- [Working Student (f/m/d) - Sales Retail Industry Germany](https://jobs.sap.com/en/jobs/744000157236915/working-student-fmd-sales-retail-industry-germany/)
+  - Location: China
+  - Updated: 2026-10-23
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [Working Student (f/m/d) - Sales Strategic Customer Program MEE](https://jobs.sap.com/en/jobs/744000156076128/working-student-fmd-sales-strategic-customer-program-mee/)
   - Location: China
   - Updated: 2026-10-19
@@ -1375,43 +1441,43 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
 
 - [(Assistant) Manager – Account Management](https://swisscham.com.cn/jobs/assistant-manager-account-management)
   - Location: Shanghai, China
-  - Updated: 2026-10-22
+  - Updated: 2026-10-23
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [(Senior) Associate – Account Management](https://swisscham.com.cn/jobs/senior-associate-account-management)
   - Location: Shanghai, China
-  - Updated: 2026-10-22
+  - Updated: 2026-10-23
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Business Development Executive/Manager 业务拓展主任/经理](https://swisscham.com.cn/jobs/business-development-executivemanager-yewutazhanzhurenjingli)
   - Location: Shanghai, China
-  - Updated: 2026-10-22
+  - Updated: 2026-10-23
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Business Development Manager](https://swisscham.com.cn/jobs/business-development-manager-0)
   - Location: China
-  - Updated: 2026-10-22
+  - Updated: 2026-10-23
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Internal Medicine Physician](https://swisscham.com.cn/jobs/internal-medicine-physician)
   - Location: Beijing, China
-  - Updated: 2026-10-22
+  - Updated: 2026-10-23
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Marketing & Communications Specialist](https://swisscham.com.cn/jobs/marketing-communications-specialist-0)
   - Location: Shanghai, China
-  - Updated: 2026-10-22
+  - Updated: 2026-10-23
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-10-22
+  - Updated: 2026-10-23
   - Source: swisscham_china
   - Source type: china_local_static
 
@@ -1423,12 +1489,12 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
 
 - [Sea Freight Product Manager](https://swisscham.com.cn/jobs/sea-freight-product-manager)
   - Location: China
-  - Updated: 2026-10-22
+  - Updated: 2026-10-23
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Shaohe Law Firm – Recruitment / 劭合律师事务所招聘启事](https://swisscham.com.cn/jobs/shaohe-law-firm-recruitment-shaohelushishiwusuozhaopinqishi)
   - Location: China
-  - Updated: 2026-10-22
+  - Updated: 2026-10-23
   - Source: swisscham_china
   - Source type: china_local_static

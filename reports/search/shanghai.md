@@ -1,8 +1,8 @@
-# Shanghai Jobs - 2026-10-22
+# Shanghai Jobs - 2026-10-23
 
 ## Summary
 
-- Total matching jobs: 28
+- Total matching jobs: 29
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -54,6 +54,12 @@ Jobs with Shanghai-related location signals.
 - [SAP China iXp Intern - Data Management Intern for GTLC Team - Shanghai](https://jobs.sap.com/job/Shanghai-SAP-China-iXp-Intern-Data-Management-Intern-for-GTLC-Team-Shanghai-201203/1409649533/)
   - Location: Shanghai, China
   - Updated: 2026-09-14
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [SAP China iXp Intern - Full Stack AI-Native Developer Intern - Shanghai](https://jobs.sap.com/en/jobs/744000157379640/sap-china-ixp-intern-full-stack-ai-native-developer-intern-shanghai/)
+  - Location: Shanghai, China
+  - Updated: 2026-10-23
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -157,30 +163,30 @@ Jobs with Shanghai-related location signals.
 
 - [(Assistant) Manager – Account Management](https://swisscham.com.cn/jobs/assistant-manager-account-management)
   - Location: Shanghai, China
-  - Updated: 2026-10-22
+  - Updated: 2026-10-23
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [(Senior) Associate – Account Management](https://swisscham.com.cn/jobs/senior-associate-account-management)
   - Location: Shanghai, China
-  - Updated: 2026-10-22
+  - Updated: 2026-10-23
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Business Development Executive/Manager 业务拓展主任/经理](https://swisscham.com.cn/jobs/business-development-executivemanager-yewutazhanzhurenjingli)
   - Location: Shanghai, China
-  - Updated: 2026-10-22
+  - Updated: 2026-10-23
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Marketing & Communications Specialist](https://swisscham.com.cn/jobs/marketing-communications-specialist-0)
   - Location: Shanghai, China
-  - Updated: 2026-10-22
+  - Updated: 2026-10-23
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-10-22
+  - Updated: 2026-10-23
   - Source: swisscham_china
   - Source type: china_local_static

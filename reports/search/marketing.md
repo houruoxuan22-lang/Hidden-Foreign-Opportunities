@@ -1,4 +1,4 @@
-# Marketing and Communications Jobs - 2026-10-22
+# Marketing and Communications Jobs - 2026-10-23
 
 ## Summary
 
@@ -119,7 +119,7 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [AEO and GEO Marketing Manager](https://stripe.com/jobs/search?gh_jid=7844214)
   - Location: Remote in the US
-  - Updated: 2026-10-21
+  - Updated: 2026-10-22
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -131,7 +131,7 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Editorial Director, Brand & Creative Partnerships](https://stripe.com/jobs/search?gh_jid=8203216)
   - Location: US: SF, NYC, Seattle and Remote
-  - Updated: 2026-10-21
+  - Updated: 2026-10-22
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -143,7 +143,7 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Events Manager, Event Technology and Registration ](https://stripe.com/jobs/search?gh_jid=8222212)
   - Location: Remote US
-  - Updated: 2026-10-21
+  - Updated: 2026-10-22
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -155,7 +155,7 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Forward Deployed AI Accelerator, Marketing](https://stripe.com/jobs/search?gh_jid=8055930)
   - Location: Remote in the US, Remote in Canada
-  - Updated: 2026-10-21
+  - Updated: 2026-10-22
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -167,7 +167,7 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Head of Market Intelligence, Product Marketing](https://stripe.com/jobs/search?gh_jid=8036235)
   - Location: SF, Seattle, NYC, Chicago, Remote in the US
-  - Updated: 2026-10-21
+  - Updated: 2026-10-22
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -179,13 +179,13 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Integrated Marketing Lead, Cross Product](https://stripe.com/jobs/search?gh_jid=8187572)
   - Location: Remote US
-  - Updated: 2026-10-21
+  - Updated: 2026-10-22
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Lifecycle Marketing Manager, Capital](https://stripe.com/jobs/search?gh_jid=8082149)
   - Location: Remote, US
-  - Updated: 2026-10-21
+  - Updated: 2026-10-22
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -203,13 +203,13 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Marketing Operations Manager, AMER Events](https://stripe.com/jobs/search?gh_jid=8250483)
   - Location: US Remote; Canada
-  - Updated: 2026-10-21
+  - Updated: 2026-10-22
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Marketing Technology Program Manager](https://stripe.com/jobs/search?gh_jid=8257939)
   - Location: US Remote
-  - Updated: 2026-10-21
+  - Updated: 2026-10-22
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -221,7 +221,7 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Partner Marketing Manager, Online & Regional Events](https://stripe.com/jobs/search?gh_jid=8175661)
   - Location: Seattle or San Francisco or Chicago or New York City or US-Remote
-  - Updated: 2026-10-21
+  - Updated: 2026-10-22
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -239,43 +239,43 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Product Marketing Manager](https://stripe.com/jobs/search?gh_jid=6348471)
   - Location: San Francisco, New York, Seattle, Chicago, Remote, Toronto
-  - Updated: 2026-10-21
+  - Updated: 2026-10-22
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Product Marketing Manager, Market Intelligence](https://stripe.com/jobs/search?gh_jid=8014761)
   - Location: SF, Seattle, NYC, Chicago, Toronto, Remote in the US
-  - Updated: 2026-10-21
+  - Updated: 2026-10-22
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Product Marketing Manager, Payments](https://stripe.com/jobs/search?gh_jid=8142770)
   - Location: Remote in the US, Chicago, Toronto
-  - Updated: 2026-10-21
+  - Updated: 2026-10-22
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Product Marketing Manager, Radar](https://stripe.com/jobs/search?gh_jid=7961101)
   - Location: SF, NYC, Seattle, Remote
-  - Updated: 2026-10-21
+  - Updated: 2026-10-22
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Product Marketing Manager, Startup Segment](https://stripe.com/jobs/search?gh_jid=8097731)
   - Location: San Francisco, Seattle, NYC, Chicago, Remote in the US, Toronto
-  - Updated: 2026-10-21
+  - Updated: 2026-10-22
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [SaaS Platform and AI Partner Marketing Lead](https://stripe.com/jobs/search?gh_jid=8248507)
   - Location: San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US
-  - Updated: 2026-10-21
+  - Updated: 2026-10-22
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Scale Partner Marketing Lead](https://stripe.com/jobs/search?gh_jid=8175627)
   - Location: San Francisco, Seattle, New York, Chicago, Atlanta, Remote in the US
-  - Updated: 2026-10-21
+  - Updated: 2026-10-22
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -301,12 +301,12 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Marketing & Communications Specialist](https://swisscham.com.cn/jobs/marketing-communications-specialist-0)
   - Location: Shanghai, China
-  - Updated: 2026-10-22
+  - Updated: 2026-10-23
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-10-22
+  - Updated: 2026-10-23
   - Source: swisscham_china
   - Source type: china_local_static
