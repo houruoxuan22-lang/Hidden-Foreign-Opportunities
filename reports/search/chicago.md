@@ -1,4 +1,4 @@
-# Chicago Jobs - 2026-10-23
+# Chicago Jobs - 2026-10-24
 
 ## Summary
 
@@ -167,7 +167,7 @@ Jobs with Chicago-related location signals.
 
 - [Partner Development Manager, Ecosystem Partnerships](https://stripe.com/jobs/search?gh_jid=8180254)
   - Location: Atlanta, Chicago, US-Remote 
-  - Updated: 2026-10-22
+  - Updated: 2026-10-23
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -407,7 +407,7 @@ Jobs with Chicago-related location signals.
 
 - [Software Engineer, Revenue and Financial Automation](https://stripe.com/jobs/search?gh_jid=8127182)
   - Location: San Francisco, New York City, Seattle, Chicago, US-Remote
-  - Updated: 2026-10-22
+  - Updated: 2026-10-23
   - Source: greenhouse
   - Source type: Unknown source type
 
