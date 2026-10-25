@@ -1,4 +1,4 @@
-# Sales and Business Development Jobs - 2026-10-24
+# Sales and Business Development Jobs - 2026-10-25
 
 ## Summary
 
@@ -589,7 +589,7 @@ Jobs related to sales, account management, business development, partnerships, a
 
 - [Customer Success Renewal Intern EMEA](https://jobs.sap.com/en/jobs/744000157523330/customer-success-renewal-intern-emea/)
   - Location: China
-  - Updated: 2026-10-24
+  - Updated: 2026-10-25
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -625,19 +625,19 @@ Jobs related to sales, account management, business development, partnerships, a
 
 - [SAP Concur- Solution Sales Executive, Nationals](https://jobs.sap.com/en/jobs/744000157557419/sap-concur-solution-sales-executive-nationals/)
   - Location: China
-  - Updated: 2026-10-24
+  - Updated: 2026-10-25
   - Source: sap_careers
   - Source type: china_company_career
 
 - [SAP Concur- Solution Sales Executive, Nationals](https://jobs.sap.com/en/jobs/744000157557239/sap-concur-solution-sales-executive-nationals/)
   - Location: China
-  - Updated: 2026-10-24
+  - Updated: 2026-10-25
   - Source: sap_careers
   - Source type: china_company_career
 
 - [SAP Concur- Solution Sales Executive, Nationals](https://jobs.sap.com/en/jobs/744000157556729/sap-concur-solution-sales-executive-nationals/)
   - Location: China
-  - Updated: 2026-10-24
+  - Updated: 2026-10-25
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -661,7 +661,7 @@ Jobs related to sales, account management, business development, partnerships, a
 
 - [SAP iXP - Sales Intern (limited contract)](https://jobs.sap.com/en/jobs/744000157511129/sap-ixp-sales-intern-limited-contract/)
   - Location: China
-  - Updated: 2026-10-24
+  - Updated: 2026-10-25
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -977,12 +977,12 @@ Jobs related to sales, account management, business development, partnerships, a
 
 - [Business Development Executive/Manager 业务拓展主任/经理](https://swisscham.com.cn/jobs/business-development-executivemanager-yewutazhanzhurenjingli)
   - Location: Shanghai, China
-  - Updated: 2026-10-24
+  - Updated: 2026-10-25
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Business Development Manager](https://swisscham.com.cn/jobs/business-development-manager-0)
   - Location: China
-  - Updated: 2026-10-24
+  - Updated: 2026-10-25
   - Source: swisscham_china
   - Source type: china_local_static
