@@ -1,8 +1,8 @@
-# AI and Data Jobs - 2026-10-25
+# AI and Data Jobs - 2026-10-26
 
 ## Summary
 
-- Total matching jobs: 80
+- Total matching jobs: 81
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -133,7 +133,7 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [Business Process Consultant Data Science (w/m/d) – AI & SAP Retail Intelligence](https://jobs.sap.com/en/jobs/744000157540729/business-process-consultant-data-science-wmd-ai-sap-retail-intelligence/)
   - Location: China
-  - Updated: 2026-10-25
+  - Updated: 2026-10-26
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -247,7 +247,7 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [SAP iXp- Data Engineering Center Intern](https://jobs.sap.com/en/jobs/744000157542119/sap-ixp-data-engineering-center-intern/)
   - Location: China
-  - Updated: 2026-10-25
+  - Updated: 2026-10-26
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -302,6 +302,12 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 - [Senior Application AI Engineer and Data Scientist - Globalization E-Invoicing Unit](https://jobs.sap.com/en/jobs/744000154720670/senior-application-ai-engineer-and-data-scientist-globalization-e-invoicing-unit/)
   - Location: China
   - Updated: 2026-10-11
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Senior Consultant - Python, MLops, Agentic AI](https://jobs.sap.com/en/jobs/744000157675199/senior-consultant-python-mlops-agentic-ai/)
+  - Location: China
+  - Updated: 2026-10-26
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -373,15 +379,15 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Forward Deployed AI Accelerator, Marketing](https://stripe.com/jobs/search?gh_jid=8055930)
+- [Forward Deployed AI Accelerator, Marketing](https://stripe.com/jobs/search?gh_jid=7747640)
   - Location: Seattle, San Francisco, New York, Chicago, Atlanta, Remote in the US, Canada
   - Updated: 2026-10-24
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Forward Deployed AI Accelerator, Marketing](https://stripe.com/jobs/search?gh_jid=7747640)
+- [Forward Deployed AI Accelerator, Sales Development](https://stripe.com/jobs/search?gh_jid=8055930)
   - Location: Seattle, San Francisco, New York, Chicago, Atlanta, Remote in the US, Canada
-  - Updated: 2026-10-24
+  - Updated: 2026-10-25
   - Source: greenhouse
   - Source type: Unknown source type
 
