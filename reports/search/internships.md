@@ -1,8 +1,8 @@
-# Internships and Early-career Jobs - 2026-10-26
+# Internships and Early-career Jobs - 2026-10-27
 
 ## Summary
 
-- Total matching jobs: 148
+- Total matching jobs: 151
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -189,14 +189,14 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineering Intern](https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161)
-  - Location: Madrid, Spain
+- [Software Engineering Intern](https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186)
+  - Location: Paris, France
   - Updated: 2026-09-29
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineering Intern](https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186)
-  - Location: Paris, France
+- [Software Engineering Intern](https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161)
+  - Location: Madrid, Spain
   - Updated: 2026-09-29
   - Source: greenhouse
   - Source type: Unknown source type
@@ -523,6 +523,18 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: sap_careers
   - Source type: china_company_career
 
+- [SAP iXp Intern (f/m/d) — Global Health, Safety & Well-Being Team](https://jobs.sap.com/en/jobs/744000157757263/sap-ixp-intern-fmd-global-health-safety-well-being-team/)
+  - Location: China
+  - Updated: 2026-10-27
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [SAP iXp Intern (f/m/d) — Global Health, Safety & Well-Being Team](https://jobs.sap.com/en/jobs/744000157754589/sap-ixp-intern-fmd-global-health-safety-well-being-team/)
+  - Location: China
+  - Updated: 2026-10-27
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [SAP iXp Intern - Business Transformation](https://jobs.sap.com/en/jobs/744000155114290/sap-ixp-intern-business-transformation/)
   - Location: China
   - Updated: 2026-10-13
@@ -751,6 +763,12 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: sap_careers
   - Source type: china_company_career
 
+- [University Alliance Intern- Singapore](https://jobs.sap.com/en/jobs/744000157749018/university-alliance-intern-singapore/)
+  - Location: China
+  - Updated: 2026-10-27
+  - Source: sap_careers
+  - Source type: china_company_career
+
 ### Stripe
 
 - [Backend Engineer, Payments](https://stripe.com/jobs/search?gh_jid=6692166)
@@ -759,14 +777,14 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291)
-  - Location: New York, Seattle, South San Francisco HQ
+- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287)
+  - Location: Toronto
   - Updated: 2026-10-22
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287)
-  - Location: Toronto
+- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291)
+  - Location: New York, Seattle, South San Francisco HQ
   - Updated: 2026-10-22
   - Source: greenhouse
   - Source type: Unknown source type
@@ -819,14 +837,14 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283)
-  - Location: New York, Seattle, South San Francisco HQ
+- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285)
+  - Location: Toronto
   - Updated: 2026-10-22
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285)
-  - Location: Toronto
+- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283)
+  - Location: New York, Seattle, South San Francisco HQ
   - Updated: 2026-10-22
   - Source: greenhouse
   - Source type: Unknown source type
@@ -849,15 +867,15 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130883)
-  - Location: Singapore
-  - Updated: 2026-10-21
-  - Source: greenhouse
-  - Source type: Unknown source type
-
 - [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130867)
   - Location: London
   - Updated: 2026-10-22
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130883)
+  - Location: Singapore
+  - Updated: 2026-10-21
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -867,8 +885,8 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8097801)
-  - Location: Dublin
+- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8130805)
+  - Location: Toronto
   - Updated: 2026-10-22
   - Source: greenhouse
   - Source type: Unknown source type
@@ -879,8 +897,8 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8130805)
-  - Location: Toronto
+- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8097801)
+  - Location: Dublin
   - Updated: 2026-10-22
   - Source: greenhouse
   - Source type: Unknown source type
@@ -907,6 +925,6 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-10-26
+  - Updated: 2026-10-27
   - Source: swisscham_china
   - Source type: china_local_static

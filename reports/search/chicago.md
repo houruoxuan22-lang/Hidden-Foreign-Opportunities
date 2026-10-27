@@ -1,4 +1,4 @@
-# Chicago Jobs - 2026-10-26
+# Chicago Jobs - 2026-10-27
 
 ## Summary
 
@@ -113,7 +113,7 @@ Jobs with Chicago-related location signals.
 
 - [GTM Recruiter (Fixed Term)](https://stripe.com/jobs/search?gh_jid=8016504)
   - Location: Chicago, Atlanta, US-Remote, Toro
-  - Updated: 2026-10-22
+  - Updated: 2026-10-26
   - Source: greenhouse
   - Source type: Unknown source type
 
