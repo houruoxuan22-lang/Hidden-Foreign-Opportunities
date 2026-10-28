@@ -1,4 +1,4 @@
-# AI and Data Jobs - 2026-10-27
+# AI and Data Jobs - 2026-10-28
 
 ## Summary
 
@@ -35,7 +35,7 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [Regional Manager, Sales Engineering - AI Accounts](https://careers.datadoghq.com/detail/8284998/?gh_jid=8284998)
   - Location: California, USA, Remote; Illinois, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote
-  - Updated: 2026-10-22
+  - Updated: 2026-10-27
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -361,9 +361,9 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Data Science Manager, Finance and Strategy](https://stripe.com/jobs/search?gh_jid=7440963)
+- [Data Science Manager](https://stripe.com/jobs/search?gh_jid=7440963)
   - Location: Seattle, WA OR New York, NY OR Remote North America
-  - Updated: 2026-10-22
+  - Updated: 2026-10-27
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -451,9 +451,9 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Risk Operations Analyst - SSO ](https://stripe.com/jobs/search?gh_jid=8175824)
+- [Risk Operations Analyst - RBO ](https://stripe.com/jobs/search?gh_jid=8175824)
   - Location: Remote 
-  - Updated: 2026-10-26
+  - Updated: 2026-10-27
   - Source: greenhouse
   - Source type: Unknown source type
 

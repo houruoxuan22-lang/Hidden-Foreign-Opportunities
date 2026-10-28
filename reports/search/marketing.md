@@ -1,8 +1,8 @@
-# Marketing and Communications Jobs - 2026-10-27
+# Marketing and Communications Jobs - 2026-10-28
 
 ## Summary
 
-- Total matching jobs: 49
+- Total matching jobs: 51
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -115,6 +115,12 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
   - Source: sap_careers
   - Source type: china_company_career
 
+- [SAP iXp Intern — Marketing & Demand Generation](https://jobs.sap.com/en/jobs/744000158160222/sap-ixp-intern-marketing-demand-generation/)
+  - Location: China
+  - Updated: 2026-10-28
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [Senior Platform Engineer (f/m/d) for LoB & Industry Content Integration — Data Science (Physical AI)](https://jobs.sap.com/en/jobs/744000155998748/senior-platform-engineer-fmd-for-lob-industry-content-integration-data-science-physical-ai/)
   - Location: China
   - Updated: 2026-10-27
@@ -132,6 +138,12 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 - [Consumer Product Marketing Lead, Link](https://stripe.com/jobs/search?gh_jid=7947510)
   - Location: San Fransisco, New York, Seattle, Chicago, Remote US
   - Updated: 2026-08-18
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Design Engineer, Brand Studio](https://stripe.com/jobs/search?gh_jid=8283782)
+  - Location: US, Canada, Remote
+  - Updated: 2026-10-27
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -307,12 +319,12 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Marketing & Communications Specialist](https://swisscham.com.cn/jobs/marketing-communications-specialist-0)
   - Location: Shanghai, China
-  - Updated: 2026-10-27
+  - Updated: 2026-10-28
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-10-27
+  - Updated: 2026-10-28
   - Source: swisscham_china
   - Source type: china_local_static
