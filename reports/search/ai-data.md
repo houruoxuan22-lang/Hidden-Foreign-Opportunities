@@ -1,8 +1,8 @@
-# AI and Data Jobs - 2026-10-28
+# AI and Data Jobs - 2026-10-29
 
 ## Summary
 
-- Total matching jobs: 81
+- Total matching jobs: 82
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -34,8 +34,8 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source type: Unknown source type
 
 - [Regional Manager, Sales Engineering - AI Accounts](https://careers.datadoghq.com/detail/8284998/?gh_jid=8284998)
-  - Location: California, USA, Remote; Illinois, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote
-  - Updated: 2026-10-27
+  - Location: California, USA, Remote
+  - Updated: 2026-10-28
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -146,6 +146,12 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 - [Engineering Manager / Tech Lead – Industry AI, Autonomous Asset Management (f/m/d)](https://jobs.sap.com/en/jobs/744000156571229/engineering-manager-tech-lead-industry-ai-autonomous-asset-management-fmd/)
   - Location: China
   - Updated: 2026-10-21
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Intern - AI/UI Developer Associate (Timișoara)](https://jobs.sap.com/en/jobs/744000158304470/intern-aiui-developer-associate-timisoara/)
+  - Location: China
+  - Updated: 2026-10-29
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -415,14 +421,14 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285)
-  - Location: Toronto
+- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283)
+  - Location: New York, Seattle, South San Francisco HQ
   - Updated: 2026-10-22
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283)
-  - Location: New York, Seattle, South San Francisco HQ
+- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285)
+  - Location: Toronto
   - Updated: 2026-10-22
   - Source: greenhouse
   - Source type: Unknown source type

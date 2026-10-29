@@ -1,8 +1,8 @@
-# Chicago Jobs - 2026-10-28
+# Chicago Jobs - 2026-10-29
 
 ## Summary
 
-- Total matching jobs: 78
+- Total matching jobs: 79
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -47,7 +47,7 @@ Jobs with Chicago-related location signals.
 
 - [Campaign Strategy & Operations Manager](https://stripe.com/jobs/search?gh_jid=7584016)
   - Location: San Francisco, Seattle, New York, Chicago, Remote in the US
-  - Updated: 2026-10-07
+  - Updated: 2026-10-28
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -168,6 +168,12 @@ Jobs with Chicago-related location signals.
 - [Integration Engineer (Chicago) ](https://stripe.com/jobs/search?gh_jid=7819426)
   - Location: Chicago, US-Remote
   - Updated: 2026-10-22
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Marketing Strategy & Operations Business Partner](https://stripe.com/jobs/search?gh_jid=8329719)
+  - Location: San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US 
+  - Updated: 2026-10-28
   - Source: greenhouse
   - Source type: Unknown source type
 
