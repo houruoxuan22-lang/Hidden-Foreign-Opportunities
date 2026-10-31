@@ -1,8 +1,8 @@
-# AI and Data Jobs - 2026-10-30
+# AI and Data Jobs - 2026-10-31
 
 ## Summary
 
-- Total matching jobs: 84
+- Total matching jobs: 93
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -15,7 +15,7 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [Engineering Manager, Agentic Internet & Data Insights](https://boards.greenhouse.io/cloudflare/jobs/8143649?gh_jid=8143649)
   - Location: Hybrid
-  - Updated: 2026-10-21
+  - Updated: 2026-10-30
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -137,6 +137,18 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: sap_careers
   - Source type: china_company_career
 
+- [Business Processes Senior Consultant (f/m/d) - Procurement Solution & AI Innovation](https://jobs.sap.com/en/jobs/744000158829159/business-processes-senior-consultant-fmd-procurement-solution-ai-innovation/)
+  - Location: China
+  - Updated: 2026-10-31
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Cloud Developer - Gen AI Assistant Development](https://jobs.sap.com/en/jobs/744000158796650/cloud-developer-gen-ai-assistant-development/)
+  - Location: China
+  - Updated: 2026-10-31
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [Data Engineer](https://jobs.sap.com/job/Shanghai-Data-Engineer-201203/1406689133/)
   - Location: Shanghai, China
   - Updated: 2026-08-31
@@ -242,6 +254,18 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 - [SAP China iXp Intern - Full Stack AI-Native Developer Intern - Shanghai](https://jobs.sap.com/en/jobs/744000157379640/sap-china-ixp-intern-full-stack-ai-native-developer-intern-shanghai/)
   - Location: Shanghai, China
   - Updated: 2026-10-23
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [SAP iXp Intern - Agile Developer, Business Data Cloud](https://jobs.sap.com/en/jobs/744000158811580/sap-ixp-intern-agile-developer-business-data-cloud/)
+  - Location: China
+  - Updated: 2026-10-31
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [SAP iXp Intern - AI Product Management](https://jobs.sap.com/en/jobs/744000158834039/sap-ixp-intern-ai-product-management/)
+  - Location: China
+  - Updated: 2026-10-31
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -433,15 +457,39 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283)
-  - Location: New York, Seattle, South San Francisco HQ
-  - Updated: 2026-10-29
+- [Master's Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8333074)
+  - Location: San Francisco, New York City, Seattle
+  - Updated: 2026-10-30
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Master's Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8333122)
+  - Location: Toronto
+  - Updated: 2026-10-30
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285)
   - Location: Toronto
   - Updated: 2026-10-29
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283)
+  - Location: New York, Seattle, South San Francisco HQ
+  - Updated: 2026-10-29
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328662)
+  - Location: San Francisco, New York City, Seattle
+  - Updated: 2026-10-30
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328664)
+  - Location: Toronto
+  - Updated: 2026-10-30
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -514,6 +562,12 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 - [Specialist Solutions Architect, Data](https://stripe.com/jobs/search?gh_jid=8144262)
   - Location: SF, NY, Remote
   - Updated: 2026-10-29
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Startup Products Strategy & Operations, Insights & Analytics](https://stripe.com/jobs/search?gh_jid=8234710)
+  - Location: Remote US
+  - Updated: 2026-10-30
   - Source: greenhouse
   - Source type: Unknown source type
 

@@ -1,4 +1,4 @@
-# Chicago Jobs - 2026-10-30
+# Chicago Jobs - 2026-10-31
 
 ## Summary
 
@@ -401,13 +401,13 @@ Jobs with Chicago-related location signals.
 
 - [Sales Manager, Billing](https://stripe.com/jobs/search?gh_jid=8326191)
   - Location: San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US
-  - Updated: 2026-10-29
+  - Updated: 2026-10-30
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Sales Manager, Billing](https://stripe.com/jobs/search?gh_jid=8326189)
   - Location: San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US
-  - Updated: 2026-10-29
+  - Updated: 2026-10-30
   - Source: greenhouse
   - Source type: Unknown source type
 
