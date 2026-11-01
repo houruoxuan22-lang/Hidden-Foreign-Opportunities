@@ -1,4 +1,4 @@
-# AI and Data Jobs - 2026-10-31
+# AI and Data Jobs - 2026-11-01
 
 ## Summary
 
@@ -139,13 +139,13 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [Business Processes Senior Consultant (f/m/d) - Procurement Solution & AI Innovation](https://jobs.sap.com/en/jobs/744000158829159/business-processes-senior-consultant-fmd-procurement-solution-ai-innovation/)
   - Location: China
-  - Updated: 2026-10-31
+  - Updated: 2026-11-01
   - Source: sap_careers
   - Source type: china_company_career
 
 - [Cloud Developer - Gen AI Assistant Development](https://jobs.sap.com/en/jobs/744000158796650/cloud-developer-gen-ai-assistant-development/)
   - Location: China
-  - Updated: 2026-10-31
+  - Updated: 2026-11-01
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -259,13 +259,13 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [SAP iXp Intern - Agile Developer, Business Data Cloud](https://jobs.sap.com/en/jobs/744000158811580/sap-ixp-intern-agile-developer-business-data-cloud/)
   - Location: China
-  - Updated: 2026-10-31
+  - Updated: 2026-11-01
   - Source: sap_careers
   - Source type: china_company_career
 
 - [SAP iXp Intern - AI Product Management](https://jobs.sap.com/en/jobs/744000158834039/sap-ixp-intern-ai-product-management/)
   - Location: China
-  - Updated: 2026-10-31
+  - Updated: 2026-11-01
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -469,26 +469,26 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285)
-  - Location: Toronto
-  - Updated: 2026-10-29
-  - Source: greenhouse
-  - Source type: Unknown source type
-
 - [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283)
   - Location: New York, Seattle, South San Francisco HQ
   - Updated: 2026-10-29
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328662)
-  - Location: San Francisco, New York City, Seattle
-  - Updated: 2026-10-30
+- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285)
+  - Location: Toronto
+  - Updated: 2026-10-29
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328664)
   - Location: Toronto
+  - Updated: 2026-10-30
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328662)
+  - Location: San Francisco, New York City, Seattle
   - Updated: 2026-10-30
   - Source: greenhouse
   - Source type: Unknown source type

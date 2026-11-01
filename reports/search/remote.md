@@ -1,8 +1,8 @@
-# Remote Jobs - 2026-10-31
+# Remote Jobs - 2026-11-01
 
 ## Summary
 
-- Total matching jobs: 641
+- Total matching jobs: 642
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -919,7 +919,7 @@ Jobs with remote or distributed work signals.
 
 - [Application Engineer — Buying Agents](https://jobs.sap.com/en/jobs/744000158795039/application-engineer-buying-agents/)
   - Location: China
-  - Updated: 2026-10-31
+  - Updated: 2026-11-01
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -1021,7 +1021,7 @@ Jobs with remote or distributed work signals.
 
 - [Business Processes Senior Consultant (f/m/d) - Procurement Solution & AI Innovation](https://jobs.sap.com/en/jobs/744000158829159/business-processes-senior-consultant-fmd-procurement-solution-ai-innovation/)
   - Location: China
-  - Updated: 2026-10-31
+  - Updated: 2026-11-01
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -1045,7 +1045,7 @@ Jobs with remote or distributed work signals.
 
 - [Cloud Developer - Gen AI Assistant Development](https://jobs.sap.com/en/jobs/744000158796650/cloud-developer-gen-ai-assistant-development/)
   - Location: China
-  - Updated: 2026-10-31
+  - Updated: 2026-11-01
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -1609,13 +1609,13 @@ Jobs with remote or distributed work signals.
 
 - [SAP iXp Intern - Agile Developer, Business Data Cloud](https://jobs.sap.com/en/jobs/744000158811580/sap-ixp-intern-agile-developer-business-data-cloud/)
   - Location: China
-  - Updated: 2026-10-31
+  - Updated: 2026-11-01
   - Source: sap_careers
   - Source type: china_company_career
 
 - [SAP iXp Intern - AI Product Management](https://jobs.sap.com/en/jobs/744000158834039/sap-ixp-intern-ai-product-management/)
   - Location: China
-  - Updated: 2026-10-31
+  - Updated: 2026-11-01
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -1831,7 +1831,7 @@ Jobs with remote or distributed work signals.
 
 - [SAP Next Gen – Cash Collections | Global Finance](https://jobs.sap.com/en/jobs/744000158789062/sap-next-gen-cash-collections-global-finance/)
   - Location: China
-  - Updated: 2026-10-31
+  - Updated: 2026-11-01
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -1987,7 +1987,7 @@ Jobs with remote or distributed work signals.
 
 - [SAPiXp - Global Revenue Operations Intern – Project Management and Business Analysis](https://jobs.sap.com/en/jobs/744000158793889/sapixp-global-revenue-operations-intern-project-management-and-business-analysis/)
   - Location: China
-  - Updated: 2026-10-31
+  - Updated: 2026-11-01
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -2083,7 +2083,7 @@ Jobs with remote or distributed work signals.
 
 - [Senior Application Engineer — Buying Agents](https://jobs.sap.com/en/jobs/744000158797109/senior-application-engineer-buying-agents/)
   - Location: China
-  - Updated: 2026-10-31
+  - Updated: 2026-11-01
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -2095,7 +2095,7 @@ Jobs with remote or distributed work signals.
 
 - [Senior Client Delivery Manager - Atlanta, GA](https://jobs.sap.com/en/jobs/744000158797015/senior-client-delivery-manager-atlanta-ga/)
   - Location: China
-  - Updated: 2026-10-31
+  - Updated: 2026-11-01
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -2125,7 +2125,7 @@ Jobs with remote or distributed work signals.
 
 - [Senior DevOps Engineer - Sovereign Cloud](https://jobs.sap.com/en/jobs/744000158839307/senior-devops-engineer-sovereign-cloud/)
   - Location: China
-  - Updated: 2026-10-31
+  - Updated: 2026-11-01
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -2150,6 +2150,12 @@ Jobs with remote or distributed work signals.
 - [Senior Product Security Engineer / DevSecOps](https://jobs.sap.com/en/jobs/744000158564665/senior-product-security-engineer-devsecops/)
   - Location: China
   - Updated: 2026-10-30
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Senior Project Lead (m/f/d) | Global Delivery Hub](https://jobs.sap.com/en/jobs/744000158889098/senior-project-lead-mfd-global-delivery-hub/)
+  - Location: China
+  - Updated: 2026-11-01
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -2227,7 +2233,7 @@ Jobs with remote or distributed work signals.
 
 - [Technical Quality Manager / Success Plan Manager](https://jobs.sap.com/en/jobs/744000158784919/technical-quality-manager-success-plan-manager/)
   - Location: China
-  - Updated: 2026-10-31
+  - Updated: 2026-11-01
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -3469,13 +3475,13 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Sales Manager, Billing](https://stripe.com/jobs/search?gh_jid=8326191)
+- [Sales Manager, Billing](https://stripe.com/jobs/search?gh_jid=8326189)
   - Location: San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US
   - Updated: 2026-10-30
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Sales Manager, Billing](https://stripe.com/jobs/search?gh_jid=8326189)
+- [Sales Manager, Billing](https://stripe.com/jobs/search?gh_jid=8326191)
   - Location: San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US
   - Updated: 2026-10-30
   - Source: greenhouse
