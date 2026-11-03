@@ -1,8 +1,8 @@
-# AI and Data Jobs - 2026-11-02
+# AI and Data Jobs - 2026-11-03
 
 ## Summary
 
-- Total matching jobs: 93
+- Total matching jobs: 95
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -155,6 +155,12 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: sap_careers
   - Source type: china_company_career
 
+- [Data Engineering- Intelligent Operations (f/m/d)](https://jobs.sap.com/en/jobs/744000159208609/data-engineering-intelligent-operations-fmd/)
+  - Location: China
+  - Updated: 2026-11-03
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [Engineering Manager / Tech Lead – Industry AI, Autonomous Asset Management (f/m/d)](https://jobs.sap.com/en/jobs/744000156571229/engineering-manager-tech-lead-industry-ai-autonomous-asset-management-fmd/)
   - Location: China
   - Updated: 2026-10-21
@@ -266,6 +272,12 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 - [SAP iXp Intern - AI Product Management](https://jobs.sap.com/en/jobs/744000158834039/sap-ixp-intern-ai-product-management/)
   - Location: China
   - Updated: 2026-11-02
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [SAP iXp Intern - HanaHaus Business Insights Analyst](https://jobs.sap.com/en/jobs/744000159266069/sap-ixp-intern-hanahaus-business-insights-analyst/)
+  - Location: China
+  - Updated: 2026-11-03
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -385,14 +397,14 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291)
-  - Location: New York, Seattle, South San Francisco HQ
+- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287)
+  - Location: Toronto
   - Updated: 2026-10-29
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287)
-  - Location: Toronto
+- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291)
+  - Location: New York, Seattle, South San Francisco HQ
   - Updated: 2026-10-29
   - Source: greenhouse
   - Source type: Unknown source type
@@ -457,14 +469,14 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Master's Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8333122)
-  - Location: Toronto
+- [Master's Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8333074)
+  - Location: San Francisco, New York City, Seattle
   - Updated: 2026-10-30
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Master's Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8333074)
-  - Location: San Francisco, New York City, Seattle
+- [Master's Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8333122)
+  - Location: Toronto
   - Updated: 2026-10-30
   - Source: greenhouse
   - Source type: Unknown source type

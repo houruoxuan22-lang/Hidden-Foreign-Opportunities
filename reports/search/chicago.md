@@ -1,8 +1,8 @@
-# Chicago Jobs - 2026-11-02
+# Chicago Jobs - 2026-11-03
 
 ## Summary
 
-- Total matching jobs: 82
+- Total matching jobs: 83
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -24,6 +24,12 @@ Jobs with Chicago-related location signals.
 - [Account Executive Product - Fraud & Risk ](https://stripe.com/jobs/search?gh_jid=8181024)
   - Location: Chicago, Seattle, NYC, San Francisco, Remote 
   - Updated: 2026-10-29
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Account Executive, Enterprise - Grower](https://stripe.com/jobs/search?gh_jid=7997555)
+  - Location: US-New York, US-Chicago, US-Remote
+  - Updated: 2026-11-02
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -83,7 +89,7 @@ Jobs with Chicago-related location signals.
 
 - [Design Recruiter](https://stripe.com/jobs/search?gh_jid=8163193)
   - Location: Chicago, Atlanta, US-Remote, Toro
-  - Updated: 2026-10-29
+  - Updated: 2026-11-02
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -119,7 +125,7 @@ Jobs with Chicago-related location signals.
 
 - [GTM Recruiter (Fixed Term)](https://stripe.com/jobs/search?gh_jid=8016504)
   - Location: Chicago, Atlanta, US-Remote, Toro
-  - Updated: 2026-10-29
+  - Updated: 2026-11-02
   - Source: greenhouse
   - Source type: Unknown source type
 
