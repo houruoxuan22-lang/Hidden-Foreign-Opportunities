@@ -1,4 +1,4 @@
-# Chicago Jobs - 2026-11-03
+# Chicago Jobs - 2026-11-04
 
 ## Summary
 
@@ -47,7 +47,7 @@ Jobs with Chicago-related location signals.
 
 - [Backend Engineer, Core Technology](https://stripe.com/jobs/search?gh_jid=6042172)
   - Location: US-Remote, Chicago, Seattle, San Francisco
-  - Updated: 2026-10-29
+  - Updated: 2026-11-03
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -107,13 +107,13 @@ Jobs with Chicago-related location signals.
 
 - [Forward Deployed AI Accelerator, Marketing](https://stripe.com/jobs/search?gh_jid=7747640)
   - Location: Seattle, San Francisco, New York, Chicago, Atlanta, Remote in the US, Canada
-  - Updated: 2026-10-29
+  - Updated: 2026-11-03
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Forward Deployed AI Accelerator, Sales Development](https://stripe.com/jobs/search?gh_jid=8055930)
   - Location: Seattle, San Francisco, New York, Chicago, Atlanta, Remote in the US, Canada
-  - Updated: 2026-10-29
+  - Updated: 2026-11-03
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -281,7 +281,7 @@ Jobs with Chicago-related location signals.
 
 - [People Operations Specialist, HR Compliance](https://stripe.com/jobs/search?gh_jid=8189015)
   - Location: Chicago, US-Remote
-  - Updated: 2026-10-20
+  - Updated: 2026-11-03
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -317,7 +317,7 @@ Jobs with Chicago-related location signals.
 
 - [Product Marketing Manager](https://stripe.com/jobs/search?gh_jid=6348471)
   - Location: San Francisco, New York, Seattle, Chicago, Remote, Toronto
-  - Updated: 2026-10-29
+  - Updated: 2026-11-03
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -405,13 +405,13 @@ Jobs with Chicago-related location signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Sales Manager, Billing](https://stripe.com/jobs/search?gh_jid=8326189)
+- [Sales Manager, Billing](https://stripe.com/jobs/search?gh_jid=8326191)
   - Location: San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US
   - Updated: 2026-10-30
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Sales Manager, Billing](https://stripe.com/jobs/search?gh_jid=8326191)
+- [Sales Manager, Billing](https://stripe.com/jobs/search?gh_jid=8326189)
   - Location: San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US
   - Updated: 2026-10-30
   - Source: greenhouse

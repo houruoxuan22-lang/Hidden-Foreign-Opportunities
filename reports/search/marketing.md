@@ -1,4 +1,4 @@
-# Marketing and Communications Jobs - 2026-11-03
+# Marketing and Communications Jobs - 2026-11-04
 
 ## Summary
 
@@ -185,7 +185,7 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Forward Deployed AI Accelerator, Marketing](https://stripe.com/jobs/search?gh_jid=7747640)
   - Location: Seattle, San Francisco, New York, Chicago, Atlanta, Remote in the US, Canada
-  - Updated: 2026-10-29
+  - Updated: 2026-11-03
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -281,7 +281,7 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Product Marketing Manager](https://stripe.com/jobs/search?gh_jid=6348471)
   - Location: San Francisco, New York, Seattle, Chicago, Remote, Toronto
-  - Updated: 2026-10-29
+  - Updated: 2026-11-03
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -349,12 +349,12 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Marketing & Communications Specialist](https://swisscham.com.cn/jobs/marketing-communications-specialist-0)
   - Location: Shanghai, China
-  - Updated: 2026-11-03
+  - Updated: 2026-11-04
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-11-03
+  - Updated: 2026-11-04
   - Source: swisscham_china
   - Source type: china_local_static
