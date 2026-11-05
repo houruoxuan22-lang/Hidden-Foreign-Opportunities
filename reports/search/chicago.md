@@ -1,8 +1,8 @@
-# Chicago Jobs - 2026-11-04
+# Chicago Jobs - 2026-11-05
 
 ## Summary
 
-- Total matching jobs: 83
+- Total matching jobs: 85
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -39,6 +39,12 @@ Jobs with Chicago-related location signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [Account Executive, Strategics](https://stripe.com/jobs/search?gh_jid=8319452)
+  - Location: San Francisco, Seattle, New York, Chicago, US-Remote 
+  - Updated: 2026-11-04
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [Administrative Business Partner](https://stripe.com/jobs/search?gh_jid=8081670)
   - Location: Chicago, US-Remote
   - Updated: 2026-08-18
@@ -57,6 +63,12 @@ Jobs with Chicago-related location signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [Commercial Credit Operations Manager](https://stripe.com/jobs/search?gh_jid=8213951)
+  - Location: Chicago, Atlanta, US-Remote
+  - Updated: 2026-11-04
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [Commercial Solutions Program Manager](https://stripe.com/jobs/search?gh_jid=8059784)
   - Location: Chicago, IL , Remote
   - Updated: 2026-08-18
@@ -66,12 +78,6 @@ Jobs with Chicago-related location signals.
 - [Consumer Product Marketing Lead, Link](https://stripe.com/jobs/search?gh_jid=7947510)
   - Location: San Fransisco, New York, Seattle, Chicago, Remote US
   - Updated: 2026-08-18
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Credit Operations Manager](https://stripe.com/jobs/search?gh_jid=8213951)
-  - Location: Chicago, Atlanta, US-Remote
-  - Updated: 2026-10-29
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -339,6 +345,12 @@ Jobs with Chicago-related location signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [Product/Design Recruiter](https://stripe.com/jobs/search?gh_jid=8303870)
+  - Location: Chicago, Atlanta, US-Remote, Toro
+  - Updated: 2026-11-04
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [Program Manager, Executive Experiences](https://stripe.com/jobs/search?gh_jid=8175629)
   - Location: San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US
   - Updated: 2026-09-10
@@ -405,13 +417,13 @@ Jobs with Chicago-related location signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Sales Manager, Billing](https://stripe.com/jobs/search?gh_jid=8326191)
+- [Sales Manager, Billing](https://stripe.com/jobs/search?gh_jid=8326189)
   - Location: San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US
   - Updated: 2026-10-30
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Sales Manager, Billing](https://stripe.com/jobs/search?gh_jid=8326189)
+- [Sales Manager, Billing](https://stripe.com/jobs/search?gh_jid=8326191)
   - Location: San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US
   - Updated: 2026-10-30
   - Source: greenhouse
@@ -437,12 +449,6 @@ Jobs with Chicago-related location signals.
 
 - [Security Incident Response Manager, Abuse Operations](https://stripe.com/jobs/search?gh_jid=8172497)
   - Location: Seattle, SF, NYC, Chicago, Atlanta, Remote in the US
-  - Updated: 2026-10-29
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Senior Product Manager, Enterprise](https://stripe.com/jobs/search?gh_jid=7812856)
-  - Location: San Francisco, Seattle, New York, Chicago, Atlanta, Remote
   - Updated: 2026-10-29
   - Source: greenhouse
   - Source type: Unknown source type
@@ -474,6 +480,12 @@ Jobs with Chicago-related location signals.
 - [Staff Product Manager, Dashboard](https://stripe.com/jobs/search?gh_jid=7913702)
   - Location: San Francisco, Seattle, NYC, Chicago, Atlanta, US Remote
   - Updated: 2026-10-29
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Staff Product Manager, Enterprise](https://stripe.com/jobs/search?gh_jid=7812856)
+  - Location: San Francisco, Seattle, New York, Chicago, Atlanta, Remote
+  - Updated: 2026-11-04
   - Source: greenhouse
   - Source type: Unknown source type
 

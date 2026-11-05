@@ -1,8 +1,8 @@
-# AI and Data Jobs - 2026-11-04
+# AI and Data Jobs - 2026-11-05
 
 ## Summary
 
-- Total matching jobs: 96
+- Total matching jobs: 98
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -323,6 +323,12 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: sap_careers
   - Source type: china_company_career
 
+- [SAP NS2 AI Consultant Specialist](https://jobs.sap.com/en/jobs/744000159721941/sap-ns2-ai-consultant-specialist/)
+  - Location: China
+  - Updated: 2026-11-05
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [SAP NS2 AI Consultant Specialist](https://jobs.sap.com/en/jobs/744000153525232/sap-ns2-ai-consultant-specialist/)
   - Location: China
   - Updated: 2026-10-06
@@ -368,6 +374,12 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 - [Senior Consultant - Python, MLops, Agentic AI](https://jobs.sap.com/en/jobs/744000156350554/senior-consultant-python-mlops-agentic-ai/)
   - Location: China
   - Updated: 2026-10-20
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Senior Data Engineer (f/m/d) - Intelligent Operations](https://jobs.sap.com/en/jobs/744000159655829/senior-data-engineer-fmd-intelligent-operations/)
+  - Location: China
+  - Updated: 2026-11-05
   - Source: sap_careers
   - Source type: china_company_career
 

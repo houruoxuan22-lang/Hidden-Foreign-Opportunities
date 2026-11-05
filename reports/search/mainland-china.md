@@ -1,8 +1,8 @@
-# Mainland China Foreign Employer Jobs - 2026-11-04
+# Mainland China Foreign Employer Jobs - 2026-11-05
 
 ## Summary
 
-- Total matching jobs: 333
+- Total matching jobs: 341
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -108,6 +108,12 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
 - [Account Executive Expert](https://jobs.sap.com/en/jobs/744000156015351/account-executive-expert/)
   - Location: China
   - Updated: 2026-10-19
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Account Executive Expert (f/m/d) - Services Industries](https://jobs.sap.com/en/jobs/744000159791680/account-executive-expert-fmd-services-industries/)
+  - Location: China
+  - Updated: 2026-11-05
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -732,6 +738,12 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
 - [Partner Relationship Manager (Six Months Limited Contract)](https://jobs.sap.com/en/jobs/744000155897530/partner-relationship-manager-six-months-limited-contract/)
   - Location: China
   - Updated: 2026-10-16
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Partner Support Specialist Intern](https://jobs.sap.com/en/jobs/744000159713949/partner-support-specialist-intern/)
+  - Location: China
+  - Updated: 2026-11-05
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -1377,9 +1389,21 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
   - Source: sap_careers
   - Source type: china_company_career
 
+- [SAP NS2 AI Consultant Specialist](https://jobs.sap.com/en/jobs/744000159721941/sap-ns2-ai-consultant-specialist/)
+  - Location: China
+  - Updated: 2026-11-05
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [SAP NS2 AI Consultant Specialist](https://jobs.sap.com/en/jobs/744000153525232/sap-ns2-ai-consultant-specialist/)
   - Location: China
   - Updated: 2026-10-06
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [SAP NS2 Client Delivery Manager](https://jobs.sap.com/en/jobs/744000159713965/sap-ns2-client-delivery-manager/)
+  - Location: China
+  - Updated: 2026-11-05
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -1404,6 +1428,12 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
 - [SAP NS2 Director, Applications and Technology Portfolio Management (APMO)](https://jobs.sap.com/en/jobs/744000154193594/sap-ns2-director-applications-and-technology-portfolio-management-apmo/)
   - Location: China
   - Updated: 2026-10-08
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [SAP NS2 Federal Delivery Executive](https://jobs.sap.com/en/jobs/744000159695219/sap-ns2-federal-delivery-executive/)
+  - Location: China
+  - Updated: 2026-11-05
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -1641,6 +1671,12 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
   - Source: sap_careers
   - Source type: china_company_career
 
+- [Senior Application Engineer (f/m/d) - Intelligent Operations](https://jobs.sap.com/en/jobs/744000159687909/senior-application-engineer-fmd-intelligent-operations/)
+  - Location: China
+  - Updated: 2026-11-05
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [Senior Application Engineer - ABAP RAP (limited, full time)](https://jobs.sap.com/en/jobs/744000154595259/senior-application-engineer-abap-rap-limited-full-time/)
   - Location: China
   - Updated: 2026-10-09
@@ -1689,6 +1725,12 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
   - Source: sap_careers
   - Source type: china_company_career
 
+- [Senior Data Engineer (f/m/d) - Intelligent Operations](https://jobs.sap.com/en/jobs/744000159655829/senior-data-engineer-fmd-intelligent-operations/)
+  - Location: China
+  - Updated: 2026-11-05
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [Senior DevOps Engineer](https://jobs.sap.com/en/jobs/744000158756149/senior-devops-engineer/)
   - Location: China
   - Updated: 2026-10-31
@@ -1710,6 +1752,12 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
 - [Senior Enterprise Account Executive - Philippines](https://jobs.sap.com/en/jobs/744000159542529/senior-enterprise-account-executive-philippines/)
   - Location: China
   - Updated: 2026-11-04
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Senior Platform Engineer (f/m/d) - Intelligent Operations](https://jobs.sap.com/en/jobs/744000159654498/senior-platform-engineer-fmd-intelligent-operations/)
+  - Location: China
+  - Updated: 2026-11-05
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -1957,43 +2005,43 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
 
 - [(Assistant) Manager – Account Management](https://swisscham.com.cn/jobs/assistant-manager-account-management)
   - Location: Shanghai, China
-  - Updated: 2026-11-04
+  - Updated: 2026-11-05
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [(Senior) Associate – Account Management](https://swisscham.com.cn/jobs/senior-associate-account-management)
   - Location: Shanghai, China
-  - Updated: 2026-11-04
+  - Updated: 2026-11-05
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Business Development Executive/Manager 业务拓展主任/经理](https://swisscham.com.cn/jobs/business-development-executivemanager-yewutazhanzhurenjingli)
   - Location: Shanghai, China
-  - Updated: 2026-11-04
+  - Updated: 2026-11-05
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Business Development Manager](https://swisscham.com.cn/jobs/business-development-manager-0)
   - Location: China
-  - Updated: 2026-11-04
+  - Updated: 2026-11-05
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Internal Medicine Physician](https://swisscham.com.cn/jobs/internal-medicine-physician)
   - Location: Beijing, China
-  - Updated: 2026-11-04
+  - Updated: 2026-11-05
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Marketing & Communications Specialist](https://swisscham.com.cn/jobs/marketing-communications-specialist-0)
   - Location: Shanghai, China
-  - Updated: 2026-11-04
+  - Updated: 2026-11-05
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-11-04
+  - Updated: 2026-11-05
   - Source: swisscham_china
   - Source type: china_local_static
 
@@ -2005,12 +2053,12 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
 
 - [Sea Freight Product Manager](https://swisscham.com.cn/jobs/sea-freight-product-manager)
   - Location: China
-  - Updated: 2026-11-04
+  - Updated: 2026-11-05
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Shaohe Law Firm – Recruitment / 劭合律师事务所招聘启事](https://swisscham.com.cn/jobs/shaohe-law-firm-recruitment-shaohelushishiwusuozhaopinqishi)
   - Location: China
-  - Updated: 2026-11-04
+  - Updated: 2026-11-05
   - Source: swisscham_china
   - Source type: china_local_static
