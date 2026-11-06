@@ -1,8 +1,8 @@
-# AI and Data Jobs - 2026-11-05
+# AI and Data Jobs - 2026-11-06
 
 ## Summary
 
-- Total matching jobs: 98
+- Total matching jobs: 101
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -29,13 +29,13 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [Manager, Internal Product Analytics](https://careers.datadoghq.com/detail/8128810/?gh_jid=8128810)
   - Location: New York, New York, USA
-  - Updated: 2026-09-29
+  - Updated: 2026-11-05
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Regional Manager, Sales Engineering - AI Accounts](https://careers.datadoghq.com/detail/8284998/?gh_jid=8284998)
   - Location: California, USA, Remote
-  - Updated: 2026-10-28
+  - Updated: 2026-11-05
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -64,8 +64,8 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source type: Unknown source type
 
 - [Senior Sales Engineer - AI Accounts](https://careers.datadoghq.com/detail/8238455/?gh_jid=8238455)
-  - Location: California, USA, Remote; Illinois, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote
-  - Updated: 2026-10-29
+  - Location: California, USA, Remote
+  - Updated: 2026-11-05
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -263,6 +263,12 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: sap_careers
   - Source type: china_company_career
 
+- [SAP Customer Success iXp Intern – SAP Innovation Experience Customer Engagement Support AI Lab](https://jobs.sap.com/en/jobs/744000159939386/sap-customer-success-ixp-intern-sap-innovation-experience-customer-engagement-support-ai-lab/)
+  - Location: China
+  - Updated: 2026-11-06
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [SAP iXp Intern - Agile Developer, Business Data Cloud](https://jobs.sap.com/en/jobs/744000158811580/sap-ixp-intern-agile-developer-business-data-cloud/)
   - Location: China
   - Updated: 2026-11-02
@@ -278,6 +284,12 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 - [SAP iXp Intern - HanaHaus Business Insights Analyst](https://jobs.sap.com/en/jobs/744000159266069/sap-ixp-intern-hanahaus-business-insights-analyst/)
   - Location: China
   - Updated: 2026-11-03
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [SAP IXp Intern - Solution Support Engineer - Analytics](https://jobs.sap.com/en/jobs/744000159990859/sap-ixp-intern-solution-support-engineer-analytics/)
+  - Location: China
+  - Updated: 2026-11-06
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -397,6 +409,12 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 ### Stripe
 
+- [AMER Data Analyst - Sales Strategy and Operations](https://stripe.com/jobs/search?gh_jid=8354566)
+  - Location: Chicago, US Remote, SF, NYC, Seattle
+  - Updated: 2026-11-05
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [Business Value Scale Analyst](https://stripe.com/jobs/search?gh_jid=8097047)
   - Location: US-Remote
   - Updated: 2026-08-18
@@ -487,26 +505,26 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Master's Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8333074)
-  - Location: San Francisco, New York City, Seattle
-  - Updated: 2026-10-30
-  - Source: greenhouse
-  - Source type: Unknown source type
-
 - [Master's Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8333122)
   - Location: Toronto
   - Updated: 2026-10-30
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283)
-  - Location: New York, Seattle, South San Francisco HQ
-  - Updated: 2026-10-29
+- [Master's Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8333074)
+  - Location: San Francisco, New York City, Seattle
+  - Updated: 2026-10-30
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285)
   - Location: Toronto
+  - Updated: 2026-10-29
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283)
+  - Location: New York, Seattle, South San Francisco HQ
   - Updated: 2026-10-29
   - Source: greenhouse
   - Source type: Unknown source type

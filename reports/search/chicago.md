@@ -1,8 +1,8 @@
-# Chicago Jobs - 2026-11-05
+# Chicago Jobs - 2026-11-06
 
 ## Summary
 
-- Total matching jobs: 85
+- Total matching jobs: 86
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -48,6 +48,12 @@ Jobs with Chicago-related location signals.
 - [Administrative Business Partner](https://stripe.com/jobs/search?gh_jid=8081670)
   - Location: Chicago, US-Remote
   - Updated: 2026-08-18
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [AMER Data Analyst - Sales Strategy and Operations](https://stripe.com/jobs/search?gh_jid=8354566)
+  - Location: Chicago, US Remote, SF, NYC, Seattle
+  - Updated: 2026-11-05
   - Source: greenhouse
   - Source type: Unknown source type
 

@@ -1,8 +1,8 @@
-# Marketing and Communications Jobs - 2026-11-05
+# Marketing and Communications Jobs - 2026-11-06
 
 ## Summary
 
-- Total matching jobs: 55
+- Total matching jobs: 56
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -65,7 +65,7 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Senior Field Marketing Manager - Public Sector, Federal & Defense](https://careers.datadoghq.com/detail/8324702/?gh_jid=8324702)
   - Location: District of Columbia, USA, Remote
-  - Updated: 2026-10-29
+  - Updated: 2026-11-05
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -162,6 +162,12 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 - [Enterprise Paid Digital Marketing Manager](https://stripe.com/jobs/search?gh_jid=7617049)
   - Location: US: SF Bay Area, Seattle, New York, US Remote; Canada
   - Updated: 2026-09-10
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Events Lead, Product & Financial Services](https://stripe.com/jobs/search?gh_jid=8332888)
+  - Location: South San Francisco, New York City, or Remote 
+  - Updated: 2026-11-05
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -343,12 +349,12 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Marketing & Communications Specialist](https://swisscham.com.cn/jobs/marketing-communications-specialist-0)
   - Location: Shanghai, China
-  - Updated: 2026-11-05
+  - Updated: 2026-11-06
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-11-05
+  - Updated: 2026-11-06
   - Source: swisscham_china
   - Source type: china_local_static
