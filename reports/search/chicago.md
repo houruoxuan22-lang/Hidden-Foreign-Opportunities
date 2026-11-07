@@ -1,8 +1,8 @@
-# Chicago Jobs - 2026-11-06
+# Chicago Jobs - 2026-11-07
 
 ## Summary
 
-- Total matching jobs: 86
+- Total matching jobs: 87
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -84,6 +84,12 @@ Jobs with Chicago-related location signals.
 - [Consumer Product Marketing Lead, Link](https://stripe.com/jobs/search?gh_jid=7947510)
   - Location: San Fransisco, New York, Seattle, Chicago, Remote US
   - Updated: 2026-08-18
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Core Recruiter (Fixed Term)](https://stripe.com/jobs/search?gh_jid=8301957)
+  - Location: Chicago, Remote
+  - Updated: 2026-11-06
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -281,7 +287,7 @@ Jobs with Chicago-related location signals.
 
 - [Partner Solutions Architecture Manager](https://stripe.com/jobs/search?gh_jid=8175651)
   - Location: NY, SF, Chicago, Remote
-  - Updated: 2026-10-29
+  - Updated: 2026-11-06
   - Source: greenhouse
   - Source type: Unknown source type
 
