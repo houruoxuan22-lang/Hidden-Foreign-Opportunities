@@ -1,4 +1,4 @@
-# AI and Data Jobs - 2026-11-07
+# AI and Data Jobs - 2026-11-08
 
 ## Summary
 
@@ -217,7 +217,7 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [Physical Security Specialist - Data Center Security Operations (m/d/f)](https://jobs.sap.com/en/jobs/744000160256450/physical-security-specialist-data-center-security-operations-mdf/)
   - Location: China
-  - Updated: 2026-11-07
+  - Updated: 2026-11-08
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -343,7 +343,7 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [SAP NS2 AI Consultant Specialist](https://jobs.sap.com/en/jobs/744000160297265/sap-ns2-ai-consultant-specialist/)
   - Location: China
-  - Updated: 2026-11-07
+  - Updated: 2026-11-08
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -361,7 +361,7 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [SAP NS2 Senior AI Consultant Specialist](https://jobs.sap.com/en/jobs/744000160296499/sap-ns2-senior-ai-consultant-specialist/)
   - Location: China
-  - Updated: 2026-11-07
+  - Updated: 2026-11-08
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -547,14 +547,14 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328664)
-  - Location: Toronto
+- [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328662)
+  - Location: San Francisco, New York City, Seattle
   - Updated: 2026-10-30
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328662)
-  - Location: San Francisco, New York City, Seattle
+- [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328664)
+  - Location: Toronto
   - Updated: 2026-10-30
   - Source: greenhouse
   - Source type: Unknown source type
