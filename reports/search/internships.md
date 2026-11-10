@@ -1,8 +1,8 @@
-# Internships and Early-career Jobs - 2026-11-09
+# Internships and Early-career Jobs - 2026-11-10
 
 ## Summary
 
-- Total matching jobs: 182
+- Total matching jobs: 184
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -75,7 +75,7 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 
 - [People Team Intern, HR Transformation (Winter 2027)](https://boards.greenhouse.io/cloudflare/jobs/8350166?gh_jid=8350166)
   - Location: In-Office
-  - Updated: 2026-11-06
+  - Updated: 2026-11-09
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -87,19 +87,19 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 
 - [Product Manager Intern (2027) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8274790?gh_jid=8274790)
   - Location: In-Office
-  - Updated: 2026-10-30
+  - Updated: 2026-11-09
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Product Manager Intern (2027) - Lisbon, PT](https://boards.greenhouse.io/cloudflare/jobs/8332008?gh_jid=8332008)
   - Location: In-Office
-  - Updated: 2026-10-30
+  - Updated: 2026-11-09
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Product Manager Intern (2027) - London, UK](https://boards.greenhouse.io/cloudflare/jobs/8328914?gh_jid=8328914)
   - Location: In-Office
-  - Updated: 2026-10-30
+  - Updated: 2026-11-09
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -135,19 +135,19 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 
 - [Software Engineer Intern (2027)](https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197)
   - Location: In-Office
-  - Updated: 2026-10-30
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Software Engineer Intern (2027)](https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211)
-  - Location: In-Office
-  - Updated: 2026-10-30
+  - Updated: 2026-11-09
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Software Engineer Intern (2027) - Austin, TX](https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958)
   - Location: In-Office
-  - Updated: 2026-10-30
+  - Updated: 2026-11-09
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Software Engineer Intern (2027) - London, UK](https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211)
+  - Location: In-Office
+  - Updated: 2026-11-09
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -209,18 +209,18 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 
 - [Research Science Intern (PhD)](https://careers.datadoghq.com/detail/8203657/?gh_jid=8203657)
   - Location: New York, New York, USA; Pittsburgh, Pennsylvania, USA
+  - Updated: 2026-11-09
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Software Engineering Intern](https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186)
+  - Location: Paris, France
   - Updated: 2026-11-05
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Software Engineering Intern](https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161)
   - Location: Madrid, Spain
-  - Updated: 2026-11-05
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Software Engineering Intern](https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186)
-  - Location: Paris, France
   - Updated: 2026-11-05
   - Source: greenhouse
   - Source type: Unknown source type
@@ -328,6 +328,12 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 - [Diploma Student / Intern](https://jobs.sap.com/en/jobs/744000152063249/diploma-student-intern/)
   - Location: China
   - Updated: 2026-09-28
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Field Marketing Intern](https://jobs.sap.com/en/jobs/744000160723269/field-marketing-intern/)
+  - Location: China
+  - Updated: 2026-11-10
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -727,6 +733,12 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: sap_careers
   - Source type: china_company_career
 
+- [SAP iXp Intern - Product Support](https://jobs.sap.com/en/jobs/744000160727749/sap-ixp-intern-product-support/)
+  - Location: China
+  - Updated: 2026-11-10
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [SAP iXp Intern - Solution Adoption Campaign Coordinator](https://jobs.sap.com/en/jobs/744000153279309/sap-ixp-intern-solution-adoption-campaign-coordinator/)
   - Location: China
   - Updated: 2026-10-05
@@ -999,14 +1011,14 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283)
-  - Location: New York, Seattle, South San Francisco HQ
+- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285)
+  - Location: Toronto
   - Updated: 2026-10-29
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285)
-  - Location: Toronto
+- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283)
+  - Location: New York, Seattle, South San Francisco HQ
   - Updated: 2026-10-29
   - Source: greenhouse
   - Source type: Unknown source type
@@ -1071,14 +1083,14 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8097801)
-  - Location: Dublin
+- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8128745)
+  - Location: San Francisco, Seattle, New York City
   - Updated: 2026-10-29
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8128745)
-  - Location: San Francisco, Seattle, New York City
+- [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8097801)
+  - Location: Dublin
   - Updated: 2026-10-29
   - Source: greenhouse
   - Source type: Unknown source type
@@ -1111,6 +1123,6 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-11-09
+  - Updated: 2026-11-10
   - Source: swisscham_china
   - Source type: china_local_static

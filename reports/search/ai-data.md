@@ -1,8 +1,8 @@
-# AI and Data Jobs - 2026-11-09
+# AI and Data Jobs - 2026-11-10
 
 ## Summary
 
-- Total matching jobs: 104
+- Total matching jobs: 107
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -15,7 +15,7 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [Engineering Manager, Agentic Internet & Data Insights](https://boards.greenhouse.io/cloudflare/jobs/8143649?gh_jid=8143649)
   - Location: Hybrid
-  - Updated: 2026-10-30
+  - Updated: 2026-11-09
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -161,6 +161,12 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: sap_careers
   - Source type: china_company_career
 
+- [Engineering Manager / Tech Lead – Industry AI, Autonomous Asset Management (f/m/d)](https://jobs.sap.com/en/jobs/744000160685459/engineering-manager-tech-lead-industry-ai-autonomous-asset-management-fmd/)
+  - Location: China
+  - Updated: 2026-11-10
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [Engineering Manager / Tech Lead – Industry AI, Autonomous Asset Management (f/m/d)](https://jobs.sap.com/en/jobs/744000156571229/engineering-manager-tech-lead-industry-ai-autonomous-asset-management-fmd/)
   - Location: China
   - Updated: 2026-10-21
@@ -212,6 +218,12 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 - [P&C Data Management Associate (English + Second EMEA Language) (limited full-time)](https://jobs.sap.com/en/jobs/744000154436609/pc-data-management-associate-english-plus-second-emea-language-limited-full-time/)
   - Location: China
   - Updated: 2026-10-09
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Physical Security Specialist - Data Center Security Operations (m/d/f)](https://jobs.sap.com/en/jobs/744000160667409/physical-security-specialist-data-center-security-operations-mdf/)
+  - Location: China
+  - Updated: 2026-11-10
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -535,14 +547,14 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283)
-  - Location: New York, Seattle, South San Francisco HQ
+- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285)
+  - Location: Toronto
   - Updated: 2026-10-29
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285)
-  - Location: Toronto
+- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283)
+  - Location: New York, Seattle, South San Francisco HQ
   - Updated: 2026-10-29
   - Source: greenhouse
   - Source type: Unknown source type
@@ -619,6 +631,12 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [Solutions Architect, Metronome (AI Native)](https://stripe.com/jobs/search?gh_jid=8368260)
+  - Location: San Francisco, Seattle, US-Remote
+  - Updated: 2026-11-09
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [Solutions Engineer, AI Build Team ](https://stripe.com/jobs/search?gh_jid=8198323)
   - Location: US-SF, US-NYC, US-Remote
   - Updated: 2026-10-29
@@ -639,6 +657,6 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [Strategy & Analytics Business Partner Analyst](https://stripe.com/jobs/search?gh_jid=8079783)
   - Location: US-SF, US-Seattle, US-NYC, US-Chicago, US-Georgia or US-Remote
-  - Updated: 2026-10-29
+  - Updated: 2026-11-09
   - Source: greenhouse
   - Source type: Unknown source type

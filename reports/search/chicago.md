@@ -1,4 +1,4 @@
-# Chicago Jobs - 2026-11-09
+# Chicago Jobs - 2026-11-10
 
 ## Summary
 
@@ -502,8 +502,8 @@ Jobs with Chicago-related location signals.
   - Source type: Unknown source type
 
 - [Staff Product Manager, Mobile](https://stripe.com/jobs/search?gh_jid=8140438)
-  - Location: New York City, Toronto, Chicago, or Remote
-  - Updated: 2026-10-29
+  - Location: New York City, Toronto, Chicago, EMEA, or Remote
+  - Updated: 2026-11-09
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -515,7 +515,7 @@ Jobs with Chicago-related location signals.
 
 - [Strategy & Analytics Business Partner Analyst](https://stripe.com/jobs/search?gh_jid=8079783)
   - Location: US-SF, US-Seattle, US-NYC, US-Chicago, US-Georgia or US-Remote
-  - Updated: 2026-10-29
+  - Updated: 2026-11-09
   - Source: greenhouse
   - Source type: Unknown source type
 
