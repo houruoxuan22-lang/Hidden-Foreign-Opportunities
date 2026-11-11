@@ -1,8 +1,8 @@
-# Chicago Jobs - 2026-11-10
+# Chicago Jobs - 2026-11-11
 
 ## Summary
 
-- Total matching jobs: 87
+- Total matching jobs: 86
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -41,7 +41,7 @@ Jobs with Chicago-related location signals.
 
 - [Account Executive, Strategics](https://stripe.com/jobs/search?gh_jid=8319452)
   - Location: San Francisco, Seattle, New York, Chicago, US-Remote 
-  - Updated: 2026-11-04
+  - Updated: 2026-11-10
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -306,12 +306,6 @@ Jobs with Chicago-related location signals.
 - [People Project Manager](https://stripe.com/jobs/search?gh_jid=8039954)
   - Location: US-Remote, Atlanta, Chicago
   - Updated: 2026-09-25
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [People Project Manager](https://stripe.com/jobs/search?gh_jid=8173467)
-  - Location: Chicago, Atlanta, US-Remote
-  - Updated: 2026-09-10
   - Source: greenhouse
   - Source type: Unknown source type
 

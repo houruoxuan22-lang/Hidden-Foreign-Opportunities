@@ -1,8 +1,8 @@
-# Remote Jobs - 2026-11-10
+# Remote Jobs - 2026-11-11
 
 ## Summary
 
-- Total matching jobs: 720
+- Total matching jobs: 731
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -279,8 +279,14 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Enterprise Sales Executive](https://careers.datadoghq.com/detail/6925405/?gh_jid=6925405)
-  - Location: Texas, USA, Remote
+- [Enterprise Sales Executive](https://careers.datadoghq.com/detail/7405822/?gh_jid=7405822)
+  - Location: Georgia, USA, Remote
+  - Updated: 2026-11-05
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Enterprise Sales Executive](https://careers.datadoghq.com/detail/7465857/?gh_jid=7465857)
+  - Location: North Carolina, USA, Remote; Tennessee, USA, Remote
   - Updated: 2026-11-05
   - Source: greenhouse
   - Source type: Unknown source type
@@ -297,8 +303,8 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Enterprise Sales Executive](https://careers.datadoghq.com/detail/7405822/?gh_jid=7405822)
-  - Location: Georgia, USA, Remote
+- [Enterprise Sales Executive](https://careers.datadoghq.com/detail/6925405/?gh_jid=6925405)
+  - Location: Texas, USA, Remote
   - Updated: 2026-11-05
   - Source: greenhouse
   - Source type: Unknown source type
@@ -306,12 +312,6 @@ Jobs with remote or distributed work signals.
 - [Enterprise Sales Executive](https://careers.datadoghq.com/detail/7536154/?gh_jid=7536154)
   - Location: Brazil, Remote; Sao Paulo, Brazil
   - Updated: 2026-11-06
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Enterprise Sales Executive](https://careers.datadoghq.com/detail/7465857/?gh_jid=7465857)
-  - Location: North Carolina, USA, Remote; Tennessee, USA, Remote
-  - Updated: 2026-11-05
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -371,7 +371,7 @@ Jobs with remote or distributed work signals.
 
 - [Major Account Manager](https://careers.datadoghq.com/detail/8125958/?gh_jid=8125958)
   - Location: Michigan, USA, Remote; Ohio, USA, Remote; Texas, USA, Remote
-  - Updated: 2026-11-05
+  - Updated: 2026-11-10
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -645,8 +645,8 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Senior Security Sales Engineer](https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877)
-  - Location: Illinois, USA, Remote; Texas, USA, Remote
+- [Senior Security Sales Engineer](https://careers.datadoghq.com/detail/8141240/?gh_jid=8141240)
+  - Location: Florida, USA, Remote; Georgia, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote
   - Updated: 2026-11-05
   - Source: greenhouse
   - Source type: Unknown source type
@@ -657,8 +657,8 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Senior Security Sales Engineer](https://careers.datadoghq.com/detail/8141240/?gh_jid=8141240)
-  - Location: Florida, USA, Remote; Georgia, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote
+- [Senior Security Sales Engineer](https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877)
+  - Location: Illinois, USA, Remote; Texas, USA, Remote
   - Updated: 2026-11-05
   - Source: greenhouse
   - Source type: Unknown source type
@@ -669,14 +669,14 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineering Intern](https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186)
-  - Location: Paris, France
+- [Software Engineering Intern](https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161)
+  - Location: Madrid, Spain
   - Updated: 2026-11-05
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineering Intern](https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161)
-  - Location: Madrid, Spain
+- [Software Engineering Intern](https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186)
+  - Location: Paris, France
   - Updated: 2026-11-05
   - Source: greenhouse
   - Source type: Unknown source type
@@ -717,6 +717,24 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/7131404/?gh_jid=7131404)
+  - Location: Chile, Remote
+  - Updated: 2026-11-05
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/8157360/?gh_jid=8157360)
+  - Location: Florida, USA, Remote
+  - Updated: 2026-11-05
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/7131495/?gh_jid=7131495)
+  - Location: Washington, USA, Remote
+  - Updated: 2026-11-05
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [Strategic Account Executive](https://careers.datadoghq.com/detail/7057036/?gh_jid=7057036)
   - Location: District of Columbia, USA, Remote; Maryland, USA, Remote; Virginia, USA, Remote
   - Updated: 2026-11-05
@@ -729,38 +747,8 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/7131363/?gh_jid=7131363)
-  - Location: North Carolina, USA, Remote; South Carolina, USA, Remote
-  - Updated: 2026-11-05
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/7131404/?gh_jid=7131404)
-  - Location: Chile, Remote
-  - Updated: 2026-11-05
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/6522747/?gh_jid=6522747)
-  - Location: Minnesota, USA, Remote
-  - Updated: 2026-11-05
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/7131495/?gh_jid=7131495)
-  - Location: Washington, USA, Remote
-  - Updated: 2026-11-05
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/6522736/?gh_jid=6522736)
-  - Location: Michigan, USA, Remote; Ohio, USA, Remote; Pennsylvania, USA, Remote
-  - Updated: 2026-11-09
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/6522720/?gh_jid=6522720)
-  - Location: Georgia, USA, Remote; Tennessee, USA, Remote
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/6522865/?gh_jid=6522865)
+  - Location: Canada, Remote
   - Updated: 2026-11-05
   - Source: greenhouse
   - Source type: Unknown source type
@@ -771,14 +759,26 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/8157360/?gh_jid=8157360)
-  - Location: Florida, USA, Remote
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/6522720/?gh_jid=6522720)
+  - Location: Georgia, USA, Remote; Tennessee, USA, Remote
   - Updated: 2026-11-05
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Strategic Account Executive](https://careers.datadoghq.com/detail/6522865/?gh_jid=6522865)
-  - Location: Canada, Remote
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/6522736/?gh_jid=6522736)
+  - Location: Michigan, USA, Remote; Ohio, USA, Remote; Pennsylvania, USA, Remote
+  - Updated: 2026-11-09
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/6522747/?gh_jid=6522747)
+  - Location: Minnesota, USA, Remote
+  - Updated: 2026-11-05
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Strategic Account Executive](https://careers.datadoghq.com/detail/7131363/?gh_jid=7131363)
+  - Location: North Carolina, USA, Remote; South Carolina, USA, Remote
   - Updated: 2026-11-05
   - Source: greenhouse
   - Source type: Unknown source type
@@ -1091,6 +1091,12 @@ Jobs with remote or distributed work signals.
   - Source: sap_careers
   - Source type: china_company_career
 
+- [Client Delivery Manager - US Northeast Region](https://jobs.sap.com/en/jobs/744000160967699/client-delivery-manager-us-northeast-region/)
+  - Location: China
+  - Updated: 2026-11-11
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [Client Delivery Manager - US Northeast Region](https://jobs.sap.com/en/jobs/744000156597089/client-delivery-manager-us-northeast-region/)
   - Location: China
   - Updated: 2026-10-21
@@ -1130,6 +1136,12 @@ Jobs with remote or distributed work signals.
 - [Data Engineering- Intelligent Operations (f/m/d)](https://jobs.sap.com/en/jobs/744000159208609/data-engineering-intelligent-operations-fmd/)
   - Location: China
   - Updated: 2026-11-03
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Delivery Executive / Project Principal Consultant](https://jobs.sap.com/en/jobs/744000161022029/delivery-executive-project-principal-consultant/)
+  - Location: China
+  - Updated: 2026-11-11
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -1406,6 +1418,12 @@ Jobs with remote or distributed work signals.
 - [IT Business Services Senior Consultant (Multiple Positions Available)](https://jobs.sap.com/en/jobs/744000159207449/it-business-services-senior-consultant-multiple-positions-available/)
   - Location: China
   - Updated: 2026-11-03
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [IT Business Services Senior Consultant - Technical Landscape Owner](https://jobs.sap.com/en/jobs/744000161025599/it-business-services-senior-consultant-technical-landscape-owner/)
+  - Location: China
+  - Updated: 2026-11-11
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -1769,6 +1787,24 @@ Jobs with remote or distributed work signals.
   - Source: sap_careers
   - Source type: china_company_career
 
+- [SAP Delivery Executive | Northeast-Canada Market Unit](https://jobs.sap.com/en/jobs/744000160967447/sap-delivery-executive-northeast-canada-market-unit/)
+  - Location: China
+  - Updated: 2026-11-11
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [SAP Delivery Executive | Northeast-Canada Market Unit](https://jobs.sap.com/en/jobs/744000160968069/sap-delivery-executive-northeast-canada-market-unit/)
+  - Location: China
+  - Updated: 2026-11-11
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [SAP Delivery Executive | Northeast-Canada Market Unit](https://jobs.sap.com/en/jobs/744000160968009/sap-delivery-executive-northeast-canada-market-unit/)
+  - Location: China
+  - Updated: 2026-11-11
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [SAP Intern – Intelligent Contracting Automation](https://jobs.sap.com/en/jobs/744000159538240/sap-intern-intelligent-contracting-automation/)
   - Location: China
   - Updated: 2026-11-04
@@ -1871,6 +1907,12 @@ Jobs with remote or distributed work signals.
   - Source: sap_careers
   - Source type: china_company_career
 
+- [SAP iXp Intern - Full-Stack Software Engineer](https://jobs.sap.com/en/jobs/744000160967354/sap-ixp-intern-full-stack-software-engineer/)
+  - Location: China
+  - Updated: 2026-11-11
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [SAP iXp intern - GPO Admin](https://jobs.sap.com/en/jobs/744000152737135/sap-ixp-intern-gpo-admin/)
   - Location: China
   - Updated: 2026-10-01
@@ -1961,9 +2003,21 @@ Jobs with remote or distributed work signals.
   - Source: sap_careers
   - Source type: china_company_career
 
+- [SAP iXp Intern - Technical Support](https://jobs.sap.com/en/jobs/744000160974349/sap-ixp-intern-technical-support/)
+  - Location: China
+  - Updated: 2026-11-11
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [SAP iXp Intern - Topline & Customer Controlling Sales Americas](https://jobs.sap.com/en/jobs/744000158564837/sap-ixp-intern-topline-customer-controlling-sales-americas/)
   - Location: China
   - Updated: 2026-10-30
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [SAP iXp Intern CPIT – Corporate Functions & Analytics (limited part-time)](https://jobs.sap.com/en/jobs/744000160973590/sap-ixp-intern-cpit-corporate-functions-analytics-limited-part-time/)
+  - Location: China
+  - Updated: 2026-11-11
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -1982,6 +2036,12 @@ Jobs with remote or distributed work signals.
 - [SAP iXp Intern – Experience Center | SAP Labs Latin America](https://jobs.sap.com/en/jobs/744000153248139/sap-ixp-intern-experience-center-sap-labs-latin-america/)
   - Location: China
   - Updated: 2026-10-05
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [SAP iXp Intern – Global Commercial Finance, Service Delivery Hub](https://jobs.sap.com/en/jobs/744000160970419/sap-ixp-intern-global-commercial-finance-service-delivery-hub/)
+  - Location: China
+  - Updated: 2026-11-11
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -2162,6 +2222,12 @@ Jobs with remote or distributed work signals.
 - [SAP NS2 Senior AI Consultant Specialist](https://jobs.sap.com/en/jobs/744000160296499/sap-ns2-senior-ai-consultant-specialist/)
   - Location: China
   - Updated: 2026-11-09
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [SAP NS2 Senior DevOps Engineer](https://jobs.sap.com/en/jobs/744000160979889/sap-ns2-senior-devops-engineer/)
+  - Location: China
+  - Updated: 2026-11-11
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -2757,7 +2823,7 @@ Jobs with remote or distributed work signals.
 
 - [Account Executive, Enterprise (Grower) ](https://stripe.com/jobs/search?gh_jid=8107136)
   - Location: US-San Francisco, US-Seattle, US-West Coast (Remote) 
-  - Updated: 2026-11-04
+  - Updated: 2026-11-10
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -2829,7 +2895,7 @@ Jobs with remote or distributed work signals.
 
 - [Account Executive, Strategics](https://stripe.com/jobs/search?gh_jid=8319452)
   - Location: San Francisco, Seattle, New York, Chicago, US-Remote 
-  - Updated: 2026-11-04
+  - Updated: 2026-11-10
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -3589,15 +3655,15 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [People Project Manager](https://stripe.com/jobs/search?gh_jid=8039954)
-  - Location: US-Remote, Atlanta, Chicago
-  - Updated: 2026-09-25
+- [People Project Manager](https://stripe.com/jobs/search?gh_jid=8173467)
+  - Location: US-Remote
+  - Updated: 2026-11-10
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [People Project Manager](https://stripe.com/jobs/search?gh_jid=8173467)
-  - Location: Chicago, Atlanta, US-Remote
-  - Updated: 2026-09-10
+- [People Project Manager](https://stripe.com/jobs/search?gh_jid=8039954)
+  - Location: US-Remote, Atlanta, Chicago
+  - Updated: 2026-09-25
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -4065,7 +4131,7 @@ Jobs with remote or distributed work signals.
 
 - [Solutions Architect, Metronome (AI Native)](https://stripe.com/jobs/search?gh_jid=8368260)
   - Location: San Francisco, Seattle, US-Remote
-  - Updated: 2026-11-09
+  - Updated: 2026-11-10
   - Source: greenhouse
   - Source type: Unknown source type
 
