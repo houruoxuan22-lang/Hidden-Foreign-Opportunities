@@ -1,8 +1,8 @@
-# Chicago Jobs - 2026-11-11
+# Chicago Jobs - 2026-11-12
 
 ## Summary
 
-- Total matching jobs: 86
+- Total matching jobs: 89
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -70,8 +70,8 @@ Jobs with Chicago-related location signals.
   - Source type: Unknown source type
 
 - [Commercial Credit Operations Manager](https://stripe.com/jobs/search?gh_jid=8213951)
-  - Location: Chicago, Atlanta, US-Remote
-  - Updated: 2026-11-04
+  - Location: Chicago, Atlanta, US-Remote, Toronto 
+  - Updated: 2026-11-11
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -138,6 +138,12 @@ Jobs with Chicago-related location signals.
 - [Fraud Architect](https://stripe.com/jobs/search?gh_jid=8203220)
   - Location: SF-HQ, Chicago, New York, US-Remote
   - Updated: 2026-10-29
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Fraud Strategist](https://stripe.com/jobs/search?gh_jid=8112448)
+  - Location: Chicago, Atlanta, San Francisco, Seattle, NYC, US-Remote, Toro
+  - Updated: 2026-11-11
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -353,7 +359,7 @@ Jobs with Chicago-related location signals.
 
 - [Product/Design Recruiter](https://stripe.com/jobs/search?gh_jid=8303870)
   - Location: Chicago, Atlanta, US-Remote, Toro
-  - Updated: 2026-11-04
+  - Updated: 2026-11-11
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -384,6 +390,18 @@ Jobs with Chicago-related location signals.
 - [Risk Advisory Strategist, Card Network Compliance](https://stripe.com/jobs/search?gh_jid=7594866)
   - Location: Chicago, SEA, SF, NYC, US-Remote
   - Updated: 2026-09-04
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921)
+  - Location: Chicago, Atlanta, US-Remote, Toro
+  - Updated: 2026-11-11
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Risk Partnerships Manager, Networks and Acquiring](https://stripe.com/jobs/search?gh_jid=8326098)
+  - Location: US-Remote; US-Chicago; US-Atlanta; CA-Toronto; CA-Remote
+  - Updated: 2026-11-11
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -479,7 +497,7 @@ Jobs with Chicago-related location signals.
 
 - [Specialist Solutions Architect, Tax](https://stripe.com/jobs/search?gh_jid=8090244)
   - Location: Chicago, Atlanta, Remote
-  - Updated: 2026-10-29
+  - Updated: 2026-11-11
   - Source: greenhouse
   - Source type: Unknown source type
 

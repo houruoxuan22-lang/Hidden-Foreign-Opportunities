@@ -1,4 +1,4 @@
-# AI and Data Jobs - 2026-11-11
+# AI and Data Jobs - 2026-11-12
 
 ## Summary
 
@@ -469,14 +469,14 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291)
-  - Location: New York, Seattle, South San Francisco HQ
+- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287)
+  - Location: Toronto
   - Updated: 2026-10-29
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287)
-  - Location: Toronto
+- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291)
+  - Location: New York, Seattle, South San Francisco HQ
   - Updated: 2026-10-29
   - Source: greenhouse
   - Source type: Unknown source type
@@ -553,26 +553,26 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283)
-  - Location: New York, Seattle, South San Francisco HQ
-  - Updated: 2026-11-10
-  - Source: greenhouse
-  - Source type: Unknown source type
-
 - [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285)
   - Location: Toronto
   - Updated: 2026-10-29
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328664)
-  - Location: Toronto
-  - Updated: 2026-10-30
+- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283)
+  - Location: New York, Seattle, South San Francisco HQ
+  - Updated: 2026-11-10
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328662)
   - Location: San Francisco, New York City, Seattle
+  - Updated: 2026-10-30
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328664)
+  - Location: Toronto
   - Updated: 2026-10-30
   - Source: greenhouse
   - Source type: Unknown source type
@@ -596,14 +596,14 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source type: Unknown source type
 
 - [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921)
-  - Location: Remote
-  - Updated: 2026-11-03
+  - Location: Chicago, Atlanta, US-Remote, Toro
+  - Updated: 2026-11-11
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Risk Operations Analyst - RBO ](https://stripe.com/jobs/search?gh_jid=8175824)
   - Location: Remote 
-  - Updated: 2026-10-29
+  - Updated: 2026-11-11
   - Source: greenhouse
   - Source type: Unknown source type
 
