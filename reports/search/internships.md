@@ -1,4 +1,4 @@
-# Internships and Early-career Jobs - 2026-11-12
+# Internships and Early-career Jobs - 2026-11-13
 
 ## Summary
 
@@ -213,14 +213,14 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineering Intern](https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161)
-  - Location: Madrid, Spain
+- [Software Engineering Intern](https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186)
+  - Location: Paris, France
   - Updated: 2026-11-05
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineering Intern](https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186)
-  - Location: Paris, France
+- [Software Engineering Intern](https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161)
+  - Location: Madrid, Spain
   - Updated: 2026-11-05
   - Source: greenhouse
   - Source type: Unknown source type
@@ -963,14 +963,14 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287)
-  - Location: Toronto
+- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291)
+  - Location: New York, Seattle, South San Francisco HQ
   - Updated: 2026-10-29
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291)
-  - Location: New York, Seattle, South San Francisco HQ
+- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287)
+  - Location: Toronto
   - Updated: 2026-10-29
   - Source: greenhouse
   - Source type: Unknown source type
@@ -1047,26 +1047,26 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328662)
-  - Location: San Francisco, New York City, Seattle
-  - Updated: 2026-10-30
-  - Source: greenhouse
-  - Source type: Unknown source type
-
 - [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328664)
   - Location: Toronto
   - Updated: 2026-10-30
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Product Design Intern](https://stripe.com/jobs/search?gh_jid=8332683)
-  - Location: Toronto
-  - Updated: 2026-11-05
+- [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328662)
+  - Location: San Francisco, New York City, Seattle
+  - Updated: 2026-10-30
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Product Design Intern](https://stripe.com/jobs/search?gh_jid=8332681)
   - Location: San Francisco, Seattle, New York City
+  - Updated: 2026-11-05
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Product Design Intern](https://stripe.com/jobs/search?gh_jid=8332683)
+  - Location: Toronto
   - Updated: 2026-11-05
   - Source: greenhouse
   - Source type: Unknown source type
@@ -1089,14 +1089,14 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8031833)
-  - Location: Bengaluru
+- [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130883)
+  - Location: Singapore
   - Updated: 2026-10-29
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130883)
-  - Location: Singapore
+- [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8031833)
+  - Location: Bengaluru
   - Updated: 2026-10-29
   - Source: greenhouse
   - Source type: Unknown source type
@@ -1147,6 +1147,6 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-11-12
+  - Updated: 2026-11-13
   - Source: swisscham_china
   - Source type: china_local_static
