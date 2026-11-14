@@ -1,8 +1,8 @@
-# Chicago Jobs - 2026-11-13
+# Chicago Jobs - 2026-11-14
 
 ## Summary
 
-- Total matching jobs: 89
+- Total matching jobs: 91
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -180,6 +180,18 @@ Jobs with Chicago-related location signals.
 - [Head of AEO & SEO](https://stripe.com/jobs/search?gh_jid=8128634)
   - Location: US Remote; Chicago, Atlanta, Canada
   - Updated: 2026-10-29
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Head of Enterprise Sales, Marketplaces](https://stripe.com/jobs/search?gh_jid=8382002)
+  - Location: US-Chicago, US-Seattle, US-San Francisco, US-Remote
+  - Updated: 2026-11-13
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Head of Enterprise, West](https://stripe.com/jobs/search?gh_jid=8382000)
+  - Location: San Francisco, Seattle, Chicago or Remote
+  - Updated: 2026-11-13
   - Source: greenhouse
   - Source type: Unknown source type
 
