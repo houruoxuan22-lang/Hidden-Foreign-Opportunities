@@ -1,4 +1,4 @@
-# Internships and Early-career Jobs - 2026-11-14
+# Internships and Early-career Jobs - 2026-11-15
 
 ## Summary
 
@@ -1147,6 +1147,6 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-11-14
+  - Updated: 2026-11-15
   - Source: swisscham_china
   - Source type: china_local_static

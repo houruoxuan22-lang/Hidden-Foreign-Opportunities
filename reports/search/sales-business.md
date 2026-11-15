@@ -1,4 +1,4 @@
-# Sales and Business Development Jobs - 2026-11-14
+# Sales and Business Development Jobs - 2026-11-15
 
 ## Summary
 
@@ -1277,12 +1277,12 @@ Jobs related to sales, account management, business development, partnerships, a
 
 - [Business Development Executive/Manager 业务拓展主任/经理](https://swisscham.com.cn/jobs/business-development-executivemanager-yewutazhanzhurenjingli)
   - Location: Shanghai, China
-  - Updated: 2026-11-14
+  - Updated: 2026-11-15
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Business Development Manager](https://swisscham.com.cn/jobs/business-development-manager-0)
   - Location: China
-  - Updated: 2026-11-14
+  - Updated: 2026-11-15
   - Source: swisscham_china
   - Source type: china_local_static

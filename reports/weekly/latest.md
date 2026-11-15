@@ -1,8 +1,8 @@
-# Weekly Job Trend Report - 2026-11-14
+# Weekly Job Trend Report - 2026-11-15
 
 ## Summary
 
-- Snapshot window: 2026-11-08 to 2026-11-14
+- Snapshot window: 2026-11-09 to 2026-11-15
 - Snapshot days available: 7
 - Latest total relevant jobs: 946
 - Change vs first available snapshot: 43
