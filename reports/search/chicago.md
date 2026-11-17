@@ -1,4 +1,4 @@
-# Chicago Jobs - 2026-11-16
+# Chicago Jobs - 2026-11-17
 
 ## Summary
 
@@ -189,9 +189,9 @@ Jobs with Chicago-related location signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Head of Enterprise, West](https://stripe.com/jobs/search?gh_jid=8382000)
+- [Head of Enterprise Sales, West](https://stripe.com/jobs/search?gh_jid=8382000)
   - Location: San Francisco, Seattle, Chicago or Remote
-  - Updated: 2026-11-13
+  - Updated: 2026-11-16
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -293,7 +293,7 @@ Jobs with Chicago-related location signals.
 
 - [Partner Marketing Manager, Online & Regional Events](https://stripe.com/jobs/search?gh_jid=8175661)
   - Location: Seattle or San Francisco or Chicago or New York City or US-Remote
-  - Updated: 2026-10-29
+  - Updated: 2026-11-16
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -539,7 +539,7 @@ Jobs with Chicago-related location signals.
 
 - [Strategy & Analytics Business Partner Analyst](https://stripe.com/jobs/search?gh_jid=8079783)
   - Location: US-SF, US-Seattle, US-NYC, US-Chicago, US-Georgia or US-Remote
-  - Updated: 2026-11-09
+  - Updated: 2026-11-16
   - Source: greenhouse
   - Source type: Unknown source type
 

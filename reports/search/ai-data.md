@@ -1,4 +1,4 @@
-# AI and Data Jobs - 2026-11-16
+# AI and Data Jobs - 2026-11-17
 
 ## Summary
 
@@ -475,14 +475,14 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291)
-  - Location: New York, Seattle, South San Francisco HQ
+- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287)
+  - Location: Toronto
   - Updated: 2026-10-29
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287)
-  - Location: Toronto
+- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291)
+  - Location: New York, Seattle, South San Francisco HQ
   - Updated: 2026-10-29
   - Source: greenhouse
   - Source type: Unknown source type
@@ -547,27 +547,27 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Master's Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8333122)
-  - Location: Toronto
-  - Updated: 2026-10-30
-  - Source: greenhouse
-  - Source type: Unknown source type
-
 - [Master's Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8333074)
   - Location: San Francisco, New York City, Seattle
   - Updated: 2026-10-30
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283)
-  - Location: New York, Seattle, South San Francisco HQ
-  - Updated: 2026-11-10
+- [Master's Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8333122)
+  - Location: Toronto
+  - Updated: 2026-10-30
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285)
   - Location: Toronto
   - Updated: 2026-10-29
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283)
+  - Location: New York, Seattle, South San Francisco HQ
+  - Updated: 2026-11-10
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -675,6 +675,6 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [Strategy & Analytics Business Partner Analyst](https://stripe.com/jobs/search?gh_jid=8079783)
   - Location: US-SF, US-Seattle, US-NYC, US-Chicago, US-Georgia or US-Remote
-  - Updated: 2026-11-09
+  - Updated: 2026-11-16
   - Source: greenhouse
   - Source type: Unknown source type
