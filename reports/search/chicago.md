@@ -1,8 +1,8 @@
-# Chicago Jobs - 2026-11-17
+# Chicago Jobs - 2026-11-18
 
 ## Summary
 
-- Total matching jobs: 91
+- Total matching jobs: 92
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -129,6 +129,12 @@ Jobs with Chicago-related location signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [Forward Deployed AI Accelerator, Marketing](https://stripe.com/jobs/search?gh_jid=8395851)
+  - Location: Seattle, San Francisco, New York, Chicago, Atlanta, Remote in the US, Canada
+  - Updated: 2026-11-17
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [Forward Deployed AI Accelerator, Sales Development](https://stripe.com/jobs/search?gh_jid=8055930)
   - Location: Seattle, San Francisco, New York, Chicago, Atlanta, Remote in the US, Canada
   - Updated: 2026-11-03
@@ -185,13 +191,13 @@ Jobs with Chicago-related location signals.
 
 - [Head of Enterprise Sales, Marketplaces](https://stripe.com/jobs/search?gh_jid=8382002)
   - Location: US-Chicago, US-Seattle, US-San Francisco, US-Remote
-  - Updated: 2026-11-13
+  - Updated: 2026-11-17
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Head of Enterprise Sales, West](https://stripe.com/jobs/search?gh_jid=8382000)
   - Location: San Francisco, Seattle, Chicago or Remote
-  - Updated: 2026-11-16
+  - Updated: 2026-11-17
   - Source: greenhouse
   - Source type: Unknown source type
 

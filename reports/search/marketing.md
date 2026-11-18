@@ -1,8 +1,8 @@
-# Marketing and Communications Jobs - 2026-11-17
+# Marketing and Communications Jobs - 2026-11-18
 
 ## Summary
 
-- Total matching jobs: 57
+- Total matching jobs: 60
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -12,6 +12,12 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 ## Jobs
 
 ### Cloudflare
+
+- [AI & Automation Intern, Communications (Winter 2027)](https://boards.greenhouse.io/cloudflare/jobs/8394342?gh_jid=8394342)
+  - Location: In-Office
+  - Updated: 2026-11-17
+  - Source: greenhouse
+  - Source type: Unknown source type
 
 - [Marketing Campaigns & Account-Based Marketing (ABM) Intern (Fall 2026)](https://boards.greenhouse.io/cloudflare/jobs/7838607?gh_jid=7838607)
   - Location: In-Office
@@ -153,6 +159,12 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [Briefing Content Strategist](https://stripe.com/jobs/search?gh_jid=8376773)
+  - Location: Remote in the US
+  - Updated: 2026-11-17
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [Consumer Product Marketing Lead, Link](https://stripe.com/jobs/search?gh_jid=7947510)
   - Location: San Fransisco, New York, Seattle, Chicago, Remote US
   - Updated: 2026-08-18
@@ -192,6 +204,12 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 - [Forward Deployed AI Accelerator, Marketing](https://stripe.com/jobs/search?gh_jid=7747640)
   - Location: Seattle, San Francisco, New York, Chicago, Atlanta, Remote in the US, Canada
   - Updated: 2026-11-03
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Forward Deployed AI Accelerator, Marketing](https://stripe.com/jobs/search?gh_jid=8395851)
+  - Location: Seattle, San Francisco, New York, Chicago, Atlanta, Remote in the US, Canada
+  - Updated: 2026-11-17
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -341,7 +359,7 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Social Media, Customer Support Associate (Includes Weekend Rotations)](https://stripe.com/jobs/search?gh_jid=7867328)
   - Location: Mexico
-  - Updated: 2026-10-29
+  - Updated: 2026-11-17
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -355,12 +373,12 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Marketing & Communications Specialist](https://swisscham.com.cn/jobs/marketing-communications-specialist-0)
   - Location: Shanghai, China
-  - Updated: 2026-11-17
+  - Updated: 2026-11-18
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Marketing & Project assistant 市场 & 项目助理（实习生）](https://swisscham.com.cn/jobs/marketing-project-assistant-shichang-xiangmuzhulishixisheng)
   - Location: Shanghai, China
-  - Updated: 2026-11-17
+  - Updated: 2026-11-18
   - Source: swisscham_china
   - Source type: china_local_static
