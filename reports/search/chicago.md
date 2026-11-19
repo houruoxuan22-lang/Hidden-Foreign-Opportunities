@@ -1,4 +1,4 @@
-# Chicago Jobs - 2026-11-18
+# Chicago Jobs - 2026-11-19
 
 ## Summary
 
@@ -197,7 +197,7 @@ Jobs with Chicago-related location signals.
 
 - [Head of Enterprise Sales, West](https://stripe.com/jobs/search?gh_jid=8382000)
   - Location: San Francisco, Seattle, Chicago or Remote
-  - Updated: 2026-11-17
+  - Updated: 2026-11-18
   - Source: greenhouse
   - Source type: Unknown source type
 
