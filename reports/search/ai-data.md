@@ -1,8 +1,8 @@
-# AI and Data Jobs - 2026-11-19
+# AI and Data Jobs - 2026-11-20
 
 ## Summary
 
-- Total matching jobs: 112
+- Total matching jobs: 113
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -453,13 +453,13 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [AMER Data Analyst - Sales Strategy and Operations](https://stripe.com/jobs/search?gh_jid=8354566)
   - Location: Chicago, US Remote, SF, NYC, Seattle
-  - Updated: 2026-11-05
+  - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Analyst Relations Senior Manager](https://stripe.com/jobs/search?gh_jid=8376775)
   - Location: Remote in the US
-  - Updated: 2026-11-12
+  - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -481,15 +481,15 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291)
-  - Location: New York, Seattle, South San Francisco HQ
-  - Updated: 2026-10-29
+- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287)
+  - Location: Toronto
+  - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287)
-  - Location: Toronto
-  - Updated: 2026-10-29
+- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291)
+  - Location: New York, Seattle, South San Francisco HQ
+  - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -511,15 +511,21 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [Engineering Manager, Stream Analytics](https://stripe.com/jobs/search?gh_jid=8317310)
+  - Location: US-Remote
+  - Updated: 2026-11-19
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [Financial Data Analyst Intern, Technical Operations](https://stripe.com/jobs/search?gh_jid=8186442)
   - Location: Singapore
-  - Updated: 2026-10-29
+  - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Forward Deployed AI Accelerator, Marketing](https://stripe.com/jobs/search?gh_jid=7747640)
   - Location: Seattle, San Francisco, New York, Chicago, Atlanta, Remote in the US, Canada
-  - Updated: 2026-11-03
+  - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -561,43 +567,43 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [Master's Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8333074)
   - Location: San Francisco, New York City, Seattle
-  - Updated: 2026-10-30
+  - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Master's Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8333122)
   - Location: Toronto
-  - Updated: 2026-10-30
+  - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285)
   - Location: Toronto
-  - Updated: 2026-10-29
+  - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283)
   - Location: New York, Seattle, South San Francisco HQ
-  - Updated: 2026-11-10
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328664)
-  - Location: Toronto
-  - Updated: 2026-10-30
+  - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328662)
   - Location: San Francisco, New York City, Seattle
-  - Updated: 2026-10-30
+  - Updated: 2026-11-19
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328664)
+  - Location: Toronto
+  - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Policy Lead, AI Infrastructure](https://stripe.com/jobs/search?gh_jid=8334556)
   - Location: US-Remote
-  - Updated: 2026-11-13
+  - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -621,19 +627,19 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921)
   - Location: Chicago, Atlanta, US-Remote, Toro
-  - Updated: 2026-11-11
+  - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Risk Operations Analyst - Restricted Business Operations ](https://stripe.com/jobs/search?gh_jid=8175824)
   - Location: Remote 
-  - Updated: 2026-11-18
+  - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [SaaS Platform and AI Partner Marketing Lead](https://stripe.com/jobs/search?gh_jid=8248507)
   - Location: San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US
-  - Updated: 2026-10-29
+  - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -675,18 +681,18 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [Specialist Solutions Architect, Data](https://stripe.com/jobs/search?gh_jid=8144262)
   - Location: SF, NY, Remote
-  - Updated: 2026-10-29
+  - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Startup Products Strategy & Operations, Insights & Analytics](https://stripe.com/jobs/search?gh_jid=8234710)
   - Location: Remote US
-  - Updated: 2026-10-30
+  - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Strategy & Analytics Business Partner Analyst](https://stripe.com/jobs/search?gh_jid=8079783)
   - Location: US-SF, US-Seattle, US-NYC, US-Chicago, US-Georgia or US-Remote
-  - Updated: 2026-11-16
+  - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type

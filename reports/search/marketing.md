@@ -1,8 +1,8 @@
-# Marketing and Communications Jobs - 2026-11-19
+# Marketing and Communications Jobs - 2026-11-20
 
 ## Summary
 
-- Total matching jobs: 60
+- Total matching jobs: 61
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -161,7 +161,7 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Briefing Content Strategist](https://stripe.com/jobs/search?gh_jid=8376773)
   - Location: Remote in the US
-  - Updated: 2026-11-17
+  - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -173,7 +173,7 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Editorial Director, Brand & Creative Partnerships](https://stripe.com/jobs/search?gh_jid=8203216)
   - Location: US: SF, NYC, Seattle and Remote
-  - Updated: 2026-10-29
+  - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -185,13 +185,13 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Events Lead, Product & Financial Services](https://stripe.com/jobs/search?gh_jid=8332888)
   - Location: South San Francisco, New York City, or Remote 
-  - Updated: 2026-11-05
+  - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Events Manager, Event Technology and Registration ](https://stripe.com/jobs/search?gh_jid=8222212)
   - Location: Remote US
-  - Updated: 2026-10-29
+  - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -203,7 +203,7 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Forward Deployed AI Accelerator, Marketing](https://stripe.com/jobs/search?gh_jid=7747640)
   - Location: Seattle, San Francisco, New York, Chicago, Atlanta, Remote in the US, Canada
-  - Updated: 2026-11-03
+  - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -215,7 +215,7 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Growth Marketing Manager, Greater China](https://stripe.com/jobs/search?gh_jid=8078168)
   - Location: Singapore
-  - Updated: 2026-11-13
+  - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -239,7 +239,7 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Lifecycle Marketing Manager, Capital](https://stripe.com/jobs/search?gh_jid=8082149)
   - Location: Remote, US
-  - Updated: 2026-10-29
+  - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -251,31 +251,37 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Marketing Operations Associate (Automation)](https://stripe.com/jobs/search?gh_jid=8108391)
   - Location: (Bengaluru, India)
-  - Updated: 2026-08-18
+  - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Marketing Operations Manager, AMER Events](https://stripe.com/jobs/search?gh_jid=8250483)
   - Location: US Remote; Canada
-  - Updated: 2026-10-29
+  - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Marketing Operations Program Manager](https://stripe.com/jobs/search?gh_jid=8283786)
   - Location: US Remote
-  - Updated: 2026-10-30
+  - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Marketing Strategy & Operations Business Partner](https://stripe.com/jobs/search?gh_jid=8329719)
   - Location: San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US 
-  - Updated: 2026-10-29
+  - Updated: 2026-11-19
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Marketing Strategy & Operations Lead, Global Demand, Campaigns, Field Marketing](https://stripe.com/jobs/search?gh_jid=8384782)
+  - Location: San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US
+  - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Marketing Technology Program Manager](https://stripe.com/jobs/search?gh_jid=8257939)
   - Location: US Remote
-  - Updated: 2026-10-29
+  - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -287,7 +293,7 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Partner Marketing Manager, Online & Regional Events](https://stripe.com/jobs/search?gh_jid=8175661)
   - Location: Seattle or San Francisco or Chicago or New York City or US-Remote
-  - Updated: 2026-11-16
+  - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -305,7 +311,7 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Product Marketing Manager](https://stripe.com/jobs/search?gh_jid=6348471)
   - Location: San Francisco, New York, Seattle, Chicago, Remote, Toronto
-  - Updated: 2026-11-03
+  - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -317,13 +323,13 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Product Marketing Manager, Payments](https://stripe.com/jobs/search?gh_jid=8142770)
   - Location: Remote in the US, Chicago, Toronto
-  - Updated: 2026-10-29
+  - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Product Marketing Manager, Radar](https://stripe.com/jobs/search?gh_jid=7961101)
   - Location: SF, NYC, Seattle, Remote
-  - Updated: 2026-10-29
+  - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -335,13 +341,13 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Product Marketing Manager, Subscriptions](https://stripe.com/jobs/search?gh_jid=8331124)
   - Location: New York, San Francisco, Seattle, Remote
-  - Updated: 2026-10-29
+  - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [SaaS Platform and AI Partner Marketing Lead](https://stripe.com/jobs/search?gh_jid=8248507)
   - Location: San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US
-  - Updated: 2026-10-29
+  - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -353,13 +359,13 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Social Media, Customer Support Associate](https://stripe.com/jobs/search?gh_jid=7962437)
   - Location: Bengaluru
-  - Updated: 2026-10-29
+  - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Social Media, Customer Support Associate (Includes Weekend Rotations)](https://stripe.com/jobs/search?gh_jid=7867328)
   - Location: Mexico
-  - Updated: 2026-11-17
+  - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -373,7 +379,7 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Marketing & Communications Specialist](https://swisscham.com.cn/jobs/marketing-communications-specialist-0)
   - Location: Shanghai, China
-  - Updated: 2026-11-19
+  - Updated: 2026-11-20
   - Source: swisscham_china
   - Source type: china_local_static
 
