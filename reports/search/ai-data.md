@@ -1,8 +1,8 @@
-# AI and Data Jobs - 2026-11-20
+# AI and Data Jobs - 2026-11-21
 
 ## Summary
 
-- Total matching jobs: 113
+- Total matching jobs: 115
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -451,6 +451,12 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 ### Stripe
 
+- [AI Transformation Lead, Marketing](https://stripe.com/jobs/search?gh_jid=8287910)
+  - Location: San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US
+  - Updated: 2026-11-20
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [AMER Data Analyst - Sales Strategy and Operations](https://stripe.com/jobs/search?gh_jid=8354566)
   - Location: Chicago, US Remote, SF, NYC, Seattle
   - Updated: 2026-11-19
@@ -513,13 +519,19 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 
 - [Engineering Manager, Stream Analytics](https://stripe.com/jobs/search?gh_jid=8317310)
   - Location: US-Remote
-  - Updated: 2026-11-19
+  - Updated: 2026-11-20
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [Financial Data Analyst Intern, Technical Operations](https://stripe.com/jobs/search?gh_jid=8186442)
   - Location: Singapore
   - Updated: 2026-11-19
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Forward Deployed AI Accelerator, Marketing](https://stripe.com/jobs/search?gh_jid=8406140)
+  - Location: Seattle, San Francisco, New York, Chicago, Atlanta, Remote in the US, Canada
+  - Updated: 2026-11-20
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -565,14 +577,14 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Master's Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8333074)
-  - Location: San Francisco, New York City, Seattle
+- [Master's Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8333122)
+  - Location: Toronto
   - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Master's Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8333122)
-  - Location: Toronto
+- [Master's Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8333074)
+  - Location: San Francisco, New York City, Seattle
   - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type

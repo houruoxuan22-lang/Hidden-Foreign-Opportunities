@@ -1,8 +1,8 @@
-# Marketing and Communications Jobs - 2026-11-20
+# Marketing and Communications Jobs - 2026-11-21
 
 ## Summary
 
-- Total matching jobs: 61
+- Total matching jobs: 63
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -153,6 +153,12 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [AI Transformation Lead, Marketing](https://stripe.com/jobs/search?gh_jid=8287910)
+  - Location: San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US
+  - Updated: 2026-11-20
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [Americas Field Marketing, Financial Services](https://stripe.com/jobs/search?gh_jid=8332880)
   - Location: US Remote
   - Updated: 2026-11-02
@@ -198,6 +204,12 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 - [Executive Engagement Marketing Manager, Americas](https://stripe.com/jobs/search?gh_jid=8175675)
   - Location: Remote, US
   - Updated: 2026-09-25
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Forward Deployed AI Accelerator, Marketing](https://stripe.com/jobs/search?gh_jid=8406140)
+  - Location: Seattle, San Francisco, New York, Chicago, Atlanta, Remote in the US, Canada
+  - Updated: 2026-11-20
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -379,7 +391,7 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Marketing & Communications Specialist](https://swisscham.com.cn/jobs/marketing-communications-specialist-0)
   - Location: Shanghai, China
-  - Updated: 2026-11-20
+  - Updated: 2026-11-21
   - Source: swisscham_china
   - Source type: china_local_static
 

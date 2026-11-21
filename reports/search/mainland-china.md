@@ -1,4 +1,4 @@
-# Mainland China Foreign Employer Jobs - 2026-11-20
+# Mainland China Foreign Employer Jobs - 2026-11-21
 
 ## Summary
 
@@ -2263,19 +2263,19 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
 
 - [(Assistant) Manager – Account Management](https://swisscham.com.cn/jobs/assistant-manager-account-management)
   - Location: Shanghai, China
-  - Updated: 2026-11-20
+  - Updated: 2026-11-21
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [(Senior) Associate – Account Management](https://swisscham.com.cn/jobs/senior-associate-account-management)
   - Location: Shanghai, China
-  - Updated: 2026-11-20
+  - Updated: 2026-11-21
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Business Development Executive/Manager 业务拓展主任/经理](https://swisscham.com.cn/jobs/business-development-executivemanager-yewutazhanzhurenjingli)
   - Location: Shanghai, China
-  - Updated: 2026-11-20
+  - Updated: 2026-11-21
   - Source: swisscham_china
   - Source type: china_local_static
 
@@ -2293,19 +2293,19 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
 
 - [KUK Coils | Process Engineer](https://swisscham.com.cn/jobs/kuk-coils-process-engineer)
   - Location: China
-  - Updated: 2026-11-20
+  - Updated: 2026-11-21
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [KUK Coils | Procurement Engineer](https://swisscham.com.cn/jobs/kuk-coils-procurement-engineer)
   - Location: China
-  - Updated: 2026-11-20
+  - Updated: 2026-11-21
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Marketing & Communications Specialist](https://swisscham.com.cn/jobs/marketing-communications-specialist-0)
   - Location: Shanghai, China
-  - Updated: 2026-11-20
+  - Updated: 2026-11-21
   - Source: swisscham_china
   - Source type: china_local_static
 
@@ -2323,12 +2323,12 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
 
 - [Sea Freight Product Manager](https://swisscham.com.cn/jobs/sea-freight-product-manager)
   - Location: China
-  - Updated: 2026-11-20
+  - Updated: 2026-11-21
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Shaohe Law Firm – Recruitment / 劭合律师事务所招聘启事](https://swisscham.com.cn/jobs/shaohe-law-firm-recruitment-shaohelushishiwusuozhaopinqishi)
   - Location: China
-  - Updated: 2026-11-20
+  - Updated: 2026-11-21
   - Source: swisscham_china
   - Source type: china_local_static
