@@ -1,4 +1,4 @@
-# Remote Jobs - 2026-11-21
+# Remote Jobs - 2026-11-22
 
 ## Summary
 
@@ -4525,14 +4525,14 @@ Jobs with remote or distributed work signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Technical Solutions Engineer](https://stripe.com/jobs/search?gh_jid=7377101)
-  - Location: Seattle, WA, Remote-US
+- [Technical Solutions Engineer](https://stripe.com/jobs/search?gh_jid=7917880)
+  - Location: Remote - US
   - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Technical Solutions Engineer](https://stripe.com/jobs/search?gh_jid=7917880)
-  - Location: Remote - US
+- [Technical Solutions Engineer](https://stripe.com/jobs/search?gh_jid=7377101)
+  - Location: Seattle, WA, Remote-US
   - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type

@@ -1,4 +1,4 @@
-# Internships and Early-career Jobs - 2026-11-21
+# Internships and Early-career Jobs - 2026-11-22
 
 ## Summary
 
@@ -1047,26 +1047,26 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285)
-  - Location: Toronto
-  - Updated: 2026-11-19
-  - Source: greenhouse
-  - Source type: Unknown source type
-
 - [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283)
   - Location: New York, Seattle, South San Francisco HQ
   - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328662)
-  - Location: San Francisco, New York City, Seattle
+- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285)
+  - Location: Toronto
   - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
 - [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328664)
   - Location: Toronto
+  - Updated: 2026-11-19
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328662)
+  - Location: San Francisco, New York City, Seattle
   - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
@@ -1101,14 +1101,14 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8031833)
-  - Location: Bengaluru
+- [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130883)
+  - Location: Singapore
   - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130883)
-  - Location: Singapore
+- [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8031833)
+  - Location: Bengaluru
   - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type

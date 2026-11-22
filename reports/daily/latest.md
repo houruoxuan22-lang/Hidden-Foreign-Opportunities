@@ -1,4 +1,4 @@
-# Daily Foreign Job Radar - 2026-11-21
+# Daily Foreign Job Radar - 2026-11-22
 
 ## Summary
 
@@ -43,49 +43,49 @@
 
 - [KUK Coils | Procurement Engineer](https://swisscham.com.cn/jobs/kuk-coils-procurement-engineer)
   - Location: China
-  - Updated: 2026-11-21
+  - Updated: 2026-11-22
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [KUK Coils | Process Engineer](https://swisscham.com.cn/jobs/kuk-coils-process-engineer)
   - Location: China
-  - Updated: 2026-11-21
+  - Updated: 2026-11-22
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [(Assistant) Manager – Account Management](https://swisscham.com.cn/jobs/assistant-manager-account-management)
   - Location: Shanghai, China
-  - Updated: 2026-11-21
+  - Updated: 2026-11-22
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [(Senior) Associate – Account Management](https://swisscham.com.cn/jobs/senior-associate-account-management)
   - Location: Shanghai, China
-  - Updated: 2026-11-21
+  - Updated: 2026-11-22
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [Sea Freight Product Manager](https://swisscham.com.cn/jobs/sea-freight-product-manager)
   - Location: China
-  - Updated: 2026-11-21
+  - Updated: 2026-11-22
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [Marketing & Communications Specialist](https://swisscham.com.cn/jobs/marketing-communications-specialist-0)
   - Location: Shanghai, China
-  - Updated: 2026-11-21
+  - Updated: 2026-11-22
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [Business Development Executive/Manager 业务拓展主任/经理](https://swisscham.com.cn/jobs/business-development-executivemanager-yewutazhanzhurenjingli)
   - Location: Shanghai, China
-  - Updated: 2026-11-21
+  - Updated: 2026-11-22
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [Shaohe Law Firm – Recruitment / 劭合律师事务所招聘启事](https://swisscham.com.cn/jobs/shaohe-law-firm-recruitment-shaohelushishiwusuozhaopinqishi)
   - Location: China
-  - Updated: 2026-11-21
+  - Updated: 2026-11-22
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
@@ -2468,14 +2468,14 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8031833)
-  - Location: Bengaluru
+- [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130883)
+  - Location: Singapore
   - Updated: 2026-11-19
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130883)
-  - Location: Singapore
+- [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8031833)
+  - Location: Bengaluru
   - Updated: 2026-11-19
   - Source: greenhouse
   - Status: Listed on official career page at report generation
@@ -3521,14 +3521,14 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Technical Solutions Engineer](https://stripe.com/jobs/search?gh_jid=7377101)
-  - Location: Seattle, WA, Remote-US
+- [Technical Solutions Engineer](https://stripe.com/jobs/search?gh_jid=7917880)
+  - Location: Remote - US
   - Updated: 2026-11-19
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Technical Solutions Engineer](https://stripe.com/jobs/search?gh_jid=7917880)
-  - Location: Remote - US
+- [Technical Solutions Engineer](https://stripe.com/jobs/search?gh_jid=7377101)
+  - Location: Seattle, WA, Remote-US
   - Updated: 2026-11-19
   - Source: greenhouse
   - Status: Listed on official career page at report generation
@@ -5369,26 +5369,26 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285)
-  - Location: Toronto
-  - Updated: 2026-11-19
-  - Source: greenhouse
-  - Status: Listed on official career page at report generation
-
 - [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194283)
   - Location: New York, Seattle, South San Francisco HQ
   - Updated: 2026-11-19
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328662)
-  - Location: San Francisco, New York City, Seattle
+- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285)
+  - Location: Toronto
   - Updated: 2026-11-19
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
 - [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328664)
   - Location: Toronto
+  - Updated: 2026-11-19
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
+- [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328662)
+  - Location: San Francisco, New York City, Seattle
   - Updated: 2026-11-19
   - Source: greenhouse
   - Status: Listed on official career page at report generation
