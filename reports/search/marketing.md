@@ -1,8 +1,8 @@
-# Marketing and Communications Jobs - 2026-11-22
+# Marketing and Communications Jobs - 2026-11-23
 
 ## Summary
 
-- Total matching jobs: 63
+- Total matching jobs: 65
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -391,7 +391,19 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Marketing & Communications Specialist](https://swisscham.com.cn/jobs/marketing-communications-specialist-0)
   - Location: Shanghai, China
-  - Updated: 2026-11-22
+  - Updated: 2026-11-23
+  - Source: swisscham_china
+  - Source type: china_local_static
+
+- [Marketing & Communications Specialist in Shanghai](https://swisscham.com.cn/jobs/marketing-communications-specialist-shanghai)
+  - Location: Shanghai, China
+  - Updated: 2026-11-23
+  - Source: swisscham_china
+  - Source type: china_local_static
+
+- [Marketing & Operation Officer in Changzhou](https://swisscham.com.cn/jobs/marketing-operation-officer-changzhou)
+  - Location: Shanghai, China
+  - Updated: 2026-11-23
   - Source: swisscham_china
   - Source type: china_local_static
 

@@ -1,8 +1,8 @@
-# Mainland China Foreign Employer Jobs - 2026-11-22
+# Mainland China Foreign Employer Jobs - 2026-11-23
 
 ## Summary
 
-- Total matching jobs: 386
+- Total matching jobs: 388
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -2263,19 +2263,19 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
 
 - [(Assistant) Manager – Account Management](https://swisscham.com.cn/jobs/assistant-manager-account-management)
   - Location: Shanghai, China
-  - Updated: 2026-11-22
+  - Updated: 2026-11-23
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [(Senior) Associate – Account Management](https://swisscham.com.cn/jobs/senior-associate-account-management)
   - Location: Shanghai, China
-  - Updated: 2026-11-22
+  - Updated: 2026-11-23
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Business Development Executive/Manager 业务拓展主任/经理](https://swisscham.com.cn/jobs/business-development-executivemanager-yewutazhanzhurenjingli)
   - Location: Shanghai, China
-  - Updated: 2026-11-22
+  - Updated: 2026-11-23
   - Source: swisscham_china
   - Source type: china_local_static
 
@@ -2293,19 +2293,31 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
 
 - [KUK Coils | Process Engineer](https://swisscham.com.cn/jobs/kuk-coils-process-engineer)
   - Location: China
-  - Updated: 2026-11-22
+  - Updated: 2026-11-23
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [KUK Coils | Procurement Engineer](https://swisscham.com.cn/jobs/kuk-coils-procurement-engineer)
   - Location: China
-  - Updated: 2026-11-22
+  - Updated: 2026-11-23
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Marketing & Communications Specialist](https://swisscham.com.cn/jobs/marketing-communications-specialist-0)
   - Location: Shanghai, China
-  - Updated: 2026-11-22
+  - Updated: 2026-11-23
+  - Source: swisscham_china
+  - Source type: china_local_static
+
+- [Marketing & Communications Specialist in Shanghai](https://swisscham.com.cn/jobs/marketing-communications-specialist-shanghai)
+  - Location: Shanghai, China
+  - Updated: 2026-11-23
+  - Source: swisscham_china
+  - Source type: china_local_static
+
+- [Marketing & Operation Officer in Changzhou](https://swisscham.com.cn/jobs/marketing-operation-officer-changzhou)
+  - Location: Shanghai, China
+  - Updated: 2026-11-23
   - Source: swisscham_china
   - Source type: china_local_static
 
@@ -2323,7 +2335,7 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
 
 - [Sea Freight Product Manager](https://swisscham.com.cn/jobs/sea-freight-product-manager)
   - Location: China
-  - Updated: 2026-11-22
+  - Updated: 2026-11-23
   - Source: swisscham_china
   - Source type: china_local_static
 
