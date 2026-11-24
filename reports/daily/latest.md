@@ -1,34 +1,34 @@
-# Daily Foreign Job Radar - 2026-11-23
+# Daily Foreign Job Radar - 2026-11-24
 
 ## Summary
 
-- Total relevant jobs: 972
+- Total relevant jobs: 979
 - Companies tracked in this report: 6
 - China / APAC relevant jobs: 79
-- Global remote jobs: 370
-- Other international jobs: 42
+- Global remote jobs: 375
+- Other international jobs: 43
 - US / Canada jobs: 49
-- Other relevant jobs: 44
+- Other relevant jobs: 45
 
 ## Skill Signals
 
-- Communication: 195
+- Communication: 200
 - Project Management: 124
-- Sales: 112
+- Sales: 113
 - SQL: 91
-- Python: 83
-- Operations: 61
-- Excel: 48
+- Python: 84
+- Operations: 62
+- Excel: 49
 - CRM: 47
-- Engineering: 45
+- Engineering: 46
 - Consulting: 44
-- Product: 39
+- Product: 40
 - Customer Success: 32
 - Tableau: 26
 - Mandarin: 23
 - AI: 23
 - Cross-border: 21
-- LLM: 19
+- LLM: 20
 - Marketing: 16
 - Data: 11
 - Finance: 3
@@ -43,55 +43,55 @@
 
 - [Marketing & Operation Officer in Changzhou](https://swisscham.com.cn/jobs/marketing-operation-officer-changzhou)
   - Location: Shanghai, China
-  - Updated: 2026-11-23
+  - Updated: 2026-11-24
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [Marketing & Communications Specialist in Shanghai](https://swisscham.com.cn/jobs/marketing-communications-specialist-shanghai)
   - Location: Shanghai, China
-  - Updated: 2026-11-23
+  - Updated: 2026-11-24
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [KUK Coils | Procurement Engineer](https://swisscham.com.cn/jobs/kuk-coils-procurement-engineer)
   - Location: China
-  - Updated: 2026-11-23
+  - Updated: 2026-11-24
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [KUK Coils | Process Engineer](https://swisscham.com.cn/jobs/kuk-coils-process-engineer)
   - Location: China
-  - Updated: 2026-11-23
+  - Updated: 2026-11-24
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [(Assistant) Manager – Account Management](https://swisscham.com.cn/jobs/assistant-manager-account-management)
   - Location: Shanghai, China
-  - Updated: 2026-11-23
+  - Updated: 2026-11-24
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [(Senior) Associate – Account Management](https://swisscham.com.cn/jobs/senior-associate-account-management)
   - Location: Shanghai, China
-  - Updated: 2026-11-23
+  - Updated: 2026-11-24
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [Sea Freight Product Manager](https://swisscham.com.cn/jobs/sea-freight-product-manager)
   - Location: China
-  - Updated: 2026-11-23
+  - Updated: 2026-11-24
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [Marketing & Communications Specialist](https://swisscham.com.cn/jobs/marketing-communications-specialist-0)
   - Location: Shanghai, China
-  - Updated: 2026-11-23
+  - Updated: 2026-11-24
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
 - [Business Development Executive/Manager 业务拓展主任/经理](https://swisscham.com.cn/jobs/business-development-executivemanager-yewutazhanzhurenjingli)
   - Location: Shanghai, China
-  - Updated: 2026-11-23
+  - Updated: 2026-11-24
   - Source: swisscham_china
   - Status: Listed on official career page at report generation
 
@@ -2384,9 +2384,9 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Account Executive, Large Users Platforms (China Cross Border)](https://stripe.com/jobs/search?gh_jid=8349777)
+- [Account Executive, Large Users Platforms (China Market)](https://stripe.com/jobs/search?gh_jid=8349777)
   - Location: Singapore
-  - Updated: 2026-11-19
+  - Updated: 2026-11-24
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
@@ -2450,12 +2450,6 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Marketing Operations Associate (Automation)](https://stripe.com/jobs/search?gh_jid=8108391)
-  - Location: (Bengaluru, India)
-  - Updated: 2026-11-19
-  - Source: greenhouse
-  - Status: Listed on official career page at report generation
-
 - [Operations Associate, Apprenticeship](https://stripe.com/jobs/search?gh_jid=8131339)
   - Location: Bengaluru
   - Updated: 2026-11-19
@@ -2480,20 +2474,26 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130883)
-  - Location: Singapore
-  - Updated: 2026-11-19
-  - Source: greenhouse
-  - Status: Listed on official career page at report generation
-
 - [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8031833)
   - Location: Bengaluru
   - Updated: 2026-11-19
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
+- [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130883)
+  - Location: Singapore
+  - Updated: 2026-11-19
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
 - [Solutions Architect (China Market)](https://stripe.com/jobs/search?gh_jid=8144223)
   - Location: Singapore
+  - Updated: 2026-11-19
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
+- [Marketing Operations Associate (Automation)](https://stripe.com/jobs/search?gh_jid=8108391)
+  - Location: (Bengaluru, India)
   - Updated: 2026-11-19
   - Source: greenhouse
   - Status: Listed on official career page at report generation
@@ -2662,13 +2662,13 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Customer Success Associate](https://careers.datadoghq.com/detail/6009779/?gh_jid=6009779)
+- [Customer Success Associate](https://careers.datadoghq.com/detail/5486716/?gh_jid=5486716)
   - Location: Tokyo, Japan
   - Updated: 2026-11-05
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Customer Success Associate](https://careers.datadoghq.com/detail/5486716/?gh_jid=5486716)
+- [Customer Success Associate](https://careers.datadoghq.com/detail/6009779/?gh_jid=6009779)
   - Location: Tokyo, Japan
   - Updated: 2026-11-05
   - Source: greenhouse
@@ -2861,21 +2861,9 @@
 
 #### Stripe
 
-- [Account Executive, DACH, Commercial (Existing Business)](https://stripe.com/jobs/search?gh_jid=8201690)
-  - Location: Dublin or Germany (Berlin or Remote)
-  - Updated: 2026-11-19
-  - Source: greenhouse
-  - Status: Listed on official career page at report generation
-
-- [Account Executive, Enterprise - Grower](https://stripe.com/jobs/search?gh_jid=7997555)
-  - Location: US-New York, US-Chicago, US-Remote
-  - Updated: 2026-11-19
-  - Source: greenhouse
-  - Status: Listed on official career page at report generation
-
-- [Account Executive, Enterprise (Grower) ](https://stripe.com/jobs/search?gh_jid=8107136)
-  - Location: US-San Francisco, US-Seattle, US-West Coast (Remote) 
-  - Updated: 2026-11-19
+- [Account Executive, Enterprise - Hunter](https://stripe.com/jobs/search?gh_jid=7930343)
+  - Location: US-SF, US-Seattle, US-West-Remote
+  - Updated: 2026-11-23
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
@@ -2965,12 +2953,6 @@
 
 - [Commercial Counsel, Bridge](https://stripe.com/jobs/search?gh_jid=8335758)
   - Location: US-Remote
-  - Updated: 2026-11-19
-  - Source: greenhouse
-  - Status: Listed on official career page at report generation
-
-- [Commercial Counsel, Sales](https://stripe.com/jobs/search?gh_jid=8286649)
-  - Location: Remote, US
   - Updated: 2026-11-19
   - Source: greenhouse
   - Status: Listed on official career page at report generation
@@ -3079,7 +3061,7 @@
 
 - [GTM Recruiter (Fixed Term)](https://stripe.com/jobs/search?gh_jid=8016504)
   - Location: Chicago, Atlanta, US-Remote, Toro
-  - Updated: 2026-11-19
+  - Updated: 2026-11-23
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
@@ -3107,6 +3089,12 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
+- [Indirect Tax Systems Specialist](https://stripe.com/jobs/search?gh_jid=7997359)
+  - Location: Seattle, San Francisco, Chicago, New York, Remote
+  - Updated: 2026-11-24
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
 - [Integration Engineer (Chicago) ](https://stripe.com/jobs/search?gh_jid=7819426)
   - Location: Chicago, US-Remote
   - Updated: 2026-11-19
@@ -3121,7 +3109,7 @@
 
 - [Integration Engineer, Metronome](https://stripe.com/jobs/search?gh_jid=8080454)
   - Location: Remote
-  - Updated: 2026-11-19
+  - Updated: 2026-11-23
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
@@ -3209,12 +3197,6 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Payments Fraud Investigator](https://stripe.com/jobs/search?gh_jid=8261213)
-  - Location: Remote - US
-  - Updated: 2026-11-19
-  - Source: greenhouse
-  - Status: Listed on official career page at report generation
-
 - [Policy Lead, AI Infrastructure](https://stripe.com/jobs/search?gh_jid=8334556)
   - Location: US-Remote
   - Updated: 2026-11-19
@@ -3235,13 +3217,25 @@
 
 - [Product/Design Recruiter](https://stripe.com/jobs/search?gh_jid=8303870)
   - Location: Chicago, Atlanta, US-Remote, Toro
-  - Updated: 2026-11-19
+  - Updated: 2026-11-23
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
+- [Product Lead, Support Experience](https://stripe.com/jobs/search?gh_jid=8332341)
+  - Location: US - East Coast, New York, US - Remote
+  - Updated: 2026-11-23
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
 - [Product Manager, Finance Operations](https://stripe.com/jobs/search?gh_jid=8393939)
   - Location: US-Remote
   - Updated: 2026-11-19
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
+- [Product Manager, Infrastructure](https://stripe.com/jobs/search?gh_jid=8165265)
+  - Location: US-Seattle, US-Remote
+  - Updated: 2026-11-23
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
@@ -3331,13 +3325,13 @@
 
 - [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921)
   - Location: Chicago, Atlanta, US-Remote, Toro
-  - Updated: 2026-11-19
+  - Updated: 2026-11-23
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
 - [Risk Operations Analyst - Restricted Business Operations ](https://stripe.com/jobs/search?gh_jid=8175824)
-  - Location: Remote 
-  - Updated: 2026-11-19
+  - Location: Chicago, Atlanta, US-Remote, Toro
+  - Updated: 2026-11-23
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
@@ -3361,13 +3355,19 @@
 
 - [Sales Manager, Billing](https://stripe.com/jobs/search?gh_jid=8326189)
   - Location: San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US
-  - Updated: 2026-11-19
+  - Updated: 2026-11-23
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
 - [Sales Manager, Enterprise Hunter - Public Sector ](https://stripe.com/jobs/search?gh_jid=8191718)
   - Location: US-Remote, US-Chicago, US-New York, US-San Francisco
   - Updated: 2026-11-19
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
+- [Scale Partner Marketing Lead](https://stripe.com/jobs/search?gh_jid=8175627)
+  - Location: San Francisco, Seattle, New York, Chicago, Atlanta, Remote in the US
+  - Updated: 2026-11-23
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
@@ -3416,6 +3416,12 @@
 - [Specialist Solutions Architecture, Link](https://stripe.com/jobs/search?gh_jid=8279202)
   - Location: US-Remote
   - Updated: 2026-11-19
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
+- [Staff Offensive Security Engineer, Proactive threat](https://stripe.com/jobs/search?gh_jid=8399913)
+  - Location: Remote - US
+  - Updated: 2026-11-23
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
@@ -3533,14 +3539,44 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
+- [Technical Solutions Engineer](https://stripe.com/jobs/search?gh_jid=7377101)
+  - Location: Seattle, WA, Remote-US
+  - Updated: 2026-11-19
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
 - [Technical Solutions Engineer](https://stripe.com/jobs/search?gh_jid=7917880)
   - Location: Remote - US
   - Updated: 2026-11-19
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Technical Solutions Engineer](https://stripe.com/jobs/search?gh_jid=7377101)
-  - Location: Seattle, WA, Remote-US
+- [Account Executive, DACH, Commercial (Existing Business)](https://stripe.com/jobs/search?gh_jid=8201690)
+  - Location: Dublin or Germany (Berlin or Remote)
+  - Updated: 2026-11-19
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
+- [Account Executive, Enterprise - Grower](https://stripe.com/jobs/search?gh_jid=7997555)
+  - Location: US-New York, US-Chicago, US-Remote
+  - Updated: 2026-11-19
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
+- [Account Executive, Enterprise (Grower) ](https://stripe.com/jobs/search?gh_jid=8107136)
+  - Location: US-San Francisco, US-Seattle, US-West Coast (Remote) 
+  - Updated: 2026-11-19
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
+- [Commercial Counsel, Sales](https://stripe.com/jobs/search?gh_jid=8286649)
+  - Location: Remote, US
+  - Updated: 2026-11-19
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
+- [Payments Fraud Investigator](https://stripe.com/jobs/search?gh_jid=8261213)
+  - Location: Remote - US
   - Updated: 2026-11-19
   - Source: greenhouse
   - Status: Listed on official career page at report generation
@@ -3829,12 +3865,6 @@
 
 - [Operations Insights, Tax](https://stripe.com/jobs/search?gh_jid=7997542)
   - Location: US Remote
-  - Updated: 2026-10-22
-  - Source: greenhouse
-  - Status: Listed on official career page at report generation
-
-- [Scale Partner Marketing Lead](https://stripe.com/jobs/search?gh_jid=8175627)
-  - Location: San Francisco, Seattle, New York, Chicago, Atlanta, Remote in the US
   - Updated: 2026-10-22
   - Source: greenhouse
   - Status: Listed on official career page at report generation
@@ -4459,14 +4489,14 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Enterprise Sales Executive](https://careers.datadoghq.com/detail/7466155/?gh_jid=7466155)
-  - Location: Florida, USA, Remote
+- [Enterprise Sales Executive](https://careers.datadoghq.com/detail/6925405/?gh_jid=6925405)
+  - Location: Texas, USA, Remote
   - Updated: 2026-11-05
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Enterprise Sales Executive](https://careers.datadoghq.com/detail/6925405/?gh_jid=6925405)
-  - Location: Texas, USA, Remote
+- [Enterprise Sales Executive](https://careers.datadoghq.com/detail/7466155/?gh_jid=7466155)
+  - Location: Florida, USA, Remote
   - Updated: 2026-11-05
   - Source: greenhouse
   - Status: Listed on official career page at report generation
@@ -4513,14 +4543,14 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Key Accounts Executive](https://careers.datadoghq.com/detail/7579684/?gh_jid=7579684)
-  - Location: Illinois, USA, Remote; Michigan, USA, Remote; Minnesota, USA, Remote; Ohio, USA, Remote; Texas, USA, Remote
+- [Key Accounts Executive](https://careers.datadoghq.com/detail/7409247/?gh_jid=7409247)
+  - Location: California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote
   - Updated: 2026-11-05
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Key Accounts Executive](https://careers.datadoghq.com/detail/7409247/?gh_jid=7409247)
-  - Location: California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote
+- [Key Accounts Executive](https://careers.datadoghq.com/detail/7579684/?gh_jid=7579684)
+  - Location: Illinois, USA, Remote; Michigan, USA, Remote; Minnesota, USA, Remote; Ohio, USA, Remote; Texas, USA, Remote
   - Updated: 2026-11-05
   - Source: greenhouse
   - Status: Listed on official career page at report generation
@@ -4581,12 +4611,6 @@
 
 - [Regional Manager, Sales Engineering - Key Accounts (East)](https://careers.datadoghq.com/detail/8284995/?gh_jid=8284995)
   - Location: New York, USA, Remote
-  - Updated: 2026-11-05
-  - Source: greenhouse
-  - Status: Listed on official career page at report generation
-
-- [Regional Manager, Sales Engineering - Key Accounts (West)](https://careers.datadoghq.com/detail/8231877/?gh_jid=8231877)
-  - Location: California, USA, Remote; Washington, USA, Remote
   - Updated: 2026-11-05
   - Source: greenhouse
   - Status: Listed on official career page at report generation
@@ -4657,14 +4681,14 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Senior Security Sales Engineer](https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877)
-  - Location: Illinois, USA, Remote; Texas, USA, Remote
+- [Senior Security Sales Engineer](https://careers.datadoghq.com/detail/8141243/?gh_jid=8141243)
+  - Location: California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote
   - Updated: 2026-11-05
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Senior Security Sales Engineer](https://careers.datadoghq.com/detail/8141243/?gh_jid=8141243)
-  - Location: California, USA, Remote; Colorado, USA, Remote; Washington, USA, Remote
+- [Senior Security Sales Engineer](https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877)
+  - Location: Illinois, USA, Remote; Texas, USA, Remote
   - Updated: 2026-11-05
   - Source: greenhouse
   - Status: Listed on official career page at report generation
@@ -4707,7 +4731,7 @@
 
 - [Strategic Account Executive](https://careers.datadoghq.com/detail/7057036/?gh_jid=7057036)
   - Location: District of Columbia, USA, Remote; Maryland, USA, Remote; Virginia, USA, Remote
-  - Updated: 2026-11-05
+  - Updated: 2026-11-23
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
@@ -4759,14 +4783,20 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
+- [Strategic Account Executive (SLED)](https://careers.datadoghq.com/detail/7453034/?gh_jid=7453034)
+  - Location: Texas, USA, Remote
+  - Updated: 2026-11-05
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
 - [Strategic Account Executive (SLED)](https://careers.datadoghq.com/detail/6430945/?gh_jid=6430945)
   - Location: California, USA, Remote
   - Updated: 2026-11-05
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Strategic Account Executive (SLED)](https://careers.datadoghq.com/detail/7453034/?gh_jid=7453034)
-  - Location: Texas, USA, Remote
+- [Regional Manager, Sales Engineering - Key Accounts (West)](https://careers.datadoghq.com/detail/8231877/?gh_jid=8231877)
+  - Location: California, USA, Remote; Washington, USA, Remote
   - Updated: 2026-11-05
   - Source: greenhouse
   - Status: Listed on official career page at report generation
@@ -5096,6 +5126,12 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
+- [Fraud Operations Associate, Bridge (CDMX)](https://stripe.com/jobs/search?gh_jid=8168550)
+  - Location: Mexico City
+  - Updated: 2026-11-23
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
 - [Internal Audit - Operational Audit Lead, EMEA](https://stripe.com/jobs/search?gh_jid=8205278)
   - Location: Dublin
   - Updated: 2026-11-19
@@ -5140,7 +5176,7 @@
 
 - [People Operations Associate (11-Month FTC)](https://stripe.com/jobs/search?gh_jid=8248102)
   - Location: Dublin, Ireland
-  - Updated: 2026-11-19
+  - Updated: 2026-11-23
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
@@ -5176,7 +5212,7 @@
 
 - [Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8097801)
   - Location: Dublin
-  - Updated: 2026-11-19
+  - Updated: 2026-11-23
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
@@ -5351,14 +5387,14 @@
 
 #### Stripe
 
-- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287)
-  - Location: Toronto
+- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291)
+  - Location: New York, Seattle, South San Francisco HQ
   - Updated: 2026-11-19
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291)
-  - Location: New York, Seattle, South San Francisco HQ
+- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287)
+  - Location: Toronto
   - Updated: 2026-11-19
   - Source: greenhouse
   - Status: Listed on official career page at report generation
@@ -5369,20 +5405,14 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Master's Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8333074)
-  - Location: San Francisco, New York City, Seattle
-  - Updated: 2026-11-19
-  - Source: greenhouse
-  - Status: Listed on official career page at report generation
-
 - [Master's Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8333122)
   - Location: Toronto
   - Updated: 2026-11-19
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285)
-  - Location: Toronto
+- [Master's Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8333074)
+  - Location: San Francisco, New York City, Seattle
   - Updated: 2026-11-19
   - Source: greenhouse
   - Status: Listed on official career page at report generation
@@ -5393,7 +5423,7 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328664)
+- [PhD Data Scientist, Intern](https://stripe.com/jobs/search?gh_jid=8194285)
   - Location: Toronto
   - Updated: 2026-11-19
   - Source: greenhouse
@@ -5401,6 +5431,12 @@
 
 - [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328662)
   - Location: San Francisco, New York City, Seattle
+  - Updated: 2026-11-19
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
+- [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328664)
+  - Location: Toronto
   - Updated: 2026-11-19
   - Source: greenhouse
   - Status: Listed on official career page at report generation
@@ -5419,7 +5455,7 @@
 
 - [Product Design Intern](https://stripe.com/jobs/search?gh_jid=8332681)
   - Location: San Francisco, Seattle, New York City
-  - Updated: 2026-11-19
+  - Updated: 2026-11-23
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
@@ -5479,12 +5515,6 @@
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
-- [Customer Success Associate (Portuguese Speaking)](https://careers.datadoghq.com/detail/8186363/?gh_jid=8186363)
-  - Location: Boston, Massachusetts, USA
-  - Updated: 2026-11-12
-  - Source: greenhouse
-  - Status: Listed on official career page at report generation
-
 - [GTM Strategy & Operations Senior Associate](https://careers.datadoghq.com/detail/8247250/?gh_jid=8247250)
   - Location: New York, New York, USA
   - Updated: 2026-11-05
@@ -5530,6 +5560,12 @@
 - [Senior Enablement Program Associate - Technical Solutions Enablement](https://careers.datadoghq.com/detail/8279776/?gh_jid=8279776)
   - Location: New York, New York, USA
   - Updated: 2026-11-05
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
+- [Customer Success Associate (Portuguese Speaking)](https://careers.datadoghq.com/detail/8186363/?gh_jid=8186363)
+  - Location: Boston, Massachusetts, USA
+  - Updated: 2026-11-12
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 
@@ -5751,6 +5787,12 @@
 - [Internal Audit Manager](https://boards.greenhouse.io/cloudflare/jobs/8359926?gh_jid=8359926)
   - Location: Hybrid
   - Updated: 2026-11-10
+  - Source: greenhouse
+  - Status: Listed on official career page at report generation
+
+- [People Operations Intern (2026/2027 Batch Only)](https://boards.greenhouse.io/cloudflare/jobs/8392302?gh_jid=8392302)
+  - Location: In-Office
+  - Updated: 2026-11-23
   - Source: greenhouse
   - Status: Listed on official career page at report generation
 

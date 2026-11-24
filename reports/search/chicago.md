@@ -1,8 +1,8 @@
-# Chicago Jobs - 2026-11-23
+# Chicago Jobs - 2026-11-24
 
 ## Summary
 
-- Total matching jobs: 95
+- Total matching jobs: 97
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -167,7 +167,7 @@ Jobs with Chicago-related location signals.
 
 - [GTM Recruiter (Fixed Term)](https://stripe.com/jobs/search?gh_jid=8016504)
   - Location: Chicago, Atlanta, US-Remote, Toro
-  - Updated: 2026-11-19
+  - Updated: 2026-11-23
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -228,6 +228,12 @@ Jobs with Chicago-related location signals.
 - [Head of Self-Serve Paid Media](https://stripe.com/jobs/search?gh_jid=8068521)
   - Location: San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US, Toronto, Remote in Canada
   - Updated: 2026-09-10
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Indirect Tax Systems Specialist](https://stripe.com/jobs/search?gh_jid=7997359)
+  - Location: Seattle, San Francisco, Chicago, New York, Remote
+  - Updated: 2026-11-24
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -395,7 +401,7 @@ Jobs with Chicago-related location signals.
 
 - [Product/Design Recruiter](https://stripe.com/jobs/search?gh_jid=8303870)
   - Location: Chicago, Atlanta, US-Remote, Toro
-  - Updated: 2026-11-19
+  - Updated: 2026-11-23
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -431,7 +437,13 @@ Jobs with Chicago-related location signals.
 
 - [Risk Operations Analyst](https://stripe.com/jobs/search?gh_jid=7230921)
   - Location: Chicago, Atlanta, US-Remote, Toro
-  - Updated: 2026-11-19
+  - Updated: 2026-11-23
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Risk Operations Analyst - Restricted Business Operations ](https://stripe.com/jobs/search?gh_jid=8175824)
+  - Location: Chicago, Atlanta, US-Remote, Toro
+  - Updated: 2026-11-23
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -479,7 +491,7 @@ Jobs with Chicago-related location signals.
 
 - [Sales Manager, Billing](https://stripe.com/jobs/search?gh_jid=8326189)
   - Location: San Francisco, New York, Seattle, Chicago, Atlanta, Remote in the US
-  - Updated: 2026-11-19
+  - Updated: 2026-11-23
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -503,7 +515,7 @@ Jobs with Chicago-related location signals.
 
 - [Scale Partner Marketing Lead](https://stripe.com/jobs/search?gh_jid=8175627)
   - Location: San Francisco, Seattle, New York, Chicago, Atlanta, Remote in the US
-  - Updated: 2026-10-22
+  - Updated: 2026-11-23
   - Source: greenhouse
   - Source type: Unknown source type
 

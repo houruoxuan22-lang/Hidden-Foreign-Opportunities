@@ -1,4 +1,4 @@
-# Marketing and Communications Jobs - 2026-11-23
+# Marketing and Communications Jobs - 2026-11-24
 
 ## Summary
 
@@ -365,7 +365,7 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Scale Partner Marketing Lead](https://stripe.com/jobs/search?gh_jid=8175627)
   - Location: San Francisco, Seattle, New York, Chicago, Atlanta, Remote in the US
-  - Updated: 2026-10-22
+  - Updated: 2026-11-23
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -391,19 +391,19 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Marketing & Communications Specialist](https://swisscham.com.cn/jobs/marketing-communications-specialist-0)
   - Location: Shanghai, China
-  - Updated: 2026-11-23
+  - Updated: 2026-11-24
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Marketing & Communications Specialist in Shanghai](https://swisscham.com.cn/jobs/marketing-communications-specialist-shanghai)
   - Location: Shanghai, China
-  - Updated: 2026-11-23
+  - Updated: 2026-11-24
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Marketing & Operation Officer in Changzhou](https://swisscham.com.cn/jobs/marketing-operation-officer-changzhou)
   - Location: Shanghai, China
-  - Updated: 2026-11-23
+  - Updated: 2026-11-24
   - Source: swisscham_china
   - Source type: china_local_static
 
