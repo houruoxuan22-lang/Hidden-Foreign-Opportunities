@@ -1,8 +1,8 @@
-# Internships and Early-career Jobs - 2026-11-24
+# Internships and Early-career Jobs - 2026-11-25
 
 ## Summary
 
-- Total matching jobs: 191
+- Total matching jobs: 193
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -298,6 +298,12 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 - [Customer Success Renewal Intern EMEA](https://jobs.sap.com/en/jobs/744000157523330/customer-success-renewal-intern-emea/)
   - Location: China
   - Updated: 2026-10-26
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Data Science Developer Intern SAP Business AI Singapore](https://jobs.sap.com/en/jobs/744000163629119/data-science-developer-intern-sap-business-ai-singapore/)
+  - Location: China
+  - Updated: 2026-11-25
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -745,6 +751,12 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: sap_careers
   - Source type: china_company_career
 
+- [SAP iXp Intern - Premium Engagements CS&D Northeast and Canada](https://jobs.sap.com/en/jobs/744000163554839/sap-ixp-intern-premium-engagements-csd-northeast-and-canada/)
+  - Location: China
+  - Updated: 2026-11-25
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [SAP iXp Intern - Premium Engagements CS&D Northeast and Canada](https://jobs.sap.com/en/jobs/744000155625449/sap-ixp-intern-premium-engagements-csd-northeast-and-canada/)
   - Location: China
   - Updated: 2026-10-15
@@ -981,14 +993,14 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291)
-  - Location: New York, Seattle, South San Francisco HQ
+- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287)
+  - Location: Toronto
   - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287)
-  - Location: Toronto
+- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291)
+  - Location: New York, Seattle, South San Francisco HQ
   - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
@@ -1077,15 +1089,15 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Product Design Intern](https://stripe.com/jobs/search?gh_jid=8332683)
-  - Location: Toronto
-  - Updated: 2026-11-19
-  - Source: greenhouse
-  - Source type: Unknown source type
-
 - [Product Design Intern](https://stripe.com/jobs/search?gh_jid=8332681)
   - Location: San Francisco, Seattle, New York City
   - Updated: 2026-11-23
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Product Design Intern](https://stripe.com/jobs/search?gh_jid=8332683)
+  - Location: Toronto
+  - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -1101,8 +1113,8 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8031833)
-  - Location: Bengaluru
+- [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130883)
+  - Location: Singapore
   - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
@@ -1113,8 +1125,8 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130883)
-  - Location: Singapore
+- [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8031833)
+  - Location: Bengaluru
   - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
@@ -1131,14 +1143,14 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer, Intern (Summer)](https://stripe.com/jobs/search?gh_jid=8128745)
-  - Location: San Francisco, Seattle, New York City
+- [Software Engineer, Intern (Summer)](https://stripe.com/jobs/search?gh_jid=8130805)
+  - Location: Toronto
   - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer, Intern (Summer)](https://stripe.com/jobs/search?gh_jid=8130805)
-  - Location: Toronto
+- [Software Engineer, Intern (Summer)](https://stripe.com/jobs/search?gh_jid=8128745)
+  - Location: San Francisco, Seattle, New York City
   - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type

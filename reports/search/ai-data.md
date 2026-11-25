@@ -1,8 +1,8 @@
-# AI and Data Jobs - 2026-11-24
+# AI and Data Jobs - 2026-11-25
 
 ## Summary
 
-- Total matching jobs: 115
+- Total matching jobs: 119
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -83,6 +83,12 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: sap_careers
   - Source type: china_company_career
 
+- [AI Application Engineer Associate](https://jobs.sap.com/en/jobs/744000163610600/ai-application-engineer-associate/)
+  - Location: China
+  - Updated: 2026-11-25
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [AI Engineer (Associate AI Developer) (f/m/d)](https://jobs.sap.com/en/jobs/744000156367698/ai-engineer-associate-ai-developer-fmd/)
   - Location: China
   - Updated: 2026-10-20
@@ -131,6 +137,12 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: sap_careers
   - Source type: china_company_career
 
+- [AI Factory Associate Consultant](https://jobs.sap.com/en/jobs/744000163612109/ai-factory-associate-consultant/)
+  - Location: China
+  - Updated: 2026-11-25
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [Application AI Engineer - Globalization E-Invoicing Unit](https://jobs.sap.com/en/jobs/744000154722554/application-ai-engineer-globalization-e-invoicing-unit/)
   - Location: China
   - Updated: 2026-10-12
@@ -164,6 +176,12 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 - [Data Engineering- Intelligent Operations (f/m/d)](https://jobs.sap.com/en/jobs/744000159208609/data-engineering-intelligent-operations-fmd/)
   - Location: China
   - Updated: 2026-11-03
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Data Science Developer Intern SAP Business AI Singapore](https://jobs.sap.com/en/jobs/744000163629119/data-science-developer-intern-sap-business-ai-singapore/)
+  - Location: China
+  - Updated: 2026-11-25
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -443,6 +461,12 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: sap_careers
   - Source type: china_company_career
 
+- [Services Sr Account Executive - AI Expertis](https://jobs.sap.com/en/jobs/744000163559988/services-sr-account-executive-ai-expertis/)
+  - Location: China
+  - Updated: 2026-11-25
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [Strategic Projects & AI Transformation Associate (Temporary contract)](https://jobs.sap.com/en/jobs/744000159452334/strategic-projects-ai-transformation-associate-temporary-contract/)
   - Location: China
   - Updated: 2026-11-04
@@ -487,14 +511,14 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291)
-  - Location: New York, Seattle, South San Francisco HQ
+- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287)
+  - Location: Toronto
   - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287)
-  - Location: Toronto
+- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291)
+  - Location: New York, Seattle, South San Francisco HQ
   - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type

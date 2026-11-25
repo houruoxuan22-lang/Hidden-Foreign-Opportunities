@@ -1,8 +1,8 @@
-# Chicago Jobs - 2026-11-24
+# Chicago Jobs - 2026-11-25
 
 ## Summary
 
-- Total matching jobs: 97
+- Total matching jobs: 98
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -150,12 +150,6 @@ Jobs with Chicago-related location signals.
 - [Forward Deployed AI Accelerator, Sales Development](https://stripe.com/jobs/search?gh_jid=8055930)
   - Location: Seattle, San Francisco, New York, Chicago, Atlanta, Remote in the US, Canada
   - Updated: 2026-11-03
-  - Source: greenhouse
-  - Source type: Unknown source type
-
-- [Fraud Architect](https://stripe.com/jobs/search?gh_jid=8203220)
-  - Location: SF-HQ, Chicago, New York, US-Remote
-  - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -375,6 +369,12 @@ Jobs with Chicago-related location signals.
   - Source: greenhouse
   - Source type: Unknown source type
 
+- [Product Manager, Stripe Business Network](https://stripe.com/jobs/search?gh_jid=8414351)
+  - Location: NYC, SSF, SEA, Chicago, Toronto, US-Remote
+  - Updated: 2026-11-24
+  - Source: greenhouse
+  - Source type: Unknown source type
+
 - [Product Marketing Manager](https://stripe.com/jobs/search?gh_jid=6348471)
   - Location: San Francisco, New York, Seattle, Chicago, Remote, Toronto
   - Updated: 2026-11-19
@@ -509,7 +509,7 @@ Jobs with Chicago-related location signals.
 
 - [Sales Manager, Product- Fraud & Risk](https://stripe.com/jobs/search?gh_jid=8181036)
   - Location: San Francisco, NYC, Seattle, Chicago, Remote
-  - Updated: 2026-10-21
+  - Updated: 2026-11-24
   - Source: greenhouse
   - Source type: Unknown source type
 
@@ -588,6 +588,12 @@ Jobs with Chicago-related location signals.
 - [Technical Partner Manager - Networks](https://stripe.com/jobs/search?gh_jid=7543679)
   - Location: US-Remote; US-Chicago; US-Atlanta; Canada-Toronto
   - Updated: 2026-08-18
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Transaction Fraud Architect](https://stripe.com/jobs/search?gh_jid=8203220)
+  - Location: SF-HQ, Chicago, New York, US-Remote
+  - Updated: 2026-11-24
   - Source: greenhouse
   - Source type: Unknown source type
 
