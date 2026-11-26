@@ -1,8 +1,8 @@
-# Mainland China Foreign Employer Jobs - 2026-11-25
+# Mainland China Foreign Employer Jobs - 2026-11-26
 
 ## Summary
 
-- Total matching jobs: 394
+- Total matching jobs: 405
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -225,6 +225,12 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
   - Source: sap_careers
   - Source type: china_company_career
 
+- [Business Associate Consultant - SAP Finance & Controlling](https://jobs.sap.com/en/jobs/744000163822419/business-associate-consultant-sap-finance-controlling/)
+  - Location: China
+  - Updated: 2026-11-26
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [Business Process Consultant - SF](https://jobs.sap.com/en/jobs/744000156224829/business-process-consultant-sf/)
   - Location: Taiwan
   - Updated: 2026-10-19
@@ -366,6 +372,60 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
 - [Client Delivery Manager - US Northeast Region](https://jobs.sap.com/en/jobs/744000155581150/client-delivery-manager-us-northeast-region/)
   - Location: China
   - Updated: 2026-10-15
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Cloud Architect & Advisor Specialist (f/m/d)](https://jobs.sap.com/en/jobs/744000163826238/cloud-architect-advisor-specialist-fmd/)
+  - Location: China
+  - Updated: 2026-11-26
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Cloud Architect & Advisor Specialist (f/m/d)](https://jobs.sap.com/en/jobs/744000163825029/cloud-architect-advisor-specialist-fmd/)
+  - Location: China
+  - Updated: 2026-11-26
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Cloud Architect & Advisor Specialist (f/m/d)](https://jobs.sap.com/en/jobs/744000163826038/cloud-architect-advisor-specialist-fmd/)
+  - Location: China
+  - Updated: 2026-11-26
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Cloud Architect & Advisor Specialist (f/m/d)](https://jobs.sap.com/en/jobs/744000163825928/cloud-architect-advisor-specialist-fmd/)
+  - Location: China
+  - Updated: 2026-11-26
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Cloud Architect & Advisor Specialist (f/m/d)](https://jobs.sap.com/en/jobs/744000163825848/cloud-architect-advisor-specialist-fmd/)
+  - Location: China
+  - Updated: 2026-11-26
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Cloud Architect & Advisor Specialist (f/m/d)](https://jobs.sap.com/en/jobs/744000163825698/cloud-architect-advisor-specialist-fmd/)
+  - Location: China
+  - Updated: 2026-11-26
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Cloud Architect & Advisor Specialist (f/m/d)](https://jobs.sap.com/en/jobs/744000163825583/cloud-architect-advisor-specialist-fmd/)
+  - Location: China
+  - Updated: 2026-11-26
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Cloud Architect & Advisor Specialist (f/m/d)](https://jobs.sap.com/en/jobs/744000163825528/cloud-architect-advisor-specialist-fmd/)
+  - Location: China
+  - Updated: 2026-11-26
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Cloud Architect & Advisor Specialist (f/m/d)](https://jobs.sap.com/en/jobs/744000163825184/cloud-architect-advisor-specialist-fmd/)
+  - Location: China
+  - Updated: 2026-11-26
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -1821,6 +1881,12 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
   - Source: sap_careers
   - Source type: china_company_career
 
+- [Senior Account Executive](https://jobs.sap.com/en/jobs/744000163821570/senior-account-executive/)
+  - Location: China
+  - Updated: 2026-11-26
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [Senior Account Executive](https://jobs.sap.com/en/jobs/744000160473767/senior-account-executive/)
   - Location: China
   - Updated: 2026-11-09
@@ -2299,19 +2365,19 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
 
 - [(Assistant) Manager – Account Management](https://swisscham.com.cn/jobs/assistant-manager-account-management)
   - Location: Shanghai, China
-  - Updated: 2026-11-25
+  - Updated: 2026-11-26
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [(Senior) Associate – Account Management](https://swisscham.com.cn/jobs/senior-associate-account-management)
   - Location: Shanghai, China
-  - Updated: 2026-11-25
+  - Updated: 2026-11-26
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Business Development Executive/Manager 业务拓展主任/经理](https://swisscham.com.cn/jobs/business-development-executivemanager-yewutazhanzhurenjingli)
   - Location: Shanghai, China
-  - Updated: 2026-11-25
+  - Updated: 2026-11-26
   - Source: swisscham_china
   - Source type: china_local_static
 
@@ -2329,31 +2395,31 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
 
 - [KUK Coils | Process Engineer](https://swisscham.com.cn/jobs/kuk-coils-process-engineer)
   - Location: China
-  - Updated: 2026-11-25
+  - Updated: 2026-11-26
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [KUK Coils | Procurement Engineer](https://swisscham.com.cn/jobs/kuk-coils-procurement-engineer)
   - Location: China
-  - Updated: 2026-11-25
+  - Updated: 2026-11-26
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Marketing & Communications Specialist](https://swisscham.com.cn/jobs/marketing-communications-specialist-0)
   - Location: Shanghai, China
-  - Updated: 2026-11-25
+  - Updated: 2026-11-26
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Marketing & Communications Specialist in Shanghai](https://swisscham.com.cn/jobs/marketing-communications-specialist-shanghai)
   - Location: Shanghai, China
-  - Updated: 2026-11-25
+  - Updated: 2026-11-26
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Marketing & Operation Officer in Changzhou](https://swisscham.com.cn/jobs/marketing-operation-officer-changzhou)
   - Location: Shanghai, China
-  - Updated: 2026-11-25
+  - Updated: 2026-11-26
   - Source: swisscham_china
   - Source type: china_local_static
 
@@ -2371,7 +2437,7 @@ Jobs likely to be useful for China-based job seekers, including foreign employer
 
 - [Sea Freight Product Manager](https://swisscham.com.cn/jobs/sea-freight-product-manager)
   - Location: China
-  - Updated: 2026-11-25
+  - Updated: 2026-11-26
   - Source: swisscham_china
   - Source type: china_local_static
 
