@@ -1,8 +1,8 @@
-# Internships and Early-career Jobs - 2026-11-26
+# Internships and Early-career Jobs - 2026-11-27
 
 ## Summary
 
-- Total matching jobs: 193
+- Total matching jobs: 195
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -231,14 +231,14 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineering Intern](https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186)
-  - Location: Paris, France
+- [Software Engineering Intern](https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161)
+  - Location: Madrid, Spain
   - Updated: 2026-11-05
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineering Intern](https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161)
-  - Location: Madrid, Spain
+- [Software Engineering Intern](https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186)
+  - Location: Paris, France
   - Updated: 2026-11-05
   - Source: greenhouse
   - Source type: Unknown source type
@@ -979,6 +979,18 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: sap_careers
   - Source type: china_company_career
 
+- [Working Student (f/m/d) – Experience Center Munich: Operations & Content Specialist](https://jobs.sap.com/en/jobs/744000163977098/working-student-fmd-experience-center-munich-operations-content-specialist/)
+  - Location: China
+  - Updated: 2026-11-27
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Working Student (f/m/d) – Experience Center Munich: Operations & Content Specialist](https://jobs.sap.com/en/jobs/744000163976829/working-student-fmd-experience-center-munich-operations-content-specialist/)
+  - Location: China
+  - Updated: 2026-11-27
+  - Source: sap_careers
+  - Source type: china_company_career
+
 ### Stripe
 
 - [Backend Engineer, Payments](https://stripe.com/jobs/search?gh_jid=6692166)
@@ -993,14 +1005,14 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287)
-  - Location: Toronto
+- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291)
+  - Location: New York, Seattle, South San Francisco HQ
   - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291)
-  - Location: New York, Seattle, South San Francisco HQ
+- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287)
+  - Location: Toronto
   - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
@@ -1089,15 +1101,15 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Product Design Intern](https://stripe.com/jobs/search?gh_jid=8332683)
-  - Location: Toronto
-  - Updated: 2026-11-19
-  - Source: greenhouse
-  - Source type: Unknown source type
-
 - [Product Design Intern](https://stripe.com/jobs/search?gh_jid=8332681)
   - Location: San Francisco, Seattle, New York City
   - Updated: 2026-11-23
+  - Source: greenhouse
+  - Source type: Unknown source type
+
+- [Product Design Intern](https://stripe.com/jobs/search?gh_jid=8332683)
+  - Location: Toronto
+  - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 

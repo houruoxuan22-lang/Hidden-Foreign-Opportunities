@@ -1,8 +1,8 @@
-# Marketing and Communications Jobs - 2026-11-26
+# Marketing and Communications Jobs - 2026-11-27
 
 ## Summary
 
-- Total matching jobs: 65
+- Total matching jobs: 67
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -142,6 +142,18 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 - [Senior Platform Engineer (f/m/d) for LoB & Industry Content Integration — Data Science (Physical AI)](https://jobs.sap.com/en/jobs/744000155998748/senior-platform-engineer-fmd-for-lob-industry-content-integration-data-science-physical-ai/)
   - Location: China
   - Updated: 2026-10-27
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Working Student (f/m/d) – Experience Center Munich: Operations & Content Specialist](https://jobs.sap.com/en/jobs/744000163977098/working-student-fmd-experience-center-munich-operations-content-specialist/)
+  - Location: China
+  - Updated: 2026-11-27
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Working Student (f/m/d) – Experience Center Munich: Operations & Content Specialist](https://jobs.sap.com/en/jobs/744000163976829/working-student-fmd-experience-center-munich-operations-content-specialist/)
+  - Location: China
+  - Updated: 2026-11-27
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -391,19 +403,19 @@ Jobs related to marketing, communications, brand, content, events, PR, and growt
 
 - [Marketing & Communications Specialist](https://swisscham.com.cn/jobs/marketing-communications-specialist-0)
   - Location: Shanghai, China
-  - Updated: 2026-11-26
+  - Updated: 2026-11-27
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Marketing & Communications Specialist in Shanghai](https://swisscham.com.cn/jobs/marketing-communications-specialist-shanghai)
   - Location: Shanghai, China
-  - Updated: 2026-11-26
+  - Updated: 2026-11-27
   - Source: swisscham_china
   - Source type: china_local_static
 
 - [Marketing & Operation Officer in Changzhou](https://swisscham.com.cn/jobs/marketing-operation-officer-changzhou)
   - Location: Shanghai, China
-  - Updated: 2026-11-26
+  - Updated: 2026-11-27
   - Source: swisscham_china
   - Source type: china_local_static
 

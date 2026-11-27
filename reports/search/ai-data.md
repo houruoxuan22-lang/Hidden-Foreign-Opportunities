@@ -1,8 +1,8 @@
-# AI and Data Jobs - 2026-11-26
+# AI and Data Jobs - 2026-11-27
 
 ## Summary
 
-- Total matching jobs: 119
+- Total matching jobs: 126
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -257,6 +257,12 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: sap_careers
   - Source type: china_company_career
 
+- [Platform Engineer (f/m/d) AI Foundation](https://jobs.sap.com/en/jobs/744000163978608/platform-engineer-fmd-ai-foundation/)
+  - Location: China
+  - Updated: 2026-11-27
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [Principal AI Application Engineer - FDE Intelligent Operations](https://jobs.sap.com/en/jobs/744000158576188/principal-ai-application-engineer-fde-intelligent-operations/)
   - Location: China
   - Updated: 2026-10-30
@@ -461,9 +467,45 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: sap_careers
   - Source type: china_company_career
 
+- [Services Sales Senior/Expert - AI Expertise](https://jobs.sap.com/en/jobs/744000163976589/services-sales-seniorexpert-ai-expertise/)
+  - Location: China
+  - Updated: 2026-11-27
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Services Senior Account Executive - (AI Expertise)](https://jobs.sap.com/en/jobs/744000163974860/services-senior-account-executive-ai-expertise/)
+  - Location: China
+  - Updated: 2026-11-27
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Services Senior Account Executive - AI Expertise](https://jobs.sap.com/en/jobs/744000163976734/services-senior-account-executive-ai-expertise/)
+  - Location: China
+  - Updated: 2026-11-27
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Services Senior Account Executive - AI Expertise](https://jobs.sap.com/en/jobs/744000163976699/services-senior-account-executive-ai-expertise/)
+  - Location: China
+  - Updated: 2026-11-27
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Services Senior Account Executive - AI Expertise](https://jobs.sap.com/en/jobs/744000163975062/services-senior-account-executive-ai-expertise/)
+  - Location: China
+  - Updated: 2026-11-27
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [Services Sr Account Executive - AI Expertis](https://jobs.sap.com/en/jobs/744000163559988/services-sr-account-executive-ai-expertis/)
   - Location: China
   - Updated: 2026-11-25
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Solution Advisor Manager (AI Expertise)](https://jobs.sap.com/en/jobs/744000163976389/solution-advisor-manager-ai-expertise/)
+  - Location: China
+  - Updated: 2026-11-27
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -511,14 +553,14 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287)
-  - Location: Toronto
+- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291)
+  - Location: New York, Seattle, South San Francisco HQ
   - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291)
-  - Location: New York, Seattle, South San Francisco HQ
+- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287)
+  - Location: Toronto
   - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
