@@ -1,4 +1,4 @@
-# Beijing Jobs - 2026-11-27
+# Beijing Jobs - 2026-11-28
 
 ## Summary
 

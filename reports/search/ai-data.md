@@ -1,8 +1,8 @@
-# AI and Data Jobs - 2026-11-27
+# AI and Data Jobs - 2026-11-28
 
 ## Summary
 
-- Total matching jobs: 126
+- Total matching jobs: 129
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -149,6 +149,12 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: sap_careers
   - Source type: china_company_career
 
+- [Application Engineering Specialist - AI Focus](https://jobs.sap.com/en/jobs/744000164037431/application-engineering-specialist-ai-focus/)
+  - Location: China
+  - Updated: 2026-11-28
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [Business Process Consultant Data Science (w/m/d) – AI & SAP Retail Intelligence](https://jobs.sap.com/en/jobs/744000157540729/business-process-consultant-data-science-wmd-ai-sap-retail-intelligence/)
   - Location: China
   - Updated: 2026-10-26
@@ -182,6 +188,12 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
 - [Data Science Developer Intern SAP Business AI Singapore](https://jobs.sap.com/en/jobs/744000163629119/data-science-developer-intern-sap-business-ai-singapore/)
   - Location: China
   - Updated: 2026-11-25
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [Diploma Student / Intern-SAP & AI Development Intern – Oil & Gas Field Logistics](https://jobs.sap.com/en/jobs/744000164034508/diploma-student-intern-sap-ai-development-intern-oil-gas-field-logistics/)
+  - Location: China
+  - Updated: 2026-11-28
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -509,6 +521,12 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: sap_careers
   - Source type: china_company_career
 
+- [Sr Site Reliability Eng. Specialist - Business AI Platform team](https://jobs.sap.com/en/jobs/744000164088569/sr-site-reliability-eng-specialist-business-ai-platform-team/)
+  - Location: China
+  - Updated: 2026-11-28
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [Strategic Projects & AI Transformation Associate (Temporary contract)](https://jobs.sap.com/en/jobs/744000159452334/strategic-projects-ai-transformation-associate-temporary-contract/)
   - Location: China
   - Updated: 2026-11-04
@@ -553,14 +571,14 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291)
-  - Location: New York, Seattle, South San Francisco HQ
+- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287)
+  - Location: Toronto
   - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287)
-  - Location: Toronto
+- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291)
+  - Location: New York, Seattle, South San Francisco HQ
   - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
@@ -667,14 +685,14 @@ Jobs related to AI, data, analytics, machine learning, business intelligence, an
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328664)
-  - Location: Toronto
+- [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328662)
+  - Location: San Francisco, New York City, Seattle
   - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328662)
-  - Location: San Francisco, New York City, Seattle
+- [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328664)
+  - Location: Toronto
   - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type

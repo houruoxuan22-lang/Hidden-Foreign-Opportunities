@@ -1,8 +1,8 @@
-# Internships and Early-career Jobs - 2026-11-27
+# Internships and Early-career Jobs - 2026-11-28
 
 ## Summary
 
-- Total matching jobs: 195
+- Total matching jobs: 199
 - Source file: `data/jobs.json`
 
 ## Notes
@@ -355,6 +355,12 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: sap_careers
   - Source type: china_company_career
 
+- [Diploma Student / Intern-SAP & AI Development Intern – Oil & Gas Field Logistics](https://jobs.sap.com/en/jobs/744000164034508/diploma-student-intern-sap-ai-development-intern-oil-gas-field-logistics/)
+  - Location: China
+  - Updated: 2026-11-28
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [Field Marketing Intern](https://jobs.sap.com/en/jobs/744000160723269/field-marketing-intern/)
   - Location: China
   - Updated: 2026-11-10
@@ -625,6 +631,12 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: sap_careers
   - Source type: china_company_career
 
+- [SAP iXp Intern (f/m/d) - HCM (Human Capital Management) Solution Advisory](https://jobs.sap.com/en/jobs/744000164043023/sap-ixp-intern-fmd-hcm-human-capital-management-solution-advisory/)
+  - Location: China
+  - Updated: 2026-11-28
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [SAP iXp Intern (f/m/d) - Software Developer](https://jobs.sap.com/en/jobs/744000154686264/sap-ixp-intern-fmd-software-developer/)
   - Location: China
   - Updated: 2026-10-11
@@ -730,6 +742,12 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
 - [SAP iXp Intern - IT End User Support Specialist, Deal Support CoE L2C EU/AS (1 year student position)](https://jobs.sap.com/en/jobs/744000152876399/sap-ixp-intern-it-end-user-support-specialist-deal-support-coe-l2c-euas-1-year-student-position/)
   - Location: China
   - Updated: 2026-10-02
+  - Source: sap_careers
+  - Source type: china_company_career
+
+- [SAP iXp Intern - IT End-User Support Associate (limited full-time)](https://jobs.sap.com/en/jobs/744000164058979/sap-ixp-intern-it-end-user-support-associate-limited-full-time/)
+  - Location: China
+  - Updated: 2026-11-28
   - Source: sap_careers
   - Source type: china_company_career
 
@@ -961,6 +979,12 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: sap_careers
   - Source type: china_company_career
 
+- [Senior Project Manager](https://jobs.sap.com/en/jobs/744000164067179/senior-project-manager/)
+  - Location: China
+  - Updated: 2026-11-28
+  - Source: sap_careers
+  - Source type: china_company_career
+
 - [Services Solution Advisor Internship](https://jobs.sap.com/en/jobs/744000153763249/services-solution-advisor-internship/)
   - Location: China
   - Updated: 2026-10-07
@@ -1005,14 +1029,14 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291)
-  - Location: New York, Seattle, South San Francisco HQ
+- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287)
+  - Location: Toronto
   - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194287)
-  - Location: Toronto
+- [Data Analyst, Intern](https://stripe.com/jobs/search?gh_jid=8194291)
+  - Location: New York, Seattle, South San Francisco HQ
   - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
@@ -1089,14 +1113,14 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328664)
-  - Location: Toronto
+- [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328662)
+  - Location: San Francisco, New York City, Seattle
   - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328662)
-  - Location: San Francisco, New York City, Seattle
+- [PhD Machine Learning Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8328664)
+  - Location: Toronto
   - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
@@ -1125,14 +1149,14 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130883)
-  - Location: Singapore
+- [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130867)
+  - Location: London
   - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130867)
-  - Location: London
+- [Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130883)
+  - Location: Singapore
   - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
@@ -1155,14 +1179,14 @@ Jobs that look suitable for interns, new graduates, junior candidates, or early-
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer, Intern (Summer)](https://stripe.com/jobs/search?gh_jid=8128745)
-  - Location: San Francisco, Seattle, New York City
+- [Software Engineer, Intern (Summer)](https://stripe.com/jobs/search?gh_jid=8130805)
+  - Location: Toronto
   - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
 
-- [Software Engineer, Intern (Summer)](https://stripe.com/jobs/search?gh_jid=8130805)
-  - Location: Toronto
+- [Software Engineer, Intern (Summer)](https://stripe.com/jobs/search?gh_jid=8128745)
+  - Location: San Francisco, Seattle, New York City
   - Updated: 2026-11-19
   - Source: greenhouse
   - Source type: Unknown source type
